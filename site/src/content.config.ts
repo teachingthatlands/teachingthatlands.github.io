@@ -1,5 +1,6 @@
-import { defineCollection, z } from 'astro:content';
+import { defineCollection } from 'astro:content';
 import { glob } from 'astro/loaders';
+import { z } from 'astro/zod';
 
 // ── Theory collection ──────────────────────────────────────────────────────
 // Each .md file in src/content/theories/ is one theory page.
