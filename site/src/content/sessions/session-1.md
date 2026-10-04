@@ -36,7 +36,7 @@ askNoComputer: "No computer needed: sketching your redesign on paper counts."
 
 Hands-on from the first minute. We'll look at what makes teaching memorable, test our own memories, then use the science of how memory works to redesign a real slide, twice.
 
-Over the three sessions you'll rebuild one teaching session, step by step, on a one-page design canvas. You'll get a printed copy; here it is if you want your own. Today: the slides.
+Over the three sessions you'll rebuild one teaching session, step by step, on a one-page design canvas. Here it is if you'd like your own copy. Today: the slides.
 
 <a class="file-download" href="/handouts/design-canvas.pdf">The design canvas (A4)</a>
 
