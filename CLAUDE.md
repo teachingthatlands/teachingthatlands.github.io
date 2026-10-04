@@ -8,6 +8,12 @@
   - Changed a session's running order, or the one-day timetable? Check `site/src/content/facilitator/one-day.md` still matches the blueprints it borrows from (it cites their section times).
   - CI runs `just one-day-decks --check` before deploying, and fails if any one-day deck is stale.
 
+## Dependencies
+
+- **`site/.npmrc` is supply-chain safety: keep it.** Dependencies' install scripts never run, and npm 11+ won't install a release under 7 days old. Override only for an urgent fix (`--min-release-age=0`), and say why.
+- CI installs with `npm ci` (exactly the lockfile) and runs the deck tool `--locked`. Changed the tool's dependencies? Run `uv lock --script tools/one_day_decks.py`.
+- Two settings in `astro.config.mjs` keep the output as written: `compressHTML: true` (Astro 7's default runs words together around inline tags) and the `unified()` Markdown processor (the download-card plugin needs it). Don't drop either without comparing the built pages.
+
 ## House rules
 
 - **The person's hand-edited decks and printables are the masters.** Fold changes into them; never regenerate over them.
