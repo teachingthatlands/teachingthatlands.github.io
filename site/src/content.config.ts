@@ -66,6 +66,8 @@ const sessions = defineCollection({
     askSteps: z.array(z.string()).default([]),
     /** The no-computer route; when set, the card also offers computer help */
     askNoComputer: z.string().optional(),
+    /** Further links under the ask: an optional lead-in line, then a button */
+    askLinks: z.array(z.object({ intro: z.string().optional(), text: z.string(), href: z.string() })).default([]),
   }),
 });
 
