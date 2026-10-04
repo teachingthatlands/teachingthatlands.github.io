@@ -55,6 +55,12 @@ Paper takes the computer out of the way (no extraneous load from the tool), and 
 
 <a class="file-download" href="/handouts/slide-kit-falls.pdf">The slide kit (PDF, A4)</a>
 
+### The design canvas
+
+Shown in the first ten minutes (the six boxes) and completed in Session 3. Print one each if you'd like people to keep it in front of them from today; it's also on their Session 1 page.
+
+<a class="file-download" href="/handouts/design-canvas.pdf">The design canvas (A4)</a>
+
 ### Assume nothing
 
 Many won't teach yet, won't have a slide, or won't have seen the message. And don't assume digital skills: in the second cohort, several people didn't know Shift-click or "save a copy", and one didn't know how to open the internet. It wasn't who the facilitator expected. Plan for it:
