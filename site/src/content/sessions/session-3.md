@@ -29,6 +29,10 @@ keyIdeas:
 canvas: "Outcomes, evidence and follow-through. The whole canvas, complete."
 ask: "Your completed canvas, | plus one named person | who will hold you to it, | and the support you've agreed | you need from them."
 askLabel: "Your commitment"
+askLinks:
+  - intro: "Recording this for revalidation, appraisal or a portfolio?"
+    text: "Portfolio mapping"
+    href: "/facilitator/portfolio-mapping"
 askSteps:
   - "Photograph your completed canvas, or keep the paper copy somewhere you'll see it."
   - "Tell your named person what you're changing, and the support you need from them."
@@ -40,5 +44,3 @@ We'll try out what you made, then sort what counts as evidence that teaching wor
 Then you'll rewrite your session's learning outcomes, check everything lines up, and plan what happens next.
 
 To show what you made, you'll open your link on a computer. Not sure how? The [computer task sheet](/facilitator/computer-tasks) walks you through it.
-
-Recording the programme for revalidation, appraisal or an advanced practice portfolio? See [Portfolio mapping](/facilitator/portfolio-mapping).

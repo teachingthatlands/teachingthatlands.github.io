@@ -119,6 +119,16 @@ const askLabel = session.data.askLabel ?? `Your task before Session ${n + 1}`;
               {session.data.askSteps.map(step => <li>{step}</li>)}
             </ol>
           )}
+          {session.data.askLinks.length > 0 && (
+            <div class="task-links">
+              {session.data.askLinks.map(l => (
+                <p class="task-link">
+                  {l.intro && <span>{l.intro}</span>}
+                  <a class="btn btn--quiet" href={l.href}>{l.text} →</a>
+                </p>
+              ))}
+            </div>
+          )}
           {session.data.askNoComputer && (
             <div class="task-help">
               <p>{session.data.askNoComputer}</p>
@@ -135,6 +145,7 @@ const askLabel = session.data.askLabel ?? `Your task before Session ${n + 1}`;
           <summary class="card-summary">
             <span class="concepts-card-overline">After the session</span>
             <span class="card-summary-title">The key ideas</span>
+            <span class="card-summary-sub">Looking for the slides? Everything in them is here, with more in the Theory Library.</span>
             <span class="btn btn--quiet card-toggle" aria-hidden="true"><span class="when-closed">Show</span><span class="when-open">Hide</span></span>
           </summary>
           <div class="concept-chips">

@@ -479,6 +479,25 @@ details[open] > .card-summary { margin-bottom: 1.25rem; }
 }
 
 .task-help .btn { margin-top: 0.4rem; }
+.task-links { margin: 0 0 1.25rem; }
+.task-links:last-child { margin-bottom: 0; }
+.task-link {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 0.75rem;
+  font-size: 0.92rem;
+  color: var(--subtext1);
+  line-height: 1.6;
+  margin: 0 0 0.5rem;
+}
+.card-summary-sub {
+  grid-column: 1;
+  font-size: 0.88rem;
+  color: var(--subtext0);
+  line-height: 1.5;
+  margin-top: 0.2rem;
+}
 
 .recap-section { margin-top: 1.25rem; }
 
@@ -1665,7 +1684,10 @@ html.file-preview-fullscreen .file-preview-panel { transform: none !important; }
   border: 1.5px solid color-mix(in srgb, var(--btn-accent) 45%, transparent);
   border-radius: 6px;
   text-decoration: none;
-  white-space: nowrap;
+  text-align: center;
+  /* One line where it fits; never wider than its container, so long
+     labels wrap on a phone instead of pushing the page sideways */
+  max-width: 100%;
   cursor: pointer;
   flex-shrink: 0;
   transition: background 0.15s, border-color 0.15s, gap 0.15s, filter 0.15s;
