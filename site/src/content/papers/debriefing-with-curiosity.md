@@ -8,7 +8,7 @@ doi: "10.1016/j.anclin.2007.03.007"
 openAccess: false
 theorists: ["rudolph-debriefing-good-judgement"]
 sessions: []
-imagePrompt: "Two speech bubbles facing each other across a narrow gap. The left bubble contains a solid geometric shape — a specific observation (advocacy). The right bubble contains a question mark — genuine inquiry. Between them, a small curved bridge connects the two across the gap. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "Two speech bubbles facing each other across a narrow gap. The left bubble contains a solid geometric shape — a specific observation (advocacy). The right bubble contains a question mark — genuine inquiry. Between them, a small curved bridge connects the two across the gap. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** after someone practises, say clearly what you saw and what you made of it, then ask a real question about their thinking. The authors argue that being honest and being curious work best together.
@@ -49,7 +49,7 @@ Before your next talk with someone after they've practised, whether that's a sim
 
 If you can't think of a question you don't know the answer to, you've slipped into giving a verdict. Come back to curiosity. Then finish with one thing they'll do differently next time: that's the change the whole conversation is for.
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 Not taught directly in the three core sessions. Debriefing with good judgement is parked for a future simulation-based session. Useful background for anyone who debriefs simulation or gives feedback after observing practice.
 

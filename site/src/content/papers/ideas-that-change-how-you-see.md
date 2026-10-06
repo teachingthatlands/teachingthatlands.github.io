@@ -9,7 +9,7 @@ openAccess: true
 openAccessUrl: "https://pressbooks.atlanticoer-relatlantique.ca/app/uploads/sites/803/2021/07/ETLreport4.pdf"
 theorists: ["meyer-land-threshold-concepts"]
 sessions: []
-imagePrompt: "A narrow archway or portal shape in the centre. On the left side of the arch, a flat landscape at ground level. On the right side, the landscape is elevated, showing a higher vantage point — a different view. The portal represents a conceptual threshold. Below the arch, a small tangled line cluster represents troublesome knowledge. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "A narrow archway or portal shape in the centre. On the left side of the arch, a flat landscape at ground level. On the right side, the landscape is elevated, showing a higher vantage point — a different view. The portal represents a conceptual threshold. Below the arch, a small tangled line cluster represents troublesome knowledge. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** some ideas change how people see a whole subject once they get them, and learners often get stuck for a while on the way. That can be a normal stage, not a failure.
@@ -47,7 +47,7 @@ Jan Meyer and Ray Land were working on a large UK project on university teaching
 3. **Try a different angle.** If someone is stuck, use a picture, a real case or an everyday comparison rather than repeating your first explanation. Say out loud that this bit is hard for everyone.
 4. **Watch for "it's quite simple really".** If you hear yourself say it, ask whether you remember what it felt like not to know.
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 Not taught directly in the three core sessions. Useful background when you plan teaching on an idea your learners find stubbornly hard. See also [threshold concepts](/theories/ideas-that-change-how-you-see).
 

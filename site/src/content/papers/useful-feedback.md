@@ -8,7 +8,7 @@ doi: "10.3102/003465430298487"
 openAccess: false
 theorists: ["hattie-timperley-feedback"]
 sessions: []
-imagePrompt: "A horizontal spectrum bar running from left (dim, low effect) to right (bright, high effect). Three marker lines are placed along the spectrum at different positions, labelled from bottom to top: Self, Task, Process. The rightmost marker (Process) is the brightest and most vivid. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "A horizontal spectrum bar running from left (dim, low effect) to right (bright, high effect). Three marker lines are placed along the spectrum at different positions, labelled from bottom to top: Self, Task, Process. The rightmost marker (Process) is the brightest and most vivid. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** feedback can help learning a lot, but only some kinds do. The most useful feedback says where someone is going, how they're doing, and what to try next.
@@ -53,7 +53,7 @@ Before you give feedback, check it answers three questions:
 
 It needn't take long. To a student nurse after a cannulation: "You held the vein steady really well. Next time, try talking the patient through each step as you go." That's about 15 seconds, and it covers all three: an implied goal, what they did, and what to try next. The point is what they'll do differently on the next patient.
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 Not taught directly in the three core sessions. Feedback and feedforward are parked for a future simulation-based session. The peer responses in Sessions 1 and 2 (one thing that works, one question) are a light version of the same idea.
 

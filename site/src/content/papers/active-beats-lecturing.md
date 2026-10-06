@@ -9,7 +9,7 @@ openAccess: true
 openAccessUrl: "https://doi.org/10.1073/pnas.1319030111"
 theorists: []
 sessions: [2]
-imagePrompt: "Two tall rectangular bars side by side. The left bar is shorter and labelled with a small upward tick mark representing lower failure. The right bar is significantly taller and marked with a downward X representing higher failure. The height difference is the entire story. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "Two tall rectangular bars side by side. The left bar is shorter and labelled with a small upward tick mark representing lower failure. The right bar is significantly taller and marked with a downward X representing higher failure. The height difference is the entire story. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** when university science courses got students doing things in class, rather than just listening to lectures, students did better in exams and fewer of them failed.
@@ -51,7 +51,7 @@ The authors put it more strongly. In their words: *"If the experiments analyzed 
 3. **Use it in short slots too.** A handover, a huddle or a few minutes on the ward can include a question for the learner to answer, rather than a talk for them to listen to.
 4. **Expect to justify the lecture, not the activity.** If you choose to only talk, have a reason.
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 Session 2 is called *Active Beats Passive*. After participants sort scenario cards by learning strategy, Freeman et al. is cited as evidence that active learning beats lecturing. The caveat is stated plainly: these were science students at university, not healthcare staff. Participants then make ten minutes of their own session active.
 

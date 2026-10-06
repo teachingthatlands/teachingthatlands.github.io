@@ -9,7 +9,7 @@ openAccess: true
 openAccessUrl: "https://dash.harvard.edu/entities/publication/13a7b031-0fdd-45ec-a7e0-2b80e2bc679f"
 theorists: ["edmondson-psychological-safety"]
 sessions: []
-imagePrompt: "Two side-by-side team clusters of five geometric nodes. In the left cluster, nodes are connected by open lines and each has a small upward arc above it representing speech or openness. In the right cluster, nodes face outward with no connecting lines and each has a closed shape above it. A performance arrow beneath the left cluster points upward; beneath the right cluster it points downward. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "Two side-by-side team clusters of five geometric nodes. In the left cluster, nodes are connected by open lines and each has a small upward arc above it representing speech or openness. In the right cluster, nodes face outward with no connecting lines and each has a closed shape above it. A performance arrow beneath the left cluster points upward; beneath the right cluster it points downward. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** teams where people feel safe to ask, admit mistakes and disagree tend to learn more together, and that learning goes with doing the job better.
@@ -46,7 +46,7 @@ So this is a business study, not a healthcare one. But it grew out of her earlie
 2. **Your next reaction counts.** How you respond to a wrong answer, or to "I'm not sure", shows the group what happens to people who speak up. A sigh is a response. So is silence.
 3. **If you want a change in practice, make it safe to practise.** People need to try the new thing, get it wrong in front of you, and ask. Plan the session so that's normal.
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 It isn't taught directly in the three core sessions. Psychological safety, debriefing and feedback are kept for a separate session based on simulation. You'll see small signs of it in Session 1, though. Saying whether you can read the colour-vision plates is voluntary. And feedback on each other's slides follows a kind, two-part frame: one thing that works, one question. It's useful background for any teaching where people need to admit what they don't know.
 

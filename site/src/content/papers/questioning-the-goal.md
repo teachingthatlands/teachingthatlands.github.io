@@ -7,7 +7,7 @@ year: 1978
 openAccess: false
 theorists: ["argyris-schon-double-loop", "advocacy-inquiry"]
 sessions: []
-imagePrompt: "Two side-by-side loop diagrams. Left diagram labelled 'Single-loop learning': an arrow from 'Action' to 'Outcome', and a feedback arrow back only to 'Action' — the governing variables (a box to the left) are not touched. Right diagram labelled 'Double-loop learning': the same structure, but the feedback arrow reaches all the way back to 'Governing variables', questioning the assumption. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "Two side-by-side loop diagrams. Left diagram labelled 'Single-loop learning': an arrow from 'Action' to 'Outcome', and a feedback arrow back only to 'Action' — the governing variables (a box to the left) are not touched. Right diagram labelled 'Double-loop learning': the same structure, but the feedback arrow reaches all the way back to 'Governing variables', questioning the assumption. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** when something goes wrong, most people and teams fix *how* they do it; real improvement often needs you to question *what you were trying to do* and the assumptions behind it.
@@ -47,7 +47,7 @@ A teaching example. A practice educator's fire-safety refresher gets poor feedba
 2. **Check your own gap.** You may say your teaching is interactive. Count how many minutes you talk and how many minutes learners *do* something.
 3. **Say what you saw, then ask.** When you give feedback, name what you noticed and what you made of it. Then ask what the person was thinking, and listen.
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 Not taught directly in the three core sessions. It's useful background for the programme's starting point. Question 2 of the design canvas, also in [Before You Plan a Teaching Day](/facilitator/before-you-plan), asks whether the gap is something teaching can fix at all. That is a double-loop question. The observer's debrief in the [train-the-trainer guide](/facilitator/train-the-trainer) uses the "say what you saw, then ask" move. [Debriefing with good judgement](/theories/debriefing-with-curiosity), which builds on this work, is parked for a future simulation-based session.
 

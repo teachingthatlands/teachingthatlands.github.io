@@ -52,7 +52,7 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
 
 **Recommended credit line:**
 
-> *Teaching That Sticks* is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Original material available at [repository URL].
+> *Teaching That Lands* is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Original material available at [repository URL].
 
 ---
 

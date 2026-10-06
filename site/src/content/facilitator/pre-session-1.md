@@ -15,7 +15,7 @@ fox: waving.png
 
 ### The message
 
-**Subject:** Teaching That Sticks, [date]: bring one bad slide
+**Subject:** Teaching That Lands, [date]: bring one bad slide
 
 Hi [name / all],
 
@@ -34,4 +34,4 @@ No slide, or no time? Come anyway. We'll have some in the room.
 
 ### Reminder (48 hours before)
 
-> Teaching That Sticks, [day] [time], [room]. If you can, bring a slide you think is bad. If not, just come.
+> Teaching That Lands, [day] [time], [room]. If you can, bring a slide you think is bad. If not, just come.

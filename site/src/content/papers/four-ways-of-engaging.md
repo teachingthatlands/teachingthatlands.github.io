@@ -9,7 +9,7 @@ openAccess: true
 openAccessUrl: "https://files.eric.ed.gov/fulltext/EJ1044018.pdf"
 theorists: ["chi-icap", "active-learning"]
 sessions: [2]
-imagePrompt: "Four steps rising from left to right, labelled PASSIVE (an ear), ACTIVE (a hand ticking a sheet), CONSTRUCTIVE (a speech bubble with a lightbulb), INTERACTIVE (two overlapping speech bubbles). A gentle upward arrow runs along the steps. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "Four steps rising from left to right, labelled PASSIVE (an ear), ACTIVE (a hand ticking a sheet), CONSTRUCTIVE (a speech bubble with a lightbulb), INTERACTIVE (two overlapping speech bubbles). A gentle upward arrow runs along the steps. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** people tend to learn more as they move from just listening, to doing something with the material, to making sense of it in their own words, to working it through with someone else.
@@ -46,7 +46,7 @@ They sorted those activities by what the learner's head is doing, not by what th
 2. **One step up is often enough.** "Tell me in your own words" turns listening into making sense, and takes thirty seconds.
 3. **Make pair work a real exchange.** Give people something to decide or disagree about together, or it slides back to two people working side by side.
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 In Session 2, participants make ten minutes of their own session active. The question asked while they work, "What will learners be doing in minute 3?", is a question about where on this scale the activity sits. The 60-second pitches that follow ask each person to explain their design, then hear one thing that works and one question from the room. Session 2's recap calls this idea "Active is a scale, not a switch".
 

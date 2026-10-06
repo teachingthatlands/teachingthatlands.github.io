@@ -127,4 +127,4 @@ Some theories in the library are not taught in these three sessions. If they com
 - **Psychological safety, debriefing with good judgement, and feedback** are parked for a separate simulation-based session. If feedback comes up, Hattie and Timperley's three questions are a good start: *Where am I going? How am I going? Where to next?* ([Feedback and Feedforward](/theories/feedback-people-can-use))
 - **Maslow** is no longer part of the programme. If someone raises it, note that the hierarchy has weak research support: a major review found little evidence for a fixed order of needs (Wahba & Bridwell 1976). ([Hierarchy of Needs](/theories/basic-needs))
 
-*Part of Teaching That Sticks, CC BY 4.0. If you disagree with any of this, good. Bring it to the session.*
+*Part of Teaching That Lands, CC BY 4.0. If you disagree with any of this, good. Bring it to the session.*

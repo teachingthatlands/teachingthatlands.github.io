@@ -15,7 +15,7 @@ fox: sitting.png
 
 ### The message
 
-**Subject:** Teaching That Sticks, [date]: bring what you made
+**Subject:** Teaching That Lands, [date]: bring what you made
 
 Hi [name / all],
 
@@ -36,4 +36,4 @@ Didn't get round to it? Come anyway. Bring the session you've been working on.
 
 ### Reminder (48 hours before)
 
-> Teaching That Sticks, [day] [time], [room]. Bring the Menti or Kahoot you made. Didn't manage it? Come anyway.
+> Teaching That Lands, [day] [time], [room]. Bring the Menti or Kahoot you made. Didn't manage it? Come anyway.

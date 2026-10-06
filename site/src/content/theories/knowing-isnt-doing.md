@@ -32,7 +32,7 @@ The pyramid also works as a planning tool. The verb in your outcome decides whic
 
 "Be aware of" doesn't make it onto the pyramid at all. You can't watch someone being aware, so you can't check it.
 
-Where it happens matters too. "Explain the new inhaler to a patient on the ward" is *does*, even though the verb is "explain". This is the heart of Teaching That Sticks: start with what people need to do differently. Pick a verb you could watch, and you've already decided how you'll know your teaching worked.
+Where it happens matters too. "Explain the new inhaler to a patient on the ward" is *does*, even though the verb is "explain". This is the heart of Teaching That Lands: start with what people need to do differently. Pick a verb you could watch, and you've already decided how you'll know your teaching worked.
 
 ## Try this
 

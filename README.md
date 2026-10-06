@@ -1,4 +1,4 @@
-# Teaching That Sticks
+# Teaching That Lands
 
 A free, openly licensed CPD programme for anyone in health and care who teaches, or would like to. No teaching experience needed.
 
@@ -78,7 +78,7 @@ Add `data-preview="false"` to a link to leave Preview off. File types, icons and
 
 [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). You may share and adapt the material for any purpose, including commercially, if you give credit and say what you changed.
 
-**Attribution:** *Teaching That Sticks*, [github.com/teaching-that-sticks/teaching-that-sticks.github.io](https://github.com/teaching-that-sticks/teaching-that-sticks.github.io)
+**Attribution:** *Teaching That Lands* (formerly *Teaching That Sticks*), [teachingthatlands.uk](https://teachingthatlands.uk), source at [github.com/teachingthatlands/teachingthatlands.github.io](https://github.com/teachingthatlands/teachingthatlands.github.io)
 
 ## Contributing
 

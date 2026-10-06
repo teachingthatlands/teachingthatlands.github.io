@@ -8,7 +8,7 @@ openAccess: true
 openAccessUrl: "https://psychclassics.yorku.ca/Ebbinghaus/index.htm"
 theorists: ["ebbinghaus-forgetting-curve"]
 sessions: [2]
-imagePrompt: "A smooth curve from upper-left to lower-right that falls steeply at first and then flattens out, on a minimal grid. The vertical axis is labelled with an upward arrow (retention). The horizontal axis is labelled with a rightward arrow (time). Three small upward tick marks on the curve at equal intervals represent spaced practice retrieval events — each tick resets the curve upward slightly before it descends again. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "A smooth curve from upper-left to lower-right that falls steeply at first and then flattens out, on a minimal grid. The vertical axis is labelled with an upward arrow (retention). The horizontal axis is labelled with a rightward arrow (time). Three small upward tick marks on the curve at equal intervals represent spaced practice retrieval events — each tick resets the curve upward slightly before it descends again. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** we forget fast at first and then more slowly, and spreading practice out takes less effort than doing it all at once.
@@ -49,7 +49,7 @@ He did this over and over, with thousands of syllables, for years, and published
 2. **Follow up soon, then again later.** A quick question in the days after a session helps more of it last. Add later ones for things people need all year.
 3. **Ask before you re-teach.** If people can't answer a question about something from last month, they probably haven't lost it all. A prompt or a single case may bring it back faster than teaching it again from scratch.
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 Session 2 includes a nod to Ebbinghaus: a sheet of made-up words with silly hospital meanings, which half the room re-reads and half test themselves on. After a surprise retest, the facilitator draws the forgetting curve: most of it goes fast, then levels off, and each time you pull it back out, it fades more slowly. That's one reason the sessions are a week apart, and why the made-up words are tested again at the start of Session 3.
 

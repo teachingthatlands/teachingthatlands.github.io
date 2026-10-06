@@ -7,7 +7,7 @@ year: 1959
 openAccess: false
 theorists: ["kirkpatrick-evaluation"]
 sessions: [3]
-imagePrompt: "A four-level staircase ascending left to right. Level 1 (bottom) labelled 'Reaction — Did they like it?'. Level 2 labelled 'Learning — Did they learn it?'. Level 3 labelled 'Behaviour — Did they use it?'. Level 4 (top) labelled 'Results — Did it make a difference?'. A small downward-pointing arrow from Level 4 shows the gap between where most evaluation stops (Level 1) and where impact lives (Level 4). Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "A four-level staircase ascending left to right. Level 1 (bottom) labelled 'Reaction — Did they like it?'. Level 2 labelled 'Learning — Did they learn it?'. Level 3 labelled 'Behaviour — Did they use it?'. Level 4 (top) labelled 'Results — Did it make a difference?'. A small downward-pointing arrow from Level 4 shows the gap between where most evaluation stops (Level 1) and where impact lives (Level 4). Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** you can judge training at four levels: did people like it, did they learn it, do they now do it at work, and did it make a difference? A lot of checking stops at the first.
@@ -48,7 +48,7 @@ A feedback form asking "Was the session well organised?" and "Was the trainer kn
 
 Start with what people need to do differently, and you already know what to look for at Level 3.
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 Kirkpatrick is the backbone of Session 3. Each table sorts 18 evidence cards from a made-up four-day programme, from *delivered* to *impact*. A staircase slide then puts a Kirkpatrick level on each step, and shows how little of the usual evidence says anything changed. Participants then rewrite their own outcomes, choose evidence that matches each one, and plan their follow-through: what their learners will revisit at 30, 60 and 90 days, who will hold them to it, and what support they need from that person. The programme judges itself the same way, with three short questions at 30 and 90 days: see the [Evaluation Toolkit](/facilitator/evaluation-toolkit).
 

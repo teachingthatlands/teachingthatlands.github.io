@@ -29,7 +29,7 @@ Say you're showing a new healthcare assistant how to take a blood glucose readin
 
 The middle column starts from what they need to *do*: take the reading safely, on their own, soon. Then it gives them just enough help to do it now, and plans to take that help away.
 
-That plan for taking help away is often called **scaffolding**. Teaching That Sticks names it briefly in Session 1: one idea at a time, shown when people are ready, with support taken away as they gain confidence. Participants have just been through it themselves, in two slide redesign rounds with less help each time.
+That plan for taking help away is often called **scaffolding**. Teaching That Lands names it briefly in Session 1: one idea at a time, shown when people are ready, with support taken away as they gain confidence. Participants have just been through it themselves, in two slide redesign rounds with less help each time.
 
 ## Try this
 

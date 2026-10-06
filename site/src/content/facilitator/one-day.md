@@ -163,7 +163,7 @@ The longest stretch of teaching is behind you. Bag 4: canvases and feedback form
 
 Send exactly one week later. It's the spacing the day couldn't give, the real retest, and the start of follow-through.
 
-> **Subject:** Teaching That Sticks: one week on (2 minutes)
+> **Subject:** Teaching That Lands: one week on (2 minutes)
 >
 > Hi [name / all],
 >

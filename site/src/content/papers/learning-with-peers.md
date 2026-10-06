@@ -7,7 +7,7 @@ year: 1982
 openAccess: false
 theorists: ["revans-action-learning"]
 sessions: []
-imagePrompt: "A simple equation displayed large: L = P + Q. Below it: P labelled 'Programmed knowledge (what is already known)' and Q labelled 'Questioning insight (asking fresh questions of the situation)'. A small group of simplified figures sit in a circle beneath the equation, each with a speech bubble showing a question mark. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "A simple equation displayed large: L = P + Q. Below it: P labelled 'Programmed knowledge (what is already known)' and Q labelled 'Questioning insight (asking fresh questions of the situation)'. A small group of simplified figures sit in a circle beneath the equation, each with a speech bubble showing a question mark. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** expert knowledge isn't enough for new, messy problems; people also learn by asking fresh questions about their own real problems, and peers in the same boat are good at helping them do that.
@@ -45,7 +45,7 @@ Revans trained as a physicist at the Cavendish Laboratory in Cambridge in the ea
 2. **Try it in threes.** Take a real teaching problem. For the first eight minutes, the other two ask only questions. Then they can offer ideas.
 3. **Plan for P and Q.** If a session is all expert input, people get P and may not know how to use it. Leave time for them to question how it applies to their own real situation. Often the first question is the one at the heart of this programme: what do people need to do differently?
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 Not taught directly in the three core sessions. It's useful background if you want peer support to continue after the programme ends. The [action learning](/theories/learning-with-peers) page has a simple way to start.
 

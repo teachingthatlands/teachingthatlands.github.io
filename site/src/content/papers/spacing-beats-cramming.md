@@ -9,7 +9,7 @@ openAccess: true
 openAccessUrl: "https://escholarship.org/uc/item/3rr6q10c"
 theorists: ["ebbinghaus-forgetting-curve"]
 sessions: [2]
-imagePrompt: "Three overlapping forgetting curves beginning at the same high point on the left. The topmost curve descends most slowly; the bottom curve descends most steeply. Small vertical markers at regular intervals along the timeline indicate spacing events that lift each curve. At the rightmost point the three curves converge at different heights, with the top curve finishing highest. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "Three overlapping forgetting curves beginning at the same high point on the left. The topmost curve descends most slowly; the bottom curve descends most steeply. Small vertical markers at regular intervals along the timeline indicate spacing events that lift each curve. At the rightmost point the three curves converge at different heights, with the top curve finishing highest. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** spreading study out with gaps helps people remember more than doing it all at once, and the longer you need to remember something, the longer the gaps should be.
@@ -49,7 +49,7 @@ They asked two questions. Does spacing help? And how long should the gap be, if 
 3. **Think again about once-a-year training.** If content needs to last a year, the spacing research suggests that short, regular reminders (say monthly, such as a five-minute quiz at a team meeting) are likely to keep more of it alive than a single annual session. This is an extrapolation from lab studies, not something that has been tested directly.
 4. **Tell people why.** "I'm asking you this because you'll have started to forget it since we last met. Pulling it back out now helps it last."
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 The sessions are a week apart. By the rough guide, a week's gap suits remembering something for about a month, which fits a three-week course. For a year, the spacing needs to carry on after Session 3.
 

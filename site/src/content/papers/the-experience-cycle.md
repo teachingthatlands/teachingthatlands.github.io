@@ -7,7 +7,7 @@ year: 1984
 openAccess: false
 theorists: ["kolb-experiential"]
 sessions: [2]
-imagePrompt: "A circular diagram with four evenly spaced nodes connected by a clockwise arrow. Nodes labelled: top-left 'Concrete Experience (feeling)', top-right 'Reflective Observation (watching)', bottom-right 'Abstract Conceptualisation (thinking)', bottom-left 'Active Experimentation (doing)'. The circular arrow shows continuous movement through the stages. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "A circular diagram with four evenly spaced nodes connected by a clockwise arrow. Nodes labelled: top-left 'Concrete Experience (feeling)', top-right 'Reflective Observation (watching)', bottom-right 'Abstract Conceptualisation (thinking)', bottom-left 'Active Experimentation (doing)'. The circular arrow shows continuous movement through the stages. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** we learn from experience by going round a loop: do something, look back on it, make sense of it, then try something new. Plan your teaching so people get round the whole loop.
@@ -47,7 +47,7 @@ The book also describes a questionnaire, the Learning Style Inventory, which sor
 3. **Finish with something to try.** Ask each person what they'll do differently, and where. That's how the learning gets back to the ward, the pharmacy or the clinic.
 4. **Teach the cycle, not the styles.** Don't sort people into styles. Everyone benefits from going round the whole loop.
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 Each session follows the cycle: an experience, a short reflection, the idea that explains it, then putting it to use. In Session 1, overload comes first, then working memory (how much we can hold in mind at once) and mental overload (cognitive load), then two rounds of redesigning a slide on paper (or on a laptop, for those comfortable with PowerPoint). In Session 2, a Kahoot and a Menti tour come first, then the strategies, then making ten minutes of their own session active. The Session 2 ask (play with Menti or Kahoot and make one thing) is active experimentation from the presenter's side. In Session 3, the card sort comes before Kirkpatrick's levels are named. Theory arrives in short bursts, just before it's used.
 

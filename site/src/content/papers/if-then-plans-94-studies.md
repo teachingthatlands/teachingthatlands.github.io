@@ -9,7 +9,7 @@ openAccess: true
 openAccessUrl: "https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f"
 theorists: ["gollwitzer-implementation-intentions"]
 sessions: [1, 2, 3]
-imagePrompt: "A split panel. Left panel: multiple dotted arrows pointing in different directions, most fading before they reach a target — representing vague goal intentions that dissipate. Right panel: a single solid if-then arrow that completes its path to a clear target — representing a specific implementation intention. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "A split panel. Left panel: multiple dotted arrows pointing in different directions, most fading before they reach a target — representing vague goal intentions that dissipate. Right panel: a single solid if-then arrow that completes its path to a clear target — representing a specific implementation intention. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** across 94 studies, people who made a specific "when this happens, I'll do that" plan reached their goals more often than people who only intended to.
@@ -47,7 +47,7 @@ In each study, some people simply set a goal: "I intend to do X". Others also wr
 3. **Tie it to something that already happens.** "When I write the care plan at 8am" or "When I open the clinic list" works better than "when I get a chance". The moment should come round whether or not they remember.
 4. **Check back.** Plans work better when someone follows up. Next time you see people, ask what they did, and what got in the way.
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 The asks at the end of Sessions 1 and 2 are specific intentions, written on a card, photographed, and read back at the start of the next session. The read-back is both a follow-up and a chance to recall. Facilitators push back on vague wording ("I'll try to…") and ask when, and what exactly. Session 3 has no card. The completed canvas is the commitment, with one named person who will hold each participant to it, and the support they have agreed they need from that person. The programme itself sends three short questions at 30 and 90 days.
 

@@ -8,7 +8,7 @@ doi: "10.1016/S0022-5371(72)80001-X"
 openAccess: false
 theorists: []
 sessions: []
-imagePrompt: "A vertical spectrum shown as three stacked horizontal bands, from top to bottom. The top band is labelled 'Structural (shallow)' with a simple shape icon — showing processing of visual appearance. The middle band is labelled 'Phonological' with a sound-wave icon — showing processing of sound. The bottom band is labelled 'Semantic (deep)' with a lightbulb or interlocking rings icon — showing processing of meaning. A bold downward arrow on the left side of the spectrum is labelled 'Depth of processing'. A subtle gradient runs from light to dark top to bottom. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "A vertical spectrum shown as three stacked horizontal bands, from top to bottom. The top band is labelled 'Structural (shallow)' with a simple shape icon — showing processing of visual appearance. The middle band is labelled 'Phonological' with a sound-wave icon — showing processing of sound. The bottom band is labelled 'Semantic (deep)' with a lightbulb or interlocking rings icon — showing processing of meaning. A bold downward arrow on the left side of the spectrum is labelled 'Depth of processing'. A subtle gradient runs from light to dark top to bottom. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** how well we remember something depends a lot on how we thought about it at the time. Thinking about what it *means* usually beats noticing how it looks or sounds.
@@ -56,7 +56,7 @@ Start with what people need to do differently, then make them think about that, 
 - **Probe right answers.** "Yes, exactly" ends the thinking. "Right, and why does that matter on a busy ward?" starts a second round.
 - **Don't rely on depth alone. Add recall.** Pulling something out of memory strengthens it in a way that re-studying, even thoughtfully, does not, and researchers still debate exactly why. So a quick "what do you remember from last week?" tends to beat a recap slide. See [retrieval practice](/theories/testing-beats-re-reading).
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 It isn't taught directly in the three core sessions. It sits in the background of *elaboration*, one of the four strategies participants sort in Session 2: linking new ideas to what you already know, or asking "where could this work?"
 
