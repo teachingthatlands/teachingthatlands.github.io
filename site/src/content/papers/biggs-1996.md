@@ -10,46 +10,50 @@ sessions: [1, 3]
 imagePrompt: "Three horizontal rings aligned on a shared vertical axis — from bottom to top: Learning Outcomes, Teaching Methods, Assessment. The rings are linked by short vertical connectors, showing alignment between all three levels. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
+**In one line:** if you want people to be able to *do* something, they need to practise it, and your check should look for it. Otherwise they learn whatever the check rewards.
 
-## What the study did
+## What Biggs did
 
-This entry covers two key Biggs publications that together establish the theory and evidence base for constructive alignment. The first is Biggs (1996) *"Enhancing teaching through constructive alignment"* in *Higher Education* (DOI: 10.1007/BF00138871), which introduced the term and the theoretical framework. The second is the SOLO taxonomy, which provides the assessment framework used to evaluate qualitative depth of learning outcomes.
+This isn't an experiment. It's an argument, from an experienced educational psychologist, about how to plan teaching, with one course as an example.
 
-**Biggs (1996)** argued that learning is constructed by the learner's activity, not transmitted by the teacher's performance, and that the teaching system must be designed so that all its components — intended learning outcomes, teaching and learning activities, and assessment tasks — are mutually *aligned*, each reinforcing the same construct of learning.
+Biggs was teaching psychology to working schoolteachers in Hong Kong, on a part-time degree. He wanted them to use psychology to teach better in their own classrooms, not just to describe it in an exam. So he planned the course backwards from that goal. The main check was a portfolio: the teachers chose their own examples of where psychology had improved their teaching, and explained why.
 
-## What it found
+## What he argued
 
-**Constructive alignment — the two premises:**
-1. *Constructive:* Learning is a meaning-making act. Learners construct knowledge through their own cognitive activity. The same lecture produces different learning outcomes in different learners because each is processing through their own existing schema.
-2. *Aligned:* Teaching systems typically misalign their components. Outcomes aim for deep understanding; teaching delivers information; assessment rewards recall. The learner who games the assessment is being rational — the system itself is inconsistent.
+- **People build understanding through what they do.** The same lecture leaves different people with different understanding, because each person connects it to what they already know. So what learners *do* matters more than what the teacher says. This is the "constructive" half.
+- **The check shapes the learning.** People sensibly prepare for the test they're given. If the goal is "apply it" but the check is "remember it", they'll learn to remember it. Biggs called this effect of the test on learning *backwash*. It isn't laziness; it's the system working as built.
+- **So line the three parts up.** Write the outcome as something people can do, plan activities that make them do it, and check for that same thing. This is the "alignment" half.
+- **Use verbs to describe how deep the learning goes.** Biggs used a scale he had developed earlier with Kevin Collis (the SOLO taxonomy) to describe levels of understanding, from naming one fact, through listing several, to connecting them, to applying them somewhere new.
 
-**The misalignment problem in clinical education is acute:** A ward teaching session may have a stated aim of *"developing clinical reasoning"* (a high-order outcome), but spend 45 minutes as one-way information transfer, and assess via a knowledge quiz. These three components are pulling in different directions. The learner learns to reproduce information, because that is what the system actually rewards.
+## How much should you trust it?
 
-**SOLO Taxonomy:** The Structure of the Observed Learning Outcome taxonomy describes learning quality in five levels: pre-structural (no engagement), uni-structural (one correct point), multi-structural (several unconnected points), relational (connected and integrated), and extended abstract (generalised to new contexts). The taxonomy gives teachers a practical vocabulary for distinguishing surface from deep learning outcomes and for writing assessment criteria that reward depth.
+**Widely trusted as a way of planning; little direct evidence that it changes practice.**
 
-## The one finding worth quoting in a meeting
+- The paper is reasoning plus one example course. Biggs doesn't compare his course with an unchanged one, so it can't show alignment *caused* better learning.
+- Later studies are few and mostly rely on surveys. One found students on better-lined-up university courses were more likely to study for understanding rather than just to pass (Wang et al., 2013). That's encouraging, but it measured how students said they studied, not what they could do afterwards.
+- It was developed for university degrees, where the teacher sets the exam. In healthcare you often don't control the check: it may belong to an exam board, a competency framework or a mandatory-training system.
+- The core idea, that people get better at what they practise and prepare for what they're tested on, fits strongly with other evidence in this library, such as [retrieval practice](/papers/roediger-karpicke-2006).
 
-**In our words (a paraphrase, not a quotation):** If you want learners to apply knowledge clinically, you have to practise application and assess application. Testing recall rewards recall learners. The learning the system assesses is the learning the system gets.
+## If you need to convince someone
 
-The misalignment problem is almost universal in NHS clinical education. CPD is often designed as information delivery assessed by attendance, which guarantees that attendance is what participants optimise for — not learning.
+**In our words (a paraphrase, not a quotation):** people learn what the check rewards. If attendance is all we check, attendance is what we'll get.
 
-## Honest limitations
+## What it means for you
 
-- Constructive alignment is a design framework, not a randomised controlled trial — the evidence base is largely theoretical, observational, and qualitative
-- Implementing full alignment in opportunistic clinical teaching is difficult because teachers often cannot control assessment (which belongs to exams, deaneries, and curricula they did not design)
-- The SOLO taxonomy requires training to apply reliably as an assessment tool; without calibration, inter-rater reliability is low
-- The framework was developed in higher education; translation to regulated clinical training involves additional constraints (competency frameworks, ARCP requirements) that partially pre-determine alignment structure
+Before any teaching, ask three questions:
 
-## What it means for your practice
+1. **What should people be able to *do* afterwards** that they couldn't do before? Not what you'll cover: what they'll do.
+2. **Does the session make them do that thing?** Listening to a talk doesn't make anyone apply anything. Working through a real case, or trying it on the real equipment, does.
+3. **How will you know?** If the only check is a sign-in sheet or a quick quiz on facts, it checks something other than what you wanted.
 
-Ask three questions before any teaching session:
-
-1. **What do I want learners to be able to *do* at the end of this?** (Not: what will I have covered. What will they be able to do that they could not do before?)
-2. **Does my teaching activity require them to *do that thing*?** (Information delivery does not require application. A case discussion does. A simulated scenario does.)
-3. **Does my assessment question reward doing that thing?** (A recall quiz following a clinical reasoning session rewards recall — it misaligns the system in the last step.)
-
-If any of the three is misaligned, you have identified the point of waste in your teaching.
+Where the answers don't match, you've found the weak point in the session.
 
 ## How it appears in Teaching That Sticks
 
-Biggs appears at two scales. In Session 1, at slide scale: *who is this slide for?* Does it serve what learners need to do? In Session 3, at session scale: participants rewrite vague outcomes ("be aware of") as observable verbs, choose the evidence for each, then check their Session 1 slides and Session 2 activity against the new outcomes. The programme itself is designed backwards from its outcomes in the same way.
+Biggs appears twice. In Session 1, at the size of a single slide: who is this slide for, and does it help people do what they need to? In Session 3, at the size of a whole session: participants rewrite vague outcomes ("be aware of") as things they could watch, choose how they'd check each one, then check their Session 1 slides and Session 2 activity against them. The programme itself was planned backwards from its outcomes in the same way.
+
+## The small print
+
+- Biggs and Collis first set out the SOLO taxonomy in 1982. Using it to grade work consistently takes practice.
+- "Constructivism" (the idea that learners build their own understanding) is a broad family of theories, and educationalists argue about how far it should shape teaching methods. Biggs uses it loosely, as a reminder that the learner's activity is what counts.
+- The fullest practical guide is the book by Biggs and Tang, *Teaching for Quality Learning at University*, now in its fifth edition (with Kennedy, 2022).
