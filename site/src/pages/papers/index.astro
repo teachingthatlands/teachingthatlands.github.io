@@ -3,9 +3,20 @@ import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 
 const papers = await getCollection('papers');
+const sessions = await getCollection('sessions');
+sessions.sort((a, b) => a.data.number - b.data.number);
 
-// Sort by year descending
-const sorted = [...papers].sort((a, b) => b.data.year - a.data.year);
+// Each paper appears once: under the first session that uses it, oldest
+// first, then everything else under "Further reading".
+const byYear = [...papers].sort((a, b) => a.data.year - b.data.year);
+const seen = new Set<string>();
+const groups = sessions.map(session => {
+  const items = byYear.filter(p => !seen.has(p.id) && p.data.sessions.includes(session.data.number));
+  items.forEach(p => seen.add(p.id));
+  return { label: `Session ${session.data.number}`, title: session.data.tagline, items };
+}).filter(g => g.items.length > 0);
+const rest = byYear.filter(p => !seen.has(p.id));
+if (rest.length) groups.push({ label: 'More', title: 'Further reading', items: rest });
 ---
 
 <Base
@@ -23,30 +34,36 @@ const sorted = [...papers].sort((a, b) => b.data.year - a.data.year);
           <div class="library-overline">The Evidence Base</div>
           <h1 class="library-title">Research summaries</h1>
           <p class="library-lede">
-            Plain-English summaries and honest critical reviews of the key papers behind
-            Teaching That Sticks. Each summary covers what the study did, what it found,
-            its limitations, and what it means for clinical education.
+            Plain-English summaries of the research behind Teaching That Sticks.
+            Each one says what the researchers did, what they found, how far to trust
+            it, and what it means for your teaching.
             <a href="/theories">Browse the theory library →</a>
           </p>
         </div>
         <img class="library-fox" src="/images/fox/reading.png" alt="Fox reading" />
       </div>
 
-      <div class="theory-list" style="margin-top:2rem;">
-        {sorted.map((paper) => (
-          <div class="theory-card">
-            <div class="theory-card-main">
-              <div class="theory-card-name">{paper.data.title}</div>
-              <div class="theory-card-summary">
-                {paper.data.authors.split(',')[0]} · {paper.data.journal} · {paper.data.year}
+      {groups.map(({ label, title, items }) => (
+        <div class="theory-group">
+          <p class="theory-group-session">{label}</p>
+          <h2 class="theory-group-title">{title}</h2>
+          <div class="theory-list">
+            {items.map((paper) => (
+              <div class="theory-card">
+                <div class="theory-card-main">
+                  <div class="theory-card-name">{paper.data.title}</div>
+                  <div class="theory-card-summary">
+                    {paper.data.authors.split(',')[0]} · {paper.data.year}
+                  </div>
+                </div>
+                <div class="theory-card-action">
+                  <a class="btn btn--green" href={`/papers/${paper.id}`}>Read →</a>
+                </div>
               </div>
-            </div>
-            <div class="theory-card-action">
-              <a class="btn btn--green" href={`/papers/${paper.id}`}>Read →</a>
-            </div>
+            ))}
           </div>
-        ))}
-      </div>
+        </div>
+      ))}
     </div>
   </section>
 
