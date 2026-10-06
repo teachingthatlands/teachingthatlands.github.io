@@ -11,48 +11,58 @@ sessions: []
 imagePrompt: "A horizontal spectrum bar running from left (dim, low effect) to right (bright, high effect). Three marker lines are placed along the spectrum at different positions, labelled from bottom to top: Self, Task, Process. The rightmost marker (Process) is the brightest and most vivid. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
+**In one line:** feedback can help learning a lot, but only some kinds do. The most useful feedback says where someone is going, how they're doing, and what to try next.
 
-## What the study did
+## What they did
 
-Hattie and Timperley synthesised meta-analyses on the effects of feedback on student achievement, drawing on Hattie's wider database of educational research covering hundreds of meta-analyses and millions of students. They were not just asking *"does feedback work?"* — they were asking *"what kind of feedback works, and why?"* The result is a model with two dimensions: the direction of feedback (feed-up, feedback, feed-forward) and the level of feedback (task, process, self-regulation, self). The paper is simultaneously an evidence synthesis and a theoretical framework.
+This isn't a single experiment. It's a big review that pulls together many earlier reviews of research on feedback, mostly in schools.
 
-## What it found
+John Hattie and Helen Timperley, education researchers in New Zealand, gathered 12 earlier reviews that had each combined many studies. Between them, these covered 196 studies. They asked two questions. Does feedback help people learn? And, more usefully, which kinds of feedback help, and why? From the answers they built a simple model that teachers could use.
 
-**Overall effect of feedback:** across 12 earlier meta-analyses (196 studies, nearly 7,000 effect sizes), the average effect size was 0.79 — about twice the typical effect of schooling and in the top 5–10 influences on achievement in Hattie's database. (You may also see d = 0.73 quoted for feedback; that figure comes from Hattie's later book *Visible Learning*, not this paper.) But this average conceals enormous variation.
+## What they found
 
-**By level of feedback:**
-- **Self-level** (praise, reward, blame): the least effective level — praise averaged an effect of just 0.14 in the paper's summary table, and can be counterproductive. *"You're so clever"* is not feedback — it is noise, and it actively undermines the development of effort-based attribution.
-- **Task-level** (correct/incorrect, right/wrong): moderate effect when focused on the specific task, but does not transfer to future performance.
-- **Process-level** (how did you approach this, what strategy are you using): powerful — promotes deeper understanding and transfer.
-- **Self-regulation level** (how are you monitoring your own learning): also powerful — the authors group it with process-level feedback as the most effective levels.
+- **On average, feedback helps a lot.** Across the reviews, feedback was among the strongest influences on learning that Hattie had found.
+- **But results vary hugely.** Some feedback helped a great deal. Some did little. Some made things worse.
+- **Good feedback answers three questions.** *Where am I going?* (the goal). *How am I going?* (progress against it). *Where to next?* (what to do now). The authors called the third one *feed forward*.
+- **Feedback aimed at the person helps least.** Praise like "you're so clever" carries almost no information about the task. It was the least effective kind they looked at.
+- **Feedback about how someone tackled the task helps most.** Feedback on the method someone used, or on how they check their own work, tends to help more than a simple "right" or "wrong".
+- **Most feedback in classrooms is about the task.** It says right or wrong. Learners get the most from it when it also tells them what to do next.
 
-**On feedback to teachers:** The authors conclude that teachers need to seek and learn from feedback — for example, from students' responses to tests — as much as students do, so they know how their teaching is landing and what to do next. (Specific effect sizes often attached to this idea, such as d = 0.90, come from Hattie's later *Visible Learning* work rather than this paper.)
+## How much should you trust it?
 
-**Feed-up, feedback, feed-forward:** The three-question framework — *where am I going? how am I going? where to next?* — is derived from the synthesis. Most feedback in classrooms is about the task (right or wrong). Learners get the most from it when it also tells them what to do next.
+**Strong evidence that feedback matters; less certain how well the details carry over to healthcare.**
 
-## The one finding worth quoting in a meeting
+- It rests on a large body of research. But it combines very different studies, with different ages, subjects and meanings of "feedback". That makes the average less precise than it looks.
+- Nearly all the research was in schools and universities. It wasn't tested with healthcare staff learning at work.
+- The neat split into types of feedback is a simplification. In real life, timing, trust and the relationship between people all matter too.
+- Hattie's wider way of combining reviews has been criticised by other researchers (see the small print).
 
-**In our words (a paraphrase, not a quotation):** praise directed at the person is the least effective form of feedback. It carries little information about the task, and in some contexts it can undermine future performance.
+## If you need to convince someone
 
-Or, for a clinical audience: the *"good job"* at the end of a procedure is not feedback. It is social reinforcement. These are different things, and mixing the two up is one reason so much clinical feedback is less useful than it could be.
+**In our words (a paraphrase, not a quotation):** praise aimed at the person is the least useful kind of feedback. It tells people little about the task, and sometimes it can get in the way.
 
-## Honest limitations
+For a healthcare audience: "good job" at the end of a procedure is a kind word, not feedback. Both have their place, but mixing the two up is one reason so much clinical feedback is less useful than it could be.
 
-- The synthesis aggregates across very different educational contexts, ages, and subjects — effect sizes may not transfer directly to postgraduate clinical training
-- Meta-analysis of meta-analyses compounds methodological variation across included studies
-- "Feedback" is operationally defined differently across studies
-- The model has been critiqued for oversimplifying the relationship between feedback type and outcome — context, relationship, and timing all interact
-- Hattie's Visible Learning database has been criticised for methodological inconsistencies in effect size calculation (see Simpson, 2017 for a balanced critique)
+## What it means for you
 
-## What it means for your practice
+Before you give feedback, check it answers three questions:
 
-Three questions to ask before every piece of feedback you give:
-1. Does the learner know where they are going? (Have I stated the goal clearly enough?)
-2. Does my feedback tell them specifically what happened relative to that goal? (Not *"good"* — what exactly was good, and why does it matter?)
-3. Does my feedback tell them what to try differently next time? (Feed-forward is the most neglected and most powerful component)
+1. **Does the person know the goal?** Have you said clearly what good looks like?
+2. **Does it say what actually happened, compared with that goal?** Not "good", but what exactly was good, and why it matters.
+3. **Does it say what to try next time?** This is the part most often left out.
 
-The clinical time pressure objection is real but surmountable: *"That was a strong cannulation — you stabilised the vein well. Next time, try talking the patient through each step as you go."* That is 15 seconds. It contains feed-up (implicit goal), feedback (what they did), and feed-forward (what to try next).
+It needn't take long. To a student nurse after a cannulation: "You held the vein steady really well. Next time, try talking the patient through each step as you go." That's about 15 seconds, and it covers all three: an implied goal, what they did, and what to try next. The point is what they'll do differently on the next patient.
 
 ## How it appears in Teaching That Sticks
 
 Not taught directly in the three core sessions. Feedback and feedforward are parked for a future simulation-based session. The peer responses in Sessions 1 and 2 (one thing that works, one question) are a light version of the same idea.
+
+## The small print
+
+- The 12 earlier reviews were meta-analyses: studies that combine the results of many others into one average. Together they gave nearly 7,000 effect sizes (a standard way of measuring how big a difference something makes). The average effect of feedback was 0.79, about twice the typical effect of schooling in Hattie's data.
+- You may also see 0.73 quoted for feedback. That comes from Hattie's later book *Visible Learning*, not this paper.
+- Praise averaged an effect of just 0.14 in the paper's summary table.
+- The authors describe four levels of feedback: about the *task*, about the *process* (how the task was tackled), about *self-regulation* (how people monitor their own work) and about the *self* (the person). Process and self-regulation feedback were the most powerful; self-level the weakest.
+- They also say teachers need feedback as much as learners do, for example from how learners answer questions, so they know how their teaching is landing. (Effect sizes often attached to this idea, such as 0.90, come from Hattie's later work rather than this paper.)
+- An earlier review by Kluger and DeNisi (1996) found that in about a third of the results it pooled, feedback made performance worse.
+- For a balanced critique of Hattie's methods, see Simpson (2017).

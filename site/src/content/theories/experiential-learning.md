@@ -1,6 +1,6 @@
 ---
 title: "Experiential Learning"
-summary: "Experience teaches more when it is followed by reflection — so build reflection in rather than leaving it to chance"
+summary: "People learn more from an experience when they stop to think it through and then try again, so plan time for that rather than leaving it to chance"
 sessions: ["session-2"]
 evidence:
   - cite: "Kolb, D. A. (1984). <em>Experiential Learning: Experience as the Source of Learning and Development</em>. Prentice Hall."
@@ -10,15 +10,42 @@ evidence:
   - cite: "Gibbs, G. (1988). <em>Learning by Doing: A Guide to Teaching and Learning Methods</em>. Further Education Unit, Oxford Polytechnic."
 ---
 
-Kolb's experiential learning cycle is everywhere in clinical education — and frequently misapplied. The model describes learning as a cycle of four stages: a *concrete experience*, followed by *reflective observation* (what happened?), followed by *abstract conceptualisation* (what does this mean?), followed by *active experimentation* (what will I try next?). Then repeat. It is a useful way to plan teaching, not a proven account of how the brain learns.
+**The idea in one sentence:** people learn more from an experience when they stop to look back at it, work out what it means, and then try something different next time. Experience on its own can teach, but it can just as easily lock in habits nobody has questioned.
 
-The common error is to treat the first stage as sufficient. Clinical environments offer vast amounts of experience. They do not automatically produce learning from it. A foundation doctor who clerks fifty patients without structured reflection may develop pattern recognition — or may consolidate bad habits and unexamined assumptions. Experience without reflection can still teach, but it can just as easily lock in habits that nobody has questioned.
+## You've seen this already
 
-The reflection stage is the hinge. It's where experience is interrogated rather than merely stored. The question "what happened?" is descriptive. "What assumptions did I bring to this?" and "what would I do differently?" are reflective. The difference between those questions is the difference between exposure and education.
+Think about cooking a new recipe. The first time, the rice burns. You could just make it again the same way and hope. Or you could stop and ask: what happened? (The pan was too hot.) Why? (I turned it up to save time.) What's the rule here? (Rice needs a low heat once it's boiling.) Next time, you turn it down and see if that fixes it.
 
-## What this means for teaching
+That second cook learns a lot more from one burnt pan. The burnt pan was the experience. The learning came from thinking it through and trying again.
 
-- **Build reflection into the design, not the good intentions** — end-of-session reflection is not a nice-to-have; it's where much of the learning from experience happens. If there's no time for it, you haven't finished teaching.
-- **Ask better questions** — "How did that go?" invites description. "What surprised you?" invites reflection. "What assumption did that challenge?" invites conceptualisation. Progress through Kolb's stages deliberately.
-- **Don't skip the debrief** — studies that compare simulation with and without a debrief favour the debrief, and much of the learning happens there. If time is short, shorten the scenario rather than the debrief.
-- **The cycle is a cycle** — conceptualisation should lead to something tried. Active experimentation produces new experiences. Teaching that ends at reflection leaves the loop open.
+## Why it matters for your teaching
+
+Healthcare is full of experience. A healthcare assistant does dozens of patient transfers a week. A pharmacist answers the same kind of query again and again. A new receptionist handles their first angry caller. None of that turns into learning on its own. People can repeat the same habit for years, good or bad, if nobody ever asks them to look at it.
+
+So if you want people to do something differently, don't just give them an experience and hope. Plan four steps:
+
+1. **Do something.** A short scenario, a real task, a quick quiz.
+2. **Look back.** What happened? What surprised you?
+3. **Make sense of it.** Why did that happen? What's the idea behind it?
+4. **Try it again.** What will you do differently next time, and when?
+
+Say you're teaching new starters to use a hoist. They try a transfer with a manikin first. Then you ask what felt awkward, explain the one or two principles that make it safer, and have them try again. The idea lands because it explains something they've just felt.
+
+## Try this
+
+- **Start with doing, then explain.** Give people a short task or problem before the theory, so the theory answers a question they now have.
+- **Ask questions that make people think, not just describe.** "How did that go?" invites a story. "What surprised you?" or "What would you do differently?" invites reflection.
+- **Protect the time to look back.** If the session runs short, cut part of the task, not the talk afterwards. [Debriefing](/theories/debriefing) is this step done well.
+- **Finish with a next step.** Ask each person to name one thing they'll try, and where. Without that, the loop stays open.
+
+## How sure are we?
+
+This is a useful way to plan teaching, not a proven account of how the brain learns. The four steps make sense and are widely used, but real learning doesn't always go through them in order, and the steps blur in practice. People also learn a lot from plain practice, without ever stopping to reflect.
+
+There is some evidence that a short task before the explanation helps learning stick, but only under certain conditions, and the effects are modest. In simulation training, studies that compare a scenario with and without a debrief favour the debrief.
+
+Watch out for one common myth. The same author also described "learning styles", and the idea that you should match teaching to each person's style. There is little evidence that style-matching improves learning. The useful part is the cycle, and it applies to everyone.
+
+## Where it comes from
+
+David Kolb, an American professor of organisational behaviour, set out the experiential learning cycle in 1984. He drew on earlier thinkers: John Dewey, Kurt Lewin and Jean Piaget. Others built on the reflection step. David Boud and colleagues (1985) and Jennifer Moon (1999) wrote about how reflection turns experience into learning, and Graham Gibbs (1988) offered a simple reflective cycle that is widely taught in nursing and allied health.

@@ -10,49 +10,52 @@ sessions: []
 imagePrompt: "Two speech bubbles facing each other across a narrow gap. The left bubble contains a solid geometric shape — a specific observation (advocacy). The right bubble contains a question mark — genuine inquiry. Between them, a small curved bridge connects the two across the gap. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
+**In one line:** after someone practises, say clearly what you saw and what you made of it, then ask a real question about their thinking. Being honest and being curious work best together.
 
-## What the study did
+## What they did
 
-Rudolph and colleagues at the Center for Medical Simulation at Harvard developed and described a structured approach to post-simulation debriefing called *debriefing with good judgment*. The paper is theoretical and descriptive rather than a randomised trial — it presents a model grounded in the authors' extensive experience running debriefs in high-stakes medical simulation and articulates the psychological principles behind it. The central argument is that both common debriefing approaches — withholding judgment (*"I won't say what I think"*) and delivering judgment (*"you should have done X"*) — fail learners for different but related reasons.
+This isn't an experiment. It's a practical guide from a team who run a large simulation centre, describing how they debrief and why.
 
-## What it found
+Jenny Rudolph and colleagues taught teams of doctors and nurses using simulated emergencies, with a manikin standing in for the patient. After each scenario comes the debrief: a conversation about what happened. Over many years of running these, the team noticed that debriefs often went wrong in one of two ways. In this paper they describe both, set out their alternative, and explain the thinking behind it.
 
-**The two failure modes of debriefing:**
+## What they argued
 
-*Debriefing without judgment:* The facilitator withholds their assessment to avoid making learners defensive. The result is feedback so hedged and imprecise that learners cannot identify what they need to change. This approach treats learners as fragile rather than as capable professionals.
+- **Hiding your view doesn't work.** Some debriefers keep their opinion to themselves so nobody feels judged. The result is hints and hedging. People can't tell what they need to change, and the debriefer's view leaks out anyway, through tone and the choice of questions.
+- **A bare verdict doesn't work either.** "You should have called for help sooner" is clear, but it shuts down thinking and makes people defensive. And you don't learn *why* they did it.
+- **People act for reasons.** What someone does makes sense to them at the time, given how they saw the situation. If you understand how they saw it, you can help them change what they do.
+- **So pair a view with a question.** First say what you saw and what you made of it: "I noticed you waited three minutes before calling for help. I wondered if you were unsure when to escalate." Then ask, and mean it: "What was your thinking at that point?" The authors call these two moves *advocacy* and *inquiry*.
 
-*Debriefing with (unmodulated) judgment:* The facilitator states their evaluation directly — *"you made an error," "that was wrong"* — without curiosity about the learner's reasoning. This shuts down reflection, produces defensiveness, and models the kind of authoritative correction that the facilitator is presumably trying to move away from.
+## How much should you trust it?
 
-**Debriefing with good judgment — the model:**
+**A well-respected practical method; not tested in trials.**
 
-The advocacy-inquiry structure has two moves:
-1. **Advocacy:** The facilitator states a specific observation (*"I noticed that you waited three minutes before calling for help"*) and their tentative interpretation of it (*"I was thinking that might have been uncertainty about when to escalate"*). This is transparent — it makes the facilitator's mental model visible.
-2. **Inquiry:** The facilitator then asks a genuine question (*"What was your thinking at that point?"*). This is not rhetorical. The facilitator must be genuinely open to the learner's answer changing their interpretation.
+- The paper describes a method and the reasons for it. It doesn't report any outcome data, so it can't show that this style works better than others.
+- Other research suggests that debriefing after simulation helps learning. But it says little about which style of debriefing works best.
+- It was built for simulation centres, with time set aside to talk. Quick chats on the ward or in a corridor need a lighter version.
+- It takes practice. Staying truly curious when you're sure you know the answer is hard, especially when you're short of time.
 
-**Why it works:** The structure respects the learner's intelligence by sharing the facilitator's reasoning rather than delivering a verdict. It creates space for the learner's perspective to be genuinely heard, which reduces defensiveness and deepens reflection. And it models the same reasoning transparency that effective clinicians use with patients and colleagues.
+## If you need to convince someone
 
-## The one finding worth quoting in a meeting
+**In our words (a paraphrase, not a quotation):** good judgement doesn't mean keeping your view to yourself. It means saying what you saw, clearly and specifically, and then asking a real question, because their answer might change your mind.
 
-**In our words (a paraphrase, not a quotation):** Good judgment does not mean withholding judgment. It means sharing your observation and interpretation — transparently and specifically — and then asking a real question, because the learner's reasoning might change your view.
+## What it means for you
 
-The common clinical feedback failure is the *"anything you'd do differently?"* question, which is technically inquiry but carries no advocacy — the learner has no idea what the facilitator actually observed or thought. This is the gentle debrief failure mode. Naming the observation and the interpretation first is not punitive — it is respectful.
+Before your next talk with someone after they've practised, whether that's a simulation, a drug round or their first time using new kit, prepare three things:
 
-## Honest limitations
+1. **What you saw.** Something specific you could point to. Not "that was a bit rushed", but "you started drawing up before you'd checked the allergy band".
+2. **What you made of it.** Your best guess at what was going on, offered as a guess, not a verdict.
+3. **A real question.** One you don't already know the answer to. "Anything you'd do differently?" sounds open, but it hides what you saw, so the person has to guess what you mean.
 
-- The paper is a theoretical and practice-based account, not a randomised controlled trial — it describes a model rather than reporting empirical data on outcomes
-- The model was developed in high-fidelity medical simulation contexts; applicability to opportunistic clinical teaching (corridor conversations, brief ward round debrief) requires adaptation
-- Implementing the model consistently requires practice — the facilitator must be able to genuinely suspend their judgment during the inquiry phase, which is difficult under time pressure
-- The paper does not address what happens when the learner's answer reveals a more serious performance concern than the debrief context can address
-
-## What it means for your practice
-
-Before your next post-event conversation with a learner, prepare three things:
-1. **Your specific observation** — what exactly did you see or hear? (Not: *"that was a bit rushed."* Yes: *"I noticed you started writing the prescription before the patient had confirmed their allergy history."*)
-2. **Your tentative interpretation** — what do you think was happening? (Not a verdict. A hypothesis.)
-3. **A genuine question** — not *"what would you do differently?"* (which is often rhetorical), but something that genuinely requires their perspective to answer
-
-If you find yourself unable to ask a question you don't already know the answer to, you have slipped into the verdict model. Come back to curiosity.
+If you can't think of a question you don't know the answer to, you've slipped into giving a verdict. Come back to curiosity. Then finish with one thing they'll do differently next time: that's the change the whole conversation is for.
 
 ## How it appears in Teaching That Sticks
 
 Not taught directly in the three core sessions. Debriefing with good judgement is parked for a future simulation-based session. Useful background for anyone who debriefs simulation or gives feedback after observing practice.
+
+## The small print
+
+- The authors are from the Center for Medical Simulation in Massachusetts, USA. An earlier paper by the same team (Rudolph et al., 2006, in *Simulation in Healthcare*) makes the case more briefly, under the title "There's no such thing as 'nonjudgmental' debriefing".
+- Advocacy and inquiry come from "action science", the work of Chris Argyris and Donald Schön on how professionals reason and learn. See [Argyris and Schön](/papers/argyris-schon-1978) and [Schön](/papers/schon-1983).
+- The idea that people act from their own "frames" (their way of seeing the situation) is central. The aim of the debrief is to bring the frame into the open so it can be checked.
+- A systematic review of simulation studies (Cheng et al., 2014) found debriefing was linked to better learning, but found little to say one debriefing style beats another.
+- The paper doesn't cover what to do when the debrief uncovers a serious concern about someone's practice. That needs a separate, private conversation, following your local process.
