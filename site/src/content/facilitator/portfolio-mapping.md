@@ -10,7 +10,7 @@ For participants recording the programme in a portfolio, appraisal or revalidati
 
 ## Overview: what you'll have
 
-Completing the programme doesn't sign you off against any framework. A capability is shown by what you do in practice, over time ([Miller's pyramid](/theories/millers-pyramid)). But the three sessions leave you with real pieces of work, and those make good evidence once you write them up.
+Completing the programme doesn't sign you off against any framework. A capability is shown by what you do in practice, over time ([Miller's pyramid](/theories/knowing-isnt-doing)). But the three sessions leave you with real pieces of work, and those make good evidence once you write them up.
 
 | | Evidence | From |
 |---|---|---|

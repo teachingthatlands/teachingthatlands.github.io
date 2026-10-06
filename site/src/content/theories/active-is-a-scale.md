@@ -51,7 +51,7 @@ This is the idea at the heart of Teaching That Sticks: start with what people ne
 
 ## How sure are we?
 
-Fairly sure about the broad pattern; less sure about the fine detail. Many studies show that people learn more when they explain, question and build on ideas than when they only listen, and a large review of university science courses found active approaches beat lecturing alone ([Freeman et al., 2014](/papers/freeman-2014)). One classroom study found an extra gain from the interactive step over the constructive one, but it was small.
+Fairly sure about the broad pattern; less sure about the fine detail. Many studies show that people learn more when they explain, question and build on ideas than when they only listen, and a large review of university science courses found active approaches beat lecturing alone ([Freeman et al., 2014](/papers/active-beats-lecturing)). One classroom study found an extra gain from the interactive step over the constructive one, but it was small.
 
 The tidy four-step order is less certain. Critics point out that you can't always tell from the outside which step someone is on: a person sitting quietly may be thinking hard, and a busy group may be chatting about something else. Discussion only helps if people really build on each other's ideas. Most of the evidence comes from schools and universities, not from healthcare workplaces.
 

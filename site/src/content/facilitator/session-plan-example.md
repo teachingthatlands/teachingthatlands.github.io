@@ -28,7 +28,7 @@ By the end, learners will be able to:
 
 ### 4. Evidence
 
-Each verb decides the evidence, using [Miller's pyramid](/theories/millers-pyramid):
+Each verb decides the evidence, using [Miller's pyramid](/theories/knowing-isnt-doing):
 
 | Outcome | Miller level | Evidence |
 |---|---|---|

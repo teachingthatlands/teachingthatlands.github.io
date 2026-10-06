@@ -33,7 +33,7 @@ One day works. Three weeks apart works better, because spacing is one of the thi
 | Three "show us" openers | Repetitive | One: "run it on us", straight after the make block |
 | Follow-through starts between sessions | Everything ends at 4pm | The 1-week email starts it: retest, then "what did you change?" |
 
-Be straight with the group about this. It's the programme's own argument ([Ebbinghaus](/papers/ebbinghaus-1885); distributed practice beats massed practice, Cepeda et al. 2006), and it explains why the email matters.
+Be straight with the group about this. It's the programme's own argument ([Ebbinghaus](/papers/how-fast-we-forget); distributed practice beats massed practice, Cepeda et al. 2006), and it explains why the email matters.
 
 ## Learning outcomes
 

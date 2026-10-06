@@ -3,11 +3,11 @@ title: "Session 2"
 number: 2
 tagline: "Active Beats Passive"
 theories:
-  - retrieval-practice
-  - spaced-practice
-  - interleaving
+  - testing-beats-re-reading
+  - spread-it-out
+  - mix-it-up
   - active-is-a-scale
-  - experiential-learning
+  - learning-from-experience
 fox: "thinking_left_arm_up.png"
 duration: "90 min"
 subtitle: "Why doing beats watching, and how to make your teaching active."
@@ -17,10 +17,10 @@ prepFallback: "Didn't get to it? Come anyway. What got in the way is useful too.
 keyIdeas:
   - idea: "Testing beats re-reading."
     detail: "Pulling something back out of memory strengthens it. A quick quiz is a teaching tool, not just a test."
-    theory: retrieval-practice
+    theory: testing-beats-re-reading
   - idea: "Space it out."
     detail: "We forget fast at first, then more slowly. Coming back after a gap (like these weekly sessions) makes learning last."
-    theory: spaced-practice
+    theory: spread-it-out
   - idea: "Active is a scale, not a switch."
     detail: "Listening, then doing something with it, then explaining it in your own words, then working it through with others: the more people do with an idea, the more they tend to learn. The setting decides how far you can go."
     theory: active-is-a-scale

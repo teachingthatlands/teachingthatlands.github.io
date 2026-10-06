@@ -29,7 +29,7 @@ fox: "pencil.png"
 | **Facilitator** | The session guides, and a named colleague to debrief with | Before Session 1 |
 | **L&D or CPD lead** | Attendance record for portfolios and revalidation | After Session 3 |
 
-**The stakeholder most often missed is the line manager.** Change at work depends on whether people are supported and held to account afterwards, not just on the training (Level 3 of the [Kirkpatrick Model](https://www.kirkpatrickpartners.com/the-kirkpatrick-model/); see [Kirkpatrick](/theories/kirkpatrick-model)). Brief managers before the programme, not after.
+**The stakeholder most often missed is the line manager.** Change at work depends on whether people are supported and held to account afterwards, not just on the training (Level 3 of the [Kirkpatrick Model](https://www.kirkpatrickpartners.com/the-kirkpatrick-model/); see [Kirkpatrick](/theories/did-the-training-work)). Brief managers before the programme, not after.
 
 ## 3. Participants
 

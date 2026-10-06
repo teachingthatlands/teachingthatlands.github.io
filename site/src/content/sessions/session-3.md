@@ -3,10 +3,10 @@ title: "Session 3"
 number: 3
 tagline: "Did It Stick?"
 theories:
-  - kirkpatrick-model
-  - millers-pyramid
-  - constructive-alignment
-  - implementation-intentions
+  - did-the-training-work
+  - knowing-isnt-doing
+  - line-it-up
+  - if-then-plans
 fox: "thinking_bubble_left.png"
 duration: "90 min"
 subtitle: "Start with what people should do differently, and you'll know whether your teaching worked."
@@ -16,16 +16,16 @@ prepFallback: "Didn't make one? Bring the idea. We'll build on it."
 keyIdeas:
   - idea: "Delivered isn't changed."
     detail: "Attendance lists, smile sheets and photos show a session happened. Only what people do afterwards shows it worked."
-    theory: kirkpatrick-model
+    theory: did-the-training-work
   - idea: "Your verb decides your evidence."
     detail: "You can't see someone 'be aware of' something. Use verbs you can observe: explain, demonstrate, decide."
-    theory: millers-pyramid
+    theory: knowing-isnt-doing
   - idea: "Line it up."
     detail: "Your outcome, your activity and how you check it should all show the same performance."
-    theory: constructive-alignment
+    theory: line-it-up
   - idea: "Plan the follow-through."
     detail: "Decide what you'll revisit at 30, 60 and 90 days, who will hold you to it, and what you need from them."
-    theory: implementation-intentions
+    theory: if-then-plans
 canvas: "Outcomes, evidence and follow-through. The whole canvas, complete."
 ask: "Your completed canvas, | plus one named person | who will hold you to it, | and the support you've agreed | you need from them."
 askLabel: "Your commitment"

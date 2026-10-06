@@ -70,12 +70,12 @@ Ask 2–3 people during the week whether they're happy to run their Menti or Kah
 ### 0–2 · Blorps retest (unannounced)
 
 - Hand out the retest slips. Score 1 per meaning roughly right. Tally Group A (re-read) vs Group B (self-test) **next to last week's numbers**.
-- Expected: the self-testers hold up better over a week ([Roediger & Karpicke 2006](/papers/roediger-karpicke-2006)). Whatever the result, SAY: that was spaced retrieval. And how would you *know* something stuck? That's today.
+- Expected: the self-testers hold up better over a week ([Roediger & Karpicke 2006](/papers/testing-beats-re-reading)). Whatever the result, SAY: that was spaced retrieval. And how would you *know* something stuck? That's today.
 
 ### 2–10 · Show us what you made
 
 - 2–3 people run their Menti or Kahoot on the group, 2–3 minutes each, from their phone or your laptop. Not done? ASK: what got in the way?
-- WHY: closes the Session 2 loop and puts the thing to real use. → [retrieval practice](/theories/retrieval-practice)
+- WHY: closes the Session 2 loop and puts the thing to real use. → [retrieval practice](/theories/testing-beats-re-reading)
 - FALLBACK: tech fails → they read their questions aloud; the room answers on fingers.
 
 ### 10–21 · How would you know? → Delivered ≠ changed
@@ -84,20 +84,20 @@ Ask 2–3 people during the week whether they're happy to run their Menti or Kah
 - Sort (6 min): a made-up four-day programme with photos, packs and eight commitments, and nobody knows what changed. Each table places its 18 cards on the mat: Delivered → Produced → Implemented → Impact.
 - The staircase slide (one step per click, with the Kirkpatrick level on each): "most training stops here", then "what you did today": running what you made on the group was *use*, Level 3-type evidence, inside the room.
 - SAY: counts show it happened, not that anything changed. Level 1 has a narrow, real use: the cold room, the venue nobody could find.
-- WHY: [Kirkpatrick](/theories/kirkpatrick-model), and the New World version's point that Level 3 depends on what happens after training.
+- WHY: [Kirkpatrick](/theories/did-the-training-work), and the New World version's point that Level 3 depends on what happens after training.
 
 ### 21–33 · Can you see it? → Miller's pyramid
 
 - Sort (8 min): verb cards into **Yes, I could watch someone do it** / **No**. Then put the "yes" verbs on the pyramid mat: knows about · knows how · shows how · does. Expect laughter at "be aware of": the pilot's best moment.
 - The pyramid slide builds tier by tier; "be aware of" lands *below* it: can't see it, can't evidence it.
 - SAY: the verb picks the level. "Demonstrates" needs someone to watch; "does" means in practice. Where it happens matters too: "explain to a patient on the ward" is *does*.
-- WHY: links outcomes straight to evaluation. → [Miller's pyramid](/theories/millers-pyramid); verb lists from revised Bloom (Anderson & Krathwohl 2001).
+- WHY: links outcomes straight to evaluation. → [Miller's pyramid](/theories/knowing-isnt-doing); verb lists from revised Bloom (Anderson & Krathwohl 2001).
 
 ### 33–53 · Rewrite your outcomes
 
 - SAY: your session (or one you'd like to teach). One to three outcomes, a verb you can see, and the evidence for each. On the canvas: Outcomes and Evidence. Pairs, then 2–3 share.
 - ASK the pairs: can you see it? Does the evidence sit at the same level as the verb?
-- WHY: [constructive alignment](/theories/constructive-alignment) in practice; peer rewrites are the worked examples.
+- WHY: [constructive alignment](/theories/line-it-up) in practice; peer rewrites are the worked examples.
 - IF SHORT: never below 15 minutes. This is the core skill.
 
 ### 53–59 · Does it line up?
@@ -111,7 +111,7 @@ Ask 2–3 people during the week whether they're happy to run their Menti or Kah
 - SAY: forgetting is the default. What will *your learners* revisit at 30, 60 and 90 days, and how (a Kahoot, an email, a team message)?
 - ASK: **who will hold you to it? And what do you need from them?** Write their name, and the support you'll ask for (time, release, a slot at the team meeting), in the Follow-through box.
 - SAY: it's a negotiation, not a check-up. Your named person (often your manager) can hold you to it if they provide what you need.
-- WHY: transfer depends on the work environment as much as the training (Baldwin & Ford 1988; the New World Kirkpatrick "required drivers"). Learners can't create protected time on their own; the named person removes barriers as well as asking. → [spaced practice](/theories/spaced-practice)
+- WHY: transfer depends on the work environment as much as the training (Baldwin & Ford 1988; the New World Kirkpatrick "required drivers"). Learners can't create protected time on their own; the named person removes barriers as well as asking. → [spaced practice](/theories/spread-it-out)
 
 ### 67–80 · The reveal → your commitment
 

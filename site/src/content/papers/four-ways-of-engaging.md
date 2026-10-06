@@ -55,4 +55,4 @@ In Session 2, participants make ten minutes of their own session active. The que
 - **Earlier versions.** Chi set out an earlier form of the framework in 2009 ("Active-constructive-interactive", *Topics in Cognitive Science*). The 2014 paper refined it and gave it the name ICAP.
 - **What the studies measured.** Most measured test scores soon after learning, often in short lab or classroom tasks, so we know less about long-term memory or real-world performance.
 - **Not the learning pyramid.** The popular pyramid with retention figures (5% for lectures, 90% for teaching others) has no research behind its numbers (Letrud, 2012). ICAP makes no claims about percentages.
-- **Related evidence.** A large review of university science courses found active learning beat lecturing alone on exam scores and failure rates ([Freeman et al., 2014](/papers/freeman-2014)).
+- **Related evidence.** A large review of university science courses found active learning beat lecturing alone on exam scores and failure rates ([Freeman et al., 2014](/papers/active-beats-lecturing)).

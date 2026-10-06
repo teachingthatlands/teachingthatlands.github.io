@@ -18,7 +18,7 @@ The pattern throughout is **experience → name it → use it**: participants do
 
 **If someone pushes back:** *"My learners are junior. They need more direction."* Reply: *"Fair. It's a spectrum, not a rule. Even with novices, start by finding out what they already bring."* Knowles's assumptions are contested as a theory; treat them as working principles.
 
-[Full theory →](/theories/andragogy)
+[Full theory →](/theories/how-adults-learn)
 
 ## Cognitive load (Sweller)
 
@@ -28,7 +28,7 @@ The pattern throughout is **experience → name it → use it**: participants do
 
 **If someone pushes back:** *"My learners like everything on the slide so they can look back at it."* Reply: *"Then they need a handout. A slide and a document do different jobs. On screen, the extra text competes with you."*
 
-[Full theory →](/theories/cognitive-load)
+[Full theory →](/theories/too-much-at-once)
 
 ## Dual coding (Paivio)
 
@@ -38,7 +38,7 @@ The pattern throughout is **experience → name it → use it**: participants do
 
 **If someone pushes back:** *"These were lab studies with students. Wards are different."* Reply: *"Fair point about the evidence. Test it on your own slide: say it, show one picture, and see what people remember."* Don't let it slide into learning styles, which have no good evidence.
 
-[Full theory →](/theories/dual-coding)
+[Full theory →](/theories/pictures-and-words)
 
 ## Constructive alignment (Biggs)
 
@@ -48,7 +48,7 @@ The pattern throughout is **experience → name it → use it**: participants do
 
 **If someone pushes back:** *"Clinical teaching is too unpredictable to plan outcomes."* Reply: *"Biggs is about planned teaching, which is what we're designing. Even at the bedside, the question works: what do I want this learner to be able to do afterwards?"*
 
-[Full theory →](/theories/constructive-alignment)
+[Full theory →](/theories/line-it-up)
 
 ## Implementation intentions (Gollwitzer)
 
@@ -58,7 +58,7 @@ The pattern throughout is **experience → name it → use it**: participants do
 
 **If someone pushes back:** *"Writing it on a card won't make anyone do it."* Reply: *"On its own, probably not. It works for goals people already want, and it needs follow-up. That's why the next session opens by reading the ask back."*
 
-[Full theory →](/theories/implementation-intentions)
+[Full theory →](/theories/if-then-plans)
 
 ## Retrieval practice
 
@@ -68,7 +68,7 @@ The pattern throughout is **experience → name it → use it**: participants do
 
 **If someone pushes back:** *"Staff hate being tested."* Reply: *"So keep it low stakes: nicknames, no scores kept, a laugh. The benefit comes from the remembering, not the mark."*
 
-[Full theory →](/theories/retrieval-practice)
+[Full theory →](/theories/testing-beats-re-reading)
 
 ## Spaced practice
 
@@ -78,7 +78,7 @@ The pattern throughout is **experience → name it → use it**: participants do
 
 **If someone pushes back:** *"My learners remember things from years ago."* Reply: *"Usually things they've used again and again since. That's spacing at work."* Ebbinghaus tested himself on nonsense syllables: use the shape of the curve, not its exact numbers.
 
-[Full theory →](/theories/spaced-practice)
+[Full theory →](/theories/spread-it-out)
 
 ## Interleaving
 
@@ -88,7 +88,7 @@ The pattern throughout is **experience → name it → use it**: participants do
 
 **If someone pushes back:** *"Mixing it up just confuses people."* Reply: *"It does feel harder at the time, and practice scores can dip. The pay-off shows later."* The evidence is strongest for maths and telling categories apart; Dunlosky et al. (2013) rated it of moderate usefulness.
 
-[Full theory →](/theories/interleaving)
+[Full theory →](/theories/mix-it-up)
 
 ## Experiential learning (Kolb)
 
@@ -98,7 +98,7 @@ The pattern throughout is **experience → name it → use it**: participants do
 
 **If someone pushes back:** *"Isn't Kolb discredited?"* Reply: *"His learning styles are. The cycle is a useful description of how sessions can flow, not a proven mechanism, and that's how we use it."*
 
-[Full theory →](/theories/experiential-learning)
+[Full theory →](/theories/learning-from-experience)
 
 ## Kirkpatrick's four levels
 
@@ -108,7 +108,7 @@ The pattern throughout is **experience → name it → use it**: participants do
 
 **If someone pushes back:** *"Kirkpatrick has been heavily criticised."* Reply: *"It has. Holton (1996) argued it's a list of categories, not a model of cause and effect. Yardley and Dornan (2012) argued it suits only simple, short-term interventions in medical education, and shouldn't be used to rank evidence. We use it as shared language for one point: delivered isn't the same as changed."*
 
-[Full theory →](/theories/kirkpatrick-model)
+[Full theory →](/theories/did-the-training-work)
 
 ## Miller's pyramid
 
@@ -118,13 +118,13 @@ The pattern throughout is **experience → name it → use it**: participants do
 
 **If someone pushes back:** *"It's a framework for assessing doctors, not for planning teaching."* Reply: *"It came from clinical assessment, yes. We only borrow one idea: if your outcome says 'demonstrate', a quiz can't show it."*
 
-[Full theory →](/theories/millers-pyramid)
+[Full theory →](/theories/knowing-isnt-doing)
 
 ## Not in these sessions
 
 Some theories in the library are not taught in these three sessions. If they come up, point people to the [Theory Library](/theories).
 
-- **Psychological safety, debriefing with good judgement, and feedback** are parked for a separate simulation-based session. If feedback comes up, Hattie and Timperley's three questions are a good start: *Where am I going? How am I going? Where to next?* ([Feedback and Feedforward](/theories/feedback-feedforward))
-- **Maslow** is no longer part of the programme. If someone raises it, note that the hierarchy has weak research support: a major review found little evidence for a fixed order of needs (Wahba & Bridwell 1976). ([Hierarchy of Needs](/theories/maslow))
+- **Psychological safety, debriefing with good judgement, and feedback** are parked for a separate simulation-based session. If feedback comes up, Hattie and Timperley's three questions are a good start: *Where am I going? How am I going? Where to next?* ([Feedback and Feedforward](/theories/feedback-people-can-use))
+- **Maslow** is no longer part of the programme. If someone raises it, note that the hierarchy has weak research support: a major review found little evidence for a fixed order of needs (Wahba & Bridwell 1976). ([Hierarchy of Needs](/theories/basic-needs))
 
 *Part of Teaching That Sticks, CC BY 4.0. If you disagree with any of this, good. Bring it to the session.*

@@ -42,4 +42,4 @@ These six questions are the design canvas used throughout [the three sessions](/
 
 <a class="file-download" href="/handouts/design-canvas.pdf">The design canvas (A4)</a>
 
-The ideas behind it: [constructive alignment](/theories/constructive-alignment), [Miller's pyramid](/theories/millers-pyramid) and [the Kirkpatrick model](/theories/kirkpatrick-model).
+The ideas behind it: [constructive alignment](/theories/line-it-up), [Miller's pyramid](/theories/knowing-isnt-doing) and [the Kirkpatrick model](/theories/did-the-training-work).

@@ -37,7 +37,7 @@ By the end of the session, participants will have:
 ### The bad slide
 
 - **In the room:** use any genuinely bad slide from your own organisation. Recognition is what makes it land. Keep it as a separate file and never publish or circulate it.
-- **Public deck and anything shared:** use the fabricated "Falls Prevention Update" slide (<a href="/slides/cognitive_load_bad.png">cognitive_load_bad.png</a>). It's built from scratch, CC BY 4.0, and it's the same slide participants see again on the [cognitive load](/theories/cognitive-load) page: a reminder when they revisit.
+- **Public deck and anything shared:** use the fabricated "Falls Prevention Update" slide (<a href="/slides/cognitive_load_bad.png">cognitive_load_bad.png</a>). It's built from scratch, CC BY 4.0, and it's the same slide participants see again on the [cognitive load](/theories/too-much-at-once) page: a reminder when they revisit.
 - Set it to **auto-advance after 30 seconds** (Transitions → After: 00:30), followed by a solid black slide. No stopwatch.
 
 ### The deck
@@ -94,7 +94,7 @@ If you know someone in the group is colour-blind, ask them privately *beforehand
 - SAY: the question for all three weeks is *what do we need people to do differently, and how will our teaching make that happen?* Most teaching starts with the content or the agenda. We'll start with the change.
 - SAY: show the six-box canvas (Learners & context · Need · Outcomes · Evidence · Activities · Follow-through). One of *your* sessions, rebuilt over three weeks. Today, the most visible bit: the slides.
 - ASK (2 minutes, hands up): who's used Menti? Who can save a copy of a file? Select several slides at once? Note who's confident, for pairing later. SAY: this is the canvas's first box, *learners and context*, applied to this room.
-- WHY: adults learn from what they bring ([andragogy](/theories/andragogy)). The canvas is a map they'll see at every move, and it plants [constructive alignment](/theories/constructive-alignment) before it's named.
+- WHY: adults learn from what they bring ([andragogy](/theories/how-adults-learn)). The canvas is a map they'll see at every move, and it plants [constructive alignment](/theories/line-it-up) before it's named.
 - IF SHORT: three minutes on the opener is enough. Never cut the canvas.
 
 ### 9–14 · Look at the next slide → bad slide → what do you remember?
@@ -102,23 +102,23 @@ If you know someone in the group is colour-blind, ask them privately *beforehand
 - SAY: "Look at the next slide… No notes, no phones. It disappears after 30 seconds."
 - The bad slide shows for 30 s, auto-advances to black. Say nothing while it's up. Silence is the point.
 - ASK: "What do you remember?" One or two words each: a Menti word cloud shown alongside the slide, or shout-outs onto the flipchart. Read them out; let the laughter happen.
-- WHY: concrete experience before theory ([Kolb](/theories/experiential-learning)). They feel the overload, then test their own recall.
+- WHY: concrete experience before theory ([Kolb](/theories/learning-from-experience)). They feel the overload, then test their own recall.
 - FALLBACK: shout-outs onto the whiteboard.
 
 ### 14–22 · The bottleneck → the adverts → two channels
 
 Three bursts, each three minutes or less.
 
-- **Bottleneck.** SAY: small working memory (about four items), huge long-term memory, a narrow bottleneck between. Learning is getting through it. A full slide rests *your* memory and taxes *theirs*. On the retrieve arrow: "remember this arrow; it comes back next week." WHY: ~4 is Cowan (2001), revising Miller's 7±2. → [cognitive load](/theories/cognitive-load)
+- **Bottleneck.** SAY: small working memory (about four items), huge long-term memory, a narrow bottleneck between. Learning is getting through it. A full slide rests *your* memory and taxes *theirs*. On the retrieve arrow: "remember this arrow; it comes back next week." WHY: ~4 is Cowan (2001), revising Miller's 7±2. → [cognitive load](/theories/too-much-at-once)
 - **Adverts.** Dark, unlabelled slide: busy Black Friday ad scan, then the clean MacBook advert. ASK: what do you notice? (Wait 5–8 s.) SAY: some load belongs to the topic (intrinsic: scaffold it, can't remove it). Some is noise (extraneous), and that's the part *we* control. Everything on the bad slide was noise. WHY: keep it to two types. Germane load is contested; mention only if asked.
-- **Two channels.** *Text + Voice* competes ✗. *Image + Voice* complements ✓. SAY: notice what's happening now: a diagram, and me talking. WHY: dual coding is Paivio; the slide principles (redundancy, modality) are Mayer's. Printed words compete with the pictures for learners' eyes; a few key words are fine. Not "always add images": a busy infographic is more noise. → [dual coding](/theories/dual-coding)
+- **Two channels.** *Text + Voice* competes ✗. *Image + Voice* complements ✓. SAY: notice what's happening now: a diagram, and me talking. WHY: dual coding is Paivio; the slide principles (redundancy, modality) are Mayer's. Printed words compete with the pictures for learners' eyes; a few key words are fine. Not "always add images": a busy infographic is more noise. → [dual coding](/theories/pictures-and-words)
 - IF SHORT: never cut the bottleneck or two channels.
 
 ### 22–39 · Redesign: round 1
 
 - SAY: one slide, on paper. Open the envelope: build one slide that helps a nurse do *one thing* before leaving the bedside. Pick your pieces, cut the noise, image plus voice. Anything needed that doesn't belong on the slide goes in the speaker-notes strip. 15 minutes, then 2 minutes swapping with a neighbour: what did they cut?
 - LAPTOP ROUTE (if you're comfy): the same task in PowerPoint, on your own slide, one from the bad-slide pack, or the falls slide. Offer it; don't push it.
-- WHY: apply it straight away, while it's fresh. Paper removes the tool's extraneous load, and the kit makes it a completion task: the skill is choosing, not finding the menu ([cognitive load](/theories/cognitive-load)).
+- WHY: apply it straight away, while it's fresh. Paper removes the tool's extraneous load, and the kit makes it a completion task: the skill is choosing, not finding the menu ([cognitive load](/theories/too-much-at-once)).
 - SHOW FIRST (laptop route only, at their tables): expect basic PowerPoint gaps (in the second cohort, selecting several slides was a mystery). Shift-click or Ctrl-click (Cmd-click on Mac) to select slides, right-click → Duplicate slide, Ctrl/Cmd+Z to undo, and switch off Designer suggestions.
 - WATCH FOR: the "almost good" pieces. They're there to be argued about, so let the arguments happen. And "my organisation's template won't let me": acknowledge it; park it for Show us.
 - IF SHORT: cut the swap, not the redesign.
@@ -150,7 +150,7 @@ Three bursts, each three minutes or less.
 - **The typical slide:** white, bullets, every detail. READ EVERY WORD ALOUD, facing the screen. That's the experience. Don't comment.
 - **Rebuilt:** the cat, "Who is this slide for?", then ✓ the learner / ✗ your memory. ASK (think, don't answer): ever put everything on a slide so you wouldn't forget it? SAY: that was a security blanket. It was for me.
 - **Presenter view** (Morph transition): the slide shrinks to a thumbnail and the detail appears as speaker notes. "The detail didn't disappear. It moved." SAY (scaffolding): notice what changed between those slides. Eight ideas at once, versus one idea, then a click for the next. Chunk it, order it, reveal it when they're ready, then take the support away. You've had that all session: small pieces of theory, two redesign rounds with less help each time. The slide is one step; your notes hold the sequence.
-- WHY: [constructive alignment](/theories/constructive-alignment) at slide scale (it returns at session scale in Session 3); scaffolding (Wood, Bruner & Ross, 1976) and Mayer's segmenting principle. → [zone of proximal development](/theories/zone-of-proximal-development)
+- WHY: [constructive alignment](/theories/line-it-up) at slide scale (it returns at session scale in Session 3); scaffolding (Wood, Bruner & Ross, 1976) and Mayer's segmenting principle. → [zone of proximal development](/theories/just-enough-help)
 - IF SHORT: read only the first four bullets aloud. Never cut the presenter-view slide.
 
 ### 77–79 · "But sometimes the best slide is… no slide at all"
@@ -163,7 +163,7 @@ Three bursts, each three minutes or less.
 - Show the card wording: **"Before next week I will identify and redesign one or two slides (my own, or an example I find) and bring them."**
 - SAY: write it on the card now. Add *which* slides or *where* you'll look. Photograph it. Next week starts with what you did.
 - SAY: no slides of your own? The ask is to *find* one (intranet, a lecture, a training day) and fix it.
-- WHY: a specific, written intention with a built-in follow-up. → [implementation intentions](/theories/implementation-intentions)
+- WHY: a specific, written intention with a built-in follow-up. → [implementation intentions](/theories/if-then-plans)
 - IF SHORT: **never cut.** Start it at 79 minutes, even mid-discussion.
 
 ### 86–90 · Close (and buffer)
