@@ -1,5 +1,6 @@
 ---
 title: "Kirkpatrick Model"
+headline: "Did the training work? Four levels"
 summary: "Judge training by what people do differently afterwards, not just by whether they liked it or passed a quiz"
 sessions: ["session-3"]
 evidence:

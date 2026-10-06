@@ -1,5 +1,6 @@
 ---
 title: "Threshold Concepts"
+headline: "Ideas that change how you see a subject"
 summary: "Some ideas change how people see a whole subject once they get them, and it is normal to be stuck for a while first"
 sessions: []
 evidence:

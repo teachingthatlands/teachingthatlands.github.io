@@ -1,5 +1,6 @@
 ---
 title: "Constructive Alignment"
+headline: "Line up the goal, the practice and the check"
 summary: "Decide what people should be able to do, let them practise exactly that, and check for exactly that"
 sessions: ["session-1", "session-3"]
 evidence:

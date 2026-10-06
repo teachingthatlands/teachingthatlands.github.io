@@ -183,7 +183,7 @@ const askLabel = session.data.askLabel ?? `Your task before Session ${n + 1}`;
             {theories.map(t => t && (
               <a class="theory-row" href={`/theories/${t.id}`}>
                 <div class="theory-row-text">
-                  <span class="theory-row-name">{t.data.title}</span>
+                  <span class="theory-row-name">{t.data.headline}</span>
                   <span class="theory-row-summary">{t.data.summary}</span>
                 </div>
                 <span class="theory-row-arrow" aria-hidden="true">&#x2192;</span>

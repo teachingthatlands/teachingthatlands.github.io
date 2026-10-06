@@ -1,5 +1,6 @@
 ---
 title: "The Stolen Curriculum"
+headline: "What adverts can teach us"
 summary: "Good adverts are built to change what people do, using many of the same ideas as good teaching, so every ad can be a free lesson in design"
 sessions: []
 evidence:

@@ -1,5 +1,6 @@
 ---
 title: "Experiential Learning"
+headline: "Learning from experience"
 summary: "People learn more from an experience when they stop to think it through and then try again, so plan time for that rather than leaving it to chance"
 sessions: ["session-2"]
 evidence:

@@ -1,5 +1,6 @@
 ---
 title: "Retrieval Practice"
+headline: "Testing yourself beats re-reading"
 summary: "Trying to remember something helps it last longer than reading it again does"
 sessions: ["session-2"]
 evidence:

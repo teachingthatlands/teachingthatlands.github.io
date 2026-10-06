@@ -1,5 +1,6 @@
 ---
 title: "Interleaving"
+headline: "Mix it up when practising"
 summary: "Mixing different kinds of case or problem in practice feels harder, but usually helps people tell them apart later"
 sessions: ["session-2"]
 evidence:

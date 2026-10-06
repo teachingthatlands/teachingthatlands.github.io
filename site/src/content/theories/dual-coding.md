@@ -1,5 +1,6 @@
 ---
 title: "Dual Coding Theory"
+headline: "Pictures and words together"
 summary: "A clear picture and your spoken words work together, while a slide full of text competes with you"
 sessions: ["session-1"]
 evidence:

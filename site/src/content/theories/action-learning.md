@@ -1,5 +1,6 @@
 ---
 title: "Action Learning"
+headline: "Learning with peers by asking questions"
 summary: "A small group of colleagues helps each person think through a real problem from their own work by asking questions, not giving advice"
 sessions: []
 evidence:

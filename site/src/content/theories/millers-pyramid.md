@@ -1,5 +1,6 @@
 ---
 title: "Miller's Pyramid"
+headline: "Knowing it isn't doing it"
 summary: "Knowing something, knowing how, showing how and actually doing it are different, and each needs different evidence"
 sessions: ["session-3"]
 evidence:

@@ -7,7 +7,10 @@ import { glob } from 'astro/loaders';
 const theories = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/theories' }),
   schema: z.object({
+    /** The idea's name in the research, e.g. "Cognitive Load Theory" */
     title: z.string(),
+    /** Plain-English headline: the idea, not the name (cards, page heading) */
+    headline: z.string(),
     /** One-sentence summary shown in theory-row chips on session pages */
     summary: z.string(),
     /** Session slugs this theory appears in, e.g. ["session-1", "session-2"] */

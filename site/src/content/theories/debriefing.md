@@ -1,5 +1,6 @@
 ---
 title: "Debriefing with Good Judgement"
+headline: "Debriefing with honest curiosity"
 summary: "After someone practises, say honestly what you saw and then ask, with real curiosity, what was going through their mind"
 sessions: []
 evidence:

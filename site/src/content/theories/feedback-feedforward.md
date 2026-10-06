@@ -1,5 +1,6 @@
 ---
 title: "Feedback and Feedforward"
+headline: "Feedback people can act on"
 summary: "Useful feedback tells people what the goal is, how they did against it, and exactly what to try next"
 sessions: []
 evidence:

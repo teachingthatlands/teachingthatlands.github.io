@@ -1,5 +1,6 @@
 ---
 title: "Cognitive Load Theory"
+headline: "Too much at once"
 summary: "We can only juggle a few new things at once, so cut the clutter and give people one thing at a time"
 sessions: ["session-1"]
 evidence:

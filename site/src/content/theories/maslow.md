@@ -1,5 +1,6 @@
 ---
 title: "Hierarchy of Needs"
+headline: "When basic needs get in the way"
 summary: "Tiredness, worry or feeling left out can crowd out learning, so ask what else is going on before you redesign the session"
 sessions: []
 evidence:

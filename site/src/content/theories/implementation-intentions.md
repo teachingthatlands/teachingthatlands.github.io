@@ -1,5 +1,6 @@
 ---
 title: "Implementation Intentions"
+headline: "If-then plans"
 summary: "A plan that says when, where and what you'll do makes it more likely that people do what they meant to"
 sessions: ["session-1", "session-2", "session-3"]
 evidence:

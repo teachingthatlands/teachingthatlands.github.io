@@ -1,5 +1,6 @@
 ---
 title: "Spaced Practice"
+headline: "Spread learning out over time"
 summary: "Coming back to something after a gap helps it last longer than doing it all in one go"
 sessions: ["session-2"]
 evidence:

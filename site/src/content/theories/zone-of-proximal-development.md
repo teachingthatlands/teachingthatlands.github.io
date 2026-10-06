@@ -1,5 +1,6 @@
 ---
 title: "Zone of Proximal Development"
+headline: "Learning with just enough help"
 summary: "Teaching does the most good when it is pitched just beyond what someone can do alone, but within what they can do with help"
 sessions: ["session-1"]
 evidence:

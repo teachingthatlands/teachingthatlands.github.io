@@ -1,5 +1,6 @@
 ---
 title: "Psychological Safety"
+headline: "Feeling safe to speak up"
 summary: "People learn more when asking a question or admitting a mistake feels safe, and how you react is what makes it safe"
 sessions: []
 evidence:

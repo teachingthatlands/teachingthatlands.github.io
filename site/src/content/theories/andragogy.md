@@ -1,5 +1,6 @@
 ---
 title: "Andragogy"
+headline: "How adults tend to learn"
 summary: "Adults tend to learn best when they know why it matters, can use what they already know, and work on real problems"
 sessions: ["session-1"]
 evidence:
