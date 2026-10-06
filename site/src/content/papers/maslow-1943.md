@@ -11,46 +11,46 @@ sessions: []
 imagePrompt: "Five horizontal layers stacked vertically — the lowest layer is the widest, each layer above is slightly narrower. Each layer contains a simple abstract icon: a wave for physiological, a shield for safety, two overlapping rings for belonging, a star for esteem, and an upward arrow for self-actualisation. No pyramid outline — just the five layered bands floating cleanly. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
+**In one line:** Maslow argued that pressing basic needs, like hunger or fear, tend to take over until they're largely met. It's a famous idea, but the paper didn't test it, and later research has given it little support.
 
-## What the study did
+## What he did
 
-This is Maslow's original 1943 paper in *Psychological Review*, in which he proposed a theory of human motivation based on a hierarchical ordering of needs. The paper is explicitly theoretical — it is not a controlled experiment, a survey study, or a quantitative analysis. Maslow drew on clinical observation, philosophical reasoning, and existing psychological literature to argue that human motivations are organised in a pre-potency hierarchy: lower needs must be substantially (though not completely) satisfied before higher needs become motivationally salient.
+This isn't an experiment or a survey. It's an argument. Maslow, a psychologist, drew on his clinical work, other people's research and his own reasoning to propose a theory of what drives people. The paper appeared in *Psychological Review* in 1943. It's free to read online.
 
-The paper is in the public domain. A clean digital text is available at the York University Classics in the History of Psychology archive.
+## What he argued
 
-## What it found
+- **Five kinds of need, in a rough order.** Physiological (hunger, thirst, warmth, rest). Safety (security, stability, freedom from fear). Belonging and love. Esteem, meaning both self-respect and respect from others. And self-actualisation: becoming everything you're capable of becoming. Maslow said this last one looks different in each person.
+- **Unmet lower needs take priority.** A very hungry person is mostly driven by food. As one need is largely met, the next kind starts to matter more.
+- **It isn't a strict ladder.** Maslow said the order is "not nearly as rigid" as his own description might suggest, and he listed exceptions. He also said most needs are only partly met at any one time.
+- **Curiosity sits apart.** He treated the wish to know and understand as a separate drive, not one of the five levels.
+- **There's no pyramid.** The paper has no pyramid in it. It first appeared in 1960, in a business magazine article by a management consultant, Charles McDermid. The pyramid makes the idea look more rigid than Maslow meant, as if each need is either met or not.
 
-**The five need levels (in order of pre-potency):**
-1. **Physiological needs:** Hunger, thirst, warmth, rest. When chronically unmet, these dominate motivation entirely. A person who is hungry is primarily motivated by food.
-2. **Safety needs:** Security, stability, freedom from fear, need for structure. Once physiological needs are met, safety needs become salient.
-3. **Belonging and love needs:** Affiliation, acceptance, feeling part of a group or community.
-4. **Esteem needs:** Both self-esteem (competence, achievement, mastery) and esteem from others (recognition, respect).
-5. **Self-actualisation:** The desire to realise one's full potential, to become everything one is capable of becoming. Maslow noted this takes a unique form in each individual.
+## How much should you trust it?
 
-**Pre-potency:** The hierarchy is not a strict ladder — it is a hierarchy of relative dominance. You can be partially motivated by belonging needs while physiological needs are mostly but not fully satisfied. The point is that lower needs *take priority* when unmet, diverting motivational resources away from higher-level concerns.
+**A famous idea with weak evidence: useful as a prompt, not as a tested model.**
 
-**The crucial caveat — the pyramid was not in the original paper.** There is no triangle or pyramid in Maslow's 1943 text. The pyramid first appeared in a 1960 business journal article by a management consultant, Charles McDermid, and spread through management textbooks from there. The pyramid implies a rigid hierarchy and a binary state (either a need is met or it is not) that Maslow explicitly argued against. The original paper describes something more fluid — overlapping motivational states in which lower needs are "substantially" rather than completely satisfied before higher needs become active.
+- The paper is theory, not data. Maslow didn't test the hierarchy.
+- When others did test it, support was thin. A 1976 review of the research found very little support for the order of needs (Wahba and Bridwell).
+- Self-actualisation is hard to pin down or measure. It may reflect a Western, individual view of a good life. Some researchers think the order may differ between cultures, for example with belonging coming before safety.
+- The idea lasts because it feels right and is easy to use, not because the evidence is strong.
 
-## The one finding worth quoting in a meeting
+## If you need to convince someone
 
-**In our words (a paraphrase, not a quotation):** Maslow never drew a pyramid. The pyramid implies you climb needs like a ladder — meet one, move to the next. Maslow's actual argument is about pre-potency: unmet lower needs pull attention away from higher concerns. A learner who doesn't feel safe in their team is not primarily motivated by professional development, however excellent the training content is.
+**In our words (a paraphrase, not a quotation):** Maslow never drew a pyramid, and he didn't think needs were met one level at a time. His point was looser: pressing unmet needs pull attention away from other things, learning included.
 
-This reframing is clinically significant. If a foundation doctor's psychological safety is threatened by their team environment, even high-quality teaching may struggle to compete with that unmet need.
+## What it means for you
 
-## Honest limitations
-
-- The theory is based on clinical observation and theoretical reasoning, not empirical research — the hierarchy has not been consistently confirmed in quantitative studies; Wahba & Bridwell's 1976 review of the research found very limited support for the specific ordering
-- The self-actualisation concept is poorly operationalised and arguably culture-specific — it maps most cleanly onto individualised Western notions of fulfilment
-- Cross-cultural validity is questionable — research in collectivist cultures suggests belonging needs may be pre-potent over safety needs in some populations
-- The empirical literature on needs hierarchies is weak; the theory's endurance owes more to its intuitive plausibility and usability in professional development contexts than to direct evidence
-- The pyramid misrepresentation has calcified in management and education training to the extent that correcting it often generates resistance
-
-## What it means for your practice
-
-The most important practical insight for clinical educators is the **environmental pre-condition for learning**: if a learner's lower-order needs are unmet — they are exhausted (physiological), they feel their job is insecure (safety), they feel isolated in their team (belonging), or they feel consistently disrespected (esteem) — even good teaching may not land as well as you hoped. Check what else is going on before redesigning the session.
-
-This is not a reason to do nothing about the content — it is a reason to pay attention to the environment the learner is working in. The most effective session design cannot compensate for a team culture that violates psychological safety, which is why Edmondson (1999) and Maslow address the same underlying issue from different directions.
+1. **Look beyond the session.** If someone is exhausted, worried about their job, isolated in their team or feels disrespected, even good teaching may not land as well as you hoped. Check what else is going on before you redesign the session.
+2. **Don't use it to label people.** It's a prompt to ask a question, not a way to sort someone into a level.
+3. **Pay attention to the setting.** A good session can't make up for a team where people are afraid to speak. That's a separate idea with better evidence behind it: [psychological safety](/papers/edmondson-1999).
 
 ## How it appears in Teaching That Sticks
 
-Not taught directly in the three core sessions. Useful background when a learner's difficulty may be about welfare rather than teaching.
+It doesn't. Maslow isn't part of the programme. The facilitator guide suggests that if someone raises it, you mention that the hierarchy has weak research support. It's in the library because people often ask about it.
+
+## The small print
+
+- **Pre-potency.** Maslow's word for one need taking priority over another. He meant it as a matter of degree, not on or off.
+- **What kind of review?** Wahba and Bridwell (1976) wrote a narrative review: a careful reading of the studies so far. It wasn't a *meta-analysis*, which pools the numbers from many studies into one overall result.
+- **Rebuilding the pyramid.** Kenrick and colleagues (2010) proposed a revised version based on evolutionary psychology. It's an interesting update, but it's also a theory rather than a tested result.
+- **Who built the pyramid?** Bridgman, Cummings and Ballard (2019) traced it to McDermid's 1960 article, and from there into management textbooks.
