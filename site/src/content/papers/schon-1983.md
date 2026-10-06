@@ -9,40 +9,49 @@ sessions: []
 imagePrompt: "A simple diagram showing a cyclical loop between two nodes. The left node is labelled 'Action' with a hand-movement icon. The right node is labelled 'Reflection' with a thought-cloud icon. An arrow loops from Action to Reflection above the line, labelled 'reflection-on-action'. A second smaller arrow loops inside the Action node itself, labelled 'reflection-in-action', suggesting ongoing self-correction during the act. Below the diagram, a small horizontal bar is split into a bright clear upper section labelled 'High ground' and a murky lower section labelled 'The swamp'. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
-## What the book did
+**In one line:** skilled professionals don't just apply rules from a textbook; they think on their feet and learn by looking back, and teaching should help people do both.
 
-Schön studied how experienced professionals actually think and work — an architect designing a building, a psychotherapist interpreting a patient's resistance, a town planner confronting a neighbourhood's conflicting interests, a manager navigating an organisational crisis — and compared what he observed with the dominant model of professional practice: *technical rationality*.
+## What Schön did
 
-Technical rationality holds that professional expertise is applied science: practitioners identify a problem, select the appropriate theoretical framework, apply it systematically, and derive a solution. This is the model that underpins most professional training, including most clinical education. Schön argued this model is incomplete: it works on the "high, hard ground" of well-defined problems, but the problems of greatest human concern sit in the "swampy lowland", where it falls short.
+This isn't an experiment. It's a book, built on close case studies of professionals at work: an architect teaching a student to design, a psychotherapist with a client, a town planner, a manager and others.
 
-The real problems — the ones with the most clinical significance — live in what Schön called **the swamp**: messy, ill-structured, value-laden, context-dependent situations where the problem itself is not clear until you start working on it, where the "right" answer depends on which way you frame the question, and where expertise is expressed not as the application of rules but as the exercise of practical judgment. He observed that the professionals who handled these situations best were doing something he called *reflection-in-action* — and that professional education, almost universally, was failing to develop it.
+Schön compared what he saw with the standard view of professional skill, which he called *technical rationality*. In that view, a professional is someone who applies science: spot the problem, pick the right theory, apply it, get the answer. Much professional training is built this way.
 
-## What it found
+## What he argued
 
-**Reflection-in-action**: Skilled practitioners continuously reframe and experiment with the situations they encounter, *in real time*, without stopping to apply a formal analytical method. A consultant taking a history is simultaneously forming hypotheses, listening for what does not fit, and adjusting their questions. A skilled debriefer is noticing the room's energy, modifying their line of inquiry, and responding to what they observe — not working through a checklist. This is not guesswork; it is a highly disciplined form of situated intelligence that cannot be reduced to explicit rules.
+- **The textbook model is incomplete.** It works on what Schön called the "high, hard ground": clear problems that research and technique can solve. But the problems of greatest human concern sit in the "swampy lowland": messy, unclear, and tangled up with values. There, technique alone falls short.
+- **In the swamp, you have to work out what the problem is.** Often the problem isn't clear until you start working on it. How you frame it decides what counts as a good answer.
+- **Experts know more than they can say.** Schön called this *knowing-in-action*: a feel for a situation that's hard to put into words. An experienced nurse may sense a patient is going off before she can say why.
+- **Skilled people think while they act.** When something surprising happens, they adjust on the spot: they notice what doesn't fit, try a different approach and watch what happens. He called this *reflection-in-action*.
+- **They also look back afterwards.** Thinking back over what happened, why, and what you'd do differently is *reflection-on-action*. It is slower and easier to teach. It's what good supervision and debriefs aim to support.
 
-**Reflection-on-action**: After an event, practitioners who learn from experience engage in deliberate review — what happened, why it unfolded as it did, what assumptions proved wrong, what they would do differently. This is slower, more explicit, and more teachable than reflection-in-action, and it is what good clinical supervision and debriefing are designed to activate.
+## How much should you trust it?
 
-**The knowing-in-practice**: Experts develop tacit knowledge — a "feel" for situations that they cannot fully articulate. A senior clinician recognises that something is wrong before they can name what it is. A skilled facilitator knows when to push and when to hold back without consciously calculating the decision. This embodied practical intelligence is built through experience accompanied by reflection, not through instruction alone.
+**Hugely influential, but built on case studies rather than tests.**
 
-**Technical rationality fails in the swamp — and the swamp is where patients are**. The cases that matter most clinically — the deteriorating patient on a busy ward, the family who cannot accept a diagnosis, the team that has stopped functioning — are precisely the cases that resist technical solutions. Professionals trained only in technical knowledge will be well-equipped for the parts of the job that algorithms can handle, and underprepared for the parts that require judgment.
+- The evidence is a small set of case studies, chosen and described by Schön, not controlled research.
+- Reflection-in-action is hard to see or measure. Critics, such as Michael Eraut (1995), have questioned how much of it can really happen under time pressure.
+- Schön didn't study healthcare simulation or debriefing. The evidence that debriefing helps (for example Cheng and colleagues, 2014) comes from a separate line of research.
+- The "high ground" and the "swamp" are a useful picture, but real clinical work often sits somewhere in between.
 
-## What this means for teaching
+## If you need to convince someone
 
-**Debriefing is not an optional extra.** Reflection-on-action is the process by which experience becomes learning. Schön's ideas suggest that reflecting afterwards is where much of the learning from experience is consolidated, which is why simulation without a debrief wastes much of its value. The debrief — structured inquiry into what happened and why — is where much of the learning is.
+**In our words (a paraphrase, not a quotation):** the problems that matter most at work rarely come with a clear answer, so people need practice at working out what the problem is, not only at applying the rules.
 
-- **Advocacy-inquiry (Rudolph et al., 2007) builds on Argyris and Schön's work on uncovering the reasoning behind actions.** The "good judgement model" of debriefing is built on Schön's insight that a learner's action was the product of their reasoning frame — and that the most important thing a debriefer can do is make that frame visible and open it to examination.
-- **The goal of clinical teaching is not correct answers — it is better framing.** An expert who gives trainees the right answer helps them solve this problem. An expert who asks "how were you thinking about that?" helps them develop the capacity to solve the next ten problems they haven't encountered yet.
-- **Implementation intentions (Gollwitzer, 1999) address the reflection-to-action gap.** Reflection-on-action produces insight. Insight does not automatically produce changed behaviour. The "if-then" planning technique is one evidence-based bridge from reflective insight to behavioural change on the ward.
-- **The hardest teaching development goal is developing practical wisdom, not adding knowledge.** Programme designers who measure success only at Kirkpatrick Level 2 (did learners understand the content?) are measuring the easy outcomes. Kirkpatrick Level 3 (did behaviour change?) requires developing the reflective capacity that Schön described — and that requires time, structure, and a culture that treats reflection as work, not as a soft add-on.
+## What it means for you
 
-## Honest limitations
-
-- Schön's evidence is a set of case studies of professionals at work (architects, therapists, planners, managers), not controlled research
-- Reflection-in-action is hard to observe or test; critics such as Eraut (1995) have questioned how much of it can really happen under time pressure
-- Schön did not study clinical simulation or debriefing; the debriefing evidence (e.g. Cheng et al., 2014) shows debriefing helps, which is a separate line of research
-- His contrast between the "high ground" and the "swamp" is a useful picture, but real clinical work often sits somewhere in between
+1. **Make time to look back.** After a practical session, a simulation or a tricky shift, ask: what happened, what surprised you, and what will you do next time? Schön's ideas suggest that much of the learning from experience gets fixed in place here. That's why a simulation with no debrief wastes much of its value.
+2. **Ask about thinking, not just the answer.** "How were you thinking about that?" helps a learner with the next problem, not only this one.
+3. **Use messy, real cases.** If you only teach the clear-cut version, people won't practise framing problems. Bring a real case with no single right answer.
+4. **Turn insight into action.** Reflecting gives insight, but insight doesn't automatically change what people do. An [if-then plan](/theories/implementation-intentions) is one way to bridge the gap: start from what you want to do differently, and plan when you'll do it.
 
 ## How it appears in Teaching That Sticks
 
-Not taught directly in the three core sessions. Useful background for why the programme asks participants to rethink a session, not just polish it.
+Not taught directly in the three core sessions. It's useful background for why the programme asks participants to rethink a session, not just polish it. Debriefing is parked for a separate simulation-based session.
+
+## The small print
+
+- Schön first worked with Chris Argyris on how people's stated beliefs differ from how they act (see [Argyris and Schön](/papers/argyris-schon-1978)). That earlier work, more than this book, is what Rudolph and colleagues' [debriefing with good judgement](/papers/rudolph-2007) builds on.
+- Reflection-in-action happens during the task, often without stopping. Reflection-on-action happens afterwards. Reflective practice in nursing and other professions often uses these two terms.
+- A related idea is Kolb's [experiential learning](/theories/experiential-learning) cycle: an experience, then reflecting on it, making sense of it and trying something new.
+- Eraut, M. (1995). Schön shock: a case for reframing reflection-in-action? *Teachers and Teaching*, 1(1), 9–22. Cheng, A., et al. (2014). Debriefing for technology-enhanced simulation: a systematic review and meta-analysis (a study that pools the results of many others). *Medical Education*, 48(7), 657–666.
