@@ -29,17 +29,17 @@ The paper is in the public domain. A clean digital text is available at the York
 
 **Pre-potency:** The hierarchy is not a strict ladder — it is a hierarchy of relative dominance. You can be partially motivated by belonging needs while physiological needs are mostly but not fully satisfied. The point is that lower needs *take priority* when unmet, diverting motivational resources away from higher-level concerns.
 
-**The crucial caveat — the pyramid was not in the original paper.** There is no triangle or pyramid in Maslow's 1943 text. The famous pyramid visualisation was introduced by management consultants and training materials in the 1950s–60s. The pyramid implies a rigid hierarchy and a binary state (either a need is met or it is not) that Maslow explicitly argued against. The original paper describes something more fluid — overlapping motivational states in which lower needs are "substantially" rather than completely satisfied before higher needs become active.
+**The crucial caveat — the pyramid was not in the original paper.** There is no triangle or pyramid in Maslow's 1943 text. The pyramid first appeared in a 1960 business journal article by a management consultant, Charles McDermid, and spread through management textbooks from there. The pyramid implies a rigid hierarchy and a binary state (either a need is met or it is not) that Maslow explicitly argued against. The original paper describes something more fluid — overlapping motivational states in which lower needs are "substantially" rather than completely satisfied before higher needs become active.
 
 ## The one finding worth quoting in a meeting
 
 **In our words (a paraphrase, not a quotation):** Maslow never drew a pyramid. The pyramid implies you climb needs like a ladder — meet one, move to the next. Maslow's actual argument is about pre-potency: unmet lower needs pull attention away from higher concerns. A learner who doesn't feel safe in their team is not primarily motivated by professional development, however excellent the training content is.
 
-This reframing is clinically significant. If a foundation doctor's psychological safety is threatened by their team environment, no amount of high-quality educational content will be as salient as that unmet need.
+This reframing is clinically significant. If a foundation doctor's psychological safety is threatened by their team environment, even high-quality teaching may struggle to compete with that unmet need.
 
 ## Honest limitations
 
-- The theory is based on clinical observation and theoretical reasoning, not empirical research — the hierarchy has not been consistently confirmed in quantitative studies; Wahba & Bridwell's 1976 meta-analysis found very limited empirical support for the specific ordering
+- The theory is based on clinical observation and theoretical reasoning, not empirical research — the hierarchy has not been consistently confirmed in quantitative studies; Wahba & Bridwell's 1976 review of the research found very limited support for the specific ordering
 - The self-actualisation concept is poorly operationalised and arguably culture-specific — it maps most cleanly onto individualised Western notions of fulfilment
 - Cross-cultural validity is questionable — research in collectivist cultures suggests belonging needs may be pre-potent over safety needs in some populations
 - The empirical literature on needs hierarchies is weak; the theory's endurance owes more to its intuitive plausibility and usability in professional development contexts than to direct evidence
@@ -47,7 +47,7 @@ This reframing is clinically significant. If a foundation doctor's psychological
 
 ## What it means for your practice
 
-The most important practical insight for clinical educators is the **environmental pre-condition for learning**: if a learner's lower-order needs are unmet — they are exhausted (physiological), they feel their job is insecure (safety), they feel isolated in their team (belonging), or they feel consistently disrespected (esteem) — no educational intervention will operate as designed. The content will be processed but the motivation to apply it will not be there.
+The most important practical insight for clinical educators is the **environmental pre-condition for learning**: if a learner's lower-order needs are unmet — they are exhausted (physiological), they feel their job is insecure (safety), they feel isolated in their team (belonging), or they feel consistently disrespected (esteem) — even good teaching may not land as well as you hoped. Check what else is going on before redesigning the session.
 
 This is not a reason to do nothing about the content — it is a reason to pay attention to the environment the learner is working in. The most effective session design cannot compensate for a team culture that violates psychological safety, which is why Edmondson (1999) and Maslow address the same underlying issue from different directions.
 

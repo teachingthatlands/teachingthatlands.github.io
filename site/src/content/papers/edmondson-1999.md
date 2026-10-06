@@ -24,13 +24,13 @@ Edmondson studied 51 work teams in a large manufacturing company, examining the 
 
 **Leadership matters:** Team leader coaching and a supportive organisational context were associated with higher psychological safety — the way leaders respond when people ask questions or raise problems shapes whether the team feels safe to do so.
 
-**The nursing unit finding (Edmondson, 1996 — the earlier companion study):** Studying eight nursing units across two teaching hospitals, Edmondson found that units with better-rated nurse-manager leadership and coworker relationships had *higher* detected medication-error rates, not lower. The obvious interpretation would be that those units made more errors. A researcher blind to the error data then observed each unit and found the better-led units were also far more open about discussing mistakes — suggesting the difference lay largely in willingness to report, not in errors made. High-performing teams are not error-free — they are more transparent about the errors they make. (The term "psychological safety" was developed in the later 1999 paper; this was the observation that prompted it.)
+**The nursing unit finding (Edmondson, 1996 — the earlier companion study):** Studying eight nursing units across two teaching hospitals, Edmondson found that units with better-rated nurse-manager leadership and coworker relationships had *higher* detected medication-error rates, not lower. The obvious interpretation would be that those units made more errors. A researcher blind to the error data then observed each unit and found the better-led units were also far more open about discussing mistakes — suggesting the difference lay largely in willingness to report, not in errors made. High-performing teams are not error-free — they are more transparent about the errors they make. (Edmondson developed the idea of *team* psychological safety in the later 1999 paper, building on earlier work; this was the observation that prompted it.)
 
 ## The one finding worth quoting in a meeting
 
 **In our words (a paraphrase of Edmondson, 1996, not a quotation):** the better-led nursing units reported more errors than the others — most likely not because they made more errors, but because their staff felt safe enough to admit them.
 
-This finding reframes error reporting in healthcare entirely. Low reporting rates are not evidence of a safe system. They are evidence of a team that does not feel safe enough to speak.
+This finding changes how to read error reporting in healthcare. Low reporting rates are not proof of a safe system; they may mean people don't feel safe enough to speak.
 
 ## Honest limitations
 
@@ -44,9 +44,9 @@ This finding reframes error reporting in healthcare entirely. Low reporting rate
 
 Two practical implications:
 
-**1. Error reporting is a culture indicator, not an incidence indicator.** If your team rarely escalates concerns, questions decisions, or reports near-misses, this is not evidence of a high-performing team. It is evidence of low psychological safety. The correct response is not to investigate why errors are being made — it is to investigate why they are not being reported.
+**1. Error reporting tells you about culture as well as about errors.** If your team rarely escalates concerns, questions decisions, or reports near-misses, this is not evidence of a high-performing team. A low reporting rate can mean people don't feel safe to report, not that fewer errors happen. Look at both: why errors happen, and whether they are being reported.
 
-**2. Every teaching interaction builds or erodes safety.** The way a senior clinician responds to a wrong answer, a missed diagnosis, or an admission of uncertainty in the next five minutes will affect the learning climate of that team for weeks. There is no neutral response. A sigh is a response. Silence is a response. Both carry information about whether it is safe to be visibly wrong in this team.
+**2. Every teaching interaction builds or erodes safety.** The way a senior clinician responds to a wrong answer, a missed diagnosis, or an admission of uncertainty in the next five minutes can shape how safe the team feels to speak up. There is no neutral response. A sigh is a response. Silence is a response. Both carry information about whether it is safe to be visibly wrong in this team.
 
 ## How it appears in Teaching That Sticks
 

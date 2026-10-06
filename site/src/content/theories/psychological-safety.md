@@ -7,11 +7,11 @@ evidence:
     paper: "edmondson-1999"
   - cite: "Edmondson, A. C. (1996). Learning from mistakes is easier said than done: Group and organizational influences on the detection and correction of human error. <em>Journal of Applied Behavioral Science</em>, 32(1), 5–28."
   - cite: "Edmondson, A. C. (2018). <em>The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth</em>. Wiley."
-  - cite: "Appelbaum, N. P., Lee, N., Amendola, M., Dodson, K., &amp; Kaplan, B. (2016). Surgical resident education during patient care. <em>Surgery</em>, 159(3), 880–886."
+  - cite: "Appelbaum, N. P., Dow, A., Mazmanian, P. E., Jundt, D. K., &amp; Appelbaum, E. N. (2016). The effects of power, leadership and psychological safety on resident event reporting. <em>Medical Education</em>, 50(3), 343–350."
   - cite: "O'Donovan, R., De Brún, A., &amp; McAuliffe, E. (2021). Healthcare professionals experience of psychological safety, voice, and silence. <em>Frontiers in Psychology</em>, 12, 626689."
 ---
 
-Amy Edmondson's early study of hospital nursing units (1996) found something counterintuitive: the better-led units had *higher* recorded error rates, not lower — most likely because staff there felt safe enough to report and discuss mistakes rather than conceal them. In her later study of 51 work teams in a manufacturing company (1999), she named this *psychological safety* — the shared belief that the team is safe for interpersonal risk-taking — and showed that it predicted team learning behaviour, which in turn predicted team performance.
+Amy Edmondson's early study of hospital nursing units (1996) found something counterintuitive: the better-led units had *higher* recorded error rates, not lower — most likely because staff there felt safe enough to report and discuss mistakes rather than conceal them. In her later study of 51 work teams in a manufacturing company (1999), she developed the idea of *team psychological safety* (building on earlier work by Schein and Bennis, and Kahn) — the shared belief that the team is safe for interpersonal risk-taking — and showed that it predicted team learning behaviour, which in turn predicted team performance.
 
 In clinical education, the stakes are high and the hierarchies are steep. Learners who fear being judged — for not knowing, for asking the "wrong" question, for getting something wrong — stop asking and stop admitting. They develop surface strategies: nod, copy, avoid exposure. They may pass assessments while remaining genuinely unsafe practitioners, because the conditions for learning never existed.
 

@@ -28,13 +28,13 @@ Hattie and Timperley synthesised meta-analyses on the effects of feedback on stu
 
 **On feedback to teachers:** The authors conclude that teachers need to seek and learn from feedback — for example, from students' responses to tests — as much as students do, so they know how their teaching is landing and what to do next. (Specific effect sizes often attached to this idea, such as d = 0.90, come from Hattie's later *Visible Learning* work rather than this paper.)
 
-**Feed-up, feedback, feed-forward:** The three-question framework — *where am I going? how am I going? where to next?* — is derived from the synthesis. The most common feedback failure is providing feedback on *where am I going* (task goals) without providing direction for *where to next* (feed-forward). Without feed-forward, feedback closes down rather than opens up.
+**Feed-up, feedback, feed-forward:** The three-question framework — *where am I going? how am I going? where to next?* — is derived from the synthesis. Most feedback in classrooms is about the task (right or wrong). Learners get the most from it when it also tells them what to do next.
 
 ## The one finding worth quoting in a meeting
 
 **In our words (a paraphrase, not a quotation):** praise directed at the person is the least effective form of feedback. It carries little information about the task, and in some contexts it can undermine future performance.
 
-Or, for a clinical audience: the *"good job"* at the end of a procedure is not feedback. It is social reinforcement. These are different things, and conflating them is why most clinical feedback produces no learning.
+Or, for a clinical audience: the *"good job"* at the end of a procedure is not feedback. It is social reinforcement. These are different things, and mixing the two up is one reason so much clinical feedback is less useful than it could be.
 
 ## Honest limitations
 
@@ -51,7 +51,7 @@ Three questions to ask before every piece of feedback you give:
 2. Does my feedback tell them specifically what happened relative to that goal? (Not *"good"* — what exactly was good, and why does it matter?)
 3. Does my feedback tell them what to try differently next time? (Feed-forward is the most neglected and most powerful component)
 
-The clinical time pressure objection is real but surmountable: *"That was a strong cannulation — you stabilised the vein well. Next time, try narrating your steps to the patient as you go — it reduces their anxiety and slows you down just enough to reduce infiltration risk."* That is 15 seconds. It contains feed-up (implicit goal), feedback (what they did), and feed-forward (what to try next).
+The clinical time pressure objection is real but surmountable: *"That was a strong cannulation — you stabilised the vein well. Next time, try talking the patient through each step as you go."* That is 15 seconds. It contains feed-up (implicit goal), feedback (what they did), and feed-forward (what to try next).
 
 ## How it appears in Teaching That Sticks
 
