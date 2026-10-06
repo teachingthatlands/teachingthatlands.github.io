@@ -14,7 +14,7 @@ imagePrompt: "An if-then flowchart. A diamond shape on the left labelled IF cont
 
 ## What the study did
 
-This is the foundational paper in which Gollwitzer introduced the concept of implementation intentions to the psychological literature and proposed the theoretical mechanism explaining why they work. Where the later Gollwitzer & Sheeran (2006) meta-analysis provides the quantitative evidence, this paper provides the *model* — the distinction between goal intentions and implementation intentions, and the cognitive process by which if-then plans translate motivation into action.
+This is the best-known overview of implementation intentions. Gollwitzer first described the idea in 1993; this 1999 paper pulled the early research together and set out why if-then plans work. Where the later Gollwitzer & Sheeran (2006) meta-analysis provides the quantitative evidence, this paper provides the *model* — the distinction between goal intentions and implementation intentions, and the cognitive process by which if-then plans translate motivation into action.
 
 ## What it found
 
@@ -24,7 +24,7 @@ This is the foundational paper in which Gollwitzer introduced the concept of imp
 
 **The mechanism — strategic automaticity:** By forming an implementation intention, people delegate control of behaviour from conscious deliberation to the environment. When the anticipated cue (Z) is encountered, the linked behaviour (Y) is initiated automatically — without requiring fresh effort, attention, or willpower at that moment. Gollwitzer called this *strategic automaticity* — the deliberate creation of an automatic response.
 
-**Studies in the paper:** Gollwitzer reported a series of experiments showing that participants who specified when, where, and how they would complete a task (implementation intention group) completed it at substantially higher rates than those who stated only their intention to complete it (goal intention group). The effects were large and replicated across multiple goal domains.
+**Studies in the paper:** Gollwitzer reviewed a set of studies, his own and others', showing that people who said when, where and how they would do a task (implementation intention group) were more likely to do it than people who only said they intended to (goal intention group). The effects were large and replicated across multiple goal domains.
 
 ## The one finding worth quoting in a meeting
 
@@ -34,7 +34,7 @@ The clinical education implication: *"I will teach better"* requires a new decis
 
 ## Honest limitations
 
-- The original studies used relatively simple behavioural goals in controlled settings; the laboratory conditions do not fully replicate the complexity and competing demands of clinical environments
+- The original studies mostly used relatively simple behavioural goals, many in controlled settings; the laboratory conditions do not fully replicate the complexity and competing demands of clinical environments
 - The paper is theoretical and empirical but predates the large-scale meta-analyses — see Gollwitzer & Sheeran (2006) for the quantitative synthesis across 94 studies
 - The mechanism of automaticity has been debated — some subsequent research suggests implementation intentions work partly through enhanced attentional monitoring of cues rather than pure automaticity
 

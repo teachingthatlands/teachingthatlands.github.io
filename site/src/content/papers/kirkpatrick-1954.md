@@ -25,7 +25,7 @@ The model was designed to solve a practical problem: training departments needed
 
 **Level 4 — Results:** What organisational or patient outcomes resulted from the behaviour change? Fewer medication errors? Shorter debrief times? Improved learner satisfaction scores? Level 4 requires a causal chain from training through behaviour change to organisational impact — which is difficult to establish and almost never attempted in routine clinical education.
 
-**The critical insight:** The four levels are not correlated automatically. High Level 1 scores (participants enjoyed the session) do not reliably predict Level 2 outcomes (they learned something), and Level 2 outcomes do not guarantee Level 3 change (they changed their practice). This is less Kirkpatrick's own finding than what later research showed: a meta-analysis by Alliger and colleagues (1997, *Personnel Psychology*) found that reaction measures were largely unrelated to learning, behaviour or results. The model's lasting contribution is giving us the vocabulary to say it: enjoyment is not learning, and learning is not change.
+**The critical insight:** The four levels are not correlated automatically. High Level 1 scores (participants enjoyed the session) do not reliably predict Level 2 outcomes (they learned something), and Level 2 outcomes do not guarantee Level 3 change (they changed their practice). This is less Kirkpatrick's own finding than what later research showed: a meta-analysis by Alliger and colleagues (1997, *Personnel Psychology*) found that how much people *enjoyed* training was barely related to how much they learned or changed. Ratings of how *useful* it was did a little better, but were still only weak signals. The model's lasting contribution is giving us the vocabulary to say it: enjoyment is not learning, and learning is not change.
 
 ## The one finding worth quoting in a meeting
 
@@ -38,8 +38,8 @@ For clinical education: a post-session feedback form asking *"was this session w
 - The four levels are a conceptual framework, not an empirically derived theory. Kirkpatrick did not establish statistically how often each level predicts the next — subsequent research (e.g. Alliger et al., 1997) has found the inter-level correlations are modest and inconsistent
 - The model has been critiqued for presenting a linear, hierarchical relationship between levels that is more complex in practice. High Level 3 outcomes do not always require strong Level 2 outcomes; some behaviour change occurs through social and environmental mechanisms that bypass measured knowledge acquisition
 - Level 4 is theoretically important but practically difficult. Establishing a causal chain from a 90-minute session to patient outcomes requires research design capability that most clinical education teams do not have
-- The model focuses on individual training events; it was not designed for the kind of cumulative, practice-embedded learning that Lave and Wenger (1991) argue is the primary mechanism of professional development
-- Later taxonomies (such as Brinkerhoff's Success Case Method) have argued that the four-level model encourages too much attention to what went wrong rather than to understanding what changed for participants who did transfer learning to practice
+- The model focuses on individual training events; it was not designed for the kind of cumulative, practice-embedded learning that Lave and Wenger (1991) describe
+- Brinkerhoff's Success Case Method argues that average scores hide the story. It looks closely at the people who did and did not apply the training, to find out what helped or blocked them
 
 ## What it means for your practice
 
@@ -50,7 +50,7 @@ For most clinical educators running a session, a feasible minimum is:
 - **Level 2:** One question or brief task that checks whether the key learning objective was met
 - **Level 3:** A single follow-up contact — email, Padlet, or message — at 30 days asking: *"What has changed in your teaching since the session?"*
 
-Level 3 is the level that changes culture. It is also the one that almost nobody does. The follow-through loop in Session 3 (30, 60 and 90 days, and who will hold you to it, and what support you need from them) is a direct response to this finding.
+Level 3 is the level that changes culture. It is also the level that is done far less often than it should be. The follow-through loop in Session 3 (30, 60 and 90 days, and who will hold you to it, and what support you need from them) is a direct response to this finding.
 
 ## How it appears in Teaching That Sticks
 

@@ -28,7 +28,7 @@ Gollwitzer and Sheeran conducted a meta-analysis of 94 independent studies exami
 
 **The mechanism is automaticity:** Implementation intentions work by creating a mental link between the anticipated situation (the *if* — the cue) and the intended behaviour (the *then* — the response). When the cue situation occurs, the behaviour is initiated automatically, without requiring fresh deliberation or conscious effort. The decision is effectively pre-made.
 
-**Goal intentions are not enough:** Goal intentions predict stated motivation. They predict much less well whether someone actually does the thing. The gap between intention and behaviour — the *intention-behaviour gap* — is reliably closed by adding implementation intention specificity to the goal.
+**Goal intentions are not enough:** Goal intentions predict stated motivation. They predict much less well whether someone actually does the thing. The gap between intention and behaviour — the *intention-behaviour gap* — is reliably narrowed, though not closed, by adding a specific if-then plan to the goal.
 
 ## The one finding worth quoting in a meeting
 
@@ -40,6 +40,7 @@ For clinical education: every commitment activity that ends with *"I'll try to t
 
 - Most studies were conducted in non-clinical settings; translation to busy ward environments requires the additional friction of environmental complexity and competing demands
 - Effect sizes from laboratory and self-report studies may overestimate real-world effects
+- Later and larger meta-analyses, including one by the same team, find a smaller average effect than d = 0.65, though still a useful one
 - Some goal domains show stronger effects than others — goals that are already strongly desired benefit most from implementation intentions; weakly desired goals benefit less
 - The meta-analysis does not tell us how long implementation intentions sustain behaviour change without reinforcement — the programme addresses this pragmatically by reading each ask back a week later and by naming someone who will ask about the change at 30 days
 
