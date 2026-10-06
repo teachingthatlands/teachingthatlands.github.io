@@ -125,7 +125,7 @@ Keep everything free of patient information, and check local information-governa
 - Hand out the retest slips: "Quick: what's a blorp?" Two minutes. Score 1 per meaning roughly right; tally Group A vs Group B on the whiteboard.
 - **Be ready for either result.** Over ten minutes, re-reading often does as well or better. That's what Roediger & Karpicke found: re-study won at 5 minutes; testing won at 2 days and a week. SAY (A wins): "re-reading *feels* better, and today it works. Watch what happens over a week." SAY (B wins): "already. Now imagine a week."
 - Then the drawn forgetting curve (four clicks: no review → Day 2 review → Day 3 review → labels). SAY: most of it goes fast, then levels off; each time you *pull it back out*, it fades more slowly. That's why the sessions are a week apart, and why we'll test the blorps again next week. → [Ebbinghaus (1885)](/papers/ebbinghaus-1885)
-- Collect the slips, names on. "Keep your blorps safe."
+- Collect the slips, names on, and keep them for Session 3. Don't mention the retest.
 
 ### 45–50 · Spot the strategy
 
@@ -159,7 +159,7 @@ Keep everything free of patient information, and check local information-governa
 
 ### 88–90 · Cliffhanger → close
 
-- SAY: "Next week: did it stick? (Bring your blorps.)" And how would you know? Hold that thought.
+- SAY: "Next week: did it stick?" And how would you know? Hold that thought.
 - Optional: one-question pulse (see the [Evaluation Toolkit](/facilitator/evaluation-toolkit)).
 
 ## After the session
