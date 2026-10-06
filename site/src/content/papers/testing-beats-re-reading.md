@@ -8,7 +8,7 @@ doi: "10.1111/j.1467-9280.2006.01693.x"
 openAccess: false
 theorists: ["roediger-retrieval-practice", "testing-effect"]
 sessions: [2]
-imagePrompt: "Three line graphs sharing an x-axis labelled '5 minutes / 1 week'. Three lines labelled SSSS (study × 4), SSST (study × 3 + test × 1), STTT (study × 1 + test × 3). At 5 minutes, SSSS is highest. At 1 week, STTT is highest by a clear margin — the lines have crossed. The crossover is circled. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "Three line graphs sharing an x-axis labelled '5 minutes / 1 week'. Three lines labelled SSSS (study × 4), SSST (study × 3 + test × 1), STTT (study × 1 + test × 3). At 5 minutes, SSSS is highest. At 1 week, STTT is highest by a clear margin — the lines have crossed. The crossover is circled. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** trying to remember something you've read does more to help you keep it than reading it again, even though reading again feels better at the time.
@@ -49,7 +49,7 @@ They ran two experiments with university students. Each student read short passa
 3. **Follow up with a question, not the slides.** A single question a day or two after a session, such as "Without looking, what are the three checks?", is likely to do more for remembering it next week than sending the slides round.
 4. **Don't trust the nodding.** People who feel sure they've got it may not keep it. A quick check of what they can recall tells you more.
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 Session 2 opens with people showing what they did with their Session 1 ask. Then comes a quick quiz on Session 1, a week after they learned it, before anyone names why. Only then is it called retrieval practice.
 

@@ -1,4 +1,4 @@
-# Teaching That Sticks
+# Teaching That Lands
 
 A free, openly licensed CPD programme for anyone in health and care who teaches, or would like to. No teaching experience needed.
 
@@ -14,7 +14,7 @@ Each participant brings one session they teach, or would like to teach, and rebu
 |---|---|
 | 1. **Death by PowerPoint?** | Feel cognitive overload, then redesign your own slides using cognitive load and dual coding. |
 | 2. **Active Beats Passive** | Experience retrieval and spacing, then make ten minutes of your session active. |
-| 3. **Did It Stick?** | Write observable outcomes, match them to evidence, and plan the follow-up. |
+| 3. **Did It Land?** | Write observable outcomes, match them to evidence, and plan the follow-up. |
 
 Ideas the sessions use: cognitive load, dual coding, constructive alignment, implementation intentions, retrieval and spaced practice, interleaving, experiential learning, the Kirkpatrick model and Miller's pyramid. Each has a page in the site's theory library.
 
@@ -78,7 +78,7 @@ Add `data-preview="false"` to a link to leave Preview off. File types, icons and
 
 [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). You may share and adapt the material for any purpose, including commercially, if you give credit and say what you changed.
 
-**Attribution:** *Teaching That Sticks*, [github.com/teaching-that-sticks/teaching-that-sticks.github.io](https://github.com/teaching-that-sticks/teaching-that-sticks.github.io)
+**Attribution:** *Teaching That Lands* (formerly *Teaching That Sticks*), [teachingthatlands.uk](https://teachingthatlands.uk), source at [github.com/teachingthatlands/teachingthatlands.github.io](https://github.com/teachingthatlands/teachingthatlands.github.io)
 
 ## Contributing
 

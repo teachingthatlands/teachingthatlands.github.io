@@ -7,7 +7,7 @@ year: 2001
 openAccess: false
 theorists: ["mayer-multimedia", "dual-coding"]
 sessions: [1]
-imagePrompt: "Two side-by-side column diagrams. Left column labelled 'Picture + full text + narration': the visual (eyes) bar filled to near-capacity by the picture and the printed text together, labelled 'EYES OVERLOADED — redundancy'. Right column labelled 'Picture + narration': one visual bar half-full, one auditory (ears) bar half-full, total load lower, labelled 'EYES AND EARS — complementary'. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "Two side-by-side column diagrams. Left column labelled 'Picture + full text + narration': the visual (eyes) bar filled to near-capacity by the picture and the printed text together, labelled 'EYES OVERLOADED — redundancy'. Right column labelled 'Picture + narration': one visual bar half-full, one auditory (ears) bar half-full, total load lower, labelled 'EYES AND EARS — complementary'. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** people learn more from words and pictures together than from words alone, especially when the picture is on screen and the words are spoken.
@@ -50,7 +50,7 @@ Start with what people need to do differently. Then, in order of ease:
 2. **Pair one clear picture with your spoken explanation.** The picture should show what you're describing: the thing, the process or the link between them. Your words explain it, rather than reading out labels.
 3. **Strip out the extras.** Logos, decorative animations and "just for context" tables all add up over a session.
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 Mayer's work is behind Session 1's core design rule: you carry the words; the slide carries the picture. Participants meet the two channels ("text plus voice competes, image plus voice works together"), then redesign a slide in two rounds. The second round is a readability check, because anything that makes a slide harder to read adds clutter for everyone. The "Who is this slide for?" slides also borrow a later rule, segmenting: one idea at a time, with a click for the next.
 

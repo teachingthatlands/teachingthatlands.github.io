@@ -9,7 +9,7 @@ openAccess: true
 openAccessUrl: "https://psychclassics.yorku.ca/Maslow/motivation.htm"
 theorists: ["maslow-hierarchy-of-needs"]
 sessions: []
-imagePrompt: "Five horizontal layers stacked vertically — the lowest layer is the widest, each layer above is slightly narrower. Each layer contains a simple abstract icon: a wave for physiological, a shield for safety, two overlapping rings for belonging, a star for esteem, and an upward arrow for self-actualisation. No pyramid outline — just the five layered bands floating cleanly. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "Five horizontal layers stacked vertically — the lowest layer is the widest, each layer above is slightly narrower. Each layer contains a simple abstract icon: a wave for physiological, a shield for safety, two overlapping rings for belonging, a star for esteem, and an upward arrow for self-actualisation. No pyramid outline — just the five layered bands floating cleanly. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** Maslow argued that pressing basic needs, like hunger or fear, tend to take over until they're largely met. It's a famous idea, but the paper didn't test it, and later research has given it little support.
@@ -45,7 +45,7 @@ This isn't an experiment or a survey. It's an argument. Maslow, a psychologist, 
 2. **Don't use it to label people.** It's a prompt to ask a question, not a way to sort someone into a level.
 3. **Pay attention to the setting.** A good session can't make up for a team where people are afraid to speak. That's a separate idea with better evidence behind it: [psychological safety](/papers/safe-teams-learn-more).
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 It doesn't. Maslow isn't part of the programme. The facilitator guide suggests that if someone raises it, you mention that the hierarchy has weak research support. It's in the library because people often ask about it.
 

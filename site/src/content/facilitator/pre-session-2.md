@@ -15,7 +15,7 @@ fox: pointing_left.png
 
 ### The message
 
-**Subject:** Teaching That Sticks, [date]: bring your slides
+**Subject:** Teaching That Lands, [date]: bring your slides
 
 Hi [name / all],
 
@@ -36,4 +36,4 @@ Didn't get round to it? Come anyway. We'll start from wherever you are.
 
 ### Reminder (48 hours before)
 
-> Teaching That Sticks, [day] [time], [room]. Bring the slides you redesigned or found. Didn't manage it? Come anyway.
+> Teaching That Lands, [day] [time], [room]. Bring the slides you redesigned or found. Didn't manage it? Come anyway.

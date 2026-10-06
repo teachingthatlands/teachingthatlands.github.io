@@ -8,7 +8,7 @@ doi: "10.2307/j.ctvjf9vz4"
 openAccess: false
 theorists: ["vygotsky-zpd", "zone-of-proximal-development"]
 sessions: []
-imagePrompt: "Three concentric rings. The innermost ring is labelled 'What the learner can do ALONE' and is solid. The middle ring is lighter and labelled 'Zone of Proximal Development — achievable with support'. The outer ring is dotted and labelled 'Currently out of reach'. A small upward arrow sits in the ZPD ring pointing inward, indicating the direction of growth. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "Three concentric rings. The innermost ring is labelled 'What the learner can do ALONE' and is solid. The middle ring is lighter and labelled 'Zone of Proximal Development — achievable with support'. The outer ring is dotted and labelled 'Currently out of reach'. A small upward arrow sits in the ZPD ring pointing inward, indicating the direction of growth. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** what someone can do with help today, they can often do alone tomorrow. So teaching does the most good when it aims just past what people can already manage.
@@ -45,7 +45,7 @@ Vygotsky was a Soviet psychologist who studied how children's thinking develops.
 2. **Start with what they need to do, then add just enough help.** Let them do the real task, with you beside them, then take the help away step by step.
 3. **Use peers on purpose.** A colleague who learned something last month may explain it better than someone who learned it twenty years ago and no longer remembers what was hard. Structured pair work is part of the teaching, not time off from it.
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 Not taught directly in the three core sessions. In Session 1, the facilitator briefly names *scaffolding*: one idea at a time, shown when people are ready, with support taken away as they gain confidence. That term comes from Wood, Bruner and Ross (1976), not Vygotsky. His work is useful background for pitching teaching to a mixed group, and for why seeing peers' work helps. See also [zone of proximal development](/theories/just-enough-help).
 

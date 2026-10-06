@@ -4,10 +4,10 @@ import rehypeFileDownload from './plugins/rehype-file-download.mjs';
 
 // https://astro.build/config
 export default defineConfig({
-  // Set this to your GitHub Pages repo name, e.g. '/teaching-that-sticks'
+  // Set this to your GitHub Pages repo name, e.g. '/teachingthatlands'
   // Leave as '' (root) if using a custom domain or user/org pages site
   base: '',
-  site: 'https://teaching-that-sticks.github.io',
+  site: 'https://teachingthatlands.uk',
   output: 'static',
   // Old library addresses (named after theorists and papers) still work:
   // each one becomes a page that forwards to the plain-English address.

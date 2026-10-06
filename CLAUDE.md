@@ -1,4 +1,4 @@
-# Teaching That Sticks: notes for AI assistants
+# Teaching That Lands: notes for AI assistants
 
 ## Derived files: keep them in step
 

@@ -7,7 +7,7 @@ year: 1991
 openAccess: false
 theorists: ["lave-wenger-situated", "communities-of-practice"]
 sessions: [2]
-imagePrompt: "A concentric ring diagram. The centre ring is labelled 'Full participation — established practice' and is solid/dark. The middle ring is lighter and labelled 'Legitimate peripheral participation — newcomers'. The outer ring is dotted and labelled 'Observer / not yet legitimate'. A small figure in the middle ring is shown moving toward the centre, with dotted arrows. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "A concentric ring diagram. The centre ring is labelled 'Full participation — established practice' and is solid/dark. The middle ring is lighter and labelled 'Legitimate peripheral participation — newcomers'. The outer ring is dotted and labelled 'Observer / not yet legitimate'. A small figure in the middle ring is shown moving toward the centre, with dotted arrows. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** a lot of learning happens by taking part in real work alongside other people, starting with small jobs at the edge and moving towards the centre.
@@ -47,7 +47,7 @@ Jean Lave, an anthropologist, and Etienne Wenger, then a researcher in computing
 3. **Design for the real place.** Plan for the noise, the interruptions and the kit that's actually there, not for an ideal teaching room.
 4. **Watch what the work itself is teaching.** If newcomers learn mainly by joining in, the habits around them are teaching them too, good or bad.
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 Lave and Wenger are why Session 2's main design task is set where the teaching really happens. Participants make ten minutes of their own session active, in its real setting: a ward corridor, a handover, a sim room. They plan for what's actually there and what happens if they're interrupted, then pitch it to the group.
 

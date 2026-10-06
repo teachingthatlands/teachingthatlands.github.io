@@ -15,7 +15,7 @@ fox: sitting.png
 
 ### The message
 
-**Subject:** Teaching That Sticks, [date]: bring what you made
+**Subject:** Teaching That Lands, [date]: bring what you made
 
 Hi [name / all],
 
@@ -28,7 +28,7 @@ Thanks for Session 2. Here's the ask you wrote on your card:
 **When:** [day, date, time] (90 minutes)\
 **Where:** [room, building]
 
-Session 3 is the last one: *Did It Stick?*
+Session 3 is the last one: *Did It Land?*
 
 Didn't get round to it? Come anyway. Bring the session you've been working on.
 
@@ -36,4 +36,4 @@ Didn't get round to it? Come anyway. Bring the session you've been working on.
 
 ### Reminder (48 hours before)
 
-> Teaching That Sticks, [day] [time], [room]. Bring the Menti or Kahoot you made. Didn't manage it? Come anyway.
+> Teaching That Lands, [day] [time], [room]. Bring the Menti or Kahoot you made. Didn't manage it? Come anyway.

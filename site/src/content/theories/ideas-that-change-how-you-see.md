@@ -31,7 +31,7 @@ Three things make these ideas tricky to teach:
 - **You can't get through it for them.** A clear explanation helps people get ready, but each person has to make the shift themselves.
 - **Experts forget the doorway was there.** Once you've crossed, it can be hard to remember not seeing it. That's why "it's quite simple really" is a warning sign.
 
-This isn't taught directly in the three Teaching That Sticks sessions. It's useful background when you plan teaching on an idea your learners find stubbornly hard.
+This isn't taught directly in the three Teaching That Lands sessions. It's useful background when you plan teaching on an idea your learners find stubbornly hard.
 
 ## Try this
 

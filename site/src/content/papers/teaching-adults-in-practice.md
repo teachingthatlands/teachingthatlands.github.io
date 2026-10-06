@@ -7,7 +7,7 @@ year: 1984
 openAccess: false
 theorists: ["knowles-andragogy"]
 sessions: [1]
-imagePrompt: "A horizontal bar divided into two halves, labelled 'PEDAGOGY' on the left and 'ANDRAGOGY' on the right. Under pedagogy: icons for external motivation (downward arrow), dependency, subject-centred. Under andragogy: icons for internal motivation (upward arrow), self-direction, problem-centred. A vertical divider line in the centre. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "A horizontal bar divided into two halves, labelled 'PEDAGOGY' on the left and 'ANDRAGOGY' on the right. Under pedagogy: icons for external motivation (downward arrow), dependency, subject-centred. Under andragogy: icons for internal motivation (upward arrow), self-direction, problem-centred. A vertical divider line in the centre. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** adults learn best when teaching starts from their experience and their real problems, and makes clear why it matters. It's a widely used guide, but more a set of assumptions than a tested theory.
@@ -46,7 +46,7 @@ The lasting value is the set of ideas, not the case accounts.
 2. **Say why it matters.** Don't assume it's obvious. In mandatory training, not explaining why is a common and easily avoided cause of people switching off.
 3. **Link it to the next shift.** Before people leave, they should be able to say what this looks like on their next shift. If they can't, the session isn't finished.
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 Knowles shapes how the programme starts and what people work on. Session 1 opens with "What makes a good teacher?", drawing on people's own experience before any theory is named. Everyone works on one session they teach, or would like to teach, across all three weeks, so every idea lands on their own material. The facilitator guide treats Knowles's assumptions as working principles, not rules.
 

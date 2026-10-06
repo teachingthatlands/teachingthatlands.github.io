@@ -14,7 +14,7 @@
  *   image   the image itself.
  */
 
-const SITE = 'https://teaching-that-sticks.github.io';
+const SITE = 'https://teachingthatlands.uk';
 let count = 0;
 
 type Kind = 'office' | 'pdf' | 'image';

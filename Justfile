@@ -1,4 +1,4 @@
-# Teaching That Sticks — Justfile
+# Teaching That Lands — Justfile
 # Run `just` to list available commands.
 
 set shell := ["zsh", "-cu"]

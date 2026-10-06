@@ -36,7 +36,7 @@ The others don't jump in with "do a quiz" or "make a poster". They ask:
 
 By the end, she sees that the new starters know the rule. What they lack is confidence about who to tell on nights. So she'll practise the actual call with them, and talk to the nurse in charge.
 
-That is the heart of Teaching That Sticks: start with what people need to do differently, then build the teaching from there. Good questions from peers often get you to that starting point faster than advice does.
+That is the heart of Teaching That Lands: start with what people need to do differently, then build the teaching from there. Good questions from peers often get you to that starting point faster than advice does.
 
 ## Try this
 
@@ -51,7 +51,7 @@ Action learning is a widely used method, not a single tested finding. Most of th
 
 A common misreading is that experts are no use. Its founder argued that expert knowledge alone isn't enough for problems nobody has solved before. He didn't say experts had nothing to offer. Another trap: without someone keeping to the rules, sets often drift into swapping advice, especially among clinicians used to fixing problems fast.
 
-Teaching That Sticks doesn't run action learning in its three sessions. It is a good way to keep peer support going once the programme ends.
+Teaching That Lands doesn't run action learning in its three sessions. It is a good way to keep peer support going once the programme ends.
 
 ## Where it comes from
 

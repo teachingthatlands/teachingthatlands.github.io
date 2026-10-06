@@ -37,7 +37,7 @@ Here's how the main assumptions might shape a short session on a new discharge c
 
 Experience cuts both ways. A challenge to a long-held habit can feel like a challenge to the person. That may be one reason it's hard to change what people do at work: they have a lot invested in what they already do.
 
-Teaching That Sticks uses this from the first minute. Session 1 opens with "What makes a good teacher?", drawing on people's own experience before any theory. Everyone works on one session they teach, or would like to teach, across all three weeks, so each idea lands on their own material. It's the central message again: start from what these people need to do differently in their own work.
+Teaching That Lands uses this from the first minute. Session 1 opens with "What makes a good teacher?", drawing on people's own experience before any theory. Everyone works on one session they teach, or would like to teach, across all three weeks, so each idea lands on their own material. It's the central message again: start from what these people need to do differently in their own work.
 
 ## Try this
 

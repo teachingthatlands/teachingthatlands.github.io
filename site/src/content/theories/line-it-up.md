@@ -30,7 +30,7 @@ The same thing happens in healthcare training all the time. Take a session on a 
 
 In the left-hand column, everyone ticks the box and nobody has touched the pump. In the right-hand column, the session and the check both rehearse the one thing that matters on the ward.
 
-This is the idea at the heart of Teaching That Sticks: start with what people need to do differently, then build the activity and the check from there.
+This is the idea at the heart of Teaching That Lands: start with what people need to do differently, then build the activity and the check from there.
 
 ## Try this
 

@@ -33,7 +33,7 @@ Advertisers have borrowed from psychology for over a century, and they have stro
 
 ## Why it matters for your teaching
 
-Advertisers judge an ad by whether it changes what people do in the end, not just whether they liked it. Some ads ask for action now; many aim to be remembered when the moment comes. Either way, they start from the behaviour they want. That is the heart of Teaching That Sticks too: start with what people need to do differently, then build the teaching from there.
+Advertisers judge an ad by whether it changes what people do in the end, not just whether they liked it. Some ads ask for action now; many aim to be remembered when the moment comes. Either way, they start from the behaviour they want. That is the heart of Teaching That Lands too: start with what people need to do differently, then build the teaching from there.
 
 Teaching often starts from the other end: what do I need to cover? Think of an induction for new healthcare assistants that tries to cover twenty policies in a morning. An advertiser would ask: what's the one thing they must do on their first shift? Say it clearly, show it, come back to it next week, and end on it.
 

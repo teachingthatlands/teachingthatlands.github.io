@@ -25,7 +25,7 @@ Most training ends with good intentions. Then the shift starts, the phone rings,
 
 Say you've taught a team a new falls-risk check. At the end, a support worker says, "I'll use the new check." That's a wish. Now ask her when. "When I do the first set of observations on a new admission, I'll do the falls check before I leave the bay." That's a plan. It names the moment, which already happens every shift, and the action that goes with it.
 
-This connects straight to the heart of Teaching That Sticks: start with what people need to do differently. A when-then plan is that question answered by each person, for their own work. It is also how each session of the programme ends. In Sessions 1 and 2, people write a specific "before next week I will…" on a card, add when or where, and photograph it, and the next session opens by asking what they did. In Session 3, each person names someone who will hold them to their plan, and the support they need from that person.
+This connects straight to the heart of Teaching That Lands: start with what people need to do differently. A when-then plan is that question answered by each person, for their own work. It is also how each session of the programme ends. In Sessions 1 and 2, people write a specific "before next week I will…" on a card, add when or where, and photograph it, and the next session opens by asking what they did. In Session 3, each person names someone who will hold them to their plan, and the support they need from that person.
 
 ## Try this
 

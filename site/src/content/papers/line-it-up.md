@@ -8,7 +8,7 @@ doi: "10.1007/BF00138871"
 openAccess: false
 theorists: ["biggs-constructive-alignment"]
 sessions: [1, 3]
-imagePrompt: "Three horizontal rings aligned on a shared vertical axis — from bottom to top: Learning Outcomes, Teaching Methods, Assessment. The rings are linked by short vertical connectors, showing alignment between all three levels. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "Three horizontal rings aligned on a shared vertical axis — from bottom to top: Learning Outcomes, Teaching Methods, Assessment. The rings are linked by short vertical connectors, showing alignment between all three levels. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** if you want people to be able to *do* something, they need to practise it, and your check should look for it. Otherwise they learn whatever the check rewards.
@@ -49,7 +49,7 @@ Before any teaching, ask three questions:
 
 Where the answers don't match, you've found the weak point in the session.
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 Biggs appears twice. In Session 1, at the size of a single slide: who is this slide for, and does it help people do what they need to? In Session 3, at the size of a whole session: participants rewrite vague outcomes ("be aware of") as things they could watch, choose how they'd check each one, then check their Session 1 slides and Session 2 activity against them. The programme itself was planned backwards from its outcomes in the same way.
 

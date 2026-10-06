@@ -9,7 +9,7 @@ openAccess: true
 openAccessUrl: "https://doi.org/10.1207/s15516709cog1202_4"
 theorists: ["sweller-cognitive-load"]
 sessions: [1]
-imagePrompt: "A maze-like problem structure on the left, with multiple branching paths and dead ends — representing means-ends analysis. On the right, a simple worked example with a clear single path from start to finish. Below both, a horizontal bar representing cognitive resource — the maze bar is nearly full; the worked example bar is only partially filled. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "A maze-like problem structure on the left, with multiple branching paths and dead ends — representing means-ends analysis. On the right, a simple worked example with a clear single path from start to finish. Below both, a horizontal bar representing cognitive resource — the maze bar is nearly full; the worked example bar is only partially filled. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** for beginners, working a problem out from scratch can use up the mental room they need to learn from it. Showing them a worked example first often helps more.
@@ -49,7 +49,7 @@ To test this, he built a computer model of the process and ran experiments with 
 3. **Clear the space.** If a student paramedic or new pharmacy technician is coping with noise, interruptions and nerves, their working memory is already busy. A quiet corner, one clear focus and one thing at a time isn't being soft. It is design that fits how working memory works.
 4. **Start from the task.** Decide what people need to do differently, then pick an example that shows exactly that.
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 Session 1 gives participants a feel for overload before it's named: a crowded slide for 30 seconds, then "what do you remember?" The theory then comes in short bursts (working memory, the two kinds of load, two channels), each used straight away in a redesign round. The redesign uses a paper kit, so nobody is fighting the software, and everything they need is there: the skill is choosing. Peers' redesigned slides act as worked examples. Short theory blocks limit how many new ideas arrive before people use them.
 
@@ -57,6 +57,6 @@ Session 1 gives participants a feel for overload before it's named: a crowded sl
 
 - **Worked examples:** the direct evidence comes mainly from Sweller and Cooper (1985). The 1988 paper adds the explanation and the model.
 - **Expertise reversal:** support that helps novices can get in the way for experts (Kalyuga and colleagues, 2003).
-- **Three kinds of load:** later work split load into *intrinsic* (built into the topic), *extraneous* (from how it's taught) and *germane* (effort that builds understanding). Germane load is contested. Sweller (2010) redefined it as the effort spent on intrinsic load rather than a separate kind, and Kalyuga (2011) argued it isn't needed at all. Teaching That Sticks uses only the first two.
+- **Three kinds of load:** later work split load into *intrinsic* (built into the topic), *extraneous* (from how it's taught) and *germane* (effort that builds understanding). Germane load is contested. Sweller (2010) redefined it as the effort spent on intrinsic load rather than a separate kind, and Kalyuga (2011) argued it isn't needed at all. Teaching That Lands uses only the first two.
 - **Working memory model:** the paper draws on Baddeley's (1986) model of working memory, which has since been refined. The paper is a behavioural one: it doesn't measure the brain.
 - **Attention span:** the popular claim that attention collapses after 10–15 minutes of teaching is poorly supported by primary data (Bradbury, 2016).

@@ -40,7 +40,7 @@ Take a ten-minute slot on a new sepsis screening tool at a team huddle:
 
 You don't always need the top of the scale. A 6am handover may only have room for one quick "explain it back to me". But that one question moves people from listening to making sense of it.
 
-This is the idea at the heart of Teaching That Sticks: start with what people need to do differently, then pick the step on the scale that gets them practising it.
+This is the idea at the heart of Teaching That Lands: start with what people need to do differently, then pick the step on the scale that gets them practising it.
 
 ## Try this
 

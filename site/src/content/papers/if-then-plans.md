@@ -9,7 +9,7 @@ openAccess: true
 openAccessUrl: "https://kops.uni-konstanz.de/server/api/core/bitstreams/14cc2a36-5f01-4dc1-b9ca-f2d0ca0c8930/content"
 theorists: ["gollwitzer-implementation-intentions"]
 sessions: [1, 2, 3]
-imagePrompt: "An if-then flowchart. A diamond shape on the left labelled IF contains an abstract clock and a location pin. A solid arrow flows rightward into a rectangle labelled THEN containing a forward-pointing arrow. Below the main flowchart a horizontal dotted line shows a faded, incomplete path — the goal intention that failed to produce action. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "An if-then flowchart. A diamond shape on the left labelled IF contains an abstract clock and a location pin. A solid arrow flows rightward into a rectangle labelled THEN containing a forward-pointing arrow. Below the main flowchart a horizontal dotted line shows a faded, incomplete path — the goal intention that failed to produce action. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** a plan that names the moment and the action ("when this happens, I'll do that") helps people act on intentions they already have, more often than the intention on its own.
@@ -47,7 +47,7 @@ Gollwitzer had first described the idea in 1993. By 1999 there were enough studi
 3. **Pick moments that already happen.** Handover, the first drug round, booking in a new patient, the start of a home visit. The moment should come round whether or not the person remembers the plan.
 4. **Start with what people need to do differently.** If you can't name the action, people can't plan it. Writing the plan is a quick test of whether your teaching had a clear point.
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 This paper is the reason for the ask at the end of Sessions 1 and 2: a specific intention, written on a card in the room, with when or where added, photographed, and read back at the start of the next session. In Session 3 there is no card. The completed design canvas takes its place, plus one named person who will hold each participant to it, and the support they have agreed they need from that person.
 

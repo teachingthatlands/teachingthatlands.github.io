@@ -39,7 +39,7 @@ Healthcare training is often judged mainly by the first question: the feedback f
 
 Level 3 is where a lot of training quietly falls down. People learn the thing in the room, mean to use it, and then the old routine wins. That gap rarely closes on its own. It needs things at work to support it: reminders, a manager who asks, time to practise, and a team where it feels safe to try something new (see [psychological safety](/theories/safe-to-speak-up)).
 
-This is why Teaching That Sticks starts with what people need to do differently. If you know that from the start, you already know what Level 3 looks like, and you can plan how you'll check it.
+This is why Teaching That Lands starts with what people need to do differently. If you know that from the start, you already know what Level 3 looks like, and you can plan how you'll check it.
 
 ## Try this
 

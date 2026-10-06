@@ -39,7 +39,7 @@ Not very sure about the theory itself. The evidence for the hierarchy is weak. A
 
 The best-known picture is a myth. Maslow never drew a pyramid. He wrote that the order is "not nearly as rigid" as his own description might suggest, and he listed exceptions. He also said needs are usually only partly met at any one time. People can and do learn, care for others and work hard while some basic needs go unmet.
 
-So use it as a prompt to ask "what else is going on for this person?", not as a tested model. The everyday point, that tiredness, worry and feeling left out make learning harder, is common sense. Maslow's theory doesn't add tested evidence to it. It isn't part of the Teaching That Sticks sessions; it's here because people often ask about it.
+So use it as a prompt to ask "what else is going on for this person?", not as a tested model. The everyday point, that tiredness, worry and feeling left out make learning harder, is common sense. Maslow's theory doesn't add tested evidence to it. It isn't part of the Teaching That Lands sessions; it's here because people often ask about it.
 
 ## Where it comes from
 

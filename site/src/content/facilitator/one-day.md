@@ -139,7 +139,7 @@ You eat and sit down. The afternoon kit is already under the tables. If people w
 
 The longest stretch of teaching is behind you. Bag 4: canvases and feedback forms.
 
-### 14:50–16:00 · Block 4: Did it stick? (Day 3 deck)
+### 14:50–16:00 · Block 4: Did it land? (Day 3 deck)
 
 | Time | What | Session 3 section |
 |---|---|---|
@@ -163,7 +163,7 @@ The longest stretch of teaching is behind you. Bag 4: canvases and feedback form
 
 Send exactly one week later. It's the spacing the day couldn't give, the real retest, and the start of follow-through.
 
-> **Subject:** Teaching That Sticks: one week on (2 minutes)
+> **Subject:** Teaching That Lands: one week on (2 minutes)
 >
 > Hi [name / all],
 >

@@ -7,7 +7,7 @@ year: 1983
 openAccess: false
 theorists: []
 sessions: []
-imagePrompt: "A simple diagram showing a cyclical loop between two nodes. The left node is labelled 'Action' with a hand-movement icon. The right node is labelled 'Reflection' with a thought-cloud icon. An arrow loops from Action to Reflection above the line, labelled 'reflection-on-action'. A second smaller arrow loops inside the Action node itself, labelled 'reflection-in-action', suggesting ongoing self-correction during the act. Below the diagram, a small horizontal bar is split into a bright clear upper section labelled 'High ground' and a murky lower section labelled 'The swamp'. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "A simple diagram showing a cyclical loop between two nodes. The left node is labelled 'Action' with a hand-movement icon. The right node is labelled 'Reflection' with a thought-cloud icon. An arrow loops from Action to Reflection above the line, labelled 'reflection-on-action'. A second smaller arrow loops inside the Action node itself, labelled 'reflection-in-action', suggesting ongoing self-correction during the act. Below the diagram, a small horizontal bar is split into a bright clear upper section labelled 'High ground' and a murky lower section labelled 'The swamp'. Flat design, Teaching That Lands house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
 **In one line:** skilled professionals don't just apply rules from a textbook; they think on their feet and learn by looking back, and teaching should help people do both.
@@ -46,7 +46,7 @@ Schön compared what he saw with the standard view of professional skill, which 
 3. **Use messy, real cases.** If you only teach the clear-cut version, people won't practise framing problems. Bring a real case with no single right answer.
 4. **Turn insight into action.** Reflecting gives insight, but insight doesn't automatically change what people do. An [if-then plan](/theories/if-then-plans) is one way to bridge the gap: start from what you want to do differently, and plan when you'll do it.
 
-## How it appears in Teaching That Sticks
+## How it appears in Teaching That Lands
 
 Not taught directly in the three core sessions. It's useful background for why the programme asks participants to rethink a session, not just polish it. Debriefing is parked for a separate simulation-based session.
 
