@@ -138,7 +138,7 @@ Keep everything free of patient information, and check local information-governa
 - SAY: take the session you rebuilt last week. Pick ten minutes. Make learners *do* something, in its real setting: ward corridor, handover, sim room. Use at least one strategy (the mats stay on the table as a menu).
 - On paper: one A3 sheet: what learners do, which strategy, what you need, what happens if you're interrupted. Setting cards for anyone without a real setting.
 - SAY ("Sometimes the best slide is no slide"): the answer might have no screen at all.
-- PAIR by confidence. Circulate. ASK: what will learners be doing in minute 3? Which strategy is that?
+- PAIR by confidence. Circulate. ASK: what will learners be doing in minute 3? Which strategy is that? How far up the scale does it go: listening, doing, explaining, or working it through together? ([active is a scale](/theories/active-is-a-scale))
 - WHY: situated learning: design for the real constraints, not the ideal room ([Lave & Wenger 1991](/papers/lave-wenger-1991)).
 - FALLBACK: no session yet? Use "a session you'd like to teach".
 
