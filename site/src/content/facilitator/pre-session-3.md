@@ -28,7 +28,7 @@ Thanks for Session 2. Here's the ask you wrote on your card:
 **When:** [day, date, time] (90 minutes)\
 **Where:** [room, building]
 
-Session 3 is the last one: *Did It Stick?*
+Session 3 is the last one: *Did It Land?*
 
 Didn't get round to it? Come anyway. Bring the session you've been working on.
 

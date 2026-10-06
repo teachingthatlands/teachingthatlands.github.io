@@ -161,7 +161,7 @@ Keep everything free of patient information, and check local information-governa
 
 ### 88–90 · Cliffhanger → close
 
-- SAY: "Next week: did it stick?" And how would you know? Hold that thought.
+- SAY: "Next week: did it land?" And how would you know? Hold that thought.
 - Optional: one-question pulse (see the [Evaluation Toolkit](/facilitator/evaluation-toolkit)).
 
 ## After the session

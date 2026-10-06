@@ -20,7 +20,7 @@ Each participant brings one session they teach, or would like to teach, and rebu
 |---|---|
 | 1. Death by PowerPoint? | Redesign their own slides, using cognitive load and dual coding |
 | 2. Active Beats Passive | Make ten minutes of their session active, using retrieval, spacing and interleaving |
-| 3. Did It Stick? | Write observable outcomes, decide what evidence would show them, and plan the follow-up |
+| 3. Did It Land? | Write observable outcomes, decide what evidence would show them, and plan the follow-up |
 
 Each person leaves with a completed canvas and a named colleague (often their manager) who will hold them to it at 30 days, and give the time and support it needs.
 

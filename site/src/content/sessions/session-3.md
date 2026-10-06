@@ -1,7 +1,7 @@
 ---
 title: "Session 3"
 number: 3
-tagline: "Did It Stick?"
+tagline: "Did It Land?"
 theories:
   - did-the-training-work
   - knowing-isnt-doing

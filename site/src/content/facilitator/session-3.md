@@ -1,7 +1,7 @@
 ---
 # DERIVED: the one-day decks (one-day.md) are built from this session's deck.
 # After changing the deck, run `just one-day-decks`. See CLAUDE.md.
-title: "Did It Stick?"
+title: "Did It Land?"
 type: blueprint
 session: 3
 duration: "90 minutes"

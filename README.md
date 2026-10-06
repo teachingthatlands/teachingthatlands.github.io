@@ -14,7 +14,7 @@ Each participant brings one session they teach, or would like to teach, and rebu
 |---|---|
 | 1. **Death by PowerPoint?** | Feel cognitive overload, then redesign your own slides using cognitive load and dual coding. |
 | 2. **Active Beats Passive** | Experience retrieval and spacing, then make ten minutes of your session active. |
-| 3. **Did It Stick?** | Write observable outcomes, match them to evidence, and plan the follow-up. |
+| 3. **Did It Land?** | Write observable outcomes, match them to evidence, and plan the follow-up. |
 
 Ideas the sessions use: cognitive load, dual coding, constructive alignment, implementation intentions, retrieval and spaced practice, interleaving, experiential learning, the Kirkpatrick model and Miller's pyramid. Each has a page in the site's theory library.
 
