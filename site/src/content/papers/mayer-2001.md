@@ -1,5 +1,6 @@
 ---
 title: "Multimedia Learning"
+headline: "Designing slides with words and pictures"
 authors: "Mayer, R. E."
 journal: "Cambridge University Press"
 year: 2001

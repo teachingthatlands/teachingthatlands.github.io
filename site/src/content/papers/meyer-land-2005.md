@@ -1,5 +1,6 @@
 ---
 title: "Threshold concepts and troublesome knowledge: Linkages to ways of thinking and practising within the disciplines"
+headline: "Ideas that change how you see a subject"
 authors: "Meyer, J. H. F., & Land, R."
 journal: "Improving Student Learning — Theory and Practice Ten Years On"
 year: 2003

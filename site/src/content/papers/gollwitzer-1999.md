@@ -1,5 +1,6 @@
 ---
 title: "Implementation intentions: Strong effects of simple plans"
+headline: "If-then plans help people follow through"
 authors: "Gollwitzer, P. M."
 journal: "American Psychologist"
 year: 1999

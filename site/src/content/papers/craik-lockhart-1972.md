@@ -1,5 +1,6 @@
 ---
 title: "Levels of Processing: A Framework for Memory Research"
+headline: "Thinking about meaning helps memory"
 authors: "Craik, F. I. M., & Lockhart, R. S."
 journal: "Journal of Verbal Learning and Verbal Behavior"
 year: 1972

@@ -1,5 +1,6 @@
 ---
 title: "Mind in Society: The Development of Higher Psychological Processes"
+headline: "Learning with just enough help"
 authors: "Vygotsky, L. S. (Cole, M., John-Steiner, V., Scribner, S., & Souberman, E., Eds.)"
 journal: "Harvard University Press"
 year: 1978

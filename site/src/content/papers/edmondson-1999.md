@@ -1,5 +1,6 @@
 ---
 title: "Psychological safety and learning behavior in work teams"
+headline: "Teams that feel safe to speak up learn more"
 authors: "Edmondson, A. C."
 journal: "Administrative Science Quarterly"
 year: 1999

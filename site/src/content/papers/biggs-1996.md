@@ -1,5 +1,6 @@
 ---
 title: "Enhancing teaching through constructive alignment"
+headline: "Line up the goal, the practice and the check"
 authors: "Biggs, J."
 journal: "Higher Education"
 year: 1996

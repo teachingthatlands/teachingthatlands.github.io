@@ -51,7 +51,7 @@ if (rest.length) groups.push({ label: 'More', title: 'Further reading', items: r
             {items.map((paper) => (
               <div class="theory-card">
                 <div class="theory-card-main">
-                  <div class="theory-card-name">{paper.data.title}</div>
+                  <div class="theory-card-name">{paper.data.headline}</div>
                   <div class="theory-card-summary">
                     {paper.data.authors.split(',')[0]} · {paper.data.year}
                   </div>

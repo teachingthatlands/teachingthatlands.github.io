@@ -1,5 +1,6 @@
 ---
 title: "Über das Gedächtnis: Untersuchungen zur experimentellen Psychologie"
+headline: "How fast we forget"
 authors: "Ebbinghaus, H."
 journal: "(Monograph — Duncker & Humblot, Leipzig)"
 year: 1885

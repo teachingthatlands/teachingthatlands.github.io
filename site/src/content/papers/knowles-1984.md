@@ -1,5 +1,6 @@
 ---
 title: "Andragogy in Action: Applying Modern Principles of Adult Learning"
+headline: "Teaching adults: the ideas put into practice"
 authors: "Knowles, M. S., & Associates"
 journal: "Jossey-Bass"
 year: 1984

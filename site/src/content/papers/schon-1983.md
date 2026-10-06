@@ -1,5 +1,6 @@
 ---
 title: "The Reflective Practitioner: How Professionals Think in Action"
+headline: "How professionals think on their feet"
 authors: "Schön, D. A."
 journal: "Basic Books"
 year: 1983

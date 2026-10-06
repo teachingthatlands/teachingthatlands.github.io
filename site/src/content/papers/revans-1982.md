@@ -1,5 +1,6 @@
 ---
 title: "The Origins and Growth of Action Learning"
+headline: "Learning with peers by asking questions"
 authors: "Revans, R. W."
 journal: "Chartwell-Bratt"
 year: 1982

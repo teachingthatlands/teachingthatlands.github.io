@@ -1,5 +1,6 @@
 ---
 title: "Active learning increases student performance in science, engineering, and mathematics"
+headline: "Active learning beats lecturing alone"
 authors: "Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P."
 journal: "Proceedings of the National Academy of Sciences"
 year: 2014

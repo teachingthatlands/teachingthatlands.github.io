@@ -1,5 +1,6 @@
 ---
 title: "Organizational Learning: A Theory of Action Perspective"
+headline: "Questioning the goal, not just the method"
 authors: "Argyris, C., & Schön, D. A."
 journal: "Addison-Wesley"
 year: 1978

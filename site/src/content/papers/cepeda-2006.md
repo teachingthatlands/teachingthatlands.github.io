@@ -1,5 +1,6 @@
 ---
 title: "Distributed practice in verbal recall tasks: A review and quantitative synthesis"
+headline: "Spreading learning out beats cramming"
 authors: "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D."
 journal: "Psychological Bulletin"
 year: 2006

@@ -1,5 +1,6 @@
 ---
 title: "Situated Learning: Legitimate Peripheral Participation"
+headline: "Learning by taking part in real work"
 authors: "Lave, J., & Wenger, E."
 journal: "Cambridge University Press"
 year: 1991

@@ -1,5 +1,6 @@
 ---
 title: "Debriefing with good judgment: Combining rigorous feedback with genuine inquiry"
+headline: "Debriefing with honest curiosity"
 authors: "Rudolph, J. W., Simon, R., Rivard, P., Dufresne, R. L., & Raemer, D. B."
 journal: "Anesthesiology Clinics"
 year: 2007

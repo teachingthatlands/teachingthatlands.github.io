@@ -1,5 +1,6 @@
 ---
 title: "Implementation intentions and goal achievement: A meta-analysis of effects and processes"
+headline: "How much if-then plans help, across 94 studies"
 authors: "Gollwitzer, P. M., & Sheeran, P."
 journal: "Advances in Experimental Social Psychology"
 year: 2006

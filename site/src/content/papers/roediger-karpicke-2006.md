@@ -1,5 +1,6 @@
 ---
 title: "Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention"
+headline: "Testing yourself beats re-reading"
 authors: "Roediger, H. L., & Karpicke, J. D."
 journal: "Psychological Science"
 year: 2006

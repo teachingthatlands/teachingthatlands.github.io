@@ -1,5 +1,6 @@
 ---
 title: "A theory of human motivation"
+headline: "Basic needs and motivation"
 authors: "Maslow, A. H."
 journal: "Psychological Review"
 year: 1943

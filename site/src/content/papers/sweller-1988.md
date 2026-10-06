@@ -1,5 +1,6 @@
 ---
 title: "Cognitive load during problem solving: Effects on learning"
+headline: "Why practice problems can overload beginners"
 authors: "Sweller, J."
 journal: "Cognitive Science"
 year: 1988

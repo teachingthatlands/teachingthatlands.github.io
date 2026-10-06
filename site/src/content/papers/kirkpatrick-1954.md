@@ -1,5 +1,6 @@
 ---
 title: "Techniques for evaluating training programs"
+headline: "Four ways to judge whether training worked"
 authors: "Kirkpatrick, D. L."
 journal: "Journal of the American Society of Training Directors"
 year: 1959
