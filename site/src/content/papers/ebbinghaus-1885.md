@@ -10,41 +10,54 @@ sessions: [2]
 imagePrompt: "A smooth curve from upper-left to lower-right that falls steeply at first and then flattens out, on a minimal grid. The vertical axis is labelled with an upward arrow (retention). The horizontal axis is labelled with a rightward arrow (time). Three small upward tick marks on the curve at equal intervals represent spaced practice retrieval events — each tick resets the curve upward slightly before it descends again. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
+**In one line:** we forget fast at first and then more slowly, and spreading practice out takes less effort than doing it all at once.
 
-## What the study did
+## What he did
 
-Hermann Ebbinghaus ran one of the most remarkable self-experiments in the history of psychology. Working alone in Berlin in the early 1880s, he memorised thousands of lists of nonsense syllables (consonant-vowel-consonant trigrams: *DAX*, *BUP*, *ZOL*) — meaningless strings specifically designed to exclude prior knowledge or association — and tested his own retention over varying intervals ranging from minutes to a month. He measured retention using the *savings method*: how much less time did he need to relearn a list he had previously memorised, compared to learning it fresh? This is a more sensitive measure than recall and is the paper's key methodological innovation.
+Hermann Ebbinghaus was a German psychologist. In the early 1880s, working alone, he set out to measure forgetting. He was his own and only subject.
 
-The 1885 monograph is available in English translation (Ruger & Bussenius, 1913; reprinted by Dover Publications, 1964). A free digital text is available at the York University Classics in the History of Psychology archive. The monograph is in the public domain.
+He made up lists of nonsense syllables, such as *DAX*, *BUP* and *ZOL*. He chose nonsense on purpose, so that nothing he already knew could help him. He learned each list until he could recite it perfectly. Then, after a gap of anything from 20 minutes to a month, he learned it again.
 
-## What it found
+He didn't measure how much he could recall. He measured how much time he *saved* the second time round. If a list took 10 minutes to learn and 4 minutes to relearn, he had saved 60% of the effort. This "savings" method could pick up memory even when he couldn't recall a single syllable.
 
-**The forgetting curve:** Ebbinghaus found that forgetting is very rapid at first and then slows sharply. Note what he was measuring: not how many syllables he could recall, but how much relearning effort he saved. After one hour, he needed about half the original effort to relearn a list; after 8 hours, about two-thirds. After 24 hours, about one third of the original work was still saved; after 6 days about a quarter; and after a month about a fifth. He summarised the results with a formula based on the *logarithm* of time (not, as often stated, an exponential). The curve is not linear — most forgetting happens early, and the remainder fades very slowly.
+He did this over and over, with thousands of syllables, for years, and published the results in 1885.
 
-**The spacing effect:** Relearning a list distributed over time required substantially fewer trials than massed relearning. For one 12-syllable list, 38 repetitions spread over three days did as much as 68 repetitions in a single sitting. This is the *spacing effect*, first demonstrated quantitatively here.
+## What he found
 
-**The savings method as a contribution:** The specific measurement approach — savings in relearning rather than direct recall — revealed retention levels that would have appeared as complete forgetting under recall testing. Memory persists in a latent form even when it cannot be directly retrieved; the trace facilitates relearning. This has implications for how we assess learning in clinical education: absence of recall is not the same as absence of learning.
+- **Forgetting is fastest at the start.** After 20 minutes, he saved about 58% of the effort. After an hour, about 44%. After a day, about 34%.
+- **Then it slows right down.** After 6 days he still saved about 25%, and after a month about 21%. Most of the loss happened in the first day.
+- **Spreading practice out needed far fewer repetitions.** For one list, 38 repetitions spread over three days did as much as 68 repetitions in a single sitting.
+- **Memory can hide.** Lists he couldn't recall still took less time to relearn. Not being able to remember something isn't the same as having lost it completely.
 
-## The one finding worth quoting in a meeting
+## How much should you trust it?
 
-**In our words (a paraphrase, not a quotation):** a day after learning a list, Ebbinghaus had lost around two-thirds of the benefit of his original study effort. The steep part of the forgetting curve is in the first day — which is precisely when clinical educators rarely follow up.
+**A famous, careful classic: trust the shape of the curve, not the numbers.**
 
-The implication: forgetting is fastest soon after learning. Meaningful clinical material fades more slowly than Ebbinghaus's nonsense syllables, but a single session with no follow-up still loses a lot.
+- It was one person, testing himself. Nobody else's memory was measured.
+- Nonsense syllables are the opposite of most healthcare learning. Material that means something to you fades much more slowly.
+- The numbers are savings in relearning time, not the share you can remember. Claims such as "you forget 70% within a day" often misuse them.
+- The *shape* has held up well. A modern team repeated the experiment in 2015 and got a very similar curve.
 
-## Honest limitations
+## If you need to convince someone
 
-- Single participant (himself) — no external validity in the conventional sense; no control for individual differences, circadian variation, or day-to-day state
-- Nonsense syllables are specifically designed to exclude meaning — they are the *opposite* of meaningful clinical material. Real clinical learning has rich associative structure, which improves retention substantially (the meaningfulness advantage). The forgetting curve for clinical knowledge decays less steeply than Ebbinghaus's nonsense syllable curve
-- The specific percentages are savings in relearning time, not percentages recalled — yet they are often presented as "you forget X% within a day". They have been widely reproduced in management and education training but are based on a single 19th-century experiment on a single person memorising meaningless trigrams — they should be treated as indicative orders of magnitude, not precise empirical constants
-- The savings method measures latent trace strength, not clinical performance — what survives in latent memory may not be retrievable under time pressure in a clinical encounter
+**In our words (a paraphrase, not a quotation):** most forgetting happens soon after learning. If we never come back to what we teach, we lose a lot of it, however good the session was.
 
-## What it means for your practice
+## What it means for you
 
-Two implications:
-
-1. **Single-session teaching has a built-in decay problem.** Forgetting is fastest soon after learning. Clinical material fades more slowly than nonsense syllables, but a single session with no follow-up still loses a lot. This is not a reflection on teaching quality — it is a property of memory. A quick retrieval prompt in the days after helps more of it last.
-2. **Latent memory is more durable than recall.** Learners who cannot answer a question about something they learned last month have not lost the learning entirely — they have lost ready access to it. A brief retrieval prompt (one question, one scenario) will often restore access more quickly than reteaching from scratch. This is a reason to *ask* rather than *tell* in follow-up teaching conversations.
+1. **Plan for forgetting.** Forgetting is fastest soon after learning. Clinical material fades more slowly than nonsense syllables, but a single session with no follow-up still loses a lot. That's a property of memory, not a sign of poor teaching.
+2. **Follow up soon, then again later.** A quick question in the days after a session helps more of it last. Add later ones for things people need all year.
+3. **Ask before you re-teach.** If people can't answer a question about something from last month, they probably haven't lost it all. A prompt or a single case may bring it back faster than teaching it again from scratch.
 
 ## How it appears in Teaching That Sticks
 
-The forgetting curve is named in Session 2, straight after participants have done a Kahoot on Session 1 content a week later: experience first, then the curve that explains why it helped. It is also why the sessions are a week apart, and why participants' follow-through plans revisit their change at 30, 60 and 90 days. More on the [Spaced Practice](/theories/spaced-practice) page.
+Session 2 includes a nod to Ebbinghaus: a sheet of made-up words with silly hospital meanings, which half the room re-reads and half test themselves on. After a surprise retest, the facilitator draws the forgetting curve: most of it goes fast, then levels off, and each time you pull it back out, it fades more slowly. That's one reason the sessions are a week apart, and why the made-up words are tested again at the start of Session 3.
+
+In Session 3, "forgetting is the default" comes back when participants plan what their own learners will revisit at 30, 60 and 90 days. More on the [spaced practice](/theories/spaced-practice) page.
+
+## The small print
+
+- Ebbinghaus summed up his results with a formula based on the *logarithm* of time, not, as often stated, an exponential decay. Both describe a curve that falls steeply and then flattens.
+- The English translation (Ruger and Bussenius, 1913) is free to read online and is in the public domain.
+- Murre and Dros (2015, *PLOS ONE*) repeated the experiment with one subject, and found a very similar curve. This supports using the shape, not the exact numbers.
+- Studies of medical knowledge show much slower forgetting than Ebbinghaus found. One review (Custers, 2010) estimated that roughly two-thirds to three-quarters of basic science knowledge was still there after a year, falling to about half after two years.
+- Spaced practice and the forgetting curve are linked: see the review of [Cepeda et al. (2006)](/papers/cepeda-2006).

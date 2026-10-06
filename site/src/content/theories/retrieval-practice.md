@@ -1,6 +1,6 @@
 ---
 title: "Retrieval Practice"
-summary: "Testing yourself on material does more for long-term retention than re-studying it — pulling something back out of memory strengthens it"
+summary: "Trying to remember something helps it last longer than reading it again does"
 sessions: ["session-2"]
 evidence:
   - cite: "Roediger, H. L., &amp; Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. <em>Psychological Science</em>, 17(3), 249–255."
@@ -12,15 +12,39 @@ evidence:
     paper: "craik-lockhart-1972"
 ---
 
-Re-reading notes feels productive. Highlighting feels productive. Going over something again until it feels familiar feels productive. None of these strategies reliably produce durable learning. The research on retrieval practice shows that the act of *pulling information out of memory* — not putting it in — is what makes it stick.
+**The idea in one sentence:** trying to pull something back out of your memory helps it last longer than reading it again does. A quick quiz isn't just a way to check learning. It is one of the best ways to build it.
 
-Each time you pull something out of memory, it seems to become easier to find again next time and more resistant to forgetting. Re-reading helps a little, but much less than recall over the long term. The "testing effect" is one of the most replicated findings in cognitive psychology, and it transfers to real educational settings, including medicine.
+## You've seen this already
 
-The implication is uncomfortable: teaching that only aims for understanding in the room can leave less behind a week later. Clear explanation gets the material in; retrieval helps it stay. A student who leaves feeling they understood everything may retain less than one who was asked to struggle to recall it.
+Think about a new PIN for your bank card. You could read the letter with the number on it ten times. Or you could put the letter away and try to type the number in at the cash machine. Most people find the second way sticks. Each time you have to dig the number out of your head, it gets a little easier to find next time.
 
-## What this means for teaching
+The same goes for a pub quiz. The answers you had to strain for, and then heard, are often the ones you still know a week later. The ones you just read on a card are gone.
 
-- **Start with a retrieval quiz, not a recap** — "Before we start, write down everything you can remember from last session" works better than a slide summary. Even a failed attempt to remember helps, as long as learners then find out the right answer.
-- **Low-stakes tests are teaching activities** — a quick written or verbal recall exercise at the end of a session strengthens the memory traces formed during it. This is not assessment; it's consolidation.
-- **Avoid over-explaining** — when a learner gives a partial answer, give them a moment and a prompt before you fill the gap. Then make sure they hear the full, correct answer.
-- **Space the questions** — retrieval works better after a gap, so a question about last week's session at the start of this one is especially useful, alongside a quick check at the end.
+## Why it matters for your teaching
+
+Most of us end a session with a recap. We put up a summary slide, or send the slides round afterwards. It feels helpful, and people nod along. But looking at the answers again is the weak version. Asking people to *recall* the answers is the strong one.
+
+Say you've taught a team a new way to check a patient's fluid balance. A week later, you could re-send the guide. Or, at the start of the next huddle, you could ask: "Without looking, what are the three things we now check?" Let people try. Then go through the right answer together. The second takes two minutes, and it is likely to do more to help it stick.
+
+This links back to what people need to do differently. If you want a healthcare assistant to remember the new checks on a busy shift, give them practice remembering, not just practice reading.
+
+One warning: clear teaching still matters. People can only recall what they took in first. Clear explanation gets the material in; recall helps it stay.
+
+## Try this
+
+- **Open with a question, not a recap.** "Before we start, write down what you remember from last time." Paper is fine. Then fill in the gaps together.
+- **Always give the right answer afterwards.** Even a failed attempt to remember helps, as long as people then find out the right answer. Without that step, mistakes can stick.
+- **Wait before you rescue.** When someone gives half an answer, give them a moment and a prompt before you fill the gap. Then make sure they hear the full, correct answer.
+- **Keep it low stakes.** No scores on the wall, no marks that count. The aim is practice, not a pass or fail.
+
+## How sure are we?
+
+This is one of the best-tested findings about learning. It has been repeated many times, in labs and in real classrooms. A large review of the research (Dunlosky et al., 2013) rated practice testing as one of only two study methods with high usefulness. Another review, which pooled results from many studies (Adesope et al., 2017), found the benefit held across age groups, settings and types of quiz.
+
+There are limits. Most studies tested facts and ideas, such as remembering a passage of text. There is less evidence for hands-on skills, for using knowledge in new situations, and for staff learning at work in healthcare. Re-reading does help a little, and in the short term it can even win. In the best-known study, testing pulled ahead by two days and stayed ahead at a week.
+
+Nobody is completely sure *why* it works. Researchers still debate the reasons. And the effect needs feedback: a quiz with no answers given is the weaker version.
+
+## Where it comes from
+
+The idea is old. Teachers have known for centuries that reciting helps. Scientists started measuring it about a hundred years ago. Interest grew again in 2006, when Henry Roediger and Jeffrey Karpicke showed that students who practised recalling a passage remembered much more of it a week later than students who re-read it ([Roediger & Karpicke, 2006](/papers/roediger-karpicke-2006)). Their work gave the idea its popular name: the testing effect. An older theory about how deeply we think about things is on the [Craik and Lockhart](/papers/craik-lockhart-1972) page.
