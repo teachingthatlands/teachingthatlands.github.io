@@ -124,8 +124,8 @@ Keep everything free of patient information, and check local information-governa
 
 - Hand out the retest slips: "Quick: what's a blorp?" Two minutes. Score 1 per meaning roughly right; tally Group A vs Group B on the whiteboard.
 - **Be ready for either result.** Over ten minutes, re-reading often does as well or better. That's what Roediger & Karpicke found: re-study won at 5 minutes; testing won at 2 days and a week. SAY (A wins): "re-reading *feels* better, and today it works. Watch what happens over a week." SAY (B wins): "already. Now imagine a week."
-- Then the drawn forgetting curve (four clicks: no review → Day 2 review → Day 3 review → labels). SAY: most of it goes fast, then levels off; each time you *pull it back out*, it fades more slowly. That's why the sessions are a week apart, and why we'll test the blorps again next week. → [Ebbinghaus (1885)](/papers/ebbinghaus-1885)
-- Collect the slips, names on. "Keep your blorps safe."
+- Then the drawn forgetting curve (four clicks: no review → Day 2 review → Day 3 review → labels). SAY: most of it goes fast, then levels off; each time you *pull it back out*, it fades more slowly. That's why the sessions are a week apart. → [Ebbinghaus (1885)](/papers/ebbinghaus-1885)
+- Collect the slips, names on, and keep them for Session 3. Don't mention the retest.
 
 ### 45–50 · Spot the strategy
 
@@ -138,7 +138,7 @@ Keep everything free of patient information, and check local information-governa
 - SAY: take the session you rebuilt last week. Pick ten minutes. Make learners *do* something, in its real setting: ward corridor, handover, sim room. Use at least one strategy (the mats stay on the table as a menu).
 - On paper: one A3 sheet: what learners do, which strategy, what you need, what happens if you're interrupted. Setting cards for anyone without a real setting.
 - SAY ("Sometimes the best slide is no slide"): the answer might have no screen at all.
-- PAIR by confidence. Circulate. ASK: what will learners be doing in minute 3? Which strategy is that?
+- PAIR by confidence. Circulate. ASK: what will learners be doing in minute 3? Which strategy is that? How far up the scale does it go: listening, doing, explaining, or working it through together? ([active is a scale](/theories/active-is-a-scale))
 - WHY: situated learning: design for the real constraints, not the ideal room ([Lave & Wenger 1991](/papers/lave-wenger-1991)).
 - FALLBACK: no session yet? Use "a session you'd like to teach".
 
@@ -159,7 +159,7 @@ Keep everything free of patient information, and check local information-governa
 
 ### 88–90 · Cliffhanger → close
 
-- SAY: "Next week: did it stick? (Bring your blorps.)" And how would you know? Hold that thought.
+- SAY: "Next week: did it stick?" And how would you know? Hold that thought.
 - Optional: one-question pulse (see the [Evaluation Toolkit](/facilitator/evaluation-toolkit)).
 
 ## After the session

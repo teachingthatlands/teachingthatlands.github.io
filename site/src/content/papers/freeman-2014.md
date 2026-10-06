@@ -1,5 +1,6 @@
 ---
 title: "Active learning increases student performance in science, engineering, and mathematics"
+headline: "Active learning beats lecturing alone"
 authors: "Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P."
 journal: "Proceedings of the National Academy of Sciences"
 year: 2014
@@ -11,37 +12,54 @@ sessions: [2]
 imagePrompt: "Two tall rectangular bars side by side. The left bar is shorter and labelled with a small upward tick mark representing lower failure. The right bar is significantly taller and marked with a downward X representing higher failure. The height difference is the entire story. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
+**In one line:** when university science courses got students doing things in class, rather than just listening to lectures, students did better in exams and fewer of them failed.
 
-## What the study did
+## What they did
 
-Freeman and colleagues conducted a meta-analysis of 225 studies comparing active learning approaches to traditional lecturing in undergraduate STEM courses. They examined two outcomes: examination scores and failure rates (the proportion of students failing or withdrawing from a course). The studies spanned a wide range of institutions, class sizes, disciplines, and active learning implementations — from think-pair-share to full problem-based learning. This is the largest and most rigorous synthesis of its kind in STEM undergraduate education.
+This isn't a single experiment. Scott Freeman and six colleagues in the USA gathered up 225 earlier studies and combined their results. Each study compared the same kind of university course taught two ways: by lecture alone, or with "active learning" added.
 
-## What it found
+Active learning meant anything that got students doing something in class. That might be a quick question to discuss with the person next to you, a group problem, or a whole course built around cases. All the courses were in science, technology, engineering or maths, for students working towards a first degree.
 
-**Examination scores:** Students in active learning courses outperformed lecture-only students on examinations by an average of 6% (weighted standardised mean difference d = 0.47). This is a moderate effect by conventional standards — the authors estimate it would raise average grades by about half a letter grade (e.g. from a B to a B+).
+They looked at two things: exam scores, and how many students failed or dropped out of the course.
 
-**Failure rates:** This is the finding with teeth. Failure rates in traditional lecture courses were **33.8%**, compared to **21.8%** in active learning courses. Students in traditional lectures were **1.5 times more likely to fail** than their peers in active learning courses (OR = 1.95, 95% CI [1.67, 2.28]).
+## What they found
 
-The authors found no statistically significant variation across STEM disciplines or between introductory and upper-level courses. The benefit was statistically significant in small, medium and large classes, but it was largest in classes of 50 or fewer students — so the evidence for very large lecture-hall classes is weaker.
+- **Exam scores went up.** On average, students in courses with active learning scored about 6% higher. The authors put this at about half a grade on a US-style grading scale.
+- **Fewer students failed.** In lecture-only courses, about 34% of students failed or dropped out. With active learning, it was about 22%. Put the other way, students in lecture-only courses were about 1.5 times more likely to fail.
+- **It held up across subjects.** The benefit didn't differ much between subjects, or between first-year and later courses.
+- **It helped in classes of all sizes.** It was biggest in classes of 50 or fewer.
 
-## The one finding worth quoting in a meeting
+## How much should you trust it?
 
-The authors themselves draw the comparison: had these experiments been randomised controlled trials of a medical intervention, they might have been stopped early *for benefit* — because the intervention (active learning) was so clearly better that continuing to enrol people in the control condition (traditional lecturing) would be hard to justify. Continuing to deliver traditional lectures in the face of this evidence is not a neutral choice.
+**Strong evidence for university science students; not tested with healthcare staff.**
 
-**The quotable version (verbatim from the paper):** *"If the experiments analyzed here had been conducted as randomized controlled trials of medical interventions, they may have been stopped for benefit."*
+- It combines a large number of studies, so the overall pattern is solid.
+- These were science students at university, not healthcare staff learning at work. It's a good reason to try active learning in healthcare, but we can't assume the same size of benefit.
+- "Active learning" covered many different methods. The paper tells us that adding some activity helps on average, not which method works best.
+- It measured exam results, not whether people later did anything differently in their jobs.
 
-## Honest limitations
+## If you need to convince someone
 
-- The studies are drawn from STEM undergraduate education — the direct transferability to postgraduate clinical training is not established by this paper and should not be assumed automatically
-- "Active learning" is operationally defined broadly across the 225 studies; some implementations are substantially more structured and rigorous than others
-- Publication bias is likely — studies showing benefits of active learning are more publishable than null results
-- Effect sizes may be inflated in smaller studies (a common meta-analytic concern)
-- The studies measure examination performance, not long-term retention or practice change — Kirkpatrick Level 2, not Level 3
+**In our words (a paraphrase, not a quotation):** on average, across many different courses, adding active learning did better than lecturing alone, and fewer students failed.
 
-## What it means for your practice
+The authors put it more strongly. In their words: *"If the experiments analyzed here had been conducted as randomized controlled trials of medical interventions, they may have been stopped for benefit."* In other words, if this had been a drug trial, it might have been stopped early because one option was clearly better.
 
-The burden of proof has shifted. The question is no longer *"why should I try active learning?"* — it is *"what is my justification for defaulting to a lecture?"* The evidence consistently shows that even imperfect active learning implementations outperform polished lectures on measurable outcomes. The ward corridor is a classroom. The handover is a teaching moment. The question that follows a clinical decision is active learning.
+## What it means for you
+
+1. **Ask what people will do, not just what you'll say.** For each part of a session, ask what learners will be doing in that minute. Start from what they need to do differently, and give them practice at it.
+2. **Start small.** A question to discuss in pairs, a quick quiz, or a case to sort all count. You don't need to redesign a whole course.
+3. **Use it in short slots too.** A handover, a huddle or a few minutes on the ward can include a question for the learner to answer, rather than a talk for them to listen to.
+4. **Expect to justify the lecture, not the activity.** If you choose to only talk, have a reason.
 
 ## How it appears in Teaching That Sticks
 
-Freeman et al. is the evidence behind Session 2's title, *Active Beats Passive*. It is cited when the strategies are named, with the caveat stated plainly: these were STEM undergraduates, not clinicians. The failure-rate finding reframes the stakes: if learners learn less under passive instruction, and those learners go on to care for patients, the quality of teaching is a quality-of-care issue.
+Session 2 is called *Active Beats Passive*. After participants sort scenario cards by learning strategy, Freeman et al. is cited as evidence that active learning beats lecturing. The caveat is stated plainly: these were science students at university, not healthcare staff. Participants then make ten minutes of their own session active.
+
+## The small print
+
+- "Meta-analysis" means a study that combines the results of many earlier studies to get an overall answer.
+- The average benefit on exams was an "effect size" of 0.47. An effect size is a standard way to compare results across studies; 0.47 is usually called moderate.
+- The failure figures were 33.8% and 21.8%. The odds ratio (another way of comparing the two) was 1.95.
+- Publication bias is always a risk in meta-analyses: studies that find nothing are less likely to be published. The authors tested for it and found it unlikely to explain the results, but it can't be ruled out completely.
+- In this library's terms, exam results are evidence of learning, not of changed behaviour at work. See [Kirkpatrick's model](/theories/kirkpatrick-model).
+- For the strategies that tend to make activities work, see [retrieval practice](/theories/retrieval-practice), [spaced practice](/theories/spaced-practice) and [interleaving](/theories/interleaving).

@@ -1,5 +1,6 @@
 ---
 title: "Organizational Learning: A Theory of Action Perspective"
+headline: "Questioning the goal, not just the method"
 authors: "Argyris, C., & Schön, D. A."
 journal: "Addison-Wesley"
 year: 1978
@@ -9,52 +10,50 @@ sessions: []
 imagePrompt: "Two side-by-side loop diagrams. Left diagram labelled 'Single-loop learning': an arrow from 'Action' to 'Outcome', and a feedback arrow back only to 'Action' — the governing variables (a box to the left) are not touched. Right diagram labelled 'Double-loop learning': the same structure, but the feedback arrow reaches all the way back to 'Governing variables', questioning the assumption. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
-## What the study did
+**In one line:** when something goes wrong, most people and teams fix *how* they do it; real improvement often needs you to question *what you were trying to do* and the assumptions behind it.
 
-Argyris and Schön were studying why organisations — and the people in them — persistently fail to learn from experience, even when they are ostensibly committed to improvement. Their answer was structural: most problem-solving and error-correction occurs at the level of actions and strategies, without ever questioning the governing assumptions and values that produced the problem in the first place. They called this single-loop learning — and argued that the more important capacity, double-loop learning, was actively suppressed by the defensive reasoning routines that organisations develop as protective responses to threat and embarrassment.
+## What they did
 
-The book is theoretical and case-based, drawing on interviews and organisational studies rather than controlled experiments.
+This isn't an experiment. It's a book of theory, built on case studies and interviews in organisations.
 
-## What it found
+Chris Argyris and Donald Schön asked why organisations, and the people in them, so often fail to learn from experience, even when they say they want to improve. They built on their earlier book, *Theory in Practice* (1974). Their answer was that most problem-solving stays on the surface. People change what they do, but never question the goals and assumptions that caused the problem in the first place.
 
-**Single-loop learning:** When an outcome does not match expectations, the learner adjusts their action to bring the outcome back in line — without questioning whether the expected outcome itself is correct or whether the underlying assumptions are sound. Single-loop learning is appropriate for well-defined problems with clear solutions. It is the dominant mode of professional practice.
+## What they argued
 
-*Example:* A registrar delivers a teaching session that gets poor feedback. Single-loop response: change the slides, speak more clearly, run to time. The assumption — that a slide-based lecture delivered to a passive audience is the right approach — is not questioned.
+- **Single-loop learning fixes the action.** Something goes wrong, so you change what you did, to get the result you expected. You don't ask whether that result, or your assumptions, were right. This works well for clear problems.
+- **Double-loop learning questions the goal.** You also ask: were we aiming at the right thing? Why did we think this was the answer? This is rarer and less comfortable, and it can lead to bigger changes.
+- **What we say we do isn't always what we do.** In their case studies, people's account of how they act (their *espoused theory*) often differed from how they actually acted (their *theory-in-use*). People said they valued openness, then avoided hard questions in practice. They saw this as common and mostly unnoticed, not as dishonesty.
+- **Organisations protect themselves from awkward questions.** Teams learn habits that avoid embarrassment: changing the subject, not raising disagreement, not naming the problem. Argyris later called these *defensive routines*. Because nobody discusses them, they're hard to change.
+- **There is a better way to talk.** They described two patterns. In the usual one (Model I), people try to stay in control, win, and avoid upset. In the other (Model II), people share real information and reasons, and test their views openly. A key move is to *advocate* (say what you saw and what you think) and then *inquire* (genuinely ask for the other person's view). For example: "I noticed you did X. I wondered if it meant Y. What was going on for you?"
 
-**Double-loop learning:** The learner questions not just the action but the governing variable — the underlying value, assumption, or frame that determined what counted as the right outcome in the first place. Double-loop learning is rarer, more uncomfortable, and more transformative.
+A teaching example. A practice educator's fire-safety refresher gets poor feedback. Single-loop: tidy the slides and finish on time. Double-loop: what do staff actually need to *do* in a fire, and is a slide session the best way to get them there?
 
-*Example:* The same registrar questions whether a lecture is the right format at all. What is the learning outcome? What would evidence that it was achieved look like? Is there a better design? The assumption is surfaced and examined.
+## How much should you trust it?
 
-**Espoused theory vs theory-in-use:** A recurring finding from Argyris and Schön's case work was that people's stated beliefs about how they act (espoused theory) consistently differed from their actual behaviour patterns (theory-in-use). People espoused openness, collaboration, and double-loop inquiry — and then, in practice, used defensive routines that protected their position and avoided genuine inquiry. The gap between what people say and what they do is not hypocrisy — it is a structural feature of most professional practice.
+**A widely used idea, based on case studies, not tests.**
 
-**Defensive routines:** Organisations develop routines that protect individuals and groups from the discomfort of double-loop learning: not questioning assumptions, not surfacing disagreement, changing the subject when a conversation becomes threatening. These routines become self-reinforcing and largely undiscussable — which makes them extremely resistant to change.
+- The evidence is case studies. It's hard to know how far the findings apply elsewhere.
+- Double-loop learning is easy to explain but hard to do, especially for one person without support from their organisation.
+- Critics point out a circle in the argument. No double-loop learning is blamed on defensive routines, and defensive routines are taken as a sign of no double-loop learning.
+- Advocacy and inquiry take skill and a safe setting. If the question isn't genuine, it can become a trap ("What do you think you did wrong?").
 
-**Advocacy-inquiry as Model II behaviour:** Argyris and Schön describe two behavioural models. Model I (the default) is characterised by unilateral control, winning, suppressing negative feelings, and rational surface behaviour that protects the actor. Model II is characterised by valid information, free and informed choice, and internal commitment — including the practice of advocacy-inquiry: stating your own perspective and genuine reasoning, then actively seeking the other person's view.
+## If you need to convince someone
 
-The advocacy-inquiry move: *"I noticed [specific observable behaviour]. My interpretation was [your reasoning]. I want to test that — help me understand your thinking."* This differs from passive questioning (which can be manipulative) and from pure assertion (which closes dialogue).
+**In our words (a paraphrase, not a quotation):** getting better starts with noticing the gap between what you say you do and what you actually do. Most of us have never looked closely at that gap.
 
-## The one finding worth quoting in a meeting
+## What it means for you
 
-**In our words (a paraphrase, not a quotation):** The skill of double-loop learning begins with recognising the difference between what you say you do and what you actually do. Most people, if they are honest, have never looked at this gap carefully.
-
-For clinical education: when a debrief produces the same observations and the same recommendations every time, single-loop learning is occurring. The question is never "should we be running debriefs in this format at all?" — only "how do we run the debrief better?" The assumption is protected. Double-loop learning would ask the first question.
-
-## Honest limitations
-
-- The theory draws primarily on case studies of organisations and professional groups, with limited quantitative evidence; the generalisability of specific findings is hard to assess
-- "Double-loop learning" is straightforward as a concept but difficult to operationalise as a practice, particularly for individuals trying to apply it without structural organisational support
-- The model risks becoming circular: the absence of double-loop learning is explained by defensive routines; the presence of defensive routines is evidence of single-loop learning. This self-referential quality has attracted methodological critique
-- Argyris's later practice work (particularly *Overcoming Organizational Defenses*, 1990) is more practically useful than the original theoretical text, which is dense and not always accessible
-- The advocacy-inquiry technique, while powerful, requires significant practitioner skill and psychological safety to execute well; it can easily tip into a manipulative questioning pattern if the inquiry component is not genuine
-
-## What it means for your practice
-
-The immediate application is to debrief practice — specifically, the question of what assumption lies behind the action you are debriefing.
-
-When you see a learner do something that concerns you, the default response is to assess it (was it right or wrong?) and advise on it (here is how to do it better). This is Model I — single-loop. The advocacy-inquiry alternative: *"I noticed you did X. When I see that, I often interpret it as Y. Is that what was happening, or was there something different in your thinking?"* This makes your model visible, creates space for the learner's model to emerge, and produces genuine double-loop exchange.
-
-The same technique applies when you reflect on your own teaching: not "how do I make this session better?" but "am I making the right assumptions about what this session should be doing at all?"
+1. **Ask the double-loop question first.** Before improving a session, ask whether a session is the right answer at all. Is the gap something teaching can fix, or is it about staffing, equipment or policy?
+2. **Check your own gap.** You may say your teaching is interactive. Count how many minutes you talk and how many minutes learners *do* something.
+3. **Say what you saw, then ask.** When you give feedback, name what you noticed and what you made of it. Then ask what the person was thinking, and listen.
 
 ## How it appears in Teaching That Sticks
 
-Not taught directly in the three core sessions. Useful background for the programme's starting question: asking whether a teaching event is the right answer at all, not just how to deliver it better, is double-loop learning. Debriefing with good judgement, which builds on their advocacy-inquiry, is parked for a future simulation-based session.
+Not taught directly in the three core sessions. It's useful background for the programme's starting point. Question 2 of the design canvas, also in [Before You Plan a Teaching Day](/facilitator/before-you-plan), asks whether the gap is something teaching can fix at all. That is a double-loop question. The observer's debrief in the [train-the-trainer guide](/facilitator/train-the-trainer) uses the "say what you saw, then ask" move. [Debriefing with good judgement](/theories/debriefing), which builds on this work, is parked for a future simulation-based session.
+
+## The small print
+
+- Model I and Model II, and espoused theory versus theory-in-use, were first set out in *Theory in Practice* (1974). The 1978 book applies them to whole organisations.
+- "Defensive routines" as a term comes mainly from Argyris's later books (1985 and 1990). *Overcoming Organizational Defenses* (1990) is more practical, and easier to read, than this dense original.
+- In the second loop, feedback reaches back to the goals and values behind the action, which they called *governing variables*.
+- Rudolph and colleagues' [debriefing with good judgement](/papers/rudolph-2007) draws on this work, bringing it into healthcare simulation. Schön's later book, [The Reflective Practitioner](/papers/schon-1983), looks at how professionals think on their feet.

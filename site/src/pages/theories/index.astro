@@ -24,7 +24,7 @@ const groups = sessions.map(session => {
 }).filter(g => g.theories.length > 0);
 const rest = allTheories
   .filter(t => !seen.has(t.id))
-  .sort((a, b) => a.data.title.localeCompare(b.data.title));
+  .sort((a, b) => a.data.headline.localeCompare(b.data.headline));
 if (rest.length) groups.push({ label: 'More', title: 'Also in the library', theories: rest });
 ---
 
@@ -63,8 +63,8 @@ if (rest.length) groups.push({ label: 'More', title: 'Also in the library', theo
               {theories.map(t => (
                 <div class="theory-card">
                   <div class="theory-card-main">
-                    <p class="theory-card-name">{t.data.title}</p>
-                    <p class="theory-card-summary">{t.data.summary}</p>
+                    <p class="theory-card-name">{t.data.headline}</p>
+                    <p class="theory-card-summary"><em>{t.data.title}</em>: {t.data.summary}</p>
                   </div>
                   <div class="theory-card-action">
                     <a class="btn btn--green" href={`/theories/${t.id}`}>Read →</a>

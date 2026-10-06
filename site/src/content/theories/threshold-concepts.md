@@ -1,26 +1,53 @@
 ---
 title: "Threshold Concepts"
-summary: "Some ideas are portals — once you understand them, you can't go back, and your whole understanding of the subject transforms"
+headline: "Ideas that change how you see a subject"
+summary: "Some ideas change how people see a whole subject once they get them, and it is normal to be stuck for a while first"
 sessions: []
 evidence:
-  - cite: "Meyer, J. H. F., &amp; Land, R. (2003). Threshold concepts and troublesome knowledge: Linkages to ways of thinking and practising within the disciplines. In C. Rust (Ed.), <em>Improving Student Learning — Ten Years On</em>. Oxford Centre for Staff and Learning Development."
+  - cite: "Meyer, J. H. F., &amp; Land, R. (2003). Threshold concepts and troublesome knowledge: Linkages to ways of thinking and practising within the disciplines. In C. Rust (Ed.), <em>Improving Student Learning – Theory and Practice Ten Years On</em> (pp. 412–424). Oxford: OCSLD."
     paper: "meyer-land-2005"
   - cite: "Meyer, J. H. F., &amp; Land, R. (2006). <em>Overcoming Barriers to Student Understanding: Threshold Concepts and Troublesome Knowledge</em>. Routledge."
   - cite: "Cousin, G. (2006). An introduction to threshold concepts. <em>Planet</em>, 17, 4–5."
   - cite: "Mayer, R. E. (2002). Rote versus meaningful learning. <em>Theory into Practice</em>, 41(4), 226–232."
 ---
 
-Meyer and Land identified a class of ideas that behave differently from ordinary curriculum content. A *threshold concept* is transformative (understanding it changes how you see everything in the subject), irreversible (once understood, you can't un-see it), and integrative (it reveals previously hidden connections). It is also frequently troublesome — counterintuitive, alien, or seemingly incoherent before the breakthrough.
+**The idea in one sentence:** some ideas work like a doorway. Once people get them, the whole subject looks different and they can't go back, but they often get stuck for a while before they get through.
 
-The classic example from medicine is homeostasis: once a student genuinely understands that the body is continuously managing dynamic equilibrium rather than maintaining static normal values, pathophysiology looks completely different. Before that understanding, clinical signs are a list to memorise. After it, they're a coherent story. The moment of crossing that threshold is visible in students — and often in educators who watch it happen.
+## You've seen this already
 
-The implication for teaching is significant. Threshold concepts cannot be transmitted; they have to be *crossed*. A clear explanation can prepare the student to cross, but it can't cross for them. The liminal space — the stuck, confused, oscillating state before breakthrough — is not a sign that teaching has failed. It's a sign that the student is approaching a threshold.
+Think about the offside rule in football. Before you understand it, the game is full of whistles that seem random. A goal is cheered, then taken away, and you don't know why. Once it clicks, the whole game changes. You start to see why defenders step forward together, and why some runs are timed so carefully.
 
-## What this means for teaching
+Three things are worth noticing. It changed how you see the whole game, not just one moment. You can't now "un-know" it. And getting there was confusing. Most people need it explained more than once, in more than one way, before it lands.
 
-- **Identify the thresholds in your domain** — what are the ideas in your specialty that, once understood, make everything else make sense? What are the things you notice that novices genuinely cannot see until a certain point? Those are candidates for threshold concepts.
-- **Protect the liminal space** — students who are confused about a threshold concept are doing productive cognitive work. Resolving their confusion too quickly, by re-explaining, risks sending them back to a pre-threshold understanding that *feels* like comprehension. Sit with the confusion.
-- **Understand why thresholds are troublesome** — Building on David Perkins (1999), Meyer and Land describe troublesome knowledge as ritual (learned by rote without meaning), inert (known but not applicable), conceptually difficult (genuinely counterintuitive), alien (contradicts a deeply held worldview), or tacit (understood but rarely made explicit). Different types of trouble need different teaching responses.
-- **The expert blind spot** — once you've crossed a threshold, it can be genuinely hard to remember not being able to see what you now see. This is why experts are sometimes poor at teaching foundational concepts: they've lost access to the pre-threshold perspective. Novice perspectives are pedagogically valuable.
+## Why it matters for your teaching
 
-*In this programme:* Not taught directly in the three core sessions. Useful background when you plan teaching on an idea your learners find stubbornly hard.
+Healthcare is full of ideas like this. One often suggested is that the body is always working to keep itself steady. A new healthcare assistant or student can learn the normal ranges for pulse, blood pressure and breathing as a list. Once they see that a rising pulse can be the body working hard to keep blood pressure up, a set of observations stops being numbers on a chart. It becomes a story about how the patient is coping, and a reason to tell someone early.
+
+That last part is what matters. Start with what people need to do differently: in this case, spot a patient who is quietly getting worse, and escalate. If the doorway idea is what makes that possible, it deserves more of your time than the facts around it.
+
+Three things make these ideas tricky to teach:
+
+- **Learners get stuck in between.** For a while they may half-get it, swing back and forth, or copy the right words without the meaning. That can be a normal stage, not a sign your teaching has failed.
+- **You can't get through it for them.** A clear explanation helps people get ready, but each person has to make the shift themselves.
+- **Experts forget the doorway was there.** Once you've crossed, it can be hard to remember not seeing it. That's why "it's quite simple really" is a warning sign.
+
+This isn't taught directly in the three Teaching That Sticks sessions. It's useful background when you plan teaching on an idea your learners find stubbornly hard.
+
+## Try this
+
+- **Ask colleagues what changed everything.** "What did you finally get that made the rest make sense?" Their answers point to the doorway ideas in your area.
+- **Try a different angle, not the same words louder.** If someone is stuck, use a picture, a real case or a comparison from everyday life, rather than repeating your first explanation.
+- **Let people be confused, but check they're moving.** Say that this bit is hard for everyone. Then ask them to explain it back, so you can tell whether they're getting there or just stuck.
+- **Ask why it's hard.** Is it learned by rote with no meaning? Known but never used? Against common sense? Never actually said out loud by experts? Each needs a different fix.
+
+## How sure are we?
+
+This is a way of thinking about hard ideas, not a tested finding. It began with university teachers describing what they saw, and much of the writing since is ideas and case reports, not tests. There is no reliable test for whether something is a threshold concept or just difficult: it comes down to experts' judgement, and experts in the same field can disagree.
+
+There is little research on which teaching moves actually help people get through. Most of the work comes from universities rather than busy healthcare workplaces.
+
+Two common misreadings. Not every hard idea is a threshold concept. And confusion isn't always useful: some learners stay stuck, and they need help, not patience alone.
+
+## Where it comes from
+
+Jan Meyer and Ray Land, two UK education researchers, put the idea forward in 2003. It grew out of a large UK project on university teaching, especially talks with economics lecturers. Their ideas about why knowledge is troublesome built on earlier work by David Perkins (1999). Their 2006 book collected examples from many subjects.

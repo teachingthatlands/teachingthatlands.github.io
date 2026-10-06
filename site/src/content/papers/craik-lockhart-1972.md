@@ -1,5 +1,6 @@
 ---
 title: "Levels of Processing: A Framework for Memory Research"
+headline: "Thinking about meaning helps memory"
 authors: "Craik, F. I. M., & Lockhart, R. S."
 journal: "Journal of Verbal Learning and Verbal Behavior"
 year: 1972
@@ -10,39 +11,60 @@ sessions: []
 imagePrompt: "A vertical spectrum shown as three stacked horizontal bands, from top to bottom. The top band is labelled 'Structural (shallow)' with a simple shape icon — showing processing of visual appearance. The middle band is labelled 'Phonological' with a sound-wave icon — showing processing of sound. The bottom band is labelled 'Semantic (deep)' with a lightbulb or interlocking rings icon — showing processing of meaning. A bold downward arrow on the left side of the spectrum is labelled 'Depth of processing'. A subtle gradient runs from light to dark top to bottom. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
-## What the paper did
+**In one line:** how well we remember something depends a lot on how we thought about it at the time. Thinking about what it *means* usually beats noticing how it looks or sounds.
 
-Craik and Lockhart challenged the dominant information-processing model of memory — which described separate structural stores (sensory register, short-term memory, long-term memory) — with a fundamentally different account: memory strength is a natural byproduct of the *level* at which incoming information is processed, not of which store it ends up in.
+## What they did
 
-The paper was theoretical rather than reporting a single study. It synthesised decades of experimental findings to propose a unified framework: that any item of information can be processed at a shallow level (structural or phonological analysis) or at a deeper level (semantic analysis), and that the depth of processing determines the durability of the resulting memory trace.
+This isn't an experiment. It's an argument about how memory works, from two psychologists in Toronto, built on many earlier findings.
 
-The three levels they identified:
+At the time, most psychologists pictured memory as a set of boxes (a brief sensory store, a short-term store, a long-term store), with information moving from one to the next. Fergus Craik and Robert Lockhart suggested a different way to look at it. What matters, they said, is how *deeply* you process something when you meet it. You can notice only its surface (what it looks like, what it sounds like) or you can think about what it means and how it links to what you already know. They saw this as a sliding scale, from surface to meaning, not a set of fixed steps.
 
-- **Structural processing**: "What does this look like?" — attending to the physical features of the material (the shape of letters, the appearance of a face)
-- **Phonological processing**: "What does this sound like?" — attending to the sound or pronunciation of words
-- **Semantic processing**: "What does this mean? How does it connect to what I already know?" — engaging with meaning, context, and relationship to prior knowledge
+Later experiments by Craik and Endel Tulving (1975) tested three points on that scale. People saw a list of words and answered a quick question about each one, such as:
 
-## What it found
+- **How it looks:** "Is the word in capital letters?"
+- **How it sounds:** "Does it rhyme with *train*?"
+- **What it means:** "Is it a type of animal?"
 
-The central claim is simple and robust: **deeper processing produces more durable memory, regardless of intent to remember**.
+Then, without warning, they were asked to remember the words.
 
-In classic demonstrations of this effect, subjects who were asked questions that forced semantic processing ("is this word a type of animal?") remembered those words far better in a subsequent surprise recall test than subjects who processed the same words structurally ("is this word in capital letters?") — even when neither group was told there would be a memory test. The ones who processed for meaning remembered better because of *how* they processed, not because of *what they intended*.
+## What they found
 
-Several implications follow:
+- **Meaning beats surface.** In Craik and Tulving's tests, people remembered far more of the words they'd thought about for meaning, though nobody had told them to try to remember.
+- **Trying to remember isn't the main thing.** What people *did* with the words mattered more than whether they meant to learn them.
+- **Going over something again adds little.** Craik and Lockhart argued that just repeating something does little for later memory. Re-reading notes feels productive because it becomes familiar, but familiar isn't the same as being able to recall it.
+- **Meaning comes from links.** Craik and Lockhart argued that deeper processing means connecting new material to what you already know.
 
-- **Repetition is shallow processing.** Re-reading a textbook chapter, watching the same lecture slide twice, or going over notes again all produce structural and phonological processing. They feel productive because the material becomes more fluent and recognisable — but fluency is not retention. The "illusion of knowing" that follows re-reading is one of the most reliably demonstrated gaps between felt understanding and actual recall.
-- **Elaboration deepens processing.** Any activity that requires learners to connect new material to existing knowledge — generating examples, answering "why" questions, explaining something to a peer — forces semantic engagement and produces stronger memory traces.
-- **Questions beat summaries.** A teacher saying "so, in summary, the key point is X" produces shallow processing in the audience (they hear and decode it). A teacher asking "what do you think the key implication of this is for your own practice?" forces semantic processing (they must generate meaning themselves).
+## How much should you trust it?
 
-## What this means for teaching
+**A useful, well-supported idea, but with two big catches.**
 
-**Active beats passive — and now you know why.** The Freeman et al. (2014) meta-analysis shows that active learning produces better outcomes than lecturing. Levels of processing explains the mechanism: active methods require semantic processing; passive methods permit shallow processing. The difference in retention is not incidental — it is a direct consequence of what each method demands cognitively.
+- The basic finding, that thinking about meaning usually beats noticing the surface, has been repeated many times in the lab, mostly with word lists.
+- "Deep" was never defined on its own terms. Critics pointed out that "deep" ends up meaning "whatever got remembered", which goes round in a circle.
+- What helps depends on how the memory will be used. In one study, people who had thought about rhymes did better on a rhyming test than people who had thought about meaning (Morris, Bransford &amp; Franks, 1977). So practise in the way you'll need to use it.
+- It has hardly been tested in healthcare teaching.
 
-- **Retrieval practice works because recall is the deepest form of processing.** Pulling a memory out requires semantic reconstruction — you cannot retrieve something without engaging with what it means. This is why a retrieval quiz at the start of a session outperforms a recap slide: the quiz requires deep processing, the slide does not.
-- **Application tasks produce better retention than comprehension tasks.** "Describe the stages of Kirkpatrick's model" requires lower-depth processing than "identify the level-3 barrier in this clinical scenario." Design learning activities at the semantic level: what does this mean, and what would I do differently because of it?
-- **The feedback you give changes the depth of processing.** Confirming a correct answer ("yes, exactly right") ends processing. Probing it ("right — and why does that matter in a busy ward?") forces a second, deeper pass through the same material.
-- **Worked examples and case studies derive their power from forcing semantic integration.** A clinical scenario that requires learners to apply a concept produces deeper processing than a bullet point summary of the same concept.
+## If you need to convince someone
+
+**In our words (a paraphrase, not a quotation):** people remember what they've thought about, not just what they've seen or heard. Ask them to work out what it means and what they'd do with it.
+
+## What it means for you
+
+Start with what people need to do differently, then make them think about that, not just hear it.
+
+- **Ask, don't summarise.** "So, the key point is..." lets people listen with half their mind. "What would this change on your shift?" makes them work out what it means.
+- **Use a real case.** A short scenario that asks a pharmacy assistant or a porter to apply the idea gets them thinking about meaning, which a bullet-point summary doesn't.
+- **Probe right answers.** "Yes, exactly" ends the thinking. "Right, and why does that matter on a busy ward?" starts a second round.
+- **Don't rely on depth alone. Add recall.** Pulling something out of memory strengthens it in a way that re-studying, even thoughtfully, does not, and researchers still debate exactly why. So a quick "what do you remember from last week?" tends to beat a recap slide. See [retrieval practice](/theories/retrieval-practice).
 
 ## How it appears in Teaching That Sticks
 
-Not taught directly in the three core sessions. It is the background mechanism for two of the strategies named in Session 2: retrieval and elaboration both work by forcing deeper processing.
+It isn't taught directly in the three core sessions. It sits in the background of *elaboration*, one of the four strategies participants sort in Session 2: linking new ideas to what you already know, or asking "where could this work?"
+
+## The small print
+
+- **Two kinds of repeating:** Craik and Lockhart separated simply repeating something to keep it in mind (*maintenance rehearsal*) from thinking about what it means (*elaborative rehearsal*). They argued the first does little for later memory.
+- **Circularity:** the criticism that depth can't be measured apart from the memory it predicts came from Eysenck and Baddeley in 1978.
+- **Transfer-appropriate processing:** the idea that memory is best when the way you learn matches the way you're tested (Morris, Bransford &amp; Franks, 1977).
+- **Retrieval practice:** Karpicke and Blunt (2011) found that recall practice beat meaning-focused concept mapping at one week. This suggests recall adds something that "deep processing" alone doesn't explain. See [Roediger and Karpicke (2006)](/papers/roediger-karpicke-2006).
+- **Active learning:** a large review found active learning beat lecturing in university science, maths and engineering courses ([Freeman et al., 2014](/papers/freeman-2014)). Levels of processing offers one plausible explanation, but that review didn't test why.
+- **Re-reading** is rated a low-value study method by Dunlosky et al. (2013).

@@ -1,5 +1,6 @@
 ---
 title: "The Origins and Growth of Action Learning"
+headline: "Learning with peers by asking questions"
 authors: "Revans, R. W."
 journal: "Chartwell-Bratt"
 year: 1982
@@ -9,46 +10,49 @@ sessions: []
 imagePrompt: "A simple equation displayed large: L = P + Q. Below it: P labelled 'Programmed knowledge (what is already known)' and Q labelled 'Questioning insight (asking fresh questions of the situation)'. A small group of simplified figures sit in a circle beneath the equation, each with a speech bubble showing a question mark. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
-## What the study did
+**In one line:** expert knowledge isn't enough for new, messy problems; people also learn by asking fresh questions about their own real problems, and peers in the same boat are good at helping them do that.
 
-Revans's book is part autobiography, part theory, and part practical argument — he was not primarily an academic but a physicist-turned-management consultant who had developed his ideas over several decades, including wartime work at the Cavendish Laboratory and post-war work with colliery managers in the UK coal industry. He observed that the managers with the best safety and productivity records were not the ones who brought in the most expert advice, but the ones who met regularly with peers facing similar problems and asked each other better questions.
+## What Revans did
 
-The book synthesises this experience into a theory of action learning: a structured approach to professional development built around real problems, small groups, and the discipline of questioning over advising.
+This isn't an experiment. It's a very large book that collects decades of Revans's papers: part history, part theory, part practical argument.
 
-## What it found
+Revans trained as a physicist at the Cavendish Laboratory in Cambridge in the early 1930s. He then worked in education for Essex and for the National Coal Board, and became Manchester's first Professor of Industrial Administration (1955–65). At the Coal Board, he encouraged pit managers to meet in small groups to share problems and question each other, rather than relying on outside experts. He reported that results improved. Later he did similar work with London hospitals. The book pulls these experiences together into a method he called action learning.
 
-**The fundamental equation: L = P + Q.** Learning, Revans argued, is not simply the accumulation of programmed knowledge (P) — the existing body of theory, technique, and established practice that experts provide. It is the combination of that knowledge with questioning insight (Q): the capacity to ask fresh questions of a situation that has not been encountered before. In complex, ill-structured situations — which describes almost everything in clinical practice — Q is more important than P.
+## What he argued
 
-An organisation or profession that relies only on P — on expert advice, best-practice guidelines, and established protocols — will be well-equipped for problems it has seen before and poorly equipped for problems it has not. The clinical equivalent: a team that knows all the guidelines but cannot question their own assumptions when guidelines do not apply.
+- **Learning needs two things: L = P + Q.** P is *programmed knowledge*: what experts already know, the guideline, the textbook. Q is *questioning insight*: asking fresh questions about a situation you haven't met before. Revans thought P alone works for problems we've seen before, but not for new ones.
+- **Puzzles are not problems.** A *puzzle* has a right answer that an expert can find. A *problem* is messy, and reasonable people may disagree about what to do. Revans argued that treating problems as puzzles, by just bringing in an expert answer, is a common way for organisations to go wrong.
+- **Work on real problems in small groups.** A small group (often four to six people) meets regularly. Each person brings a real problem they're working on. The others mainly ask questions, rather than giving advice or swapping stories.
+- **Learn with "comrades in adversity".** Peers facing similar pressures are often better at this than experts. They know enough to ask useful questions, but they aren't in charge, so the person with the problem stays in charge of the answer.
+- **Learning and action go together.** A line often credited to Revans is *"There can be no learning without action, and no action without learning."* In plain terms: if it doesn't change what you do, the learning isn't finished.
 
-**Puzzles vs problems.** Revans distinguished between *puzzles* (which have knowable answers, yield to expert P, and can in principle be solved by looking up the right solution) and *problems* (which are complex, value-laden, context-dependent, and cannot be solved by expertise alone). Most management and clinical challenges are problems, not puzzles. Treating problems as if they were puzzles — by seeking expert advice, following protocols, applying someone else's solution — is one of the primary ways that professional practice fails.
+## How much should you trust it?
 
-**Action learning sets.** The practical structure: a small group (typically four to six people) who meet regularly, each bringing a real problem they are working on. The group's role is to ask questions — not to offer advice, not to share analogous experiences, not to solve the problem. For the first phase of each meeting, questioning only. The issue-holder is confronted with their own thinking in a way that self-reflection and expert consultation rarely produce.
+**An influential idea, backed mostly by stories and case studies rather than fair tests.**
 
-**The comrades in adversity principle.** Peers facing similar challenges — people roughly at the same level, with comparable responsibilities and constraints — are often better learning partners than experts. They have sufficient shared context to ask relevant questions, and insufficient distance to be authoritative, which keeps the problem-owner in charge of their own solution.
+- Revans's own reports describe groups he set up himself. There was no comparison group, so we can't tell how much the groups caused the improvements.
+- Later research on action learning is mostly accounts from people who run it, and case studies. Studies that compare it fairly with other kinds of training are few.
+- It grew up in industry and management. Healthcare brings time pressure, hierarchy and patient safety, so it needs adapting.
+- The difference between puzzles and problems is useful but fuzzy. A lot of clinical work sits somewhere in between.
 
-**The core principle.** In the words most often attributed to Revans: *"There can be no learning without action, and no action without learning."* Learning that does not change what you do is not complete. Action that is not reflected upon is not educative.
+## If you need to convince someone
 
-## The one finding worth quoting in a meeting
+**In our words (a paraphrase, not a quotation):** for a problem nobody has solved before, the most useful thing is often a good question that makes you look again at your own assumptions, not an answer brought in from outside.
 
-**In our words (a paraphrase, not a quotation):** the questions that matter most in a difficult situation are the ones that challenge the assumptions of the person who created or inherited it — not the answers that experts bring in from outside.
+## What it means for you
 
-For clinical education: the most effective debrief of a difficult case is rarely the one where a senior consultant explains what should have happened. It is the one where the team is asked *"what were you assuming when you made that decision?"* and has to work through the answer together.
-
-## Honest limitations
-
-- The evidence base for action learning is largely practitioner-reported and case-based; rigorous controlled studies comparing action learning to other professional development approaches are limited
-- Revans was resistant to theoretical systematisation, which makes the ideas intellectually rich but practically harder to specify and evaluate
-- The "questions only" discipline in action learning sets is genuinely difficult for clinicians trained to problem-solve rapidly and provide expert answers; without careful facilitation, sets frequently slide into advice-giving, which reduces their effectiveness
-- The model was developed in industrial management contexts; application to healthcare settings with time pressure, hierarchy, and patient safety stakes requires adaptation
-- The distinction between puzzles and problems, while intuitively appealing, is harder to operationalise than it appears — much of clinical practice sits in the territory between the two
-
-## What it means for your practice
-
-The immediate application is an action learning set: triads, real teaching challenges, eight minutes of questions only before any advice is offered. The discipline is not procedural — it is the point. Clinicians who can suspend the advice reflex for eight minutes become better at asking the questions that actually help rather than the questions that demonstrate their own expertise.
-
-More broadly, the L = P + Q insight applies to how you design any professional development intervention: if it consists entirely of expert input (P), you are providing content that participants may or may not be able to use. If it combines expert input with structured questioning of real problems (P + Q), you are building the questioning capacity that transfers to situations the content never anticipated.
+1. **Ask before you advise.** When someone brings you a teaching problem, help them think it through before you offer your fix. Many clinicians find this hard, because fixing things fast is part of the job.
+2. **Try it in threes.** Take a real teaching problem. For the first eight minutes, the other two ask only questions. Then they can offer ideas.
+3. **Plan for P and Q.** If a session is all expert input, people get P and may not know how to use it. Leave time for them to question how it applies to their own real situation. Often the first question is the one at the heart of this programme: what do people need to do differently?
 
 ## How it appears in Teaching That Sticks
 
-Not taught directly in the three core sessions. Useful background if you want peer support to continue after the programme ends.
+Not taught directly in the three core sessions. It's useful background if you want peer support to continue after the programme ends. The [action learning](/theories/action-learning) page has a simple way to start.
+
+## The small print
+
+- Revans resisted turning his ideas into a fixed system. That makes them rich but hard to pin down and evaluate.
+- The well-known "questions only" rule for the first part of each meeting was set out by later writers, notably Michael Marquardt. Revans stressed questions over advice, but the formal rule isn't his. The "eight minutes" in the exercise above is our suggestion, not his.
+- Revans's 1960s hospital work was the Hospital Internal Communications project, with a group of London hospitals.
+- "There can be no learning without action..." is widely quoted, but we haven't traced it to a page in this book. Treat it as a summary of his view.
+- For a step-by-step guide to running sets, see McGill and Beaty, *Action Learning* (2nd ed., 2001). For a related idea about questioning your own assumptions, see [Argyris and Schön](/papers/argyris-schon-1978).

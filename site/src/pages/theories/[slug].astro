@@ -30,7 +30,7 @@ const sessionEntries = await Promise.all(
 );
 const usedInSessions = sessionEntries.filter(Boolean);
 
-const pageTitle = theory.data.title;
+const pageTitle = theory.data.headline;
 ---
 
 <Base title={pageTitle} bodyClass="session-page theory-page" currentNav="theories" brandRole="Theory Library" brandRoleClass="brand-role--green">
@@ -45,7 +45,8 @@ const pageTitle = theory.data.title;
           <span class="breadcrumb-sep" aria-hidden="true">»</span>
           <span class="breadcrumb-current">{theory.data.title}</span>
         </div>
-        <h1 class="session-title">{theory.data.title}</h1>
+        <h1 class="session-title">{theory.data.headline}</h1>
+        <p class="session-subtitle"><em>{theory.data.title}</em></p>
         <p class="session-subtitle">{theory.data.summary}</p>
 
         {usedInSessions.length > 0 && (

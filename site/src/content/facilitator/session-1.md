@@ -111,7 +111,7 @@ Three bursts, each three minutes or less.
 
 - **Bottleneck.** SAY: small working memory (about four items), huge long-term memory, a narrow bottleneck between. Learning is getting through it. A full slide rests *your* memory and taxes *theirs*. On the retrieve arrow: "remember this arrow; it comes back next week." WHY: ~4 is Cowan (2001), revising Miller's 7±2. → [cognitive load](/theories/cognitive-load)
 - **Adverts.** Dark, unlabelled slide: busy Black Friday ad scan, then the clean MacBook advert. ASK: what do you notice? (Wait 5–8 s.) SAY: some load belongs to the topic (intrinsic: scaffold it, can't remove it). Some is noise (extraneous), and that's the part *we* control. Everything on the bad slide was noise. WHY: keep it to two types. Germane load is contested; mention only if asked.
-- **Two channels.** *Text + Voice* competes ✗. *Image + Voice* complements ✓. SAY: notice what's happening now: a diagram, and me talking. WHY: dual coding is Paivio; the slide principles (redundancy, modality) are Mayer's. Not "always add images": a busy infographic is more noise. → [dual coding](/theories/dual-coding)
+- **Two channels.** *Text + Voice* competes ✗. *Image + Voice* complements ✓. SAY: notice what's happening now: a diagram, and me talking. WHY: dual coding is Paivio; the slide principles (redundancy, modality) are Mayer's. Printed words compete with the pictures for learners' eyes; a few key words are fine. Not "always add images": a busy infographic is more noise. → [dual coding](/theories/dual-coding)
 - IF SHORT: never cut the bottleneck or two channels.
 
 ### 22–39 · Redesign: round 1

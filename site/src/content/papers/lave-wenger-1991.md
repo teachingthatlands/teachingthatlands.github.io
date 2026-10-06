@@ -1,5 +1,6 @@
 ---
 title: "Situated Learning: Legitimate Peripheral Participation"
+headline: "Learning by taking part in real work"
 authors: "Lave, J., & Wenger, E."
 journal: "Cambridge University Press"
 year: 1991
@@ -9,50 +10,50 @@ sessions: [2]
 imagePrompt: "A concentric ring diagram. The centre ring is labelled 'Full participation — established practice' and is solid/dark. The middle ring is lighter and labelled 'Legitimate peripheral participation — newcomers'. The outer ring is dotted and labelled 'Observer / not yet legitimate'. A small figure in the middle ring is shown moving toward the centre, with dotted arrows. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
-## What the study did
+**In one line:** a lot of learning happens by taking part in real work alongside other people, starting with small jobs at the edge and moving towards the centre.
 
-Lave and Wenger were investigating an uncomfortable observation: learning in apprenticeship settings — tailors in West Africa, midwives in Mexico, meat-cutters in the United States, military navigators, non-drinking alcoholics in Alcoholics Anonymous — did not look like the learning that educational psychology had been studying. It was not abstract. It was not delivered. It happened in the course of doing real work, among real colleagues, for real stakes.
+## What they did
 
-The book proposes a theory to explain this: **legitimate peripheral participation (LPP)**. Learning, they argue, is not primarily about what happens inside individual heads — it is about what happens when a newcomer is legitimately included in a community's real practices, initially at the periphery, and gradually moves toward fuller participation.
+This isn't an experiment. It's a short book that offers a new way of looking at learning.
 
-## What it found
+Jean Lave, an anthropologist, and Etienne Wenger, then a researcher in computing and learning, were struck by how people learn in apprenticeships. They looked at five cases, one from Lave's own fieldwork and the rest from other researchers' studies: midwives in Mexico, tailors in West Africa, navy navigators, supermarket meat-cutters in the United States, and people who had stopped drinking, in a recovery group. Across these cases, learning came mainly from taking part, not from being taught. Where newcomers were kept away from the real work, as with the meat-cutters, they learned much less.
 
-**Legitimate peripheral participation:** The key term has three components that matter separately.
+## What they found
 
-*Legitimate* — newcomers are genuine members of the community, not observers or students-in-waiting. They have real roles, real responsibilities, and real stakes. This legitimacy is what makes the learning coherent rather than abstract.
+- **Newcomers learn by taking part.** Lave and Wenger called this *legitimate peripheral participation*. It's a mouthful, so take it a word at a time.
+- **Legitimate:** newcomers are real members of the group, with real jobs, not just observers waiting for their turn.
+- **Peripheral:** they start at the edge, with simpler, lower-risk tasks and more support, and move towards the centre over time.
+- **Participation:** they learn by doing the work, not just by being told about it.
+- **Learning is tied to where it happens.** Knowledge isn't just something you carry from one place to another. It is shaped by the setting, the people and the tools around it. This may be one reason classroom learning doesn't always carry over to the ward.
+- **Groups who share a practice.** They used the phrase *community of practice* for a group who share real work and learn from each other, such as a ward team. They left it loosely defined. Wenger set out its features later, in 1998.
 
-*Peripheral* — they are not yet central practitioners. They work with less-complex tasks, lower-risk situations, and greater support. But this is a position on a spectrum toward full participation, not a separate category.
+## How much should you trust it?
 
-*Participation* — learning is not reception of knowledge about practice. It is participation in practice. The practice is both the means and the content of learning.
+**A respected way of understanding learning, based on studies of apprenticeship; not a teaching method, and not tested as one.**
 
-**Communities of practice:** A community of practice is not an organisation chart — it is a group of people who are mutually engaged in real work, share a common enterprise, and have developed a shared repertoire of approaches, language, and tools over time. A ward team is a community of practice. A cohort of clinical educators completing this programme is becoming one. New members learn by joining the practice, not by receiving information about it.
+- Lave and Wenger said plainly that this is a way of looking at learning, not a teaching method. Turning it into a method is other people's step, not theirs.
+- It draws on five case studies, four of them by other researchers. It describes and explains; it doesn't measure or compare.
+- The apprenticeships they studied mix learning and work more tightly than most healthcare training does. Busy wards and clinics may need a lot of adapting.
+- Taking part isn't always good learning. Newcomers can also pick up poor habits and unhelpful attitudes from the people around them.
 
-**The situated nature of knowledge:** Knowledge is not an abstract possession that can be transferred from one head to another through explanation. It is always tied to the context in which it was developed and in which it is used. This is why clinical knowledge learned in a classroom setting often fails to transfer to the ward — not because the learners were inattentive but because the knowledge was learned in a context (passive, abstract, decontextualised) incompatible with the context in which it must be used (active, applied, high-stakes).
+## If you need to convince someone
 
-**Implications for learning design:** The ward is not where classroom learning gets applied. The ward is the learning environment. The classroom is, at best, a partial and impoverished simulation of it. This is not an argument against structured education — it is an argument for designing structured education around authentic tasks and real problems.
+**In our words (a paraphrase, not a quotation):** people learn a job largely by being let in to do real parts of it, alongside people who already do it. Teaching that ignores the real setting misses much of how learning works.
 
-## The one finding worth quoting in a meeting
+## What it means for you
 
-*"Learning is an integral and inseparable aspect of social practice"* (Lave & Wenger, 1991). In our words: the most powerful learning environments are those in which the learner is engaged in authentic activity with real consequences.
-
-For clinical education: a junior doctor who shadows a registrar's decision-making on a real patient, asks questions in real time, and has to act on the answer is having a more powerful learning experience than an equivalent number of hours in a lecture on clinical reasoning. The ward is the classroom. The question is whether it is being used well.
-
-## Honest limitations
-
-- Legitimate peripheral participation was derived primarily from apprenticeship contexts where learning and work are more tightly integrated than in most formal clinical education settings; direct application to time-pressured NHS clinical environments requires adaptation
-- The theory struggles to account for why certain classroom-based learning does transfer effectively to practice — particularly when structured around authentic problems (see Kolb, 1984; problem-based learning literature)
-- "Community of practice" has been adopted so broadly in organisational and educational discourse that it has lost some theoretical precision; many groups called communities of practice lack the mutual engagement and shared enterprise that Lave and Wenger specify
-- The framework has limited practical guidance on how to deliberately design learning environments that embody LPP — it is better as an explanatory model than as a design tool
-- Not all peripheral participation is legitimately educational; learners at the periphery can also absorb poor practice, defensive cultures, and unexamined habits from established communities
-
-## What it means for your practice
-
-The practical question is: which of your teaching moments are closest to legitimate peripheral participation, and which are furthest from it?
-
-A 10-minute huddle teach at the end of a ward round — based on a real case, with real learners who were there — scores highly. A mandatory e-learning module on a topic with no connection to the learner's current work scores low. The highest-leverage improvement for most clinical educators is not making classroom teaching better — it is taking teaching out of the classroom and into the work.
-
-This is the point of Session 2's main task: make ten minutes of your own session active for its real setting (a ward corridor, a handover, a sim room), with whatever is actually there. That is how most of the best clinical learning happens.
+1. **Start from what people need to do, where they'll do it.** A short teach in a handover, on a real case people have just seen, is closer to how learning happens at work than a slide talk on the same topic.
+2. **Give newcomers real jobs at the edge.** A new starter on shift can do safe, useful parts of the work with support, and take on more as they're ready.
+3. **Design for the real place.** Plan for the noise, the interruptions and the kit that's actually there, not for an ideal teaching room.
+4. **Watch what the work itself is teaching.** If newcomers learn mainly by joining in, the habits around them are teaching them too, good or bad.
 
 ## How it appears in Teaching That Sticks
 
-Lave and Wenger are why Session 2's design task is set where the teaching really happens, not in an ideal classroom. Participants make ten minutes of their own session active for its real setting and constraints, then pitch it to the group. The Session 2 ask, making one active thing for that session before next week, keeps the work tied to real practice.
+Lave and Wenger are why Session 2's main design task is set where the teaching really happens. Participants make ten minutes of their own session active, in its real setting: a ward corridor, a handover, a sim room. They plan for what's actually there and what happens if they're interrupted, then pitch it to the group.
+
+## The small print
+
+- **"Not a teaching method".** In the book, Lave and Wenger say legitimate peripheral participation is not itself an educational form or a teaching technique, but a way of analysing learning (p. 40).
+- **The quote people use.** A line often quoted as theirs, "learning is an integral and inseparable aspect of social practice", is one we couldn't find in the book in that form. Their own wording is that learning is "an integral part of generative social practice in the lived-in world" (p. 35).
+- **Community of practice.** In 1998, in his book *Communities of Practice*, Wenger set out three features: people engage with each other, share a joint aim, and build up shared ways of doing things. The phrase is now used so widely that many groups given the label don't have these features.
+- **Situated learning** is the wider name for this family of ideas: that learning can't be fully separated from the setting and the people it happens with.

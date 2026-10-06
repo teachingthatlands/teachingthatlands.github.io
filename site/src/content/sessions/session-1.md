@@ -18,7 +18,7 @@ keyIdeas:
     detail: "We hold about four things at once. Put everything on a slide and you rest your memory and tax theirs. Some effort belongs to the topic; the clutter is the part you control."
     theory: cognitive-load
   - idea: "Image and voice beat text and voice."
-    detail: "Reading and listening compete for the same channel. A picture and your voice work together."
+    detail: "Words on the slide compete with your pictures for learners' eyes. A picture and your voice work together."
     theory: dual-coding
   - idea: "Design for the back row."
     detail: "24pt or bigger, strong contrast, nothing important at the bottom of the screen, and never colour alone: about 1 in 12 men see colour differently."

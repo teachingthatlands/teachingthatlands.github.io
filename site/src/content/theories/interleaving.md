@@ -1,23 +1,47 @@
 ---
 title: "Interleaving"
-summary: "Mixing different topics or problem types during practice is harder and feels worse — but produces stronger learning than blocked practice"
+headline: "Mix it up when practising"
+summary: "Mixing different kinds of case or problem in practice feels harder, but usually helps people tell them apart later"
 sessions: ["session-2"]
 evidence:
   - cite: "Rohrer, D., &amp; Taylor, K. (2007). The shuffling of mathematics problems improves learning. <em>Instructional Science</em>, 35(6), 481–498."
   - cite: "Kornell, N., &amp; Bjork, R. A. (2008). Learning concepts and categories: Is spacing the 'enemy of induction'? <em>Psychological Science</em>, 19(6), 585–592."
   - cite: "Taylor, K., &amp; Rohrer, D. (2010). The effects of interleaved practice. <em>Applied Cognitive Psychology</em>, 24(6), 837–848."
-  - cite: "Pan, S. C. (2015). The interleaving effect: Mixing it up boosts learning. <em>Scientific American Mind</em>, 26(5), 18–19."
+  - cite: "Brunmair, M., &amp; Richter, T. (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. <em>Psychological Bulletin</em>, 145(11), 1029–1052."
+  - cite: "Pan, S. C. (2015, August 4). The interleaving effect: Mixing it up boosts learning. <em>Scientific American</em>."
 ---
 
-Standard practice in most educational settings is *blocking*: do all the problems of type A, then all the problems of type B. It feels efficient. Progress within each block is visible and fast. Students feel they're getting it.
+**The idea in one sentence:** practise different kinds of problem mixed together, not one kind at a time, so people learn to spot which kind they're facing. It feels harder and slower, but on a later test it usually does better.
 
-But then comes the test, and blocked practice collapses. When problems are mixed, students can't rely on the surrounding context to identify what strategy to use — they have to *recognise* what kind of problem they're facing. That extra step, which blocking removes, is actually a critical component of the skill being developed.
+## You've seen this already
 
-Interleaved practice — mixing problems, topics, or cases — forces learners to discriminate between types and to select the appropriate approach. It's harder, slower, and produces less apparent progress session-by-session. It also produces significantly better test performance and real-world transfer, because real clinical situations don't come labelled.
+Think about learning to cook. A recipe book groups things: all the soups, then all the cakes. But on a weeknight you open the fridge and have to decide what to make. Nobody has told you it's a soup night. That decision is a skill, and you only practise it when the choices are mixed.
 
-## What this means for teaching
+Or think about sport. A tennis coach can feed you twenty forehands in a row. You'll look great. In a match, the ball might come to your forehand or your backhand, and you have to choose. Mixed drills feel messier, but they train the choice.
 
-- **Mix case types rather than grouping them** — a series of "here are three respiratory cases" is blocked. Interspersing respiratory, cardiac, and metabolic cases across the same session is interleaved.
-- **Expect the resistance** — learners will feel that interleaved practice is harder and less productive. That feeling is the learning. Name it explicitly so it doesn't become discouragement.
-- **Interleave within and across sessions** — within a session, vary the types of question or activity rather than exhausting one before moving to another. Across sessions, return to earlier material in new forms.
-- **The mismatch between performance and learning** — blocked practice looks better on immediate testing; interleaved practice looks better on delayed testing. Teach your learners to mistrust their feeling of fluency during practice.
+## Why it matters for your teaching
+
+Healthcare teaching often comes in neat blocks. Three chest cases, then three heart cases. Five questions on one drug, then five on the next. Inside each block, people do well, because the heading has already told them what kind of case it is.
+
+Real work doesn't come labelled. A breathless patient might have a lung problem, a heart problem or something else entirely. A paramedic, a nurse or a physio has to work out which before they know what to do. If spotting the difference is part of what people need to do differently, they need practice at spotting it.
+
+So, mix it up. In a case review, put different kinds of case side by side. On a pharmacy teaching round, mix questions on drugs that look alike or sound alike. Ask "which is this, and how do you know?" before "what would you do?"
+
+People will find this harder. They may say the session felt muddled. That feeling of difficulty is normal and doesn't mean it isn't working. Tell them so at the start.
+
+## Try this
+
+- **Shuffle your cases.** Instead of a block of one kind, mix two or three kinds that are easy to confuse.
+- **Ask "which one is it?" first.** Get people to name the type of problem before they solve it. That step is the skill blocks leave out.
+- **Warn people it will feel harder.** Blocked practice looks better *during* practice; mixed practice usually does better on the test afterwards. Say this out loud, so people don't give up.
+- **Mix in older material.** When you return to a topic, mix it with something newer, so people have to choose between them.
+
+## How sure are we?
+
+The evidence is good but more mixed than for [retrieval practice](/theories/retrieval-practice) or [spaced practice](/theories/spaced-practice). A large review that pooled 59 studies (Brunmair & Richter, 2019) found a moderate benefit on average. The benefit was largest when people had to tell apart things that look similar, such as paintings by different artists. It was smaller for maths, unclear for reading texts, and for learning lists of words, blocks did *better*. Another major review (Dunlosky et al., 2013) rated it as only moderately useful, because there was less research.
+
+Most studies were in labs or school maths. There is little testing in clinical settings, so we can't say how much it helps at work. There are good reasons to expect it to help, because telling cases apart is a key clinical skill. Note that interleaving means mixing *kinds of problem*. Simply switching between a quiz, a talk and a video is not the same thing.
+
+## Where it comes from
+
+Sports scientists noticed something similar with physical skills in the late 1970s. In 2007, Doug Rohrer and Kelli Taylor showed that shuffling maths problems helped students solve them on a test a week later, even though shuffled practice felt worse at the time. In 2008, Nate Kornell and Robert Bjork had people learn the styles of different painters. Mixing the paintings helped people recognise new paintings. Yet most of them believed the blocked way had worked better.

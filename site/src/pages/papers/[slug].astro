@@ -19,7 +19,7 @@ const usedInSessions = paper.data.sessions
   .map((num: number) => allSessions.find(s => s.data.number === num))
   .filter(Boolean);
 
-const pageTitle = paper.data.title;
+const pageTitle = paper.data.headline;
 const fullCite = `${paper.data.authors} (${paper.data.year}). ${paper.data.title}. ${paper.data.journal}.`;
 ---
 
@@ -41,7 +41,8 @@ const fullCite = `${paper.data.authors} (${paper.data.year}). ${paper.data.title
           <span class="breadcrumb-sep" aria-hidden="true">»</span>
           <span class="breadcrumb-current">{paper.data.authors.split(',')[0]} {paper.data.year}</span>
         </div>
-        <h1 class="session-title">{paper.data.title}</h1>
+        <h1 class="session-title">{paper.data.headline}</h1>
+        <p class="session-subtitle"><em>{paper.data.title}</em></p>
 
         <div class="paper-meta-row">
           <span>{paper.data.authors}</span>
@@ -93,7 +94,7 @@ const fullCite = `${paper.data.authors} (${paper.data.year}). ${paper.data.title
           <p class="cite-doi" style="margin-top:0.5rem;">
             <span class="paper-oa-badge">Open Access</span>
             {paper.data.openAccessUrl && (
-              <> · <a href={paper.data.openAccessUrl} target="_blank" rel="noopener noreferrer">Available free at publisher</a></>
+              <> · <a href={paper.data.openAccessUrl} target="_blank" rel="noopener noreferrer">Free to read</a></>
             )}
           </p>
         )}

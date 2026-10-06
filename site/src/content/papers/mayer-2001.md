@@ -1,56 +1,62 @@
 ---
 title: "Multimedia Learning"
+headline: "Designing slides with words and pictures"
 authors: "Mayer, R. E."
 journal: "Cambridge University Press"
 year: 2001
 openAccess: false
 theorists: ["mayer-multimedia", "dual-coding"]
 sessions: [1]
-imagePrompt: "Two side-by-side column diagrams. Left column labelled 'Text on slide + narration': two bars for the same channel both filling to near-capacity, labelled 'VERBAL CHANNEL × 2 — redundancy'. Right column labelled 'Image + narration': one visual bar half-full, one verbal bar half-full, total load lower, labelled 'TWO CHANNELS — complementary'. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
+imagePrompt: "Two side-by-side column diagrams. Left column labelled 'Picture + full text + narration': the visual (eyes) bar filled to near-capacity by the picture and the printed text together, labelled 'EYES OVERLOADED — redundancy'. Right column labelled 'Picture + narration': one visual bar half-full, one auditory (ears) bar half-full, total load lower, labelled 'EYES AND EARS — complementary'. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
-## What the study did
+**In one line:** people learn more from words and pictures together than from words alone, especially when the picture is on screen and the words are spoken.
 
-Mayer's book synthesised over a decade of laboratory experiments into a single explanatory framework — the Cognitive Theory of Multimedia Learning (CTML). The central question was not "do multimedia materials work?" but "which combinations of words and images support learning, and why?" The theoretical engine is Baddeley's working memory model (1986) and Paivio's dual coding theory (1971): learning involves two separate processing channels (visual-pictorial and auditory-verbal), each with limited capacity, and effective multimedia design must work with those limits rather than against them.
+## What Mayer did
 
-This is a book of findings rather than a single study. Across dozens of tightly controlled experiments comparing matched instructional conditions, consistent patterns emerged that were stable enough to be stated as design principles.
+This is a book, not a single experiment. Richard Mayer and his team spent over ten years running lab experiments, mostly with university students. Each experiment taught a short lesson, such as how lightning forms or how a bicycle pump works. One group got one version, another group got a slightly different one: with or without pictures, with spoken or written words, with or without extra decoration. Then everyone took a test, usually soon afterwards.
 
-## What it found
+In the book, Mayer pulled the results together into a set of design rules. He explained them with a simple model: we take in information through two channels, one for what we see and one for what we hear. Each channel can only handle a little at a time. He built this on two older ideas: Paivio's [dual coding](/theories/dual-coding) and Baddeley's model of *working memory* (the small part of memory we use to think about new things).
 
-**The multimedia principle:** People learn more deeply from words and pictures combined than from words alone. Using both channels simultaneously with complementary information produces better retention and transfer than using only the verbal channel.
+## What he found
 
-**The redundancy principle:** People learn worse when the same information is presented in both spoken and printed text simultaneously — even though this intuitively feels like reinforcement. In Mayer's account, the problem is mainly in the *visual* channel: printed text on screen competes with the picture or animation for the learner's eyes, while learners also try to reconcile the printed and spoken versions. This is the most counter-intuitive finding in the book, and the one with the most direct implication for clinical teaching: slides that reproduce the presenter's words do not reinforce the message, they impair processing of it.
+- **Words and pictures beat words alone.** A picture that shows what the words describe helped people understand and use what they'd learned.
+- **Say it, don't print it.** With a picture on screen, people learned more when the words were spoken than when they were printed. Printed words and pictures both need the eyes.
+- **Don't show and say the same words over a picture.** Adding on-screen text that repeats the narration made learning worse, not better. The printed words pulled people's eyes away from the picture.
+- **Less is more.** Cutting interesting but unneeded extras (stories, decoration, background music) helped people learn the main point.
+- **Keep words and pictures together.** Labels next to the part they describe, and words spoken as the picture appears, worked better than words and pictures kept apart.
+- **Beginners gain most.** These effects were strongest for people new to the topic.
 
-**The modality principle:** When combined with images, people learn better from narration than from on-screen text. Printed words and images both arrive through the eyes, so on-screen text overloads the visual channel. Listening to narration while looking at an image uses two channels for different, complementary information.
+## How much should you trust it?
 
-**The coherence principle:** Removing extraneous material — words, images, animations that are present but do not advance the learning objective — improves learning. Adding material because it looks engaging or comprehensive is not neutral: it costs cognitive resource.
+**Strong, well-repeated evidence in the lab, for short lessons; little tested in healthcare.**
 
-**The contiguity principles:** Words and corresponding images should appear close together in both space (on the screen) and time (at the same moment). When they are separated, learners must hold one element in working memory while searching for its partner — which is extraneous cognitive work.
+- Most experiments used students, short lessons and tests soon afterwards. Few checked memory a week or more later, and few were in workplaces.
+- The "say it, don't print it" and "don't repeat the words" findings are among the best supported. But both hold mainly when there's a picture and the speaker sets the pace. They weaken when people can pause and go back at their own speed.
+- Without a picture, reading slide text aloud hasn't been shown to do harm (Adesope &amp; Nesbit, 2012).
+- The rules fit narrated explanations best. They're harder to apply to discussion, hands-on practice or group work.
 
-**The signalling principle:** Cues that highlight the organisation of material — headings, arrows, numbered steps — help learners build an accurate mental model without adding substantive extraneous load.
+## If you need to convince someone
 
-## The one finding worth quoting in a meeting
+**In our words (a paraphrase, not a quotation):** students who received words and pictures learned more deeply than those who received words alone, and this held across repeated experiments.
 
-**In our words (a paraphrase, not a quotation):** students who received words and pictures learned more deeply than those who received words alone — and this held across repeated experiments.
+A slide that repeats the speaker's notes word for word, with logos round the edges, is what these rules warn against: unlikely to help memory, and with a picture on it, it may well hinder it.
 
-For clinical education: the standard NHS PowerPoint template, with speaker notes reproduced as slide text and a trust logo in three corners, is a studied example of the redundancy and coherence effects in combination. It does not aid memory. It actively impairs it.
+## What it means for you
 
-## Honest limitations
+Start with what people need to do differently. Then, in order of ease:
 
-- Mayer's experiments were predominantly conducted in laboratory settings with undergraduate students and short learning sequences. Ecological validity to sustained postgraduate clinical training is not established by this work
-- Most experiments measured immediate retention or short-delay transfer tests; far fewer followed up to assess retention at one week or longer
-- The principles (the commonly cited list of 12 comes from the 2009 second edition, not this 2001 first edition) have different effect sizes and different levels of replication — the redundancy and modality principles are very well supported; some others are more context-dependent
-- The CTML assumes a relatively straightforward two-channel model of working memory that has since been refined. The framework is a useful approximation, not a complete account
-- Principles apply most clearly to self-contained multimedia explanations. They become harder to apply mechanically to interactive, social, or discursive forms of teaching
-
-## What it means for your practice
-
-Three high-value changes, in order of ease:
-
-1. **Remove on-screen text that you will also say aloud.** Not reduce — remove. If a point needs to be made verbally, it does not need to be written on screen as well. If it needs to be on screen, your spoken narration should add something different — context, example, implication.
-2. **Pair one clear image with your spoken explanation.** The image should do different cognitive work from what you are saying — not illustrate your words, but extend them.
-3. **Strip extraneous content ruthlessly.** Every logo, every decorative animation, every "here for context" table accumulates cognitive cost across a session. Accessible design is minimal design.
+1. **Cut on-screen text that repeats what you say.** Keep at most a few key words, placed next to the part of the picture they describe (Mayer &amp; Johnson, 2008). Put the full text in a handout or your notes. That also helps anyone who relies on text, such as people with hearing loss.
+2. **Pair one clear picture with your spoken explanation.** The picture should show what you're describing: the thing, the process or the link between them. Your words explain it, rather than reading out labels.
+3. **Strip out the extras.** Logos, decorative animations and "just for context" tables all add up over a session.
 
 ## How it appears in Teaching That Sticks
 
-Mayer's redundancy and modality principles are the basis for Session 1's core design rule: the presenter carries the words; the slide carries the picture. Participants meet the two channels, then apply them in two rounds of redesigning their own slides. The accessibility check (colour and readability) follows the coherence principle: anything that makes a slide harder to read is extraneous load.
+Mayer's work is behind Session 1's core design rule: you carry the words; the slide carries the picture. Participants meet the two channels ("text plus voice competes, image plus voice works together"), then redesign a slide in two rounds. The second round is a readability check, because anything that makes a slide harder to read adds clutter for everyone. The "Who is this slide for?" slides also borrow a later rule, segmenting: one idea at a time, with a click for the next.
+
+## The small print
+
+- **Editions:** the 2001 first edition set out seven principles: multimedia, spatial contiguity, temporal contiguity, coherence, modality, redundancy and individual differences. The well-known list of twelve (adding signalling, segmenting and others) comes from the 2009 second edition.
+- **Theory:** Mayer calls his model the *cognitive theory of multimedia learning*. It draws on Baddeley (1986) and Paivio (1971). Both models have since been refined, so treat the two-channel picture as a useful simplification.
+- **Redundancy, revised:** a review of 57 studies found that spoken plus written text was no worse than written alone, and better than spoken alone, when there were no pictures (Adesope &amp; Nesbit, 2012). Mayer and Johnson (2008) found short key phrases next to the matching part of a diagram helped.
+- **Modality:** the benefit of spoken over printed words shrinks, and can reverse, when learners control the pace or the text is long.

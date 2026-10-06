@@ -1,5 +1,6 @@
 ---
 title: "Implementation intentions: Strong effects of simple plans"
+headline: "If-then plans help people follow through"
 authors: "Gollwitzer, P. M."
 journal: "American Psychologist"
 year: 1999
@@ -11,39 +12,48 @@ sessions: [1, 2, 3]
 imagePrompt: "An if-then flowchart. A diamond shape on the left labelled IF contains an abstract clock and a location pin. A solid arrow flows rightward into a rectangle labelled THEN containing a forward-pointing arrow. Below the main flowchart a horizontal dotted line shows a faded, incomplete path — the goal intention that failed to produce action. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
+**In one line:** a plan that names the moment and the action ("when this happens, I'll do that") helps people act on intentions they already have, more often than the intention on its own.
 
-## What the study did
+## What Gollwitzer did
 
-This is the foundational paper in which Gollwitzer introduced the concept of implementation intentions to the psychological literature and proposed the theoretical mechanism explaining why they work. Where the later Gollwitzer & Sheeran (2006) meta-analysis provides the quantitative evidence, this paper provides the *model* — the distinction between goal intentions and implementation intentions, and the cognitive process by which if-then plans translate motivation into action.
+This isn't a new experiment. It's an overview, written by a psychologist for a widely read journal, that pulled together several years of studies on one simple idea.
 
-## What it found
+Gollwitzer had first described the idea in 1993. By 1999 there were enough studies, his own and other people's, to make the case. In a typical study, one group of people was given a goal and simply said they intended to do it. A second group also decided exactly when and where they would do it. Then the researchers checked who actually did it. In one well-known study, students were asked to write a short report about how they spent Christmas Eve, and to send it within two days. Those who had decided when and where they would write it were much more likely to send it in.
 
-**The intention-behaviour gap:** People routinely fail to act on their intentions — not because their intentions are weak, but because goal intentions specify *what* to achieve without specifying *when, where, and how*. The result is that behaviour must be initiated through conscious deliberation each time the situation arises — and in demanding environments, that deliberation frequently fails to occur.
+## What he argued
 
-**The if-then structure:** Implementation intentions differ from goal intentions structurally. A goal intention is *"I intend to achieve outcome X."* An implementation intention adds *"I will do behaviour Y in situation Z."* The situation (Z) is the anticipated cue; the behaviour (Y) is pre-linked to it.
+- **Wanting isn't enough.** People often fail to act on what they intend. Usually that's not because they don't care. It's because the intention says *what* they want, but not *when*, *where* or *how*. So they have to decide all over again each time, and on a busy day that decision often doesn't get made.
+- **A plan links a moment to an action.** He called these plans *implementation intentions*: "when situation X comes up, I will do Y". The moment becomes the reminder.
+- **It hands the decision to the moment.** Once the plan is made, the right moment tends to catch your eye, and the action is easier to start, often with little conscious effort. You've already decided.
+- **It helps at different stages.** The studies he reviewed suggested plans help people get started, and help them keep going when distractions or old habits get in the way.
 
-**The mechanism — strategic automaticity:** By forming an implementation intention, people delegate control of behaviour from conscious deliberation to the environment. When the anticipated cue (Z) is encountered, the linked behaviour (Y) is initiated automatically — without requiring fresh effort, attention, or willpower at that moment. Gollwitzer called this *strategic automaticity* — the deliberate creation of an automatic response.
+## How much should you trust it?
 
-**Studies in the paper:** Gollwitzer reported a series of experiments showing that participants who specified when, where, and how they would complete a task (implementation intention group) completed it at substantially higher rates than those who stated only their intention to complete it (goal intention group). The effects were large and replicated across multiple goal domains.
+**Well supported in research since; the effect is real but usually moderate, and less tested at work.**
 
-## The one finding worth quoting in a meeting
+- The paper is a review, not a test in itself. The studies it gathered were mostly small, and many used university students and fairly simple tasks.
+- The idea has held up well. A 2006 review by Gollwitzer and Sheeran pooled 94 studies and found a clear effect. See the [Gollwitzer & Sheeran (2006) summary](/papers/gollwitzer-sheeran-2006).
+- *How* it works is still debated. Some later research suggests plans work partly by making people more alert to the moment, rather than by making the action fully automatic.
+- Few studies have looked at staff changing their practice after training, in healthcare or elsewhere. Wards and clinics are busier and less predictable than a lab.
 
-**In our words (a paraphrase, not a quotation):** Implementation intentions work by pre-making the decision. By the time the situation arises, there is no decision to make — only an automatic response to a recognised cue. This is why specificity is the mechanism, not a detail.
+## If you need to convince someone
 
-The clinical education implication: *"I will teach better"* requires a new decision every time teaching is possible. *"When I start a ward round, I will ask the most junior person their differential before I state mine"* requires no decision — the start of the ward round is the trigger.
+**In our words (a paraphrase, not a quotation):** a wish says what you want; a plan says when and where you'll do it. People act on plans more often than on wishes.
 
-## Honest limitations
+## What it means for you
 
-- The original studies used relatively simple behavioural goals in controlled settings; the laboratory conditions do not fully replicate the complexity and competing demands of clinical environments
-- The paper is theoretical and empirical but predates the large-scale meta-analyses — see Gollwitzer & Sheeran (2006) for the quantitative synthesis across 94 studies
-- The mechanism of automaticity has been debated — some subsequent research suggests implementation intentions work partly through enhanced attentional monitoring of cues rather than pure automaticity
-
-## What it means for your practice
-
-The distinction between goal intention and implementation intention is not subtle — it is the difference between a wish and a plan. A plan has three components: a specific behaviour, a specific situation (cue), and optionally a specific time. The situation is the most important because it provides the trigger. The richer and more specific the cue description, the more reliably it will be recognised and the behaviour activated.
-
-For any teaching commitment, ask the learner to complete this sentence: *"When [situation I will definitely encounter], I will [specific behaviour]."* If the situation is vague (*"when I'm teaching"*), the commitment will not reliably produce action. If it is concrete (*"when I hand over at 5pm on Tuesday"*), it will.
+1. **Ask for a plan, not a promise.** At the end of your teaching, ask people to finish this sentence: "When [a moment I'll definitely meet], I will [one specific thing]."
+2. **Make the moment concrete.** "When I'm teaching" is too vague to notice. "When the student nurse arrives for the Tuesday late shift" is a moment someone will recognise.
+3. **Pick moments that already happen.** Handover, the first drug round, booking in a new patient, the start of a home visit. The moment should come round whether or not the person remembers the plan.
+4. **Start with what people need to do differently.** If you can't name the action, people can't plan it. Writing the plan is a quick test of whether your teaching had a clear point.
 
 ## How it appears in Teaching That Sticks
 
-This paper is the reason for the ask at the end of Sessions 1 and 2: a specific intention, written on a card in the room, photographed, and read back at the start of the next session. In Session 3 the completed design canvas, plus one named person who will ask about it at 30 days, takes the card's place. See [Gollwitzer & Sheeran (2006)](/papers/gollwitzer-sheeran-2006) for the meta-analytic evidence of size and generalisability.
+This paper is the reason for the ask at the end of Sessions 1 and 2: a specific intention, written on a card in the room, with when or where added, photographed, and read back at the start of the next session. In Session 3 there is no card. The completed design canvas takes its place, plus one named person who will hold each participant to it, and the support they have agreed they need from that person.
+
+## The small print
+
+- **Terms.** A *goal intention* is "I intend to reach X". An *implementation intention* adds "and I will do Y in situation Z". Gollwitzer called the effect *strategic automaticity*: choosing, on purpose, to let a situation trigger an action.
+- **Where the idea started.** Gollwitzer, P. M. (1993). Goal achievement: The role of intentions. *European Review of Social Psychology*, 4, 141–185. The 1999 paper is the best-known overview, not the first description.
+- **The Christmas Eve study** is Gollwitzer and Brandstätter (1997), in the *Journal of Personality and Social Psychology*. It was done in real life, not in a lab, which is why it is often quoted.
+- **Later work.** The 2006 review found a medium-to-large average effect. Newer and larger reviews by the same group find a smaller one, and find that plans work best when people really want the goal.

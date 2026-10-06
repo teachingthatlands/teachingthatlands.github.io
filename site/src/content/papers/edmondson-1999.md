@@ -1,5 +1,6 @@
 ---
 title: "Psychological safety and learning behavior in work teams"
+headline: "Teams that feel safe to speak up learn more"
 authors: "Edmondson, A. C."
 journal: "Administrative Science Quarterly"
 year: 1999
@@ -11,43 +12,48 @@ sessions: []
 imagePrompt: "Two side-by-side team clusters of five geometric nodes. In the left cluster, nodes are connected by open lines and each has a small upward arc above it representing speech or openness. In the right cluster, nodes face outward with no connecting lines and each has a closed shape above it. A performance arrow beneath the left cluster points upward; beneath the right cluster it points downward. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
+**In one line:** teams where people feel safe to ask, admit mistakes and disagree tend to learn more together, and that learning goes with doing the job better.
 
-## What the study did
+## What she did
 
-Edmondson studied 51 work teams in a large manufacturing company, examining the relationship between team psychological safety, team learning behaviour, and team performance. The study used a combination of surveys (measuring perceived psychological safety and learning behaviours) and manager-rated performance data. She then tested a model: team psychological safety enables learning behaviour, and learning behaviour enables performance. The famous nursing-unit finding often attributed to this paper actually comes from Edmondson's earlier hospital study (1996, *Journal of Applied Behavioral Science*), summarised below because it is the result most relevant to healthcare.
+Amy Edmondson studied 51 work teams in one large manufacturing company. The teams did different kinds of work. Team members filled in surveys about how safe it felt to speak up in their team. They also rated how often the team did "learning" things: asking for help, seeking feedback, sharing information, talking about mistakes and trying new ways of working. Managers rated how well each team performed. Then she tested whether safety, learning and performance were linked in a chain.
 
-## What it found
+So this is a business study, not a healthcare one. But it grew out of her earlier hospital study, described below, and that's the part most people quote.
 
-**Psychological safety predicts learning behaviour:** Teams with higher psychological safety reported significantly more learning behaviours — seeking feedback, sharing information, asking for help, discussing errors, experimenting. The relationship was robust after controlling for team demographics and context.
+## What she found
 
-**Learning behaviour predicts performance:** Team learning behaviour significantly predicted manager-assessed team performance. The effect of psychological safety on performance was *mediated* by learning behaviour — meaning psychological safety improves performance *because* it enables learning, not independently of it.
+- **Feeling safe went with more learning.** Teams that felt safer reported doing more of the learning behaviours. This held after allowing for other differences between teams.
+- **Learning went with better performance.** Teams that did more learning were rated as performing better. Safety seemed to help performance *through* learning, not on its own.
+- **Leaders mattered.** Teams felt safer where the leader coached them and where the wider company gave them support. How leaders react when people ask questions or raise problems shapes whether people keep doing it.
+- **The hospital finding came first (1996).** In eight nursing units across two hospitals, the better-led units had *higher* recorded medication-error rates, not lower. An observer who didn't know the error figures found that staff on those units were much more open about discussing mistakes. So the difference was probably in reporting, not in errors made.
 
-**Leadership matters:** Team leader coaching and a supportive organisational context were associated with higher psychological safety — the way leaders respond when people ask questions or raise problems shapes whether the team feels safe to do so.
+## How much should you trust it?
 
-**The nursing unit finding (Edmondson, 1996 — the earlier companion study):** Studying eight nursing units across two teaching hospitals, Edmondson found that units with better-rated nurse-manager leadership and coworker relationships had *higher* detected medication-error rates, not lower. The obvious interpretation would be that those units made more errors. A researcher blind to the error data then observed each unit and found the better-led units were also far more open about discussing mistakes — suggesting the difference lay largely in willingness to report, not in errors made. High-performing teams are not error-free — they are more transparent about the errors they make. (The term "psychological safety" was developed in the later 1999 paper; this was the observation that prompted it.)
+**A well-known, influential link from surveys; it doesn't prove cause, and the main study wasn't in healthcare.**
 
-## The one finding worth quoting in a meeting
+- The 1999 study measured everything at one time. Safety might lead to learning, or teams that learn well might come to feel safer.
+- Most of the data are people rating their own team. People may rate their team more kindly than it deserves.
+- The teams worked for a manufacturing company, not a hospital. Hierarchies, stakes and team set-ups in healthcare are different.
+- The hospital study was small and exploratory: eight units. It's a striking result, but it's one study.
 
-**In our words (a paraphrase of Edmondson, 1996, not a quotation):** the better-led nursing units reported more errors than the others — most likely not because they made more errors, but because their staff felt safe enough to admit them.
+## If you need to convince someone
 
-This finding reframes error reporting in healthcare entirely. Low reporting rates are not evidence of a safe system. They are evidence of a team that does not feel safe enough to speak.
+**In our words (a paraphrase of Edmondson, 1996, not a quotation):** the better-led nursing units reported more errors than the others. Most likely that wasn't because they made more errors, but because staff there felt safe enough to admit them.
 
-## Honest limitations
+## What it means for you
 
-- The manufacturing company context does not directly replicate clinical healthcare environments — hierarchies, stakes, and team structures differ
-- The nursing-unit finding comes from a separate, smaller and more exploratory study (Edmondson, 1996: eight units) — it is not part of the 1999 manufacturing data
-- Self-reported psychological safety scales may be subject to social desirability bias — people may rate their team more positively than experience reflects
-- The study is cross-sectional; causal direction (does safety produce learning, or does learning produce safety?) cannot be definitively established from this design alone
-- Psychological safety is a team-level construct but is typically measured through individual responses, which introduces aggregation issues
-
-## What it means for your practice
-
-Two practical implications:
-
-**1. Error reporting is a culture indicator, not an incidence indicator.** If your team rarely escalates concerns, questions decisions, or reports near-misses, this is not evidence of a high-performing team. It is evidence of low psychological safety. The correct response is not to investigate why errors are being made — it is to investigate why they are not being reported.
-
-**2. Every teaching interaction builds or erodes safety.** The way a senior clinician responds to a wrong answer, a missed diagnosis, or an admission of uncertainty in the next five minutes will affect the learning climate of that team for weeks. There is no neutral response. A sigh is a response. Silence is a response. Both carry information about whether it is safe to be visibly wrong in this team.
+1. **Read silence carefully.** If nobody asks questions, raises concerns or reports near misses, that isn't proof all is well. It may mean people don't feel safe to speak. Look at both: why errors happen, and whether they're being reported.
+2. **Your next reaction counts.** How you respond to a wrong answer, or to "I'm not sure", shows the group what happens to people who speak up. A sigh is a response. So is silence.
+3. **If you want a change in practice, make it safe to practise.** People need to try the new thing, get it wrong in front of you, and ask. Plan the session so that's normal.
 
 ## How it appears in Teaching That Sticks
 
-Not taught directly in the three core sessions. Psychological safety is parked for a future simulation-based session. Session 1 models it quietly: sharing is always voluntary. Useful background for any teaching where learners must admit what they don't know.
+It isn't taught directly in the three core sessions. Psychological safety, debriefing and feedback are kept for a separate session based on simulation. You'll see small signs of it in Session 1, though. Saying whether you can read the colour-vision plates is voluntary. And feedback on each other's slides follows a kind, two-part frame: one thing that works, one question. It's useful background for any teaching where people need to admit what they don't know.
+
+## The small print
+
+- **What the term means.** *Team psychological safety* is a belief, shared by a team, that it's safe to take risks with each other, like asking, admitting a mistake or disagreeing. The term is older than this paper: Schein and Bennis (1965) and Kahn (1990) used it first. Edmondson's step was to make it a team idea and find a way to measure it.
+- **"Through" learning.** Researchers call this pattern *mediation*: learning behaviour sat in the chain between safety and performance.
+- **One point in time.** The design was *cross-sectional*: all the measures were taken at once, so cause and effect can't be firmly shown.
+- **A team measured through individuals.** Safety is meant to belong to the team, but it's measured by asking individuals and combining their answers. That raises questions about how well the combined score reflects the team.
+- **Later work.** Edmondson's 2018 book, *The Fearless Organization*, pulls her work together. For studies in healthcare since, see the [theory page](/theories/psychological-safety).

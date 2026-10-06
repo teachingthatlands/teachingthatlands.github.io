@@ -1,6 +1,7 @@
 ---
 title: "Hierarchy of Needs"
-summary: "Unmet physiological and safety needs can crowd out learning — underperformance is sometimes a welfare issue before it is a pedagogical one"
+headline: "When basic needs get in the way"
+summary: "Tiredness, worry or feeling left out can crowd out learning, so ask what else is going on before you redesign the session"
 sessions: []
 evidence:
   - cite: "Maslow, A. H. (1943). A theory of human motivation. <em>Psychological Review</em>, 50(4), 370–396."
@@ -9,21 +10,37 @@ evidence:
   - cite: "Wahba, M. A., &amp; Bridwell, L. G. (1976). Maslow reconsidered: A review of research on the need hierarchy theory. <em>Organizational Behavior and Human Performance</em>, 15(2), 212–240."
 ---
 
-Maslow described a hierarchy of human needs arranged in five levels: physiological (food, warmth, sleep), safety (security, stability), belonging and love, esteem, and self-actualisation. The central claim is that lower-order needs tend to dominate until they are reasonably well met, after which higher-order needs become more motivating. Maslow himself stressed that the order is "not nearly as rigid" as the pyramid suggests, and that needs are usually only partly satisfied at any one time. Still, a person who is hungry, unsafe, or socially isolated is unlikely to be primarily motivated by learning or achievement — not because they lack ambition but because more pressing needs are competing for their attention.
+**The idea in one sentence:** when basic needs like sleep, food, safety or feeling part of a team aren't met, they can crowd out learning. It's a useful prompt to ask what else is going on for someone, but the evidence for a fixed order of needs is weak.
 
-For clinical educators, this is not an abstract theory. It is a practical framework for interpreting learner behaviour that looks like disengagement, low effort, or resistance.
+## You've seen this already
 
-## What this means for teaching
+Try following a podcast when you're starving, or reading a book when you're worried about a bill you can't pay. The words go in one ear and out the other. It isn't that you don't care about the podcast. Something more pressing has your attention.
 
-- **Underperformance is not always a pedagogical problem.** Before you redesign the session, ask whether the barrier is above or below the learning level in the hierarchy. A junior doctor who cannot retain feedback may be working two jobs, sleeping in their car, or managing an unsafe home situation. Needs like these can easily take precedence over learning.
-- **Belonging comes before learning.** Psychological safety (Edmondson, 1999) is the clinical education equivalent of Maslow's belonging and esteem levels: if learners do not feel safe from humiliation, judgement, or professional consequences for being wrong, the higher-order motivators that make active learning possible are inaccessible.
-- **Esteem needs shape participation.** A registrar who says nothing in a group debrief may not be disengaged — they may be protecting an esteem need in a hierarchical environment. The correct response is not a louder invitation but a safer structure.
-- **Debrief with good judgement is also a welfare tool.** When you ask *"help me understand what got in the way"* with genuine curiosity, you may get a pedagogical answer. You may also get something that matters more. You do not need to solve it — you need to see it, name it, and connect the person to the right support.
-- **Self-actualisation — the drive to grow and reach one's potential — is the level where intrinsic motivation for learning lives.** It is available to most clinicians most of the time. But it is not immune to disruption from below.
+Once you've eaten, or sorted out the bill, it's easier to focus. Most of us know this from everyday life.
 
-## Caveats
+## Why it matters for your teaching
 
-- **The evidence for the hierarchy itself is weak.** Wahba and Bridwell's (1976) review of the research found little or only partial support for Maslow's ranking of needs, or for the idea that satisfying one level activates the next. The hierarchy is best used as a prompt to ask "what else is going on for this learner?", not as a validated model.
-- **The pyramid is a later simplification.** Maslow did not draw a pyramid, and he described many exceptions and reversals in the ordering. People can and do learn, care and strive while some lower needs are unmet.
+Picture a healthcare assistant at a 9am training session after her third night shift in a row. She's quiet, doesn't answer questions and seems to forget what you showed her. It would be easy to decide she isn't interested, or to redesign the session. But she may simply be exhausted. Or she may be worried about her contract, caring for someone at home, or feeling she doesn't fit in on the team.
 
-*In this programme:* Not taught directly in the three core sessions. Useful background when a learner's difficulty may be about welfare rather than teaching.
+The same goes for others you teach. A newly qualified midwife who says nothing in a group discussion may not be bored. She may be protecting how others see her, in a team where she's the most junior. A porter who keeps missing training may be stuck with rotas or childcare, not short of motivation.
+
+Teaching starts with what people need to do differently. Part of that is asking what might stop them. Sometimes the answer isn't the teaching at all.
+
+## Try this
+
+- **Ask before you redesign.** If someone isn't learning, ask yourself what else might be going on: tiredness, hunger, worry, or feeling left out.
+- **Fix the simple things.** Pick times that suit shift workers, allow breaks and have water to hand. Avoid teaching people straight after a night shift if you can.
+- **Ask with curiosity.** "Help me understand what got in the way" can open a conversation. You don't need to solve what you hear. Notice it, name it, and point the person to the right support.
+- **Make it easier to belong.** Learn names, pair new starters with someone friendly, and make it safe to ask. (See [psychological safety](/theories/psychological-safety), a separate idea with its own evidence.)
+
+## How sure are we?
+
+Not very sure about the theory itself. The evidence for the hierarchy is weak. A 1976 review of the research found little or only partial support for Maslow's order of needs, or for the idea that meeting one need switches on the next. Later researchers have tried to rebuild the model, but there's still no strong evidence for a fixed ladder.
+
+The best-known picture is a myth. Maslow never drew a pyramid. He wrote that the order is "not nearly as rigid" as his own description might suggest, and he listed exceptions. He also said needs are usually only partly met at any one time. People can and do learn, care for others and work hard while some basic needs go unmet.
+
+So use it as a prompt to ask "what else is going on for this person?", not as a tested model. The everyday point, that tiredness, worry and feeling left out make learning harder, is common sense. Maslow's theory doesn't add tested evidence to it. It isn't part of the Teaching That Sticks sessions; it's here because people often ask about it.
+
+## Where it comes from
+
+Abraham Maslow, an American psychologist, set out the idea in a [1943 paper](/papers/maslow-1943). He described five kinds of need: physiological (food, warmth, sleep), safety, belonging and love, esteem, and self-actualisation (growing into everything you're capable of being). In 1976, Wahba and Bridwell reviewed the research that had tested it. The pyramid came later than the paper. It first appeared in a 1960 business magazine article by a management consultant, and spread through management textbooks from there.
