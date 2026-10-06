@@ -18,7 +18,7 @@ Cepeda and colleagues conducted the largest systematic review of the spacing eff
 
 ## What it found
 
-**The spacing effect is real, robust, and general:** Distributing practice across time consistently outperforms massed practice (studying everything at once) for long-term retention. This held across the wide range of verbal-learning studies and delays the review covered. It is among the most replicated effects in cognitive psychology.
+**The spacing effect is real and robust:** Distributing practice across time consistently outperforms massed practice (studying everything at once) for long-term retention. This held across the wide range of verbal-learning studies and delays the review covered. It is among the most replicated effects in cognitive psychology.
 
 **The optimal gap depends on the retention interval:** This is the key practical finding: the gap between study sessions that produced the best retention grew longer as the retention interval grew longer. The well-known rule of thumb that puts numbers on this comes from the same team's follow-up experiment with more than 1,350 learners (Cepeda et al., 2008, *Psychological Science*): the optimal gap was about 20–40% of the test delay when the test was a week away, falling to about 5–10% when it was a year away. So to remember something for a week, a gap of a day or two works well; to remember it for a year, a gap of roughly three to five weeks. This is not intuitive — most people either space too little (everything the night before) or too much (a course run once a year).
 
