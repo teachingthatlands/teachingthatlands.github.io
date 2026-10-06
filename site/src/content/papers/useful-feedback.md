@@ -6,7 +6,6 @@ journal: "Review of Educational Research"
 year: 2007
 doi: "10.3102/003465430298487"
 openAccess: false
-openAccessUrl: "https://doi.org/10.3102/003465430298487"
 theorists: ["hattie-timperley-feedback"]
 sessions: []
 imagePrompt: "A horizontal spectrum bar running from left (dim, low effect) to right (bright, high effect). Three marker lines are placed along the spectrum at different positions, labelled from bottom to top: Self, Task, Process. The rightmost marker (Process) is the brightest and most vivid. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
@@ -60,7 +59,7 @@ Not taught directly in the three core sessions. Feedback and feedforward are par
 
 ## The small print
 
-- The 12 earlier reviews were meta-analyses: studies that combine the results of many others into one average. Together they gave nearly 7,000 effect sizes (a standard way of measuring how big a difference something makes). The average effect of feedback was 0.79, about twice the typical effect of schooling in Hattie's data.
+- The 12 earlier reviews were meta-analyses: studies that combine the results of many others into one average. Together they gave nearly 7,000 effect sizes (a standard way of measuring how big a difference something makes). The average effect of feedback was 0.79, about twice the average effect of all the influences on learning in Hattie's data.
 - You may also see 0.73 quoted for feedback. That comes from Hattie's later book *Visible Learning*, not this paper.
 - Praise averaged an effect of just 0.14 in the paper's summary table.
 - The authors describe four levels of feedback: about the *task*, about the *process* (how the task was tackled), about *self-regulation* (how people monitor their own work) and about the *self* (the person). Process and self-regulation feedback were the most powerful; self-level the weakest.

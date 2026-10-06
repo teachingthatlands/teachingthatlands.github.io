@@ -28,7 +28,7 @@ Picture a huddle where you explain a change to the falls policy. You ask, "Any q
 
 Psychological safety isn't about lowering standards or dodging hard feedback. It means that asking, or getting it wrong, costs people nothing worse than a chance to learn. If you want people to do something differently, they need to practise it, get it wrong in front of you, and ask about it. How you react decides whether they will.
 
-Teaching That Sticks keeps this topic for a separate session on simulation. You'll see small signs of it in Session 1, though. Saying whether you can read the colour-vision plates is voluntary. And feedback on each other's slides follows a kind, two-part frame: one thing that works, one question.
+Teaching That Sticks has set this topic aside for a possible future session on simulation. You'll see small signs of it in Session 1, though. Saying whether you can read the colour-vision plates is voluntary. And feedback on each other's slides follows a kind, two-part frame: one thing that works, one question.
 
 ## Try this
 

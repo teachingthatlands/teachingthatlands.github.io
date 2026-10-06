@@ -10,7 +10,7 @@ evidence:
   - cite: "Sargeant, J., Lockyer, J., Mann, K., Holmboe, E., Silver, I., Armson, H., Driessen, E., MacLeod, T., Yen, W., Ross, K., &amp; Power, M. (2015). Facilitated reflective performance feedback: Developing an evidence- and theory-based model that builds relationship, explores reactions and content, and coaches for performance change (R2C2). <em>Academic Medicine</em>, 90(12), 1698–1706."
 ---
 
-**The idea in one sentence:** good feedback answers three questions: where am I going, how am I doing, and what should I do next? The last one, the "feedforward", is the one most often missed.
+**The idea in one sentence:** good feedback answers three questions: where am I going, how am I doing, and what should I do next? The last one, the "feedforward", is what turns feedback into something people can act on.
 
 ## You've seen this already
 
@@ -49,4 +49,4 @@ Most of this evidence comes from classrooms, not workplaces. Healthcare models s
 
 ## Where it comes from
 
-John Hattie and Helen Timperley, education researchers in New Zealand, set out the three questions in 2007, drawing on many earlier reviews. Avraham Kluger and Angelo DeNisi (1996) showed that feedback can backfire. Joan Sargeant and colleagues (2015) turned these ideas into R2C2, a model for feedback conversations with doctors in practice: build the relationship, explore their reactions, discuss the content, then coach towards change.
+John Hattie and Helen Timperley, education researchers in New Zealand, set out the three questions in 2007, drawing on many earlier reviews. Avraham Kluger and Angelo DeNisi (1996) showed that feedback can backfire. Joan Sargeant and colleagues (2015) developed R2C2, drawing on research on self-assessment and behaviour change. It is a model for feedback conversations in practice: build the relationship, explore their reactions, discuss the content, then coach towards change.

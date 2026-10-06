@@ -4,6 +4,8 @@ headline: "Learning with peers by asking questions"
 summary: "A small group of colleagues helps each person think through a real problem from their own work by asking questions, not giving advice"
 sessions: []
 evidence:
+  - cite: "Revans, R. W. (1982). <em>The Origins and Growth of Action Learning</em>. Chartwell-Bratt."
+    paper: "learning-with-peers"
   - cite: "Revans, R. W. (1980). <em>Action Learning: New Techniques for Management</em>. Blond &amp; Briggs."
   - cite: "Marquardt, M. J. (2004). <em>Optimizing the Power of Action Learning</em>. Davies-Black."
   - cite: "Dilworth, R. L. (1996). Action learning: Bridging academic and workplace domains. <em>Employee Counselling Today</em>, 8(6), 45–53. https://doi.org/10.1108/13665629610150171"
@@ -24,7 +26,7 @@ The second friend's questions make you do the thinking. Quite often, you realise
 
 Most training gives people expert knowledge: the guideline, the policy, the right way to do it. That matters. But it can't answer a problem that is new, messy or specific to your team.
 
-Picture a set of four people who all teach as part of their job: a pharmacist, a healthcare assistant team leader, a physio and a midwife. They meet monthly. This time the team leader brings a problem: "New HCAs come to my obs teaching, but they still don't tell anyone when a score is high."
+Picture an action learning group (a "set") of four people who all teach as part of their job: a pharmacist, a healthcare assistant team leader, a physio and a midwife. They meet monthly. This time the team leader brings a problem: "New healthcare assistants come to my observations (obs) teaching, but they still don't tell anyone when a score is high."
 
 The others don't jump in with "do a quiz" or "make a poster". They ask:
 

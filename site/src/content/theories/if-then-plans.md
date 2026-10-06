@@ -15,7 +15,7 @@ evidence:
 
 ## You've seen this already
 
-Think about someone who has just been given a new daily tablet. "I'll try to remember it" often fails by day three. "When I put the kettle on in the morning, I'll take my tablet" works much better. The kettle happens anyway. It becomes the reminder.
+Think about someone who has just been given a new daily tablet. "I'll try to remember it" often slips within days. "When I put the kettle on in the morning, I'll take my tablet" tends to work better. The kettle happens anyway. It becomes the reminder.
 
 The same goes for exercise. "I'll get fitter" is a wish. "On Monday and Thursday, when I drop the kids at school, I'll walk straight to the pool" is a plan. The plan has already made the decision, so nobody has to make it again on a tired Thursday morning.
 

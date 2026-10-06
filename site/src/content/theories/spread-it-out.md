@@ -24,7 +24,7 @@ Or think about revising for an exam. Cramming the night before can get you throu
 
 A lot of healthcare teaching happens once. There's an induction day, a study day, or a yearly mandatory update. People leave, and nobody comes back to it on purpose. That's cramming by default.
 
-Say a new policy changes how your team records falls. You could run one long briefing and hope it sticks. Or you could brief people once, then ask one question about it at the huddle a few days later, and another a few weeks after that. The second plan costs less time in total, and it is likely to keep more of it alive.
+Say a new policy changes how your team records falls. You could run one long briefing and hope it sticks. Or you could brief people once, then ask one question about it at the huddle a few days later, and another a few weeks after that. The second plan needn't take more time, and it is likely to keep more of it alive.
 
 Start with what people need to do differently, and for how long. If a porter or a receptionist needs to remember a new process for a week, a reminder a day or two later is about right. If a nurse needs to keep a skill all year, plan reminders a few weeks apart. The longer it has to last, the longer the gaps can be.
 

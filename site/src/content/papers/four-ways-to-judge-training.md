@@ -22,7 +22,7 @@ Donald Kirkpatrick had studied how to evaluate a training programme for supervis
 
 - **Level 1, Reaction: did they like it?** Usually a feedback form at the end. The easiest level to check, and the most used. It tells you about the room, the pace and the trainer, but not whether anyone learned anything.
 - **Level 2, Learning: did they learn it?** Checked with a quiz, a demonstration or watching people try it. Harder to set up, and more meaningful.
-- **Level 3, Behaviour: do they do it at work?** This needs a follow-up weeks or months later, by watching people or asking them. It's where most of the value is, and it's checked far less often than Level 1.
+- **Level 3, Behaviour: do they do it at work?** This needs a follow-up weeks or months later, by watching people or asking them. It's arguably where the value is, and it's checked far less often than Level 1.
 - **Level 4, Results: did it make a difference?** For example, fewer medication errors, or fewer patients' warning signs being missed. Very hard to pin on one session, because so much else changes at the same time.
 
 ## How much should you trust it?
@@ -54,7 +54,7 @@ Kirkpatrick is the backbone of Session 3. Each table sorts 18 evidence cards fro
 
 ## The small print
 
-- **Dates.** The web address says 1954, the year of Kirkpatrick's PhD. The articles summarised here came out in 1959 and 1960. Kirkpatrick called the levels "steps" at first.
+- **Dates.** Kirkpatrick began this work in his 1954 PhD. The articles summarised here came out in 1959 and 1960. Kirkpatrick called the levels "steps" at first.
 - **Level 5.** Jack Phillips later added a fifth level, return on investment: did the benefits outweigh the cost? It isn't part of Kirkpatrick's original model.
-- **The New World model.** In 2016, James and Wendy Kirkpatrick added "required drivers": the things at work, such as reminders, support and a manager who asks, that help learning turn into doing.
+- **The New World model.** In the 2010s, James and Wendy Kirkpatrick added "required drivers": the things at work, such as reminders, support and a manager who asks, that help learning turn into doing.
 - **Other approaches.** Brinkerhoff's *Success Case Method* argues that average scores hide the story. It looks closely at the people who did and did not use the training, to find out what helped or blocked them. For learning that happens by joining in everyday work rather than on a course, see [Lave and Wenger](/papers/learning-by-taking-part).

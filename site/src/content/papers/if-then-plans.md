@@ -12,7 +12,7 @@ sessions: [1, 2, 3]
 imagePrompt: "An if-then flowchart. A diamond shape on the left labelled IF contains an abstract clock and a location pin. A solid arrow flows rightward into a rectangle labelled THEN containing a forward-pointing arrow. Below the main flowchart a horizontal dotted line shows a faded, incomplete path — the goal intention that failed to produce action. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
-**In one line:** a plan that names the moment and the action ("when this happens, I'll do that") helps people act on intentions they already have, much more than the intention on its own.
+**In one line:** a plan that names the moment and the action ("when this happens, I'll do that") helps people act on intentions they already have, more often than the intention on its own.
 
 ## What Gollwitzer did
 

@@ -13,7 +13,7 @@ evidence:
   - cite: "Reio, T. G., Rocco, T. S., Smith, D. H., &amp; Chang, E. (2017). A critique of Kirkpatrick's evaluation model. <em>New Horizons in Adult Education and Human Resource Development</em>, 29(2), 35–53."
 ---
 
-**The idea in one sentence:** there are four ways to judge whether training worked: did people like it, did they learn it, do they now do it at work, and did it make a difference? Each one is harder to check than the last, and each tells you more.
+**The idea in one sentence:** there are four ways to judge whether training worked: did people like it, did they learn it, do they now do it at work, and did it make a difference? Each one is harder to check than the last, and gets closer to whether anything really changed.
 
 ## You've seen this already
 
@@ -60,4 +60,4 @@ A common misreading is that every session needs Level 4 evidence. Use the level 
 
 ## Where it comes from
 
-Donald Kirkpatrick, an American professor, began working on how to evaluate training in his 1954 PhD. He set out the four levels (he called them "steps") in four articles in 1959 and 1960, and in a 1994 book. In 2016, James and Wendy Kirkpatrick published the *New World Kirkpatrick Model*, which adds what the workplace must do to support change. They call these "required drivers".
+Donald Kirkpatrick, an American professor, began working on how to evaluate training in his 1954 PhD. He set out the four levels (he called them "steps") in four articles in 1959 and 1960, and in a 1994 book. Later, James and Wendy Kirkpatrick developed the *New World Kirkpatrick Model* (set out in their 2016 book), which adds what the workplace must do to support change. They call these "required drivers".

@@ -24,7 +24,7 @@ Say you're showing a new healthcare assistant how to take a blood glucose readin
 
 | | Too easy | Just right | Too far |
 |---|---|---|---|
-| **What happens** | They watch you do it for the sixth time | They do it on a real patient while you stand beside them and prompt | They do it alone on their first day, on a patient who is anxious and hard to reach |
+| **What happens** | They watch you do it for the sixth time | They do it on a real patient while you stand beside them and prompt | They do it alone on their first day, on a patient who is anxious and hard to communicate with |
 | **What they learn** | Not much new | The skill, with a safety net | Mostly worry, or a way to look as if they know |
 
 The middle column starts from what they need to *do*: take the reading safely, on their own, soon. Then it gives them just enough help to do it now, and plans to take that help away.

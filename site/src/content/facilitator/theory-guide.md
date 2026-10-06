@@ -102,7 +102,7 @@ The pattern throughout is **experience → name it → use it**: participants do
 
 ## Kirkpatrick's four levels
 
-**The idea:** training can be judged at four levels: reaction, learning, behaviour, results. Donald Kirkpatrick set them out in 1959; the New World Kirkpatrick Model (2016) adds what the workplace must do to support change.
+**The idea:** training can be judged at four levels: reaction, learning, behaviour, results. Donald Kirkpatrick set them out in 1959; the New World Kirkpatrick Model (2010s; book 2016) adds what the workplace must do to support change.
 
 **Where it's used:** Session 3, "Delivered ≠ changed" card sort (10–22 min). Also the programme's own [Evaluation Toolkit](/facilitator/evaluation-toolkit).
 

@@ -50,7 +50,7 @@ Teaching That Sticks uses this from the first minute. Session 1 opens with "What
 
 Not very sure, as a theory. Knowles offered andragogy as a set of working assumptions about adults, and they have little direct research behind them. A later review (Merriam, 2001) concluded it is better seen as a description of adult learners and a guide to planning than as a theory of how adults learn. Some researchers argue the way people learn doesn't really change in adulthood. What changes is experience, motivation and context.
 
-The sharp split between adults and children is a common misreading. Knowles himself later softened it. The subtitle of his main book changed from *Andragogy Versus Pedagogy* to *From Pedagogy to Andragogy*: either approach can suit a learner of any age, depending on the situation. A nurse who is new to a topic may need more structure, not less. So treat these as sensible working principles, not tested findings.
+The sharp split between adults and children is a common misreading. Knowles himself later softened it. His book *The Modern Practice of Adult Education* was first subtitled *Andragogy Versus Pedagogy* (1970); by 1980 it was *From Pedagogy to Andragogy* (pedagogy here means teaching children): either approach can suit a learner of any age, depending on the situation. A nurse who is new to a topic may need more structure, not less. So treat these as sensible working principles, not tested findings.
 
 ## Where it comes from
 

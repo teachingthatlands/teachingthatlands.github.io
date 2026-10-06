@@ -5,7 +5,10 @@ summary: "A clear picture and your spoken words work together, while a slide ful
 sessions: ["session-1"]
 evidence:
   - cite: "Paivio, A. (1991). Dual coding theory: Retrospect and current status. <em>Canadian Journal of Psychology</em>, 45(3), 255–287."
+  - cite: "Mayer, R. E. (2001). <em>Multimedia Learning</em>. Cambridge University Press."
+    paper: "slides-with-words-and-pictures"
   - cite: "Mayer, R. E. (2009). <em>Multimedia Learning</em> (2nd ed.). Cambridge University Press."
+  - cite: "Adesope, O. O., &amp; Nesbit, J. C. (2012). Verbal redundancy in multimedia learning environments: A meta-analysis. <em>Journal of Educational Psychology</em>, 104(1), 250–263."
 ---
 
 **The idea in one sentence:** a picture plus spoken words gives people two ways into memory, so show the picture and say the words, and don't make people read and look at the same time.

@@ -42,7 +42,7 @@ Debriefing with good judgement sits between them. You start from the view that t
 
 Fairly sure that debriefing matters; much less sure about which style is best. A review that pooled many simulation studies found debriefing was linked to better learning, but it could say little about which way of debriefing works best.
 
-The good-judgement approach itself comes from a team's long experience of teaching with simulation and from ideas about how people make sense of their actions. It is a practical method, not a tested result. It hasn't been compared head-to-head with other styles in a trial, and it was built for simulation rooms rather than quick chats on a busy shift. It also takes practice: staying truly curious when you're sure you know the answer is hard.
+The good-judgement approach itself comes from a team's long experience of teaching with simulation and from ideas about how people make sense of their actions. It is a practical method, not a tested result. It has hardly been compared head-to-head with other styles (the few comparisons are small), and it was built for simulation rooms rather than quick chats on a busy shift. It also takes practice: staying truly curious when you're sure you know the answer is hard.
 
 One common misreading: "non-judgemental" doesn't mean having no view. The point here is to be honest about your view *and* open to being wrong.
 

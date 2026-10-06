@@ -17,7 +17,7 @@ evidence:
 
 ## You've seen this already
 
-Think about a new PIN for your bank card. You could read the letter with the number on it ten times. Or you could put the letter away and try to type the number in at the cash machine. Most people find the second way sticks. Each time you have to dig the number out of your head, it gets a little easier to find next time.
+Think about a new PIN for your bank card. You could read the letter with the number on it ten times. Or you could cover the number, try to recall it, then check. Most people find the second way sticks. Each time you have to dig the number out of your head, it gets a little easier to find next time.
 
 The same goes for a pub quiz. The answers you had to strain for, and then heard, are often the ones you still know a week later. The ones you just read on a card are gone.
 
@@ -44,8 +44,8 @@ This is one of the best-tested findings about learning. It has been repeated man
 
 There are limits. Most studies tested facts and ideas, such as remembering a passage of text. There is less evidence for hands-on skills, for using knowledge in new situations, and for staff learning at work in healthcare. Re-reading does help a little, and in the short term it can even win. In the best-known study, testing pulled ahead by two days and stayed ahead at a week.
 
-Nobody is completely sure *why* it works. Researchers still debate the reasons. And the effect needs feedback: a quiz with no answers given is the weaker version.
+Nobody is completely sure *why* it works. Researchers still debate the reasons. Feedback makes it work better: a quiz followed by the right answers beats a quiz on its own.
 
 ## Where it comes from
 
-The idea is old. Teachers have known for centuries that reciting helps. Scientists started measuring it about a hundred years ago. Interest grew again in 2006, when Henry Roediger and Jeffrey Karpicke showed that students who practised recalling a passage remembered much more of it a week later than students who re-read it ([Roediger & Karpicke, 2006](/papers/testing-beats-re-reading)). Their work gave the idea its popular name: the testing effect. An older theory about how deeply we think about things is on the [Craik and Lockhart](/papers/thinking-about-meaning) page.
+The idea is old. Teachers have known for centuries that reciting helps. Scientists started measuring it about a hundred years ago. Interest grew again in 2006, when Henry Roediger and Jeffrey Karpicke showed that students who practised recalling a passage remembered much more of it a week later than students who re-read it ([Roediger & Karpicke, 2006](/papers/testing-beats-re-reading)). Their work brought the "testing effect" back into the spotlight. An older theory about how deeply we think about things is on the [Craik and Lockhart](/papers/thinking-about-meaning) page.
