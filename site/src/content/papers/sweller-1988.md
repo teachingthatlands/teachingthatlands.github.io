@@ -34,7 +34,7 @@ For clinical education: watching an expert perform a complex procedure with narr
 
 ## Honest limitations
 
-- The original experiments used geometry and kinematics problems — abstract, well-defined tasks with clear correct solutions. Clinical reasoning and interpersonal skills are ill-defined, complex, and context-dependent in ways that may interact differently with cognitive load
+- The original experiments used maths puzzles and trigonometry problems — abstract, well-defined tasks with clear correct solutions. Clinical reasoning and interpersonal skills are ill-defined, complex, and context-dependent in ways that may interact differently with cognitive load
 - The "worked example effect" diminishes as expertise increases — for learners with high prior knowledge, worked examples become less effective than problem-solving (the *expertise reversal effect*, Kalyuga et al., 2003)
 - The paper predates fMRI and detailed cognitive neuroscience; the working memory model it draws on (Baddeley, 1986) has since been refined
 - The three-load distinction has been critiqued as difficult to operationalise empirically — what counts as intrinsic versus extraneous load can be hard to specify in advance
@@ -43,8 +43,8 @@ For clinical education: watching an expert perform a complex procedure with narr
 
 Two implications that run against clinical teaching intuition:
 
-1. **Watching an expert is not passive learning** — for a novice, observing a well-narrated expert performance is high cognitive value. *"Watch how I approach the history and say aloud what I'm noticing"* gives the learner a worked example that builds schema. *"Now you try one"* is appropriate *after* schema formation, not as its primary vehicle.
-2. **A complex teaching environment may be actively impeding learning.** If learners are managing noise, hierarchy anxiety, and multiple simultaneous demands, their working memory is already substantially occupied before the learning content arrives. Reducing extraneous load — a quiet room, a clear focus, one concept at a time — is not softness. It is neurologically appropriate design.
+1. **Watching an expert can be real learning** — for a novice, a well-narrated demonstration works rather like a worked example (though the evidence comes from studying solved maths problems, not from clinical settings). *"Watch how I approach the history and say aloud what I'm noticing"* gives the learner a worked example that builds schema. *"Now you try one"* is appropriate *after* schema formation, not as its primary vehicle.
+2. **A complex teaching environment may be actively impeding learning.** If learners are managing noise, hierarchy anxiety, and multiple simultaneous demands, their working memory is already substantially occupied before the learning content arrives. Reducing extraneous load — a quiet room, a clear focus, one concept at a time — is not softness. It is design that fits how working memory works.
 
 ## How it appears in Teaching That Sticks
 

@@ -32,7 +32,7 @@ The pattern throughout is **experience → name it → use it**: participants do
 
 ## Dual coding (Paivio)
 
-**The idea:** we hold words and images in separate but linked systems, so a spoken explanation plus a relevant picture is remembered better than either alone. Mayer's multimedia principles build on this: on-screen text that repeats what you're saying adds load rather than help.
+**The idea:** we hold words and images in separate but linked systems, so a spoken explanation plus a relevant picture is remembered better than either alone. Mayer's multimedia principles build on this: full on-screen text that repeats what you're saying, next to a picture, adds load rather than help.
 
 **Where it's used:** Session 1, "two channels" (15–25 min), then the redesign rounds.
 

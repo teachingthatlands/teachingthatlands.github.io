@@ -16,6 +16,6 @@ Richard Mayer's multimedia learning research builds on this but makes a differen
 ## What this means for teaching
 
 - **Pair visuals with narration, not text** — a diagram explained verbally uses both channels efficiently. The same diagram with a paragraph of labels forces everything through the visual channel.
-- **Avoid redundancy** — reading slides aloud doesn't add a second route into memory; it delivers the same words twice, and the printed version competes with your images for learners' eyes (Mayer's redundancy principle).
-- **Use concrete images** — abstract concepts benefit most from visual anchors. A timeline, a flow diagram, a photograph.
-- **Sketchnoting and concept mapping** — tasks that ask learners to create visual representations are powerful precisely because they force dual encoding.
+- **Avoid redundancy** — reading a full slide of text aloud while showing a picture makes the printed words compete with the picture for learners' eyes (Mayer's redundancy principle). A few short labels next to the right part of a diagram are fine, and can help.
+- **Use concrete images** — concrete things are easier to remember because they're easy to picture. For abstract ideas, find a concrete example, a timeline or a flow diagram that gives learners something to picture.
+- **Drawing and concept mapping** — asking learners to turn ideas into a sketch or map can help, probably because they have to work out how the ideas connect, not just because pictures are involved. Asking them to recall first, then draw, is likely to work better still.
