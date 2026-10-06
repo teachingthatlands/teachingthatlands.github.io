@@ -116,6 +116,7 @@ Keep everything free of patient information, and check local information-governa
 ### 30–40 · Mentimeter tour
 
 - SAY: four silly questions, four formats. Notice what each one makes you do. After each, ASK in one line: where could this work in your teaching?
+- The four questions (slide 7 notes): multiple choice, 100 points, pin on image, then a ranking: *what helps you learn most?* listening to a talk / taking notes / explaining it to someone / working it through with colleagues / "nothing, just biscuits and tea". Keep the ranking result for Make 10 minutes active; don't explain it yet.
 - WHY: they meet each format as a learner, low stakes: the preview for this week's ask. It's also the gap before the retest (don't mention that). → [experiential learning](/theories/learning-from-experience)
 - FALLBACK: hands up; sticky notes on a flipchart; dot stickers on a printed picture.
 - IF SHORT: three formats.
@@ -135,6 +136,7 @@ Keep everything free of patient information, and check local information-governa
 
 ### 50–70 · Make 10 minutes of your session active
 
+- Show the ranking result from the Menti tour. SAY: that's what we *feel* helps. Research puts them in an order: listening, then doing something with it, then explaining it in your own words, then working it through together. The more people do with an idea, the more they tend to learn. It's a scale, not percentages: the "learning pyramid" (5% for lectures, 90% for teaching others) was never measured. WHY: ICAP (Chi & Wylie 2014); like the blorps, what feels like it works today isn't always what lasts. → [active is a scale](/theories/active-is-a-scale)
 - SAY: take the session you rebuilt last week. Pick ten minutes. Make learners *do* something, in its real setting: ward corridor, handover, sim room. Use at least one strategy (the mats stay on the table as a menu).
 - On paper: one A3 sheet: what learners do, which strategy, what you need, what happens if you're interrupted. Setting cards for anyone without a real setting.
 - SAY ("Sometimes the best slide is no slide"): the answer might have no screen at all.
