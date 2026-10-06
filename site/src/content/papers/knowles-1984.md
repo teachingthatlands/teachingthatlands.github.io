@@ -1,6 +1,6 @@
 ---
 title: "Andragogy in Action: Applying Modern Principles of Adult Learning"
-authors: "Knowles, M. S."
+authors: "Knowles, M. S., & Associates"
 journal: "Jossey-Bass"
 year: 1984
 openAccess: false
@@ -29,7 +29,7 @@ The enduring value is the conceptual model, not the case study data.
 
 **5. Motivation to learn** (later addition): Adult learners are more responsive to internal motivators — professional identity, curiosity, competence — than to external ones like compliance requirements or grades. This does not mean external motivators have no effect; it means that instruction relying solely on them produces compliance, not learning.
 
-**6. Need to know** (later addition): Before engaging with what or how, adults need to understand why. *"We are covering this because [specific clinical problem]"* is not a courtesy — it is a pedagogic precondition for engagement. In mandatory training contexts, failing to address the need to know is the single most common cause of the disengagement facilitators then attribute to the learners.
+**6. Need to know** (later addition): Before engaging with what or how, adults need to understand why. *"We are covering this because [specific clinical problem]"* is not a courtesy — it is a pedagogic precondition for engagement. In mandatory training, not explaining why it matters is a common and easily avoided cause of disengagement.
 
 ## The one finding worth quoting in a meeting
 
@@ -42,7 +42,7 @@ For clinical education: every ward teaching session already has subject matter e
 - Andragogy as a separate theory of adult learning has been critiqued; some researchers argue that the underlying cognitive mechanisms of learning do not fundamentally differ between children and adults — what changes is context, motivation, and prior knowledge, not the mechanism
 - The case studies in the book are practitioner-reported and vary widely in rigour — they illustrate the principles rather than providing independent empirical support
 - The four-to-six principles can be treated as characteristics of all adults, which overgeneralises. Many adults are dependent learners in specific contexts; many children are highly self-directed. The model describes tendencies, not invariants
-- The model offers limited guidance for situations where adult learners resist self-direction or where andragogic methods encounter institutional cultures that actively counteract them — which is most NHS continuing education contexts
+- The model offers limited guidance for situations where adult learners resist self-direction or where andragogic methods encounter institutional cultures that actively counteract them — which can include some NHS training settings
 - Hartree (1984), writing in the same year, critiqued andragogy as an ideal description of the self-actualising adult learner rather than a theory with broad empirical applicability
 
 ## What it means for your practice

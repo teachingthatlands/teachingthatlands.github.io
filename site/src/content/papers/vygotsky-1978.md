@@ -22,9 +22,9 @@ The core argument, across several chapters, is that human higher cognitive funct
 
 **The "More Knowledgeable Other" (MKO):** Learning in the ZPD involves interaction with someone who has already progressed further. Vygotsky himself wrote of problem solving "under adult guidance or in collaboration with more capable peers"; the label "More Knowledgeable Other" was added by later writers and is not his term. That person might be a teacher, a more experienced colleague, or a peer who has just mastered the concept being learned. Crucially, the MKO need not be the formal teacher. A colleague who completed training six months ago is often a better MKO for a specific task than the expert who learned it twenty years ago.
 
-**Social origin of higher cognitive functions:** Vygotsky's broader developmental claim is that every function in a child's development appears twice — first on the social plane (between people), then on the psychological plane (within the individual). This applies to adults: understanding emerges through talk, dialogue, and collaborative activity before it becomes a stable individual possession.
+**Social origin of higher cognitive functions:** Vygotsky's broader developmental claim is that every function in a child's development appears twice — first on the social plane (between people), then on the psychological plane (within the individual). Many educators apply this to adults too: understanding often grows through talk and shared work before it becomes your own.
 
-**Language as the primary tool of thought:** The internal monologue that underlies deliberate cognitive activity is internalised speech. This explains why articulating a problem aloud — to a colleague, in a debrief — so often produces insights that silent reflection does not.
+**Language as the primary tool of thought:** The internal monologue that underlies deliberate cognitive activity is internalised speech. This may help explain why talking a problem through with a colleague can help you see it differently.
 
 ## The one finding worth quoting in a meeting
 

@@ -16,7 +16,7 @@ imagePrompt: "A narrow archway or portal shape in the centre. On the left side o
 
 This entry covers the key threshold concepts papers by Meyer and Land. The foundational paper is Meyer & Land (2003) as an ETL Project occasional paper, with the most widely cited journal publication being Meyer & Land (2005) *"Threshold concepts and troublesome knowledge (2): Epistemological considerations and a conceptual framework for teaching and learning"* in *Higher Education* (DOI: 10.1007/s10734-004-6779-5).
 
-Meyer and Land were investigating disciplinary learning — specifically why certain concepts in a given subject seem to cause disproportionate difficulty, and why some learners emerge from that difficulty transformed in their understanding while others remain stuck. Their analysis drew on interviews with academics across disciplines about concepts they identified as genuinely difficult gateways to further understanding.
+Meyer and Land were investigating disciplinary learning — specifically why certain concepts in a given subject seem to cause disproportionate difficulty, and why some learners emerge from that difficulty transformed in their understanding while others remain stuck. The idea came out of a large UK teaching project (ETL), especially conversations with economics lecturers; the 2003 paper is a conceptual proposal rather than a formal study.
 
 ## What it found
 
@@ -27,21 +27,21 @@ Meyer and Land were investigating disciplinary learning — specifically why cer
 - Is often **bounded** — it demarcates a conceptual territory
 - Is frequently **troublesome** — it is counter-intuitive, alien, or requires abandoning a prior conception
 
-**Liminality:** Learners approaching a threshold concept enter a *liminal space* — a state of being stuck, of oscillating between old and new understanding, of confusion that feels like failure. This is not a sign that the learner is failing. It is a sign that a genuine transformation is underway. Forcing learners through liminality too quickly (by telling them the answer) short-circuits the integration process that makes the learning durable.
+**Liminality:** Learners approaching a threshold concept enter a *liminal space* — a state of being stuck, of oscillating between old and new understanding, of confusion that feels like failure. This is not a sign that the learner is failing. It is a sign that a genuine transformation is underway. Meyer and Land suggest that rushing learners past this stage may lead to surface "mimicry" rather than real understanding.
 
 **Troublesome knowledge:** Not all difficult knowledge is threshold knowledge. The idea of troublesome knowledge comes from David Perkins (1999), whose categories Meyer and Land adopted: ritual knowledge (learned by rote without understanding), inert knowledge (known but not used), conceptually difficult knowledge, alien or foreign knowledge (counter-intuitive to an existing worldview), and tacit knowledge (understood but rarely made explicit). Threshold concepts are a subset of troublesome knowledge that have the specific transformative potential described above.
 
-**Expert blindness:** Because threshold concepts are irreversible, experts frequently cannot perceive the conceptual barrier they crossed. They present the concept as if it were obvious — because for them it now is. This is the proximal cause of much ineffective teaching: the expert cannot locate their own threshold, so they cannot scaffold the learner across it.
+**Expert blindness:** Because threshold concepts are irreversible, experts frequently cannot perceive the conceptual barrier they crossed. They present the concept as if it were obvious — because for them it now is. This may explain some unhelpful teaching: the expert cannot locate their own threshold, so they cannot scaffold the learner across it.
 
 ## The one finding worth quoting in a meeting
 
-**In our words (a paraphrase, not a quotation):** When a learner is genuinely stuck on a threshold concept, the problem is not deficient effort — it is the necessary pain of conceptual transformation. Telling them the answer does not resolve the liminal space; it just adds information to it. The learner has to cross their own threshold.
+**In our words (a paraphrase, not a quotation):** If a learner is stuck on a threshold idea, it may be a normal part of a big shift in understanding rather than a lack of effort. Telling them the answer does not resolve the liminal space; it just adds information to it. The learner has to cross their own threshold.
 
 This is critical for clinical education's reflex toward information provision. When a trainee cannot grasp a concept after explanation, the educator's reflex is to explain it again more carefully. If the concept is a threshold concept, more explanation is not the answer. A different approach — metaphor, worked example from a different domain, deliberate discussion of why it is confusing — is more likely to facilitate crossing.
 
 ## Honest limitations
 
-- The original framework is based on qualitative academic interviews; the concept of a "threshold concept" requires identification by discipline experts and is inherently interpretative
+- The framework is conceptual and based on teachers' judgement; the concept of a "threshold concept" requires identification by discipline experts and is inherently interpretative
 - There is no reliable independent test for whether a concept is a threshold concept or merely difficult — identification relies on expert judgment, which may not transfer between educators in the same discipline
 - The liminal space construct is difficult to operationalise in assessment — how do you assess productive confusion rather than penalising it?
 - The framework has generated significant theoretical literature but less empirical research on specific instructional interventions that reliably facilitate threshold crossings

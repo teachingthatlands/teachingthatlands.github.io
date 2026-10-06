@@ -11,7 +11,7 @@ imagePrompt: "A simple equation displayed large: L = P + Q. Below it: P labelled
 
 ## What the study did
 
-Revans's book is part autobiography, part theory, and part practical argument — he was not primarily an academic but a physicist-turned-management consultant who had developed his ideas over several decades, including wartime work at the Cavendish Laboratory and post-war work with colliery managers in the UK coal industry. He observed that the managers with the best safety and productivity records were not the ones who brought in the most expert advice, but the ones who met regularly with peers facing similar problems and asked each other better questions.
+This large book collects decades of Revans's papers: part history, part theory, part practical argument. Revans trained as a physicist at the Cavendish Laboratory in Cambridge in the early 1930s, then worked in education for Essex and the National Coal Board, and became Manchester's first Professor of Industrial Administration (1955–65). At the National Coal Board he encouraged pit managers to meet in small groups to share problems and question each other, rather than relying on outside experts, and reported improved results.
 
 The book synthesises this experience into a theory of action learning: a structured approach to professional development built around real problems, small groups, and the discipline of questioning over advising.
 
@@ -23,7 +23,7 @@ An organisation or profession that relies only on P — on expert advice, best-p
 
 **Puzzles vs problems.** Revans distinguished between *puzzles* (which have knowable answers, yield to expert P, and can in principle be solved by looking up the right solution) and *problems* (which are complex, value-laden, context-dependent, and cannot be solved by expertise alone). Most management and clinical challenges are problems, not puzzles. Treating problems as if they were puzzles — by seeking expert advice, following protocols, applying someone else's solution — is one of the primary ways that professional practice fails.
 
-**Action learning sets.** The practical structure: a small group (typically four to six people) who meet regularly, each bringing a real problem they are working on. The group's role is to ask questions — not to offer advice, not to share analogous experiences, not to solve the problem. For the first phase of each meeting, questioning only. The issue-holder is confronted with their own thinking in a way that self-reflection and expert consultation rarely produce.
+**Action learning sets.** The practical structure: a small group (typically four to six people) who meet regularly, each bringing a real problem they are working on. The group's role is to ask questions — not to offer advice, not to share analogous experiences, not to solve the problem. Many later versions of action learning (e.g. Marquardt's) add a rule that the group asks only questions for the first part of each meeting. The issue-holder is confronted with their own thinking in a way that self-reflection and expert consultation rarely produce.
 
 **The comrades in adversity principle.** Peers facing similar challenges — people roughly at the same level, with comparable responsibilities and constraints — are often better learning partners than experts. They have sufficient shared context to ask relevant questions, and insufficient distance to be authoritative, which keeps the problem-owner in charge of their own solution.
 
@@ -45,7 +45,7 @@ For clinical education: the most effective debrief of a difficult case is rarely
 
 ## What it means for your practice
 
-The immediate application is an action learning set: triads, real teaching challenges, eight minutes of questions only before any advice is offered. The discipline is not procedural — it is the point. Clinicians who can suspend the advice reflex for eight minutes become better at asking the questions that actually help rather than the questions that demonstrate their own expertise.
+One way to try this: in threes, take a real teaching problem and allow only questions for the first eight minutes before anyone gives advice. The discipline is not procedural — it is the point. Clinicians who can suspend the advice reflex for eight minutes become better at asking the questions that actually help rather than the questions that demonstrate their own expertise.
 
 More broadly, the L = P + Q insight applies to how you design any professional development intervention: if it consists entirely of expert input (P), you are providing content that participants may or may not be able to use. If it combines expert input with structured questioning of real problems (P + Q), you are building the questioning capacity that transfers to situations the content never anticipated.
 

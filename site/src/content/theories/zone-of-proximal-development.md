@@ -1,6 +1,6 @@
 ---
 title: "Zone of Proximal Development"
-summary: "Learning happens in the gap between what a student can do alone and what they can do with support — not beyond it"
+summary: "Teaching works best when it is pitched just beyond what a learner can do alone but within what they can do with support"
 sessions: ["session-1"]
 evidence:
   - cite: "Vygotsky, L. S. (1978). <em>Mind in Society: The Development of Higher Psychological Processes</em>. Harvard University Press."
@@ -9,7 +9,7 @@ evidence:
   - cite: "Hmelo-Silver, C. E., Duncan, R. G., &amp; Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning. <em>Educational Psychologist</em>, 42(2), 99–107."
 ---
 
-Vygotsky drew a simple distinction that has large consequences for teaching. There is what a learner can do independently. There is what they cannot do at all. And between those two — the *zone of proximal development* — there is what they can do with the right kind of support. That middle ground is where learning actually happens.
+Vygotsky drew a simple distinction that has large consequences for teaching. There is what a learner can do independently. There is what they cannot do at all. And between those two — the *zone of proximal development* — there is what they can do with the right kind of support. That middle ground is where teaching and support do the most good.
 
 Teaching pitched too low produces boredom and no growth. Teaching pitched too high produces anxiety, surface strategies, and the appearance of understanding without the substance. The ZPD is where support does the most good — and finding it requires knowing your learners, not just your content.
 
