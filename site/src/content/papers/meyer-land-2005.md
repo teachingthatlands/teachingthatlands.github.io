@@ -11,49 +11,49 @@ sessions: []
 imagePrompt: "A narrow archway or portal shape in the centre. On the left side of the arch, a flat landscape at ground level. On the right side, the landscape is elevated, showing a higher vantage point — a different view. The portal represents a conceptual threshold. Below the arch, a small tangled line cluster represents troublesome knowledge. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
+**In one line:** some ideas change how people see a whole subject once they get them, and learners often get stuck for a while on the way. That can be a normal stage, not a failure.
 
-## What the study did
+## What they did
 
-This entry covers the key threshold concepts papers by Meyer and Land. The foundational paper is Meyer & Land (2003) as an ETL Project occasional paper, with the most widely cited journal publication being Meyer & Land (2005) *"Threshold concepts and troublesome knowledge (2): Epistemological considerations and a conceptual framework for teaching and learning"* in *Higher Education* (DOI: 10.1007/s10734-004-6779-5).
+This isn't an experiment. It's a proposal: a new way of thinking about why some ideas are so hard to learn.
 
-Meyer and Land were investigating disciplinary learning — specifically why certain concepts in a given subject seem to cause disproportionate difficulty, and why some learners emerge from that difficulty transformed in their understanding while others remain stuck. The idea came out of a large UK teaching project (ETL), especially conversations with economics lecturers; the 2003 paper is a conceptual proposal rather than a formal study.
+Jan Meyer and Ray Land were working on a large UK project on university teaching in the early 2000s. In conversations with university teachers, especially economics lecturers, the same thing kept coming up. Certain ideas held students up far more than others. Some students came through them seeing the whole subject differently. Others stayed stuck. Meyer and Land wrote this paper in 2003 to describe these ideas and give them a name: *threshold concepts*.
 
-## What it found
+## What they found
 
-**The threshold concept:** A threshold concept is one that:
-- Is **transformative** — once grasped, it changes how the learner sees the subject
-- Is **irreversible** — once understood, it is difficult to un-see; experts forget what it was like not to know it
-- Is **integrative** — it connects other ideas that previously seemed unrelated
-- Is often **bounded** — it demarcates a conceptual territory
-- Is frequently **troublesome** — it is counter-intuitive, alien, or requires abandoning a prior conception
+- **Some ideas are doorways.** Meyer and Land said a threshold concept is usually *transformative* (it changes how you see the subject), *irreversible* (hard to un-know), *integrative* (it links up things that seemed separate) and often *troublesome* (it goes against common sense, or feels strange). They added that it may also mark out the edges of a subject area.
+- **There's a stuck stage in between.** Before people get through, they may swing back and forth, feel confused, or copy the right words without the meaning. Meyer and Land called this the *liminal* (in-between) stage. They suggested that rushing people past it may leave them only copying, not really understanding.
+- **Hard ideas are hard in different ways.** They borrowed five kinds of "troublesome knowledge" from David Perkins (1999): learned by rote with no meaning; known but never used; hard to grasp; strange, because it clashes with what you believe; and unspoken, known by experts but rarely said out loud.
+- **Experts can forget the doorway.** Once through, it can be hard to remember not seeing it. Meyer and Land suggested this may explain some unhelpful teaching: the expert presents the idea as obvious.
 
-**Liminality:** Learners approaching a threshold concept enter a *liminal space* — a state of being stuck, of oscillating between old and new understanding, of confusion that feels like failure. This is not a sign that the learner is failing. It is a sign that a genuine transformation is underway. Meyer and Land suggest that rushing learners past this stage may lead to surface "mimicry" rather than real understanding.
+## How much should you trust it?
 
-**Troublesome knowledge:** Not all difficult knowledge is threshold knowledge. The idea of troublesome knowledge comes from David Perkins (1999), whose categories Meyer and Land adopted: ritual knowledge (learned by rote without understanding), inert knowledge (known but not used), conceptually difficult knowledge, alien or foreign knowledge (counter-intuitive to an existing worldview), and tacit knowledge (understood but rarely made explicit). Threshold concepts are a subset of troublesome knowledge that have the specific transformative potential described above.
+**A useful way of thinking, built on teachers' judgement; little testing of what helps.**
 
-**Expert blindness:** Because threshold concepts are irreversible, experts frequently cannot perceive the conceptual barrier they crossed. They present the concept as if it were obvious — because for them it now is. This may explain some unhelpful teaching: the expert cannot locate their own threshold, so they cannot scaffold the learner across it.
+- It's a proposal based on what teachers noticed, not on a study that measured anything.
+- There is no reliable test for whether an idea is a threshold concept or just hard. It comes down to experts' judgement, and experts in the same field can disagree.
+- The idea has led to a lot of writing, but little research on which teaching moves actually help people get through.
+- It came from university teaching. Healthcare teachers have taken it up, but it has been much less tested in workplaces.
 
-## The one finding worth quoting in a meeting
+## If you need to convince someone
 
-**In our words (a paraphrase, not a quotation):** If a learner is stuck on a threshold idea, it may be a normal part of a big shift in understanding rather than a lack of effort. Telling them the answer does not resolve the liminal space; it just adds information to it. The learner has to cross their own threshold.
+**In our words (a paraphrase, not a quotation):** when someone is stuck on a big idea, it may be a normal part of a real shift in how they see things, not a lack of effort. Saying the answer again, the same way, may not get them through.
 
-This is critical for clinical education's reflex toward information provision. When a trainee cannot grasp a concept after explanation, the educator's reflex is to explain it again more carefully. If the concept is a threshold concept, more explanation is not the answer. A different approach — metaphor, worked example from a different domain, deliberate discussion of why it is confusing — is more likely to facilitate crossing.
+## What it means for you
 
-## Honest limitations
-
-- The framework is conceptual and based on teachers' judgement; the concept of a "threshold concept" requires identification by discipline experts and is inherently interpretative
-- There is no reliable independent test for whether a concept is a threshold concept or merely difficult — identification relies on expert judgment, which may not transfer between educators in the same discipline
-- The liminal space construct is difficult to operationalise in assessment — how do you assess productive confusion rather than penalising it?
-- The framework has generated significant theoretical literature but less empirical research on specific instructional interventions that reliably facilitate threshold crossings
-
-## What it means for your practice
-
-Three moves:
-
-1. **Identify your discipline's threshold concepts.** Sit with your most experienced clinical colleagues and ask: *"What concept, when a trainee finally gets it, changes everything about how they think?"* These are your thresholds. They are likely concepts you now find obvious — which is exactly why trainees need help with them.
-2. **Tolerate liminality.** When a trainee is confused by a threshold concept, the temptation is to accelerate past the confusion. Resist this. Name the confusion: *"This is a genuinely difficult concept — being confused about it is the right response. Let's sit with that."*
-3. **Watch for the expert blindness trap.** If you find yourself saying *"it's quite simple really"* about anything, ask yourself whether you remember what it felt like not to know it. Usually you do not.
+1. **Find the doorway ideas in your area.** Ask experienced colleagues: "What did you finally get that made everything else make sense?" Those ideas probably feel obvious to you now, which is exactly why learners need help with them.
+2. **Start from what people need to do.** If a doorway idea is what lets someone act differently, such as spotting a patient who is quietly getting worse, give it more time than the facts around it.
+3. **Try a different angle.** If someone is stuck, use a picture, a real case or an everyday comparison rather than repeating your first explanation. Say out loud that this bit is hard for everyone.
+4. **Watch for "it's quite simple really".** If you hear yourself say it, ask whether you remember what it felt like not to know.
 
 ## How it appears in Teaching That Sticks
 
-Not taught directly in the three core sessions. Useful background when you plan teaching on an idea your learners find stubbornly hard.
+Not taught directly in the three core sessions. Useful background when you plan teaching on an idea your learners find stubbornly hard. See also [threshold concepts](/theories/threshold-concepts).
+
+## The small print
+
+- **Which paper this is.** This page covers the first paper, from 2003. It came out as a report from the project, known as ETL, and in a conference book edited by Chris Rust (pages 412–424). The best-known journal follow-up is Meyer and Land (2005), "Threshold concepts and troublesome knowledge (2)", in *Higher Education* 49(3), 373–388 (DOI 10.1007/s10734-004-6779-5).
+- **A guide, not a checklist.** Meyer and Land hedged most of the features with words like "probably" and "possibly". The fifth one, *bounded*, means the idea marks out the edges of a subject area.
+- **Liminal** comes from a word for a doorway or threshold. *Mimicry* is Meyer and Land's word for copying the right words without the understanding.
+- **Examples.** Meyer and Land's own examples came mostly from economics and maths, such as opportunity cost. Ideas suggested for healthcare, such as the body keeping itself steady (homeostasis), come from later writers and rest on the same expert judgement.
+- **Later work.** Meyer and Land's 2006 book, *Overcoming Barriers to Student Understanding*, gathers examples from many subjects.
