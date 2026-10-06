@@ -6,6 +6,7 @@ theories:
   - testing-beats-re-reading
   - spread-it-out
   - mix-it-up
+  - active-is-a-scale
   - learning-from-experience
 fox: "thinking_left_arm_up.png"
 duration: "90 min"
@@ -21,8 +22,8 @@ keyIdeas:
     detail: "We forget fast at first, then more slowly. Coming back after a gap (like these weekly sessions) makes learning last."
     theory: spread-it-out
   - idea: "Active is a scale, not a switch."
-    detail: "Listening, discussing, doing, teaching: each step deepens learning. The setting decides how far you can go."
-    theory: learning-from-experience
+    detail: "Listening, then doing something with it, then explaining it in your own words, then working it through with others: the more people do with an idea, the more they tend to learn. The setting decides how far you can go."
+    theory: active-is-a-scale
   - idea: "Design for the real place."
     detail: "A 6am handover isn't a study day. Build the activity for the corridor, ward or sim room where it will actually happen."
 canvas: "Activities, part 2: what learners do. You made ten minutes of your session active."
