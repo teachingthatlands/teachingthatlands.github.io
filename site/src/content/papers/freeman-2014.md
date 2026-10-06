@@ -18,7 +18,7 @@ Freeman and colleagues conducted a meta-analysis of 225 studies comparing active
 
 ## What it found
 
-**Examination scores:** Students in active learning courses outperformed lecture-only students on examinations by an average of 6% (weighted standardised mean difference d = 0.47). This is a moderate effect by conventional standards — the authors estimate it would raise average grades by about half a letter grade (e.g. from a B to a B+).
+**Examination scores:** Students in active learning courses outperformed lecture-only students on examinations by an average of 6% (weighted standardised mean difference d = 0.47). This is a moderate effect by conventional standards — the authors estimate it would raise average grades by about half a letter grade (roughly half a grade band on a US-style grading scale).
 
 **Failure rates:** This is the finding with teeth. Failure rates in traditional lecture courses were **33.8%**, compared to **21.8%** in active learning courses. Students in traditional lectures were **1.5 times more likely to fail** than their peers in active learning courses (OR = 1.95, 95% CI [1.67, 2.28]).
 
@@ -34,13 +34,13 @@ The authors themselves draw the comparison: had these experiments been randomise
 
 - The studies are drawn from STEM undergraduate education — the direct transferability to postgraduate clinical training is not established by this paper and should not be assumed automatically
 - "Active learning" is operationally defined broadly across the 225 studies; some implementations are substantially more structured and rigorous than others
-- Publication bias is likely — studies showing benefits of active learning are more publishable than null results
+- Publication bias is always a risk in meta-analyses. The authors tested for it and found it unlikely to explain the results, but it can't be ruled out completely
 - Effect sizes may be inflated in smaller studies (a common meta-analytic concern)
 - The studies measure examination performance, not long-term retention or practice change — Kirkpatrick Level 2, not Level 3
 
 ## What it means for your practice
 
-The burden of proof has shifted. The question is no longer *"why should I try active learning?"* — it is *"what is my justification for defaulting to a lecture?"* The evidence consistently shows that even imperfect active learning implementations outperform polished lectures on measurable outcomes. The ward corridor is a classroom. The handover is a teaching moment. The question that follows a clinical decision is active learning.
+The burden of proof has shifted. The question is no longer *"why should I try active learning?"* — it is *"what is my justification for defaulting to a lecture?"* On average, across many different courses, adding active learning did better than lecturing alone. The ward corridor is a classroom. The handover is a teaching moment. The question that follows a clinical decision is active learning.
 
 ## How it appears in Teaching That Sticks
 
