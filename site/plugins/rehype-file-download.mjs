@@ -2,7 +2,7 @@
  * rehype-file-download.mjs — turns a plain link in Markdown into a download card.
  *
  * Write this in any Markdown page:
- *   <a class="file-download" href="/slides/tts-day1-death-by-powerpoint.pptx">Download the Day 1 deck</a>
+ *   <a class="file-download" href="/slides/ttl-day1-death-by-powerpoint.pptx">Download the Day 1 deck</a>
  *
  * At build time it becomes the card: an icon for the file type, the label,
  * "filename · type · size" (and pages, for a PDF), and a Download button.

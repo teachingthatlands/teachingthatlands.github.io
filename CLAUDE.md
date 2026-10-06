@@ -2,7 +2,7 @@
 
 ## Derived files: keep them in step
 
-- **One-day decks** (`site/public/slides/tts-one-day-*.pptx`) are built from the three session decks (`tts-day{1,2,3}-*.pptx`) by `tools/one_day_decks.py`. Never edit them by hand.
+- **One-day decks** (`site/public/slides/ttl-one-day-*.pptx`) are built from the three session decks (`ttl-day{1,2,3}-*.pptx`) by `tools/one_day_decks.py`. Never edit them by hand.
   - Changed a session deck? Run `just one-day-decks`, and commit the rebuilt decks with it.
   - Changed slide wording the script looks for (titles, "last week", the canvas labels)? The build stops and names the slide: update `DECKS` in the script.
   - Changed a session's running order, or the one-day timetable? Check `site/src/content/facilitator/one-day.md` still matches the blueprints it borrows from (it cites their section times).

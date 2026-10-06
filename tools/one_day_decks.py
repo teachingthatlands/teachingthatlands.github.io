@@ -40,8 +40,8 @@ BANNER = (
 # match, and optional moves (slide phrase -> put it after this slide phrase).
 DECKS = [
     dict(
-        src="tts-day1-death-by-powerpoint.pptx",
-        out="tts-one-day-1-death-by-powerpoint.pptx",
+        src="ttl-day1-death-by-powerpoint.pptx",
+        out="ttl-one-day-1-death-by-powerpoint.pptx",
         hide=["The ask", "See you next week"],
         swaps=[
             ("Death by PowerPoint?", "Day 1 of 3", "In one day · 1 of 3"),
@@ -51,10 +51,10 @@ DECKS = [
         ],
     ),
     dict(
-        src="tts-day2-active-beats-passive.pptx",
-        out="tts-one-day-2-active-beats-passive.pptx",
+        src="ttl-day2-active-beats-passive.pptx",
+        out="ttl-one-day-2-active-beats-passive.pptx",
         hide=["Show us your slides", "60-second pitch", "The ask",
-              "Next week: did it stick?", "See you next week"],
+              "Next week: did it land?", "See you next week"],
         swaps=[
             ("Active Beats Passive?", "Day 2 of 3", "In one day · 2 of 3"),
             ("Building your session", "Day 2: what they do", "Before lunch: what they do"),
@@ -65,11 +65,11 @@ DECKS = [
         ],
     ),
     dict(
-        src="tts-day3-did-it-stick.pptx",
-        out="tts-one-day-3-did-it-stick.pptx",
+        src="ttl-day3-did-it-land.pptx",
+        out="ttl-one-day-3-did-it-land.pptx",
         hide=[],
         swaps=[
-            ("Did It Stick?", "Day 3 of 3", "In one day · 3 of 3"),
+            ("Did It Land?", "Day 3 of 3", "In one day · 3 of 3"),
             ("Building your session", "Days 1–2 ✓", "This morning ✓"),
             ("Building your session", "Day 3: ", "This afternoon: "),
             ("Quick: what's a", "Same as last week. 2 minutes.", "Same as this morning. 2 minutes."),

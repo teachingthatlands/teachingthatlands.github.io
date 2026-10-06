@@ -36,7 +36,7 @@ By the end of the session, participants will have:
 
 The Day 3 deck: 19 slides (one alternative hidden) plus hidden credits, on the Day 1 template. Diagrams build click by click; the notes carry timings and prompts.
 
-<a class="file-download" href="/slides/tts-day3-did-it-stick.pptx">The Day 3 deck</a>
+<a class="file-download" href="/slides/ttl-day3-did-it-land.pptx">The Day 3 deck</a>
 
 
 Print before the session:

@@ -51,11 +51,11 @@ By the end of the day, participants will have:
 
 Three one-day decks: run them in order and switch at the breaks. They're the session decks with the asks and "see you next week" slides hidden, the 60-second pitch hidden (it merges into "Run it on us"), "last week" changed to "this morning", the canvas labelled by time of day, and the blorps retest moved to open the last block. Slide 1's notes say so.
 
-<a class="file-download" href="/slides/tts-one-day-1-death-by-powerpoint.pptx">One-day deck 1: Block 1 (Session 1)</a>
+<a class="file-download" href="/slides/ttl-one-day-1-death-by-powerpoint.pptx">One-day deck 1: Block 1 (Session 1)</a>
 
-<a class="file-download" href="/slides/tts-one-day-2-active-beats-passive.pptx">One-day deck 2: Block 2, and slide 13 to open Block 3 (Session 2)</a>
+<a class="file-download" href="/slides/ttl-one-day-2-active-beats-passive.pptx">One-day deck 2: Block 2, and slide 13 to open Block 3 (Session 2)</a>
 
-<a class="file-download" href="/slides/tts-one-day-3-did-it-stick.pptx">One-day deck 3: Blocks 3 and 4 (Session 3)</a>
+<a class="file-download" href="/slides/ttl-one-day-3-did-it-land.pptx">One-day deck 3: Blocks 3 and 4 (Session 3)</a>
 
 They're built automatically from the session decks, so they always match them. The speaker notes are the three-session versions: read "next week" as "after lunch" or "in the 1-week email".
 
