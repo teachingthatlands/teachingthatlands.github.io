@@ -6,7 +6,7 @@ tagline: "The programme's one evaluation design: a short end-of-programme form, 
 fox: scientist.png
 ---
 
-This is the programme's only evaluation design. Other pages link here rather than repeating it. It uses the four levels of the [Kirkpatrick model](/theories/kirkpatrick-model), and it is deliberately small: a handful of questions you will actually send, and evidence the sessions already produce.
+This is the programme's only evaluation design. Other pages link here rather than repeating it. It uses the four levels of the [Kirkpatrick model](/theories/did-the-training-work), and it is deliberately small: a handful of questions you will actually send, and evidence the sessions already produce.
 
 ## Overview: the design at a glance
 
@@ -68,7 +68,7 @@ There is no separate knowledge test. The sessions already produce two pieces of 
 | Criterion | Clear | Not yet |
 |---|---|---|
 | **Outcomes are observable** | Each outcome uses a verb you could watch or check: *demonstrate, explain to a patient, choose, calculate* | Outcomes say *know, understand, be aware of, appreciate* |
-| **Evidence matches the verb** | The evidence sits at the right level of [Miller's pyramid](/theories/millers-pyramid): a "shows how" outcome is checked by watching someone do it, not by a quiz | Evidence is a quiz or attendance for a doing outcome, or there is no evidence |
+| **Evidence matches the verb** | The evidence sits at the right level of [Miller's pyramid](/theories/knowing-isnt-doing): a "shows how" outcome is checked by watching someone do it, not by a quiz | Evidence is a quiz or attendance for a doing outcome, or there is no evidence |
 | **Activities line up** | Each activity gives learners practice at what the outcome asks them to do | Activities are mainly listening or reading when the outcome is about doing |
 | **Learners and need are specific** | Names who the learners are, their setting, and the problem the teaching should fix | "Staff" or "everyone"; the need is a topic rather than a problem |
 | **Follow-through is planned** | States what happens at 30/60/90 days, how, who will hold them to it, and what support they've agreed | No follow-through, or "send the slides afterwards" |

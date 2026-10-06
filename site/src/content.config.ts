@@ -3,7 +3,7 @@ import { glob } from 'astro/loaders';
 
 // ── Theory collection ──────────────────────────────────────────────────────
 // Each .md file in src/content/theories/ is one theory page.
-// Slug is derived from the filename: cognitive-load.md → slug "cognitive-load"
+// Slug is derived from the filename: too-much-at-once.md → slug "too-much-at-once"
 const theories = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/theories' }),
   schema: z.object({
@@ -18,7 +18,7 @@ const theories = defineCollection({
     /** Key evidence citations */
     evidence: z.array(z.object({
       cite: z.string(),
-      /** Optional paper slug (e.g. "sweller-1988") linking to /papers/[slug] */
+      /** Optional paper slug (e.g. "why-practice-can-overload") linking to /papers/[slug] */
       paper: z.string().optional(),
     })).default([]),
     /** Optional slide comparison images (filenames in /public/slides/) */

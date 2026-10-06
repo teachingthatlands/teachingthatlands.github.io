@@ -3,10 +3,10 @@ title: "Session 1"
 number: 1
 tagline: "Death by PowerPoint?"
 theories:
-  - cognitive-load
-  - dual-coding
-  - constructive-alignment
-  - implementation-intentions
+  - too-much-at-once
+  - pictures-and-words
+  - line-it-up
+  - if-then-plans
 fox: "thinking_left_arm_down.png"
 duration: "90 min"
 subtitle: "Why most slides work against learning, and how to fix yours."
@@ -16,15 +16,15 @@ prepFallback: "No slide? No problem. We'll find one in the room. You won't need 
 keyIdeas:
   - idea: "Working memory is tiny. Cut the noise."
     detail: "We hold about four things at once. Put everything on a slide and you rest your memory and tax theirs. Some effort belongs to the topic; the clutter is the part you control."
-    theory: cognitive-load
+    theory: too-much-at-once
   - idea: "Image and voice beat text and voice."
     detail: "Words on the slide compete with your pictures for learners' eyes. A picture and your voice work together."
-    theory: dual-coding
+    theory: pictures-and-words
   - idea: "Design for the back row."
     detail: "24pt or bigger, strong contrast, nothing important at the bottom of the screen, and never colour alone: about 1 in 12 men see colour differently."
   - idea: "Ask who the slide is for."
     detail: "If it's there so you don't forget, it's a security blanket. Every slide should serve what your learners need to do."
-    theory: constructive-alignment
+    theory: line-it-up
 canvas: "Activities, part 1: your slides. You redesigned one slide from a session you teach (or would like to teach). It's the first piece of the canvas you'll complete by Session 3."
 ask: "Before next week I will | identify and redesign | one or two slides | (my own, or an example I find) | and bring them."
 askSteps:
