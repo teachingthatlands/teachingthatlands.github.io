@@ -44,7 +44,7 @@ For clinical education: every quiz, every *"what do you remember from last time?
 
 Three applications in increasing order of commitment:
 
-1. **Open every session by asking what people remember from last time** — not as a courtesy review, but as spaced retrieval. The cognitive work of trying to remember, with partial success, is the learning. Session 2 of this programme opens with a Kahoot on Session 1 for exactly this reason.
+1. **Open every session by asking what people remember from last time** — not as a courtesy review, but as spaced retrieval. The effort of trying to remember, then hearing the right answer, strengthens what people keep. Session 2 of this programme opens with a Kahoot on Session 1 for exactly this reason.
 2. **Replace some re-reading or note-checking time with attempted recall.** Any time a learner reviews their notes before a session, they would get more return from closing the notes and trying to recall what they cover first.
 3. **Build in low-stakes tests at 24–48 hours after a session.** A single question by email — *"Without looking, what are the three types of cognitive load?"* — is likely to do more for one-week retention than sending a recap slide deck.
 

@@ -1,6 +1,6 @@
 ---
 title: "Retrieval Practice"
-summary: "Testing yourself on material does more for long-term retention than re-studying it — the act of recall is the learning"
+summary: "Testing yourself on material does more for long-term retention than re-studying it — pulling something back out of memory strengthens it"
 sessions: ["session-2"]
 evidence:
   - cite: "Roediger, H. L., &amp; Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. <em>Psychological Science</em>, 17(3), 249–255."
