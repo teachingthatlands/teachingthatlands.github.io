@@ -14,7 +14,7 @@ imagePrompt: "A simple diagram showing a cyclical loop between two nodes. The le
 
 ## What Schön did
 
-This isn't an experiment. It's a book, built on close case studies of professionals at work: an architect teaching a student to design, a psychotherapist with a client, a town planner, a manager and others.
+This isn't an experiment. It's a book, built on close case studies of professionals at work: an architect teaching a student to design, a psychotherapy supervisor with a trainee, a town planner, a manager and others.
 
 Schön compared what he saw with the standard view of professional skill, which he called *technical rationality*. In that view, a professional is someone who applies science: spot the problem, pick the right theory, apply it, get the answer. Much professional training is built this way.
 

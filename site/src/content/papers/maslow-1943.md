@@ -24,7 +24,7 @@ This isn't an experiment or a survey. It's an argument. Maslow, a psychologist, 
 - **Unmet lower needs take priority.** A very hungry person is mostly driven by food. As one need is largely met, the next kind starts to matter more.
 - **It isn't a strict ladder.** Maslow said the order is "not nearly as rigid" as his own description might suggest, and he listed exceptions. He also said most needs are only partly met at any one time.
 - **Curiosity sits apart.** He treated the wish to know and understand as a separate drive, not one of the five levels.
-- **There's no pyramid.** The paper has no pyramid in it. It first appeared in 1960, in a business magazine article by a management consultant, Charles McDermid. The pyramid makes the idea look more rigid than Maslow meant, as if each need is either met or not.
+- **There's no pyramid.** The paper has no pyramid in it. The earliest known version appeared in 1960, in a business magazine article by a management consultant, Charles McDermid. The pyramid makes the idea look more rigid than Maslow meant, as if each need is either met or not.
 
 ## How much should you trust it?
 

@@ -16,7 +16,7 @@ imagePrompt: "A concentric ring diagram. The centre ring is labelled 'Full parti
 
 This isn't an experiment. It's a short book that offers a new way of looking at learning.
 
-Jean Lave, an anthropologist, and Etienne Wenger, then a researcher in computing and learning, were struck by how people learn in apprenticeships. They looked at five cases, one from Lave's own fieldwork and the rest from other researchers' studies: midwives in Mexico, tailors in West Africa, navy navigators, supermarket meat-cutters in the United States, and people who had stopped drinking, in a recovery group. In none of these was learning mainly about being taught. It happened while doing real work, among real colleagues, where the results mattered.
+Jean Lave, an anthropologist, and Etienne Wenger, then a researcher in computing and learning, were struck by how people learn in apprenticeships. They looked at five cases, one from Lave's own fieldwork and the rest from other researchers' studies: midwives in Mexico, tailors in West Africa, navy navigators, supermarket meat-cutters in the United States, and people who had stopped drinking, in a recovery group. Across these cases, learning came mainly from taking part, not from being taught. Where newcomers were kept away from the real work, as with the meat-cutters, they learned much less.
 
 ## What they found
 

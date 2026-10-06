@@ -11,7 +11,7 @@ sessions: []
 imagePrompt: "Two speech bubbles facing each other across a narrow gap. The left bubble contains a solid geometric shape — a specific observation (advocacy). The right bubble contains a question mark — genuine inquiry. Between them, a small curved bridge connects the two across the gap. Flat design, Teaching That Sticks house style, slate blue-grey and amber palette, clean white background, no people, professional educational illustration."
 ---
 
-**In one line:** after someone practises, say clearly what you saw and what you made of it, then ask a real question about their thinking. Being honest and being curious work best together.
+**In one line:** after someone practises, say clearly what you saw and what you made of it, then ask a real question about their thinking. The authors argue that being honest and being curious work best together.
 
 ## What they did
 

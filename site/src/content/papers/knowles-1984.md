@@ -56,4 +56,4 @@ Knowles shapes how the programme starts and what people work on. Session 1 opens
 - **How many assumptions?** Knowles started with four: self-direction, experience, readiness and problem-centred learning. Motivation and the need to know were added in later writing, and different books list them slightly differently.
 - **Critics.** Hartree (1984) argued that andragogy describes an ideal adult learner rather than a theory that applies widely. Merriam (2001) called it a guide to planning rather than a theory of how adults learn.
 - **The word itself.** It was first used in Germany in 1833. Knowles took it up in the 1960s.
-- **Still in print.** *The Adult Learner* is now in an 8th edition, revised by Holton and Swanson (2015).
+- **Still in print.** *The Adult Learner* is now in a 9th edition (Knowles, Holton, Swanson and Robinson, 2020).

@@ -19,7 +19,7 @@ evidence:
 
 You have seen tens of thousands of adverts. Some are still in your head decades later. A handful changed what you bought, where you went or what you believed. None of that happened by accident.
 
-Advertisers have borrowed from psychology for over a century, and they have strong reasons to keep what works. Many ideas in this library show up in good adverts: [spaced practice](/theories/spaced-practice), [retrieval practice](/theories/retrieval-practice), [dual coding](/theories/dual-coding), [cognitive load](/theories/cognitive-load) and [implementation intentions](/theories/implementation-intentions).
+Advertisers have borrowed from psychology for over a century, and they have strong reasons to keep what works. Many ideas in this library show up in good adverts: [spreading learning out](/theories/spaced-practice), [testing yourself](/theories/retrieval-practice), [pictures and words together](/theories/dual-coding), [not too much at once](/theories/cognitive-load) and [if-then plans](/theories/implementation-intentions).
 
 | What the ad does | Why it works |
 |---|---|
@@ -29,11 +29,11 @@ Advertisers have borrowed from psychology for over a century, and they have stro
 | "Can you finish the jingle…?" | Pulling something back out of memory yourself fixes it better than being told it again. |
 | Hook, open question, cliffhanger | Feeling you *need* to know something makes you pay attention. Show the problem before you name it. |
 | A story with feeling, not a list of facts | Memories tied to a feeling tend to last longer. The laugh or the wince helps the message stick. |
-| A clear call to action | The ad says exactly what to do next. If nobody ever said what should change, the design never aimed for it. |
+| A clear call to action | When an ad wants action now, it says exactly what to do next. If nobody ever said what should change, the design never aimed for it. |
 
 ## Why it matters for your teaching
 
-For an advertiser, an ad people enjoyed but didn't act on has failed. The best ones start from the behaviour they want: buy this, book that, ring this number. That is the heart of Teaching That Sticks too: start with what people need to do differently, then build the teaching from there.
+Advertisers judge an ad by whether it changes what people do in the end, not just whether they liked it. Some ads ask for action now; many aim to be remembered when the moment comes. Either way, they start from the behaviour they want. That is the heart of Teaching That Sticks too: start with what people need to do differently, then build the teaching from there.
 
 Teaching often starts from the other end: what do I need to cover? Think of an induction for new healthcare assistants that tries to cover twenty policies in a morning. An advertiser would ask: what's the one thing they must do on their first shift? Say it clearly, show it, come back to it next week, and end on it.
 

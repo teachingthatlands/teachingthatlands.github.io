@@ -5,7 +5,7 @@ authors: "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D."
 journal: "Psychological Bulletin"
 year: 2006
 doi: "10.1037/0033-2909.132.3.354"
-openAccess: false
+openAccess: true
 openAccessUrl: "https://escholarship.org/uc/item/3rr6q10c"
 theorists: ["ebbinghaus-forgetting-curve"]
 sessions: [2]

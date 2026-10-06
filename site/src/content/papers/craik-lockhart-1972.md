@@ -32,7 +32,7 @@ Then, without warning, they were asked to remember the words.
 - **Meaning beats surface.** In Craik and Tulving's tests, people remembered far more of the words they'd thought about for meaning, though nobody had told them to try to remember.
 - **Trying to remember isn't the main thing.** What people *did* with the words mattered more than whether they meant to learn them.
 - **Going over something again adds little.** Craik and Lockhart argued that just repeating something does little for later memory. Re-reading notes feels productive because it becomes familiar, but familiar isn't the same as being able to recall it.
-- **Linking new ideas to old ones helps.** Giving your own example, answering "why?", or explaining it to someone else all push people to think about meaning.
+- **Meaning comes from links.** Craik and Lockhart argued that deeper processing means connecting new material to what you already know.
 
 ## How much should you trust it?
 

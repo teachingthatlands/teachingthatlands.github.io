@@ -23,7 +23,7 @@ Or think about sport. A tennis coach can feed you twenty forehands in a row. You
 
 Healthcare teaching often comes in neat blocks. Three chest cases, then three heart cases. Five questions on one drug, then five on the next. Inside each block, people do well, because the heading has already told them what kind of case it is.
 
-Real work doesn't come labelled. A breathless patient might have a chest problem, a heart problem or a panic attack. A paramedic, a nurse or a physio has to work out which before they know what to do. If spotting the difference is part of what people need to do differently, they need practice at spotting it.
+Real work doesn't come labelled. A breathless patient might have a lung problem, a heart problem or something else entirely. A paramedic, a nurse or a physio has to work out which before they know what to do. If spotting the difference is part of what people need to do differently, they need practice at spotting it.
 
 So, mix it up. In a case review, put different kinds of case side by side. On a pharmacy teaching round, mix questions on drugs that look alike or sound alike. Ask "which is this, and how do you know?" before "what would you do?"
 

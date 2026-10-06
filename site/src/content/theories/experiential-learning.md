@@ -49,4 +49,4 @@ Watch out for one common myth. The same author also described "learning styles",
 
 ## Where it comes from
 
-David Kolb, an American professor of organisational behaviour, set out the experiential learning cycle in 1984. He drew on earlier thinkers: John Dewey, Kurt Lewin and Jean Piaget. Others built on the reflection step. David Boud and colleagues (1985) and Jennifer Moon (1999) wrote about how reflection turns experience into learning, and Graham Gibbs (1988) offered a simple reflective cycle that is widely taught in nursing and allied health.
+David Kolb, an American professor of organisational behaviour, set out the experiential learning cycle in the 1970s, and in full in his 1984 book. He drew on earlier thinkers: John Dewey, Kurt Lewin and Jean Piaget. Others built on the reflection step. David Boud and colleagues (1985) and Jennifer Moon (1999) wrote about how reflection turns experience into learning, and Graham Gibbs (1988) offered a simple reflective cycle that is widely taught in nursing and allied health.

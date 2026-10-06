@@ -49,7 +49,7 @@ The book also describes a questionnaire, the Learning Style Inventory, which sor
 
 ## How it appears in Teaching That Sticks
 
-Each session follows the cycle: an experience, a short reflection, the idea that explains it, then putting it to use. In Session 1, overload comes first, then working memory and cognitive load, then two rounds of redesigning a slide on paper (or their own slide, on a laptop). In Session 2, a Kahoot and a Menti tour come first, then the strategies, then making ten minutes of their own session active. The Session 2 ask (play with Menti or Kahoot and make one thing) is active experimentation from the presenter's side. In Session 3, the card sort comes before Kirkpatrick's levels are named. Theory arrives in short bursts, just before it's used.
+Each session follows the cycle: an experience, a short reflection, the idea that explains it, then putting it to use. In Session 1, overload comes first, then working memory (how much we can hold in mind at once) and mental overload (cognitive load), then two rounds of redesigning a slide on paper (or on a laptop, for those comfortable with PowerPoint). In Session 2, a Kahoot and a Menti tour come first, then the strategies, then making ten minutes of their own session active. The Session 2 ask (play with Menti or Kahoot and make one thing) is active experimentation from the presenter's side. In Session 3, the card sort comes before Kirkpatrick's levels are named. Theory arrives in short bursts, just before it's used.
 
 ## The small print
 

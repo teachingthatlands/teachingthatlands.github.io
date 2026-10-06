@@ -20,20 +20,20 @@ John Sweller wanted to explain a puzzle. Students could solve plenty of practice
 
 He looked at the way beginners usually solve problems. They look at where they are, look at the goal, and keep asking "what step gets me closer?" Psychologists call this *means-ends analysis*. It works for getting an answer. Sweller's hunch was that it takes so much mental effort that there's little left over for noticing the pattern behind the problem.
 
-To test this, he built a computer model of the process and ran experiments with students working on maths puzzles and trigonometry problems. The paper pulled this together with earlier work, including his study with Cooper on worked examples in algebra.
+To test this, he built a computer model of the process and ran experiments with students working on puzzles and school maths problems. The paper pulled this together with earlier work, including his study with Cooper on worked examples in algebra.
 
 ## What he found
 
 - **Solving from scratch is hard work for the head.** Keeping track of the goal, the steps so far and the next move all at once fills up *working memory*: the small part of memory we use to think about new things.
 - **Getting the answer isn't the same as learning.** With working memory full, beginners can solve a problem without learning much from it.
 - **Worked examples free up room.** In the earlier algebra study, students who studied solved examples later solved similar problems faster and with fewer mistakes than students who just practised. Sweller's 1988 paper explains why: studying an example skips the effortful search.
-- **Not all mental effort is useful effort.** Teaching should cut the effort that doesn't help people learn. This became the core of cognitive load theory.
+- **Not all mental effort is useful effort.** Teaching should cut the effort that doesn't help people learn. This became the core of [cognitive load theory](/theories/cognitive-load).
 
 ## How much should you trust it?
 
 **Strong, well-repeated evidence in the lab; little tested in healthcare.**
 
-- The experiments used maths puzzles and trigonometry: tidy problems with one right answer. Clinical reasoning, communication and practical skills are messier, and may behave differently.
+- The experiments used puzzles and school maths problems: tidy problems with one right answer. Clinical reasoning, communication and practical skills are messier, and may behave differently.
 - The worked-example gains were mainly on problems with the same structure. Evidence that they help with quite different problems came later and is more mixed.
 - The benefit fades as people gain experience. For someone who already knows the basics, working it out alone can teach more than studying an example.
 - The wider theory has a lot of support, but some parts are hard to measure. It isn't always clear in advance which effort "belongs" to the topic and which is clutter.
@@ -51,7 +51,7 @@ To test this, he built a computer model of the process and ran experiments with 
 
 ## How it appears in Teaching That Sticks
 
-Session 1 gives participants a feel for overload before it's named: a crowded slide for 30 seconds, then "what do you remember?" The theory then comes in short bursts (working memory, the two kinds of load, two channels), each used straight away in a redesign round. The redesign uses a paper kit, so nobody is fighting the software, and everything they need is there: the skill is choosing. Peers' redesigned slides act as worked examples. Short theory blocks limit how many new ideas arrive before people use them. (It isn't based on a fixed "attention span": the popular claim that attention collapses after 10–15 minutes is not well supported by primary data; see Bradbury, 2016.)
+Session 1 gives participants a feel for overload before it's named: a crowded slide for 30 seconds, then "what do you remember?" The theory then comes in short bursts (working memory, the two kinds of load, two channels), each used straight away in a redesign round. The redesign uses a paper kit, so nobody is fighting the software, and everything they need is there: the skill is choosing. Peers' redesigned slides act as worked examples. Short theory blocks limit how many new ideas arrive before people use them.
 
 ## The small print
 
@@ -59,3 +59,4 @@ Session 1 gives participants a feel for overload before it's named: a crowded sl
 - **Expertise reversal:** support that helps novices can get in the way for experts (Kalyuga and colleagues, 2003).
 - **Three kinds of load:** later work split load into *intrinsic* (built into the topic), *extraneous* (from how it's taught) and *germane* (effort that builds understanding). Germane load is contested. Sweller (2010) redefined it as the effort spent on intrinsic load rather than a separate kind, and Kalyuga (2011) argued it isn't needed at all. Teaching That Sticks uses only the first two.
 - **Working memory model:** the paper draws on Baddeley's (1986) model of working memory, which has since been refined. The paper is a behavioural one: it doesn't measure the brain.
+- **Attention span:** the popular claim that attention collapses after 10–15 minutes of teaching is poorly supported by primary data (Bradbury, 2016).

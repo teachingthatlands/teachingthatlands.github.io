@@ -28,7 +28,7 @@ That's the whole idea. The part of memory we use to think about new things (ofte
 
 ## Why it matters for your teaching
 
-Picture a new healthcare assistant's first shift. In the first hour they're told the door codes, the fire exits, how to log in, who to call for what, the falls policy and how the obs machine works. By lunchtime they remember the door code and not much else. They were listening. It was just too much at once.
+Picture a new healthcare assistant's first shift. In the first hour they're told the door codes, the fire exits, how to log in, who to call for what, the falls policy and how the observations (obs) machine works. By lunchtime they remember the door code and not much else. They were listening. It was just too much at once.
 
 It helps to split the effort into two kinds:
 
@@ -45,7 +45,7 @@ What counts as "too much" depends on who's learning. A step-by-step guide that h
 
 - **Cut anything that isn't doing a job.** Decoration, logos, long sentences and showy animations all cost attention. A short video that shows how a procedure really unfolds is different, and often helps.
 - **Give one idea at a time.** Let it land, let people use it, then add the next. At a huddle, that might mean one change today, not five.
-- **Put a few key words on the slide and say the rest.** If you read your slide aloud, you add little. If the slide has a picture too, the written words compete with it for people's eyes. See [dual coding](/theories/dual-coding).
+- **Put a few key words on the slide and say the rest.** Reading a text-only slide aloud does little harm, but people tend to read ahead of you. If the slide has a picture too, the written words compete with it for people's eyes. See [dual coding](/theories/dual-coding).
 - **Show one worked example before people try it alone.** For a new starter, watching you talk through one real example can leave more room to learn than struggling alone.
 
 ## How sure are we?
@@ -58,4 +58,4 @@ One common misreading: this doesn't mean "make it easy". Some effort is how peop
 
 ## Where it comes from
 
-John Sweller, an educational psychologist in Australia, set out cognitive load theory in 1988. He wanted to know why solving lots of practice problems can teach less than you'd expect, and why studying worked examples often helps more. In 1956 George Miller had suggested we hold about seven things in mind at once; in 2001 Nelson Cowan reviewed the evidence and put it nearer four. Sweller and others, including Richard Mayer, later turned the idea into practical design advice.
+John Sweller, an educational psychologist in Australia, set out cognitive load theory in 1988. He wanted to know why solving lots of practice problems can teach less than you'd expect, and why studying worked examples often helps more. In 1956 the psychologist George A. Miller (not the Miller of Miller's pyramid) had suggested we hold about seven things in mind at once; in 2001 Nelson Cowan reviewed the evidence and put it nearer four. Sweller and others, including Richard Mayer, later turned the idea into practical design advice.

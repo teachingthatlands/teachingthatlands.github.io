@@ -32,7 +32,7 @@ In each study, some people simply set a goal: "I intend to do X". Others also wr
 **Strong, well-repeated evidence; the real-world effect is probably smaller than this review suggests.**
 
 - This is a large, careful review of a big body of research, so the main finding is solid: plans help.
-- Many of the studies were done with university students, and many relied on people reporting what they had done. Both can make an effect look bigger than it is in everyday life.
+- Many of the studies were done with university students, and many relied on people reporting what they had done. Results in busy everyday settings may be smaller.
 - Newer and bigger reviews, including one by the same team, find a smaller average effect than this one. Still useful, but moderate rather than dramatic.
 - Plans help most when people already want the goal. A plan can't supply motivation that isn't there. Few studies looked at staff changing their practice after training in busy healthcare settings.
 
@@ -42,7 +42,7 @@ In each study, some people simply set a goal: "I intend to do X". Others also wr
 
 ## What it means for you
 
-1. **Swap reflection for a plan.** "Think about what you'll take forward" is not a plan. Ask people when, where and what exactly.
+1. **Turn reflection into a plan.** "Think about what you'll take forward" is a start, not a plan. Ask people when, where and what exactly.
 2. **Push for specifics, kindly.** When someone says "I'll try to use more quizzes", ask: "Which session? Which day? What question will you ask?"
 3. **Tie it to something that already happens.** "When I write the care plan at 8am" or "When I open the clinic list" works better than "when I get a chance". The moment should come round whether or not they remember.
 4. **Check back.** Plans work better when someone follows up. Next time you see people, ask what they did, and what got in the way.
