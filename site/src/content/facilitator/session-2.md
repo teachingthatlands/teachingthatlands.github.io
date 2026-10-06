@@ -98,7 +98,7 @@ Keep everything free of patient information, and check local information-governa
 ### 10–20 · Kahoot: Session 1 retrieval
 
 - SAY: phones out. Quick quiz on last week. Don't explain why yet. Celebrate, don't dwell.
-- WHY: [retrieval practice](/theories/testing-beats-re-reading) a week later is also [spacing](/theories/spread-it-out) (Roediger & Karpicke 2006; Cepeda et al. 2006). They do it before it's named.
+- WHY: [retrieval practice](/theories/retrieval-practice) a week later is also [spacing](/theories/spaced-practice) (Roediger & Karpicke 2006; Cepeda et al. 2006). They do it before it's named.
 - FALLBACK: read the questions aloud; answers on fingers (1–4).
 
 ### 20–23 · What did you just do?
@@ -111,12 +111,12 @@ Keep everything free of patient information, and check local information-governa
 - Hand out the word sheets: half Version A (re-read), half Version B (fold and self-test), alternate seats. Eight nonsense words with silly hospital meanings.
 - SAY (deadpan): eight important clinical terms you'll need later. Three minutes. Follow the instructions on *your* sheet.
 - After 3 minutes: sheets face down and collected. **Don't say there'll be a test.**
-- WHY: a nod to Ebbinghaus's nonsense syllables. A vs B is re-reading vs retrieval practice ([Roediger & Karpicke 2006](/papers/testing-beats-re-reading)).
+- WHY: a nod to Ebbinghaus's nonsense syllables. A vs B is re-reading vs retrieval practice ([Roediger & Karpicke 2006](/papers/roediger-karpicke-2006)).
 
 ### 30–40 · Mentimeter tour
 
 - SAY: four silly questions, four formats. Notice what each one makes you do. After each, ASK in one line: where could this work in your teaching?
-- WHY: they meet each format as a learner, low stakes: the preview for this week's ask. It's also the gap before the retest (don't mention that). → [experiential learning](/theories/learning-from-experience)
+- WHY: they meet each format as a learner, low stakes: the preview for this week's ask. It's also the gap before the retest (don't mention that). → [experiential learning](/theories/experiential-learning)
 - FALLBACK: hands up; sticky notes on a flipchart; dot stickers on a printed picture.
 - IF SHORT: three formats.
 
@@ -124,14 +124,14 @@ Keep everything free of patient information, and check local information-governa
 
 - Hand out the retest slips: "Quick: what's a blorp?" Two minutes. Score 1 per meaning roughly right; tally Group A vs Group B on the whiteboard.
 - **Be ready for either result.** Over ten minutes, re-reading often does as well or better. That's what Roediger & Karpicke found: re-study won at 5 minutes; testing won at 2 days and a week. SAY (A wins): "re-reading *feels* better, and today it works. Watch what happens over a week." SAY (B wins): "already. Now imagine a week."
-- Then the drawn forgetting curve (four clicks: no review → Day 2 review → Day 3 review → labels). SAY: most of it goes fast, then levels off; each time you *pull it back out*, it fades more slowly. That's why the sessions are a week apart, and why we'll test the blorps again next week. → [Ebbinghaus (1885)](/papers/how-fast-we-forget)
-- Collect the slips, names on. "Keep your blorps safe."
+- Then the drawn forgetting curve (four clicks: no review → Day 2 review → Day 3 review → labels). SAY: most of it goes fast, then levels off; each time you *pull it back out*, it fades more slowly. That's why the sessions are a week apart. → [Ebbinghaus (1885)](/papers/how-fast-we-forget)
+- Collect the slips, names on, and keep them for Session 3. Don't mention the retest.
 
 ### 45–50 · Spot the strategy
 
 - Each table: the four mats (retrieval, spacing, interleaving, elaboration), the "None of the above" bin, and a shuffled set of 14 daft scenario cards. Sort them. Some fit two: arguing is encouraged.
 - Debrief, one question: **which did *you* just do in the last 25 minutes?** (Retrieval: the Kahoot and the retest. Spacing: a week, and the Menti gap. Elaboration: "where could this work?")
-- WHY: some of the strongest evidence in learning science (Dunlosky et al. 2013). Active learning beats lecturing ([Freeman et al. 2014](/papers/active-beats-lecturing); say it was STEM undergraduates). Naming by sorting is itself elaboration. → [interleaving](/theories/mix-it-up)
+- WHY: some of the strongest evidence in learning science (Dunlosky et al. 2013). Active learning beats lecturing ([Freeman et al. 2014](/papers/freeman-2014); say it was STEM undergraduates). Naming by sorting is itself elaboration. → [interleaving](/theories/interleaving)
 
 ### 50–70 · Make 10 minutes of your session active
 
@@ -139,7 +139,7 @@ Keep everything free of patient information, and check local information-governa
 - On paper: one A3 sheet: what learners do, which strategy, what you need, what happens if you're interrupted. Setting cards for anyone without a real setting.
 - SAY ("Sometimes the best slide is no slide"): the answer might have no screen at all.
 - PAIR by confidence. Circulate. ASK: what will learners be doing in minute 3? Which strategy is that?
-- WHY: situated learning: design for the real constraints, not the ideal room ([Lave & Wenger 1991](/papers/learning-by-taking-part)).
+- WHY: situated learning: design for the real constraints, not the ideal room ([Lave & Wenger 1991](/papers/lave-wenger-1991)).
 - FALLBACK: no session yet? Use "a session you'd like to teach".
 
 ### 70–80 · 60-second pitches
@@ -154,12 +154,12 @@ Keep everything free of patient information, and check local information-governa
 - DEMO first (2 minutes, live on screen, narrating each click): sign in to Menti, make one word-cloud slide, click Share, copy the link. Point to the [Computer Task Sheet](/facilitator/computer-tasks) for the same steps on paper.
 - Show the card wording: **"Before next week I will spend 30–40 minutes playing with Menti or Kahoot and make one active learning thing for my session, and bring it."**
 - SAY: write it on the card now. Add *when* you'll do the 30–40 minutes. Photograph it. You don't need a class: just play from the presenter's side. Email yourself the link.
-- WHY: a time-boxed, written intention ([implementation intentions](/theories/if-then-plans)). Building it yourself is the active experimentation step of [Kolb's cycle](/theories/learning-from-experience).
+- WHY: a time-boxed, written intention ([implementation intentions](/theories/implementation-intentions)). Building it yourself is the active experimentation step of [Kolb's cycle](/theories/experiential-learning).
 - IF SHORT: **never cut.** Start it at 80 minutes, even mid-pitch.
 
 ### 88–90 · Cliffhanger → close
 
-- SAY: "Next week: did it stick? (Bring your blorps.)" And how would you know? Hold that thought.
+- SAY: "Next week: did it stick?" And how would you know? Hold that thought.
 - Optional: one-question pulse (see the [Evaluation Toolkit](/facilitator/evaluation-toolkit)).
 
 ## After the session
