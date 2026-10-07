@@ -28,11 +28,11 @@ Each person leaves with a completed canvas and a named colleague (often their ma
 
 These are the programme's suggested outcomes: what the content, as designed, is built to deliver. By the end of the three sessions, participants will be able to:
 
-1. **Redesign** a slide from their own teaching to cut the clutter and work for the back row.
-2. **Make** ten minutes of their session active, using a named strategy that suits where it really happens.
-3. **Write** one to three outcomes for their session with verbs someone could observe, and match each to the evidence that would show it.
-4. **Check** that outcomes, activities and evidence all show the same performance.
-5. **Plan** their follow-through: what they'll revisit at 30, 60 and 90 days, who will hold them to it, and the support they need.
+1. **Redesign** a slide from their own teaching so it's clear and easy to read from the back of the room.
+2. **Make** ten minutes of their session active, using a technique or tool that suits where they teach.
+3. **Say** what they want learners to be able to do by the end of their session, in a way they could watch or check, and work out how they'll check it.
+4. **Check** that what learners do in their session, and how they check it, both point at the change they want to see at work.
+5. **Plan** what happens after their session: what they'll look at again after 30, 60 and 90 days, who will keep them on track, and what help they need from that person.
 
 They are written for this content, not for your learners. Before you commit, check them against the people who will be in the room: who they are, what they need, and what they'd want from three weeks. If the fit is poor, change the outcomes and the examples, or choose a different programme. The licence lets you adapt freely; tailoring the programme to a particular group is work on top of the free materials. [Programme Setup](/facilitator/task-and-finish) has a row for it.
 
