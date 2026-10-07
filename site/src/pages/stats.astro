@@ -11,12 +11,21 @@ import Base from '../layouts/Base.astro';
 
   <section class="stats-hero">
     <div class="stats-wrap">
-      <p class="stats-kicker">In the open</p>
-      <h1 class="stats-headline">Is this actually used?</h1>
+      <p class="stats-kicker">Early days</p>
+      <h1 class="stats-headline">A new site, finding its feet.</h1>
       <p class="stats-sub">
-        Here are the numbers, for anyone who wants to look. They are totals only,
-        counted without cookies, and nothing here identifies a visitor.
-        <a href="/about#privacy">How we count</a>.
+        Teaching That Lands is new, so these numbers are small and will take a
+        while to mean much. We count visits for one reason: to remove barriers
+        for the people using it.
+      </p>
+      <ul class="stats-why">
+        <li><strong>Screen sizes.</strong> If many people arrive on phones, the pages and downloads have to work well on a phone.</li>
+        <li><strong>Languages.</strong> If visitors browse in other languages, that tells us where translation would help.</li>
+        <li><strong>What gets used.</strong> Pages, files and papers nobody opens can be improved or dropped.</li>
+      </ul>
+      <p class="stats-sub">
+        These are totals only, counted without cookies, and nothing here
+        identifies a visitor. <a href="/about#privacy">How we count</a>.
       </p>
     </div>
   </section>
@@ -32,6 +41,10 @@ import Base from '../layouts/Base.astro';
     .stats-kicker { font-size: 0.6rem; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; color: var(--lavender); margin-bottom: 0.5rem; }
     .stats-headline { font-family: 'Playfair Display', Georgia, serif; font-size: clamp(1.6rem, 3.5vw, 2.4rem); font-weight: 700; line-height: 1.3; color: var(--text); margin-bottom: 1rem; }
     .stats-sub { font-size: 0.9rem; color: var(--subtext0); line-height: 1.7; max-width: 56ch; }
+    .stats-why { list-style: none; margin: 1rem 0; padding: 0; max-width: 60ch; }
+    .stats-why li { font-size: 0.9rem; line-height: 1.6; color: var(--subtext0); padding-left: 1.1rem; position: relative; margin-bottom: 0.4rem; }
+    .stats-why li::before { content: ''; position: absolute; left: 0; top: 0.65em; width: 6px; height: 6px; border-radius: 50%; background: var(--lavender); }
+    .stats-why strong { color: var(--text); font-weight: 600; }
     .stats-body { padding-bottom: 4rem; }
     .stats-note { color: var(--subtext0); font-size: 0.9rem; line-height: 1.7; padding: 2rem 0; max-width: 60ch; }
     .stats-note--small { font-size: 0.78rem; padding: 1.5rem 0 0; }
@@ -318,6 +331,8 @@ import Base from '../layouts/Base.astro';
         root.appendChild(tiles(d));
         root.appendChild(lineCard(d));
         var g = el('div', 'stats-grid');
+        g.appendChild(rankCard('Screen sizes', 'Phones, tablets and computers', d.devices));
+        g.appendChild(rankCard('Languages', 'What visitors\u2019 browsers are set to', d.languages));
         g.appendChild(rankCard('Most-read pages', 'Last 90 days', d.pages, function (r) { return r.title || r.name; }));
         g.appendChild(rankCard('Most-downloaded files', 'Slides, handouts and printables', d.downloads, function (r) { return base(r.name); }));
         g.appendChild(rankCard('Links followed', 'Papers and other sites', d.outbound));
