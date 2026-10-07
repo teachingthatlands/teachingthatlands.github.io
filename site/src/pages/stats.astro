@@ -12,7 +12,7 @@ import Base from '../layouts/Base.astro';
   <section class="stats-hero">
     <div class="stats-wrap">
       <p class="stats-kicker">Early days</p>
-      <h1 class="stats-headline">A new site, finding its feet.</h1>
+      <h1 class="stats-headline">Website Statistics</h1>
       <p class="stats-sub">
         Teaching That Lands is new, so these numbers are small and will take a
         while to mean much. We count visits for one reason: to remove barriers
@@ -40,27 +40,32 @@ import Base from '../layouts/Base.astro';
     .stats-hero { background: var(--base); padding: 4rem 0 2rem; }
     .stats-kicker { font-size: 0.6rem; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; color: var(--lavender); margin-bottom: 0.5rem; }
     .stats-headline { font-family: 'Playfair Display', Georgia, serif; font-size: clamp(1.6rem, 3.5vw, 2.4rem); font-weight: 700; line-height: 1.3; color: var(--text); margin-bottom: 1rem; }
-    .stats-sub { font-size: 0.9rem; color: var(--subtext0); line-height: 1.7; max-width: 56ch; }
-    .stats-why { list-style: none; margin: 1rem 0; padding: 0; max-width: 60ch; }
+    .stats-sub { font-size: 0.9rem; color: var(--subtext0); line-height: 1.7; }
+    .stats-why { list-style: none; margin: 1rem 0; padding: 0; }
     .stats-why li { font-size: 0.9rem; line-height: 1.6; color: var(--subtext0); padding-left: 1.1rem; position: relative; margin-bottom: 0.4rem; }
     .stats-why li::before { content: ''; position: absolute; left: 0; top: 0.65em; width: 6px; height: 6px; border-radius: 50%; background: var(--lavender); }
     .stats-why strong { color: var(--text); font-weight: 600; }
     .stats-body { padding-bottom: 4rem; }
     .stats-note { color: var(--subtext0); font-size: 0.9rem; line-height: 1.7; padding: 2rem 0; max-width: 60ch; }
-    .stats-note--small { font-size: 0.78rem; padding: 1.5rem 0 0; }
+    .stats-note--small { font-size: 0.78rem; padding: 1.5rem 0 0; max-width: none; }
 
     /* Headline figures */
     .stats-tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 1rem; margin: 1rem 0 2rem; }
-    .stats-tile { background: var(--mantle); border: 1px solid var(--surface0); border-radius: 12px; padding: 1.1rem 1.25rem; }
+    .stats-tile { display: flex; flex-direction: column; background: var(--mantle); border: 1px solid var(--surface0); border-radius: 12px; padding: 1.1rem 1.25rem; }
     .stats-tile-label { font-size: 0.75rem; color: var(--subtext0); }
+    .stats-tile-period { font-size: 0.72rem; color: var(--subtext0); margin-top: auto; padding-top: 0.5rem; }
     .stats-tile-value { font-size: 2rem; font-weight: 600; color: var(--text); line-height: 1.2; margin-top: 0.25rem; font-variant-numeric: proportional-nums; }
 
     /* Cards */
     .stats-card { background: var(--mantle); border: 1px solid var(--surface0); border-radius: 12px; padding: 1.25rem 1.25rem 1rem; margin-bottom: 1.25rem; }
     .stats-card h2 { font-family: 'Playfair Display', Georgia, serif; font-size: 1.1rem; color: var(--text); margin-bottom: 0.15rem; }
     .stats-card-sub { font-size: 0.78rem; color: var(--subtext0); margin-bottom: 0.9rem; }
-    .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 1.25rem; }
+    .stats-card-note { font-family: 'Inter', system-ui, sans-serif; font-size: 0.75rem; font-weight: 400; color: var(--subtext0); margin-left: 0.35rem; }
+    .stats-card h2 { margin-bottom: 0.9rem; }
+    .stats-card h2:has(+ .stats-card-sub) { margin-bottom: 0.15rem; }
+    .stats-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.25rem; }
     .stats-grid .stats-card { margin-bottom: 0; }
+    .stats-grid .stats-card:last-child:nth-child(odd) { grid-column: 1 / -1; }
 
     /* Line chart */
     .stats-chart { position: relative; }
@@ -75,12 +80,6 @@ import Base from '../layouts/Base.astro';
     .stats-tip { position: absolute; z-index: 2; pointer-events: none; background: var(--base); border: 1px solid var(--surface1); border-radius: 8px; padding: 0.4rem 0.6rem; box-shadow: 0 4px 14px var(--shadow); font-size: 0.75rem; color: var(--subtext0); white-space: nowrap; }
     .stats-tip strong { display: block; font-size: 0.95rem; color: var(--text); font-weight: 600; }
     .stats-tip i { display: inline-block; width: 12px; height: 2px; background: var(--lavender); vertical-align: middle; margin-right: 0.4rem; }
-    .stats-table-wrap { margin-top: 0.75rem; font-size: 0.78rem; color: var(--subtext0); }
-    .stats-table-wrap summary { cursor: pointer; }
-    .stats-table-scroll { max-height: 220px; overflow: auto; margin-top: 0.5rem; }
-    .stats-table-wrap table { border-collapse: collapse; width: 100%; }
-    .stats-table-wrap th, .stats-table-wrap td { text-align: left; padding: 0.2rem 0.5rem; border-bottom: 1px solid var(--surface0); }
-    .stats-table-wrap td:last-child, .stats-table-wrap th:last-child { text-align: right; font-variant-numeric: tabular-nums; }
 
     /* Ranked bars */
     .stats-rank { list-style: none; margin: 0; padding: 0; }
@@ -134,9 +133,11 @@ import Base from '../layouts/Base.astro';
         }, { threshold: 0.25 });
         io.observe(node);
       }
-      function card(title, sub) {
+      function card(title, sub, note) {
         var c = el('section', 'stats-card');
-        c.appendChild(el('h2', '', title));
+        var h = el('h2', '', title);
+        if (note) h.appendChild(el('span', 'stats-card-note', note));
+        c.appendChild(h);
         if (sub) c.appendChild(el('p', 'stats-card-sub', sub));
         return c;
       }
@@ -144,10 +145,11 @@ import Base from '../layouts/Base.astro';
       // ── Headline figures ───────────────────────────────────────────────
       function tiles(d) {
         var items = [
-          ['Visits, last 30 days', d.totals.visits30],
-          ['Downloads, last 90 days', d.totals.downloads],
-          ['Links followed, last 90 days', d.totals.outbound],
-          ['Days of data', d.firstDay ? Math.max(1, Math.round((dayDate(d.range.end) - dayDate(d.firstDay)) / 864e5) + 1) : 0]
+          ['Visits', d.totals.visits30, 'last 30 days'],
+          ['Downloads', d.totals.downloads, 'last 90 days'],
+          ['Links followed', d.totals.outbound, 'last 90 days'],
+          ['Days of data', d.firstDay ? Math.max(1, Math.round((dayDate(d.range.end) - dayDate(d.firstDay)) / 864e5) + 1) : 0,
+            d.firstDay ? 'since ' + fmtDay.format(dayDate(d.firstDay)) : '']
         ];
         var wrap = el('div', 'stats-tiles');
         items.forEach(function (it) {
@@ -155,6 +157,7 @@ import Base from '../layouts/Base.astro';
           t.appendChild(el('div', 'stats-tile-label', it[0]));
           var v = el('div', 'stats-tile-value', nf.format(it[1]));
           t.appendChild(v);
+          t.appendChild(el('div', 'stats-tile-period', it[2]));
           wrap.appendChild(t);
           if (animated() && it[1] > 0) {
             var o = { n: 0 };
@@ -196,7 +199,7 @@ import Base from '../layouts/Base.astro';
           var old = box.querySelector('svg');
           if (old) old.remove();
           var s = svg('svg', { viewBox: '0 0 ' + W + ' ' + H, role: 'img', tabindex: '0',
-            'aria-label': 'Line chart of visits per day. Use the table below for the exact numbers, or the left and right arrow keys to step through days.' });
+            'aria-label': 'Line chart of visits per day. Use the left and right arrow keys to step through the days.' });
           [0, max / 2, max].forEach(function (t) {
             s.appendChild(svg('line', { class: 'stats-grid-line', x1: m.l, x2: W - m.r, y1: Y(t), y2: Y(t) }));
             var lab = svg('text', { class: 'stats-axis-text', x: m.l - 6, y: Y(t) + 4, 'text-anchor': 'end' });
@@ -276,23 +279,14 @@ import Base from '../layouts/Base.astro';
           }).observe(box);
         }
 
-        var det = el('details', 'stats-table-wrap');
-        det.appendChild(el('summary', '', 'Show as a table'));
-        var sc = el('div', 'stats-table-scroll'), tb = el('table');
-        var hr = el('tr'); hr.appendChild(el('th', '', 'Day')); hr.appendChild(el('th', '', 'Visits'));
-        tb.appendChild(hr);
-        days.slice().reverse().forEach(function (x) {
-          var r = el('tr'); r.appendChild(el('td', '', fmtLong.format(dayDate(x.day)))); r.appendChild(el('td', '', nf.format(x.visits)));
-          tb.appendChild(r);
-        });
-        sc.appendChild(tb); det.appendChild(sc); c.appendChild(det);
         return c;
       }
 
       // ── Ranked bars ────────────────────────────────────────────────────
-      function rankCard(title, sub, rows, label) {
-        var c = card(title, sub);
-        if (!rows || !rows.length) { c.appendChild(el('p', 'stats-empty', 'Nothing yet.')); return c; }
+      function rankCard(title, note, rows, label) {
+        var c = card(title, null, note);
+        rows = (rows || []).slice(0, 5);
+        if (!rows.length) { c.appendChild(el('p', 'stats-empty', 'Nothing yet.')); return c; }
         var ul = el('ul', 'stats-rank');
         var top = rows[0].count, bars = [];
         rows.forEach(function (r) {
@@ -315,6 +309,11 @@ import Base from '../layouts/Base.astro';
         } else bars.forEach(function (b) { b[0].style.width = b[1] + '%'; });
         return c;
       }
+      // GoatCounter titles end with the site name; drop it, and call the front page Home.
+      function pageName(r) {
+        var t = (r.title || '').replace(/\s*[\u2014-]\s*Teaching That Lands\s*$/, '').trim();
+        return (t && t !== 'Teaching That Lands') ? t : (r.name === '/' ? 'Home' : (t || r.name));
+      }
       function base(name) { var p = name.split('/'); return p[p.length - 1] || name; }
 
       // ── Page ───────────────────────────────────────────────────────────
@@ -331,16 +330,17 @@ import Base from '../layouts/Base.astro';
         root.appendChild(tiles(d));
         root.appendChild(lineCard(d));
         var g = el('div', 'stats-grid');
-        g.appendChild(rankCard('Screen sizes', 'Phones, tablets and computers', d.devices));
-        g.appendChild(rankCard('Languages', 'What visitors\u2019 browsers are set to', d.languages));
-        g.appendChild(rankCard('Most-read pages', 'Last 90 days', d.pages, function (r) { return r.title || r.name; }));
-        g.appendChild(rankCard('Most-downloaded files', 'Slides, handouts and printables', d.downloads, function (r) { return base(r.name); }));
-        g.appendChild(rankCard('Links followed', 'Papers and other sites', d.outbound));
-        g.appendChild(rankCard('Where visitors come from', 'Referring sites', d.referrers));
-        g.appendChild(rankCard('Countries', 'Rough location, from the connection', d.countries));
+        // Use first (what is read, downloaded, followed, and how people arrive),
+        // then the barriers we watch for (screen size, language).
+        g.appendChild(rankCard('Most-read pages', '(last 90 days)', d.pages, pageName));
+        g.appendChild(rankCard('Most-downloaded files', '', d.downloads, function (r) { return base(r.name); }));
+        g.appendChild(rankCard('Links followed', '(links out)', d.outbound));
+        g.appendChild(rankCard('Where visitors come from', '', d.referrers));
+        g.appendChild(rankCard('Screen sizes', '', d.devices));
+        g.appendChild(rankCard('Browser language', '', d.languages));
         root.appendChild(g);
         var when = d.generated ? fmtLong.format(new Date(d.generated)) : '';
-        var note = 'Counted by GoatCounter. Updated ' + when + (d.stale ? ' (the latest refresh failed, so this is the previous one)' : '') + '. ';
+        var note = 'Counted by GoatCounter. Updated ' + when + '. ';
         var p = el('p', 'stats-note stats-note--small', note);
         var a = el('a', '', 'Raw data (stats.json)'); a.href = '/stats.json';
         p.appendChild(a);
