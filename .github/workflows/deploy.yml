@@ -4,6 +4,10 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  # Refresh the /stats numbers every day (UTC). Make this more frequent once
+  # there is traffic worth watching; each run is a full build and deploy.
+  schedule:
+    - cron: '17 6 * * *'
 
 permissions:
   contents: read
@@ -29,6 +33,13 @@ jobs:
 
       - name: Check one-day decks are up to date
         run: uv run -q tools/one_day_decks.py --check
+
+      # Writes site/public/stats.json for the /stats page. Never fails the build:
+      # with no token or an API outage it keeps the last published numbers.
+      - name: Fetch GoatCounter stats
+        env:
+          GOATCOUNTER_TOKEN: ${{ secrets.GOATCOUNTER_TOKEN }}
+        run: uv run -q tools/goatcounter_stats.py
 
       - name: Setup Node
         uses: actions/setup-node@v4
