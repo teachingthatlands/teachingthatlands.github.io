@@ -8,6 +8,8 @@
   - Changed a session's running order, or the one-day timetable? Check `site/src/content/facilitator/one-day.md` still matches the blueprints it borrows from (it cites their section times).
   - CI runs `just one-day-decks --check` before deploying, and fails if any one-day deck is stale.
 
+- **Stats** (`/stats`) draws from `site/public/stats.json`, written by `tools/goatcounter_stats.py` from the GoatCounter API (repo secret `GOATCOUNTER_TOKEN`). CI refreshes it before each build, daily on a schedule. The file is gitignored: never commit it. No token or an API outage never fails the build; the page shows the last published numbers or says they're unavailable. Locally: `just stats`.
+
 ## House rules
 
 - **The person's hand-edited decks and printables are the masters.** Fold changes into them; never regenerate over them.

@@ -1,0 +1,357 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base
+  title="Stats"
+  bodyClass="stats-page"
+  brandRole="Stats"
+  brandRoleClass="brand-role--lavender"
+>
+
+  <section class="stats-hero">
+    <div class="stats-wrap">
+      <p class="stats-kicker">Early days</p>
+      <h1 class="stats-headline">A new site, finding its feet.</h1>
+      <p class="stats-sub">
+        Teaching That Lands is new, so these numbers are small and will take a
+        while to mean much. We count visits for one reason: to remove barriers
+        for the people using it.
+      </p>
+      <ul class="stats-why">
+        <li><strong>Screen sizes.</strong> If many people arrive on phones, the pages and downloads have to work well on a phone.</li>
+        <li><strong>Languages.</strong> If visitors browse in other languages, that tells us where translation would help.</li>
+        <li><strong>What gets used.</strong> Pages, files and papers nobody opens can be improved or dropped.</li>
+      </ul>
+      <p class="stats-sub">
+        These are totals only, counted without cookies, and nothing here
+        identifies a visitor. <a href="/about#privacy">How we count</a>.
+      </p>
+    </div>
+  </section>
+
+  <div class="stats-wrap stats-body" id="stats-root" aria-live="polite">
+    <p class="stats-note" id="stats-loading">Loading the numbers&hellip;</p>
+    <noscript><p class="stats-note">The charts need JavaScript. The raw numbers are in <a href="/stats.json">stats.json</a>.</p></noscript>
+  </div>
+
+  <style is:global>
+    .stats-wrap { max-width: 900px; margin: 0 auto; padding: 0 2.5rem; }
+    .stats-hero { background: var(--base); padding: 4rem 0 2rem; }
+    .stats-kicker { font-size: 0.6rem; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; color: var(--lavender); margin-bottom: 0.5rem; }
+    .stats-headline { font-family: 'Playfair Display', Georgia, serif; font-size: clamp(1.6rem, 3.5vw, 2.4rem); font-weight: 700; line-height: 1.3; color: var(--text); margin-bottom: 1rem; }
+    .stats-sub { font-size: 0.9rem; color: var(--subtext0); line-height: 1.7; max-width: 56ch; }
+    .stats-why { list-style: none; margin: 1rem 0; padding: 0; max-width: 60ch; }
+    .stats-why li { font-size: 0.9rem; line-height: 1.6; color: var(--subtext0); padding-left: 1.1rem; position: relative; margin-bottom: 0.4rem; }
+    .stats-why li::before { content: ''; position: absolute; left: 0; top: 0.65em; width: 6px; height: 6px; border-radius: 50%; background: var(--lavender); }
+    .stats-why strong { color: var(--text); font-weight: 600; }
+    .stats-body { padding-bottom: 4rem; }
+    .stats-note { color: var(--subtext0); font-size: 0.9rem; line-height: 1.7; padding: 2rem 0; max-width: 60ch; }
+    .stats-note--small { font-size: 0.78rem; padding: 1.5rem 0 0; }
+
+    /* Headline figures */
+    .stats-tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 1rem; margin: 1rem 0 2rem; }
+    .stats-tile { background: var(--mantle); border: 1px solid var(--surface0); border-radius: 12px; padding: 1.1rem 1.25rem; }
+    .stats-tile-label { font-size: 0.75rem; color: var(--subtext0); }
+    .stats-tile-value { font-size: 2rem; font-weight: 600; color: var(--text); line-height: 1.2; margin-top: 0.25rem; font-variant-numeric: proportional-nums; }
+
+    /* Cards */
+    .stats-card { background: var(--mantle); border: 1px solid var(--surface0); border-radius: 12px; padding: 1.25rem 1.25rem 1rem; margin-bottom: 1.25rem; }
+    .stats-card h2 { font-family: 'Playfair Display', Georgia, serif; font-size: 1.1rem; color: var(--text); margin-bottom: 0.15rem; }
+    .stats-card-sub { font-size: 0.78rem; color: var(--subtext0); margin-bottom: 0.9rem; }
+    .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 1.25rem; }
+    .stats-grid .stats-card { margin-bottom: 0; }
+
+    /* Line chart */
+    .stats-chart { position: relative; }
+    .stats-chart svg { display: block; width: 100%; height: auto; overflow: visible; touch-action: pan-y; }
+    .stats-chart svg:focus-visible { outline: 2px solid var(--lavender); outline-offset: 4px; border-radius: 4px; }
+    .stats-grid-line { stroke: var(--surface0); stroke-width: 1; }
+    .stats-axis-text { fill: var(--subtext0); font-size: 11px; font-family: inherit; }
+    .stats-line { fill: none; stroke: var(--lavender); stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+    .stats-area { fill: var(--lavender); opacity: 0.1; }
+    .stats-dot { fill: var(--lavender); stroke: var(--mantle); stroke-width: 2; }
+    .stats-cross { stroke: var(--overlay0); stroke-width: 1; }
+    .stats-tip { position: absolute; z-index: 2; pointer-events: none; background: var(--base); border: 1px solid var(--surface1); border-radius: 8px; padding: 0.4rem 0.6rem; box-shadow: 0 4px 14px var(--shadow); font-size: 0.75rem; color: var(--subtext0); white-space: nowrap; }
+    .stats-tip strong { display: block; font-size: 0.95rem; color: var(--text); font-weight: 600; }
+    .stats-tip i { display: inline-block; width: 12px; height: 2px; background: var(--lavender); vertical-align: middle; margin-right: 0.4rem; }
+    .stats-table-wrap { margin-top: 0.75rem; font-size: 0.78rem; color: var(--subtext0); }
+    .stats-table-wrap summary { cursor: pointer; }
+    .stats-table-scroll { max-height: 220px; overflow: auto; margin-top: 0.5rem; }
+    .stats-table-wrap table { border-collapse: collapse; width: 100%; }
+    .stats-table-wrap th, .stats-table-wrap td { text-align: left; padding: 0.2rem 0.5rem; border-bottom: 1px solid var(--surface0); }
+    .stats-table-wrap td:last-child, .stats-table-wrap th:last-child { text-align: right; font-variant-numeric: tabular-nums; }
+
+    /* Ranked bars */
+    .stats-rank { list-style: none; margin: 0; padding: 0; }
+    .stats-rank li { margin-bottom: 0.7rem; }
+    .stats-rank-name { font-size: 0.82rem; color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .stats-rank-row { display: flex; align-items: center; gap: 0.6rem; margin-top: 0.2rem; }
+    .stats-rank-track { flex: 1; height: 8px; border-radius: 4px; background: var(--surface0); overflow: hidden; }
+    .stats-rank-bar { height: 100%; width: 0; background: var(--lavender); border-radius: 0 4px 4px 0; }
+    .stats-rank-val { min-width: 2.5rem; text-align: right; font-size: 0.8rem; color: var(--subtext1); font-variant-numeric: tabular-nums; }
+    .stats-empty { font-size: 0.82rem; color: var(--subtext0); }
+
+    @media (max-width: 760px) {
+      .stats-wrap { padding: 0 1.25rem; }
+      .stats-hero { padding-top: 3.5rem; }
+      .stats-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+
+  <script is:inline>
+    (function () {
+      var root = document.getElementById('stats-root');
+      var nf = new Intl.NumberFormat('en-GB');
+      var fmtDay = new Intl.DateTimeFormat('en-GB', { day: 'numeric', month: 'short', timeZone: 'UTC' });
+      var fmtLong = new Intl.DateTimeFormat('en-GB', { weekday: 'short', day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' });
+      var NS = 'http://www.w3.org/2000/svg';
+      // The site only adds .anim when motion is welcome and anime.js loaded.
+      function animated() { return document.documentElement.classList.contains('anim') && window.anime; }
+
+      function el(tag, cls, text) {
+        var n = document.createElement(tag);
+        if (cls) n.className = cls;
+        if (text != null) n.textContent = text;
+        return n;
+      }
+      function svg(tag, attrs) {
+        var n = document.createElementNS(NS, tag);
+        for (var k in attrs) n.setAttribute(k, attrs[k]);
+        return n;
+      }
+      function dayDate(s) { return new Date(s + 'T00:00:00Z'); }
+      function niceMax(v) {
+        if (v <= 4) return 4;
+        var p = Math.pow(10, Math.floor(Math.log10(v))), f = v / p;
+        return (f <= 1 ? 1 : f <= 2 ? 2 : f <= 5 ? 5 : 10) * p;
+      }
+      // Run fn once el is on screen (or at once if we can't tell).
+      function whenVisible(node, fn) {
+        if (!('IntersectionObserver' in window)) return fn();
+        var io = new IntersectionObserver(function (es) {
+          if (es[0].isIntersecting) { io.disconnect(); fn(); }
+        }, { threshold: 0.25 });
+        io.observe(node);
+      }
+      function card(title, sub) {
+        var c = el('section', 'stats-card');
+        c.appendChild(el('h2', '', title));
+        if (sub) c.appendChild(el('p', 'stats-card-sub', sub));
+        return c;
+      }
+
+      // ── Headline figures ───────────────────────────────────────────────
+      function tiles(d) {
+        var items = [
+          ['Visits, last 30 days', d.totals.visits30],
+          ['Downloads, last 90 days', d.totals.downloads],
+          ['Links followed, last 90 days', d.totals.outbound],
+          ['Days of data', d.firstDay ? Math.max(1, Math.round((dayDate(d.range.end) - dayDate(d.firstDay)) / 864e5) + 1) : 0]
+        ];
+        var wrap = el('div', 'stats-tiles');
+        items.forEach(function (it) {
+          var t = el('div', 'stats-tile');
+          t.appendChild(el('div', 'stats-tile-label', it[0]));
+          var v = el('div', 'stats-tile-value', nf.format(it[1]));
+          t.appendChild(v);
+          wrap.appendChild(t);
+          if (animated() && it[1] > 0) {
+            var o = { n: 0 };
+            v.textContent = '0';
+            whenVisible(t, function () {
+              anime({ targets: o, n: it[1], round: 1, duration: 900, easing: 'easeOutCubic',
+                      update: function () { v.textContent = nf.format(o.n); } });
+            });
+          }
+        });
+        return wrap;
+      }
+
+      // ── Daily line chart ───────────────────────────────────────────────
+      function lineCard(d) {
+        var days = d.daily.slice();
+        // Early on most of the 90 days are empty: start just before the first
+        // visit, but always show at least two weeks.
+        var firstIdx = d.firstDay ? days.findIndex(function (x) { return x.day === d.firstDay; }) : 0;
+        var from = Math.max(0, Math.min(firstIdx - 2, days.length - 14));
+        days = days.slice(from);
+
+        var c = card('Visits per day', fmtDay.format(dayDate(days[0].day)) + ' to ' + fmtDay.format(dayDate(days[days.length - 1].day)));
+        var box = el('div', 'stats-chart');
+        c.appendChild(box);
+        var tip = el('div', 'stats-tip');
+        tip.hidden = true;
+        box.appendChild(tip);
+
+        var max = niceMax(Math.max.apply(null, days.map(function (x) { return x.visits; })));
+        var idx = days.length - 1, lastW = 0;
+
+        function draw(animate) {
+          var W = Math.max(280, box.clientWidth), H = 220;
+          var m = { l: 34, r: 12, t: 12, b: 24 };
+          var pw = W - m.l - m.r, ph = H - m.t - m.b;
+          function X(i) { return m.l + (days.length === 1 ? pw : pw * i / (days.length - 1)); }
+          function Y(v) { return m.t + ph - ph * v / max; }
+          var old = box.querySelector('svg');
+          if (old) old.remove();
+          var s = svg('svg', { viewBox: '0 0 ' + W + ' ' + H, role: 'img', tabindex: '0',
+            'aria-label': 'Line chart of visits per day. Use the table below for the exact numbers, or the left and right arrow keys to step through days.' });
+          [0, max / 2, max].forEach(function (t) {
+            s.appendChild(svg('line', { class: 'stats-grid-line', x1: m.l, x2: W - m.r, y1: Y(t), y2: Y(t) }));
+            var lab = svg('text', { class: 'stats-axis-text', x: m.l - 6, y: Y(t) + 4, 'text-anchor': 'end' });
+            lab.textContent = nf.format(t);
+            s.appendChild(lab);
+          });
+          [0, Math.floor((days.length - 1) / 2), days.length - 1].forEach(function (i, k) {
+            var lab = svg('text', { class: 'stats-axis-text', x: X(i), y: H - 6, 'text-anchor': k === 0 ? 'start' : k === 2 ? 'end' : 'middle' });
+            lab.textContent = fmtDay.format(dayDate(days[i].day));
+            s.appendChild(lab);
+          });
+          var pts = days.map(function (x, i) { return X(i) + ',' + Y(x.visits); });
+          var area = svg('path', { class: 'stats-area', d: 'M' + X(0) + ',' + Y(0) + ' L' + pts.join(' L') + ' L' + X(days.length - 1) + ',' + Y(0) + ' Z' });
+          var line = svg('path', { class: 'stats-line', d: 'M' + pts.join(' L') });
+          s.appendChild(area); s.appendChild(line);
+          var cross = svg('line', { class: 'stats-cross', y1: m.t, y2: m.t + ph, visibility: 'hidden' });
+          var dot = svg('circle', { class: 'stats-dot', r: 4 });
+          s.appendChild(cross); s.appendChild(dot);
+
+          function show(i, visible) {
+            idx = Math.max(0, Math.min(days.length - 1, i));
+            var x = X(idx), y = Y(days[idx].visits);
+            dot.setAttribute('cx', x); dot.setAttribute('cy', y);
+            cross.setAttribute('x1', x); cross.setAttribute('x2', x);
+            cross.setAttribute('visibility', visible ? 'visible' : 'hidden');
+            tip.hidden = !visible;
+            if (visible) {
+              tip.textContent = '';
+              var v = el('strong', '', nf.format(days[idx].visits) + (days[idx].visits === 1 ? ' visit' : ' visits'));
+              tip.appendChild(v);
+              var k = el('span'); k.appendChild(el('i')); k.appendChild(document.createTextNode(fmtLong.format(dayDate(days[idx].day))));
+              tip.appendChild(k);
+              var left = x * (box.clientWidth / W) + 12;
+              if (left + tip.offsetWidth > box.clientWidth) left = x * (box.clientWidth / W) - tip.offsetWidth - 12;
+              tip.style.left = Math.max(0, left) + 'px';
+              tip.style.top = Math.max(0, y - 20) + 'px';
+            }
+          }
+          function nearest(ev) {
+            var r = s.getBoundingClientRect();
+            var px = (ev.clientX - r.left) * (W / r.width);
+            return Math.round((px - m.l) / pw * (days.length - 1));
+          }
+          s.addEventListener('pointermove', function (ev) { show(nearest(ev), true); });
+          s.addEventListener('pointerdown', function (ev) { show(nearest(ev), true); });
+          s.addEventListener('pointerleave', function () { show(days.length - 1, false); });
+          s.addEventListener('keydown', function (ev) {
+            if (ev.key === 'ArrowLeft') { show(idx - 1, true); ev.preventDefault(); }
+            else if (ev.key === 'ArrowRight') { show(idx + 1, true); ev.preventDefault(); }
+            else if (ev.key === 'Escape') show(days.length - 1, false);
+          });
+          s.addEventListener('blur', function () { show(days.length - 1, false); });
+          box.insertBefore(s, tip);
+          show(days.length - 1, false);
+
+          if (animate) {
+            var len = line.getTotalLength();
+            line.style.strokeDasharray = len;
+            line.style.strokeDashoffset = len;
+            area.style.opacity = 0; dot.style.opacity = 0;
+            whenVisible(box, function () {
+              anime({ targets: line, strokeDashoffset: [len, 0], duration: 1200, easing: 'easeInOutQuad',
+                      complete: function () { line.style.strokeDasharray = ''; } });
+              anime({ targets: area, opacity: [0, 0.1], duration: 900, delay: 500, easing: 'linear' });
+              anime({ targets: dot, opacity: [0, 1], duration: 300, delay: 1000, easing: 'linear' });
+            });
+          }
+        }
+        draw(animated());
+        lastW = box.clientWidth;
+        if ('ResizeObserver' in window) {
+          var t;
+          new ResizeObserver(function () {
+            if (box.clientWidth === lastW) return;
+            lastW = box.clientWidth;
+            clearTimeout(t); t = setTimeout(function () { draw(false); }, 120);
+          }).observe(box);
+        }
+
+        var det = el('details', 'stats-table-wrap');
+        det.appendChild(el('summary', '', 'Show as a table'));
+        var sc = el('div', 'stats-table-scroll'), tb = el('table');
+        var hr = el('tr'); hr.appendChild(el('th', '', 'Day')); hr.appendChild(el('th', '', 'Visits'));
+        tb.appendChild(hr);
+        days.slice().reverse().forEach(function (x) {
+          var r = el('tr'); r.appendChild(el('td', '', fmtLong.format(dayDate(x.day)))); r.appendChild(el('td', '', nf.format(x.visits)));
+          tb.appendChild(r);
+        });
+        sc.appendChild(tb); det.appendChild(sc); c.appendChild(det);
+        return c;
+      }
+
+      // ── Ranked bars ────────────────────────────────────────────────────
+      function rankCard(title, sub, rows, label) {
+        var c = card(title, sub);
+        if (!rows || !rows.length) { c.appendChild(el('p', 'stats-empty', 'Nothing yet.')); return c; }
+        var ul = el('ul', 'stats-rank');
+        var top = rows[0].count, bars = [];
+        rows.forEach(function (r) {
+          var li = el('li');
+          var nm = el('div', 'stats-rank-name', label ? label(r) : r.name);
+          nm.title = r.name;
+          var row = el('div', 'stats-rank-row'), track = el('div', 'stats-rank-track'), bar = el('div', 'stats-rank-bar');
+          track.appendChild(bar);
+          row.appendChild(track); row.appendChild(el('span', 'stats-rank-val', nf.format(r.count)));
+          li.appendChild(nm); li.appendChild(row); ul.appendChild(li);
+          bars.push([bar, Math.max(2, 100 * r.count / top)]);
+        });
+        c.appendChild(ul);
+        if (animated()) {
+          whenVisible(ul, function () {
+            bars.forEach(function (b, i) {
+              anime({ targets: b[0], width: ['0%', b[1] + '%'], duration: 800, delay: i * 60, easing: 'easeOutCubic' });
+            });
+          });
+        } else bars.forEach(function (b) { b[0].style.width = b[1] + '%'; });
+        return c;
+      }
+      function base(name) { var p = name.split('/'); return p[p.length - 1] || name; }
+
+      // ── Page ───────────────────────────────────────────────────────────
+      function render(d) {
+        root.textContent = '';
+        if (!d || !d.available) {
+          root.appendChild(el('p', 'stats-note', 'The numbers aren’t available right now. Please check back later.'));
+          return;
+        }
+        if (!d.firstDay) {
+          root.appendChild(el('p', 'stats-note', 'We’ve only just started counting, so there’s nothing to show yet. Check back in a few days.'));
+          return;
+        }
+        root.appendChild(tiles(d));
+        root.appendChild(lineCard(d));
+        var g = el('div', 'stats-grid');
+        g.appendChild(rankCard('Screen sizes', 'Phones, tablets and computers', d.devices));
+        g.appendChild(rankCard('Languages', 'What visitors\u2019 browsers are set to', d.languages));
+        g.appendChild(rankCard('Most-read pages', 'Last 90 days', d.pages, function (r) { return r.title || r.name; }));
+        g.appendChild(rankCard('Most-downloaded files', 'Slides, handouts and printables', d.downloads, function (r) { return base(r.name); }));
+        g.appendChild(rankCard('Links followed', 'Papers and other sites', d.outbound));
+        g.appendChild(rankCard('Where visitors come from', 'Referring sites', d.referrers));
+        g.appendChild(rankCard('Countries', 'Rough location, from the connection', d.countries));
+        root.appendChild(g);
+        var when = d.generated ? fmtLong.format(new Date(d.generated)) : '';
+        var note = 'Counted by GoatCounter. Updated ' + when + (d.stale ? ' (the latest refresh failed, so this is the previous one)' : '') + '. ';
+        var p = el('p', 'stats-note stats-note--small', note);
+        var a = el('a', '', 'Raw data (stats.json)'); a.href = '/stats.json';
+        p.appendChild(a);
+        root.appendChild(p);
+      }
+
+      fetch('/stats.json', { cache: 'no-cache' })
+        .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+        .then(render)
+        .catch(function () { render(null); });
+    })();
+  </script>
+
+</Base>
