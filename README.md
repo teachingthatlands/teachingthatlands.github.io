@@ -18,11 +18,11 @@ Each participant brings one session they teach, or would like to teach, and rebu
 
 **By the end of the three sessions, participants will be able to:**
 
-1. **Redesign** a slide from their own teaching to cut the clutter and work for the back row.
-2. **Make** ten minutes of their session active, using a named strategy that suits where it really happens.
-3. **Write** one to three outcomes for their session with verbs someone could observe, and match each to the evidence that would show it.
-4. **Check** that outcomes, activities and evidence all show the same performance.
-5. **Plan** their follow-through: 30/60/90 days, a named person to hold them to it, and the support they need.
+1. **Redesign** a slide from their own teaching so it's clear and easy to read from the back of the room.
+2. **Make** ten minutes of their session active, using a technique or tool that suits where they teach.
+3. **Say** what they want learners to be able to do by the end of their session, in a way they could watch or check, and work out how they'll check it.
+4. **Show** how their session links up: the change they want → what learners do → how they'll check it → what they'd see change.
+5. **Plan** what happens after their session: what they'll look at again after 30, 60 and 90 days, who will keep them on track, and what help they need from that person.
 
 These are written for this content. Commissioners can adapt them to their learners (see the Briefing for Decision-Makers), and the programme can potentially sit inside an accredited work-based learning module, depending on setup. Each session's outcomes are on its page and in its facilitator blueprint.
 
