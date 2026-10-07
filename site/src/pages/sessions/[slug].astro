@@ -93,7 +93,8 @@ const askLabel = session.data.askLabel ?? `Your task before Session ${n + 1}`;
           <div class="session-body"><Content /></div>
           {session.data.outcomes.length > 0 && (
             <div class="prep-section">
-              <p class="prep-section-label">By the end you'll have</p>
+              <p class="prep-section-label">Suggested outcomes</p>
+              <p class="prep-section-text">By the end you could have the following. Pick the ones that fit, reword them, or write your own: what you need from today matters most.</p>
               <ol class="task-steps">
                 {session.data.outcomes.map(o => {
                   const [verb, ...rest] = o.split(' ');

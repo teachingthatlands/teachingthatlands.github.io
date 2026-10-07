@@ -23,7 +23,9 @@ fox: "thinking.png"
 
 ## Learning outcomes
 
-By the end of the session, participants will have:
+These are suggested outcomes: what the session is designed to help people do. Offer them as options. Participants can pick, reword or replace them with their own, and what they need from the programme matters more than what we planned.
+
+By the end of the session, participants could have:
 
 1. **Sorted** evidence from a teaching programme by what it actually shows, from *delivered* to *impact*. *(Card sort)*
 2. **Rewritten** one to three outcomes for their own session using verbs someone could observe. *(Verb wall · Rewrite)*

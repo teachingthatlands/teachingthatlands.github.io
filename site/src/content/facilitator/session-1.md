@@ -25,7 +25,9 @@ The spine question is asked in the first ten minutes and answered on the canvas 
 
 ## Learning outcomes
 
-By the end of the session, participants will have:
+These are suggested outcomes: what the session is designed to help people do. Offer them as options. Participants can pick, reword or replace them with their own, and what they need from the programme matters more than what we planned.
+
+By the end of the session, participants could have:
 
 1. **Redesigned** one slide to cut extraneous load, replacing text-plus-voice with image-plus-voice. *(Redesign round 1)*
 2. **Checked and corrected** the same slide for readability: size, contrast, no colour-only meaning (on a laptop, PowerPoint's accessibility checker too). *(Redesign round 2)*

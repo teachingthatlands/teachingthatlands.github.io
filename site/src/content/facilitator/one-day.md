@@ -37,7 +37,9 @@ Be straight with the group about this. It's the programme's own argument ([Ebbin
 
 ## Learning outcomes
 
-By the end of the day, participants will have:
+These are suggested outcomes: what the session is designed to help people do. Offer them as options. Participants can pick, reword or replace them with their own, and what they need from the programme matters more than what we planned.
+
+By the end of the day, participants could have:
 
 1. **Redesigned** one slide to cut extraneous load, then **checked and corrected** it for readability. *(Block 1: both redesign rounds)*
 2. **Identified** which strategy (retrieval, spacing, interleaving, elaboration) was at work in activities they have just experienced. *(Block 2: Blorps, Spot the strategy)*
