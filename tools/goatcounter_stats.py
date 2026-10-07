@@ -38,13 +38,21 @@ DAYS = 90
 TOP = 10
 
 
+class ApiError(Exception):
+    """A GoatCounter call that failed, naming the endpoint and what it said."""
+
+
 def api(path: str, token: str, **params) -> dict:
     url = f"{BASE}/{path}?{urllib.parse.urlencode(params)}"
     req = urllib.request.Request(url, headers={
         "Authorization": f"Bearer {token}", "Accept": "application/json",
         "User-Agent": "teachingthatlands-stats"})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        data = json.load(r)
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            data = json.load(r)
+    except urllib.error.HTTPError as e:
+        body = e.read(300).decode("utf-8", "replace").replace("\n", " ")
+        raise ApiError(f"GET {BASE}/{path} -> HTTP {e.code} {e.reason}: {body}") from None
     time.sleep(0.3)  # the API allows 4 requests a second
     return data
 
@@ -82,7 +90,12 @@ def build(token: str) -> dict:
         return sorted(rows, key=lambda r: -r["count"])[:TOP]
 
     def ranked(page: str):
-        rows = api(f"stats/{page}", token, limit=TOP, **q).get("stats", [])
+        # Optional lists: if one endpoint fails, log it and carry on without it.
+        try:
+            rows = api(f"stats/{page}", token, limit=TOP, **q).get("stats", [])
+        except ApiError as e:
+            print(f"stats: skipped {page}: {e}", file=sys.stderr)
+            return []
         return [{"name": str(r.get("name") or "").strip() or "Unknown", "count": int(r.get("count") or 0)}
                 for r in rows if r.get("count")]
 
@@ -123,8 +136,7 @@ def main() -> int:
     else:
         try:
             result = build(token)
-        except (urllib.error.URLError, ValueError, KeyError, TypeError, OSError) as e:
-            # Never print the request URL's headers; the error text is enough.
+        except (ApiError, urllib.error.URLError, ValueError, KeyError, TypeError, OSError) as e:
             print(f"stats: GoatCounter fetch failed: {type(e).__name__}: {e}", file=sys.stderr)
     if result is None:
         result = last_published()
