@@ -40,6 +40,9 @@ function current(page: string) {
   <link rel="stylesheet" href="/styles/shared.css" />
   <!-- Page-specific styles go here via <slot name="head"> -->
   <slot name="head" />
+  <!-- Privacy-friendly, cookie-free analytics: see the Privacy section on /about -->
+  <script is:inline data-goatcounter="https://teachingthatlands.goatcounter.com/count"
+          async src="//gc.zgo.at/count.js"></script>
 </head>
 <body class={bodyClass}>
 
@@ -99,10 +102,12 @@ function current(page: string) {
     // Shared JS: hamburger, footer fox, session-stack observer
     // Equivalent of test/shared.js — inlined here so Astro bundles it once.
     import { initFilePreviews } from '../scripts/file-preview';
+    import { initClickTracking } from '../scripts/analytics';
 
     document.addEventListener('DOMContentLoaded', () => {
       // Runs after page scripts (e.g. the blueprint card splitter) have moved content.
       initFilePreviews();
+      initClickTracking();
 
       // ── Hamburger ────────────────────────────────────────────────
       const hamburger  = document.getElementById('hamburger') as HTMLButtonElement;
