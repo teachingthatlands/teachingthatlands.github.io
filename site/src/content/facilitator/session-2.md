@@ -23,9 +23,9 @@ fox: "pointing_right.png"
 
 ## Learning outcomes
 
-These are suggested outcomes: what the session is designed to help people do. Offer them as options. Participants can pick, reword or replace them with their own, and what they need from the programme matters more than what we planned.
+These are the content's suggested outcomes. If your cohort's differ, agree changes at [setup](/facilitator/setup-and-justify).
 
-By the end of the session, participants could have:
+By the end of the session, participants will have:
 
 1. **Identified** which strategy (retrieval, spacing, interleaving, elaboration) was at work in activities they have just experienced. *(Blorps and Fizzwicks · Spot the strategy)*
 2. **Redesigned** ten minutes of their own session so learners do something, using at least one named strategy and fitting its real setting. *(Make 10 minutes active)*

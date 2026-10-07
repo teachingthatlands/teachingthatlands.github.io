@@ -16,15 +16,15 @@ Each participant brings one session they teach, or would like to teach, and rebu
 | 2. **Active Beats Passive** | Experience retrieval and spacing, then make ten minutes of your session active. |
 | 3. **Did It Land?** | Write observable outcomes, match them to evidence, and plan the follow-up. |
 
-**Suggested outcomes.** By the end of the three sessions, participants could have the following. They are suggestions: each person picks, rewords or replaces them with what they need from the programme.
+**By the end of the three sessions, participants will be able to:**
 
-1. **Redesigned** a slide from their own teaching to cut the clutter and work for the back row.
-2. **Made** ten minutes of their session active, using a named strategy that suits where it really happens.
-3. **Written** one to three outcomes for their session with verbs someone could observe, and matched each to the evidence that would show it.
-4. **Checked** that outcomes, activities and evidence all show the same performance.
-5. **Planned** their follow-through: 30/60/90 days, a named person to hold them to it, and the support they need.
+1. **Redesign** a slide from their own teaching to cut the clutter and work for the back row.
+2. **Make** ten minutes of their session active, using a named strategy that suits where it really happens.
+3. **Write** one to three outcomes for their session with verbs someone could observe, and match each to the evidence that would show it.
+4. **Check** that outcomes, activities and evidence all show the same performance.
+5. **Plan** their follow-through: 30/60/90 days, a named person to hold them to it, and the support they need.
 
-Each session's suggested outcomes are on its page and in its facilitator blueprint.
+These are written for this content. Commissioners can adapt them to their learners (see the Briefing for Decision-Makers), and the programme can potentially sit inside an accredited work-based learning module, depending on setup. Each session's outcomes are on its page and in its facilitator blueprint.
 
 Ideas the sessions use: cognitive load, dual coding, constructive alignment, implementation intentions, retrieval and spaced practice, interleaving, experiential learning, the Kirkpatrick model and Miller's pyramid. Each has a page in the site's theory library.
 
