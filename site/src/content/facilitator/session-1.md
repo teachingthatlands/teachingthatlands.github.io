@@ -25,6 +25,8 @@ The spine question is asked in the first ten minutes and answered on the canvas 
 
 ## Learning outcomes
 
+These are the content's suggested outcomes. If your cohort's differ, agree changes at [setup](/facilitator/setup-and-justify).
+
 By the end of the session, participants will have:
 
 1. **Redesigned** one slide to cut extraneous load, replacing text-plus-voice with image-plus-voice. *(Redesign round 1)*

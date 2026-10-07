@@ -23,6 +23,8 @@ fox: "thinking.png"
 
 ## Learning outcomes
 
+These are the content's suggested outcomes. If your cohort's differ, agree changes at [setup](/facilitator/setup-and-justify).
+
 By the end of the session, participants will have:
 
 1. **Sorted** evidence from a teaching programme by what it actually shows, from *delivered* to *impact*. *(Card sort)*

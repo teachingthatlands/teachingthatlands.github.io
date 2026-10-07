@@ -37,6 +37,8 @@ Be straight with the group about this. It's the programme's own argument ([Ebbin
 
 ## Learning outcomes
 
+These are the content's suggested outcomes. If your cohort's differ, agree changes at [setup](/facilitator/setup-and-justify).
+
 By the end of the day, participants will have:
 
 1. **Redesigned** one slide to cut extraneous load, then **checked and corrected** it for readability. *(Block 1: both redesign rounds)*

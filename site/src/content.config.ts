@@ -53,6 +53,8 @@ const sessions = defineCollection({
     prep: z.string().optional(),
     /** Reassurance for anyone who couldn't do the prep */
     prepFallback: z.string().optional(),
+    /** What participants will have done by the end: observable verbs, first word is the verb */
+    outcomes: z.array(z.string()).default([]),
     /** Recap: the session's key ideas in plain words, each optionally linked to a theory */
     keyIdeas: z.array(z.object({
       idea: z.string(),

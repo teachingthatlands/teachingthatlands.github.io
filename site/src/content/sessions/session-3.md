@@ -13,6 +13,11 @@ subtitle: "Start with what people should do differently, and you'll know whether
 primingQuestion: "How do you currently know | whether your teaching worked?"
 prep: "Bring the Menti or Kahoot you made after Session 2."
 prepFallback: "Didn't make one? Bring the idea. We'll build on it."
+outcomes:
+  - "Sorted evidence from a teaching programme by what it actually shows, from delivered to changed."
+  - "Rewritten one to three outcomes for your session using verbs someone could observe."
+  - "Matched each outcome to evidence at the right level, and checked your slides and activity line up with it."
+  - "Completed your design canvas, with a 30/60/90-day follow-through plan, a named person and the support you need from them."
 keyIdeas:
   - idea: "Delivered isn't changed."
     detail: "Attendance lists, smile sheets and photos show a session happened. Only what people do afterwards shows it worked."

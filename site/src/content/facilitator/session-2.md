@@ -23,6 +23,8 @@ fox: "pointing_right.png"
 
 ## Learning outcomes
 
+These are the content's suggested outcomes. If your cohort's differ, agree changes at [setup](/facilitator/setup-and-justify).
+
 By the end of the session, participants will have:
 
 1. **Identified** which strategy (retrieval, spacing, interleaving, elaboration) was at work in activities they have just experienced. *(Blorps and Fizzwicks · Spot the strategy)*

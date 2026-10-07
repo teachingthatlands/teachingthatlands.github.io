@@ -18,6 +18,8 @@ fox: "pencil.png"
 | **What counts as success?** Set the bar now, before anyone has attended. | |
 | **Scope:** which staff groups, which sites, how many cohorts? | |
 | **Who owns it?** Which person or team is accountable for delivery and follow-up? | |
+| **Do the suggested outcomes fit your learners?** The [five outcomes](/facilitator/setup-and-justify) are written for the content. Check them against who is coming and what they need; reword or replace what doesn't fit. | |
+| **Is academic credit wanted?** If so, agree it with the institution now: see [Academic credit](/facilitator/setup-and-justify). | |
 
 ## 2. Stakeholders
 

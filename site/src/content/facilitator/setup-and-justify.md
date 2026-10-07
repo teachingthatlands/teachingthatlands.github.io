@@ -24,6 +24,24 @@ Each participant brings one session they teach, or would like to teach, and rebu
 
 Each person leaves with a completed canvas and a named colleague (often their manager) who will hold them to it at 30 days, and give the time and support it needs.
 
+## What participants will be able to do
+
+These are the programme's suggested outcomes: what the content, as designed, is built to deliver. By the end of the three sessions, participants will be able to:
+
+1. **Redesign** a slide from their own teaching to cut the clutter and work for the back row.
+2. **Make** ten minutes of their session active, using a named strategy that suits where it really happens.
+3. **Write** one to three outcomes for their session with verbs someone could observe, and match each to the evidence that would show it.
+4. **Check** that outcomes, activities and evidence all show the same performance.
+5. **Plan** their follow-through: what they'll revisit at 30, 60 and 90 days, who will hold them to it, and the support they need.
+
+They are written for this content, not for your learners. Before you commit, check them against the people who will be in the room: who they are, what they need, and what they'd want from three weeks. If the fit is poor, change the outcomes and the examples, or choose a different programme. The licence lets you adapt freely; tailoring the programme to a particular group is work on top of the free materials. [Programme Setup](/facilitator/task-and-finish) has a row for it.
+
+## Academic credit
+
+Academic credit is possible, but it is not built in, and it depends on the setup. The programme can sit inside a work-based learning module at a higher education institution. In that model, participants choose their own learning outcomes (the suggested ones are a starting point), write a reflection, and show how their practice has changed. The institution sets the level, assessment and fees.
+
+Nothing here is accredited. If credit matters to you, raise it with the institution before the first invitation goes out, not after Session 3.
+
 ## What it costs
 
 | Item | Per cohort of 10 |
