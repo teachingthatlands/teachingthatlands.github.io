@@ -124,7 +124,7 @@ def build(token: str) -> dict:
         },
         "daily": daily,
         "pages": top(pages), "downloads": top(downloads), "outbound": top(outbound),
-        "referrers": ranked("toprefs"), "countries": ranked("locations"),
+        "referrers": ranked("toprefs"),
         "devices": ranked("sizes"), "languages": ranked("languages"),
     }
 

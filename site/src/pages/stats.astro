@@ -330,13 +330,14 @@ import Base from '../layouts/Base.astro';
         root.appendChild(tiles(d));
         root.appendChild(lineCard(d));
         var g = el('div', 'stats-grid');
-        g.appendChild(rankCard('Screen sizes', '', d.devices));
-        g.appendChild(rankCard('Browser language', '', d.languages));
+        // Use first (what is read, downloaded, followed, and how people arrive),
+        // then the barriers we watch for (screen size, language).
         g.appendChild(rankCard('Most-read pages', '(last 90 days)', d.pages, pageName));
         g.appendChild(rankCard('Most-downloaded files', '', d.downloads, function (r) { return base(r.name); }));
-        g.appendChild(rankCard('Links followed', '', d.outbound));
+        g.appendChild(rankCard('Links followed', '(links out)', d.outbound));
         g.appendChild(rankCard('Where visitors come from', '', d.referrers));
-        g.appendChild(rankCard('Countries', '(rough location)', d.countries));
+        g.appendChild(rankCard('Screen sizes', '', d.devices));
+        g.appendChild(rankCard('Browser language', '', d.languages));
         root.appendChild(g);
         var when = d.generated ? fmtLong.format(new Date(d.generated)) : '';
         var note = 'Counted by GoatCounter. Updated ' + when + '. ';
