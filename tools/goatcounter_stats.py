@@ -36,6 +36,7 @@ LIVE = os.environ.get("STATS_LIVE_URL", "https://teachingthatlands.uk/stats.json
 OUT = Path(__file__).resolve().parent.parent / "site" / "public" / "stats.json"
 DAYS = 90
 TOP = 10
+TRIES = 3  # per call, for transient failures
 
 
 class ApiError(Exception):
@@ -47,12 +48,22 @@ def api(path: str, token: str, **params) -> dict:
     req = urllib.request.Request(url, headers={
         "Authorization": f"Bearer {token}", "Accept": "application/json",
         "User-Agent": "teachingthatlands-stats"})
-    try:
-        with urllib.request.urlopen(req, timeout=30) as r:
-            data = json.load(r)
-    except urllib.error.HTTPError as e:
-        body = e.read(300).decode("utf-8", "replace").replace("\n", " ")
-        raise ApiError(f"GET {BASE}/{path} -> HTTP {e.code} {e.reason}: {body}") from None
+    for attempt in range(1, TRIES + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                data = json.load(r)
+            break
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 500, 502, 503, 504) and attempt < TRIES:
+                time.sleep(attempt * 2)
+                continue
+            body = e.read(300).decode("utf-8", "replace").replace("\n", " ")
+            raise ApiError(f"GET {BASE}/{path} -> HTTP {e.code} {e.reason}: {body}") from None
+        except OSError as e:  # connection reset, timeout, DNS: worth another go
+            if attempt < TRIES:
+                time.sleep(attempt * 2)
+                continue
+            raise ApiError(f"GET {BASE}/{path} -> {type(e).__name__}: {e}") from None
     time.sleep(0.3)  # the API allows 4 requests a second
     return data
 
