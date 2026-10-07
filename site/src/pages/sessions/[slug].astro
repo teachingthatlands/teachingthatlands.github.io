@@ -91,6 +91,17 @@ const askLabel = session.data.askLabel ?? `Your task before Session ${n + 1}`;
             {phrases(`“${session.data.primingQuestion}”`).map(p => <><span class="phrase">{p}</span>{' '}</>)}
           </blockquote>
           <div class="session-body"><Content /></div>
+          {session.data.outcomes.length > 0 && (
+            <div class="prep-section">
+              <p class="prep-section-label">By the end you'll have</p>
+              <ol class="task-steps">
+                {session.data.outcomes.map(o => {
+                  const [verb, ...rest] = o.split(' ');
+                  return <li><strong>{verb}</strong> {rest.join(' ')}</li>;
+                })}
+              </ol>
+            </div>
+          )}
           {session.data.prep && (
             <div class="prep-section">
               <p class="prep-section-label">Bring</p>

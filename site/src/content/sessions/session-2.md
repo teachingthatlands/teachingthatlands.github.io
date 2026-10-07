@@ -14,6 +14,11 @@ subtitle: "Why doing beats watching, and how to make your teaching active."
 primingQuestion: "Think of something you learned | and never forgot. | Were you watching, | or doing?"
 prep: "Bring the slides you redesigned (or found) after Session 1, and your phone: we'll use it for the quizzes."
 prepFallback: "Didn't get to it? Come anyway. What got in the way is useful too."
+outcomes:
+  - "Identified which strategy (retrieval, spacing, interleaving or elaboration) was at work in activities you just experienced."
+  - "Redesigned ten minutes of your own session so learners do something, using at least one named strategy and fitting where it really happens."
+  - "Explained your design in 60 seconds: the strategy, and why it suits the setting."
+  - "Written a plan to make one active learning thing before next week."
 keyIdeas:
   - idea: "Testing beats re-reading."
     detail: "Pulling something back out of memory strengthens it. A quick quiz is a teaching tool, not just a test."

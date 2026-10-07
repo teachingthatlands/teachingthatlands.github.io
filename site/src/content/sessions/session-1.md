@@ -13,6 +13,11 @@ subtitle: "Why most slides work against learning, and how to fix yours."
 primingQuestion: "Think of a teacher | you still remember. | What did they do?"
 prep: "If you can, bring a slide you think is bad: one of your own, or one you've sat through."
 prepFallback: "No slide? No problem. We'll find one in the room. You won't need a computer."
+outcomes:
+  - "Redesigned one slide to cut the clutter, swapping words-plus-voice for picture-plus-voice."
+  - "Checked and corrected that slide for the back row: size, contrast, nothing relying on colour alone."
+  - "Explained to a partner what you cut, and who each remaining element is for."
+  - "Written a plan to redesign one or two more slides before next week."
 keyIdeas:
   - idea: "Working memory is tiny. Cut the noise."
     detail: "We hold about four things at once. Put everything on a slide and you rest your memory and tax theirs. Some effort belongs to the topic; the clutter is the part you control."
