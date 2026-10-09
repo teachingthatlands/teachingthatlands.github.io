@@ -10,6 +10,8 @@
 
 - **Stats** (`/stats`) draws from `site/public/stats.json`, written by `tools/goatcounter_stats.py` from the GoatCounter API (repo secret `GOATCOUNTER_TOKEN`). CI refreshes it before each build, daily on a schedule. The file is gitignored: never commit it. No token or an API outage never fails the build; the page shows the last published numbers or says they're unavailable. Locally: `just stats`.
 
+- **Teaching Design Check PDF** (`site/public/handouts/design-check.pdf`) is printed from `tools/design-check/design-check.html` by `just design-check-pdf`. Its wording is a shortened copy of `site/src/content/facilitator/design-check.md`: change one, change the other, then reprint. If the PDF is ever laid out by hand, that becomes the master: delete the HTML source and the recipe.
+
 ## House rules
 
 - **The person's hand-edited decks and printables are the masters.** Fold changes into them; never regenerate over them.

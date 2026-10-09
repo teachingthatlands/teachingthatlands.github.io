@@ -2,7 +2,7 @@
 title: "Portfolio Mapping"
 type: resource
 order: 9
-tagline: "What the programme can help you evidence for advanced practice, the nursing and midwifery educator framework, and NMC revalidation, and what it can't."
+tagline: "What the programme can help you evidence for advanced practice, the nursing and midwifery educator framework, Advance HE Fellowship and NMC revalidation, and what it can't."
 fox: "pencil.png"
 ---
 
@@ -49,6 +49,27 @@ NHS England's [*Nursing and midwifery educator framework*](https://www.england.n
 | **Adaptable and transformative** (adapt teaching "to respect diversity, neurodiversity and other needs of learners") | E1's accessibility pass; E2 designed for its real setting |
 | **Credible** (know "the theories and principles of learning"; "assess and evaluate teaching and learning methods in relation to practice outcomes") | E3: outcomes, matching evidence and alignment, with the theory behind each |
 | **Research informed** (pedagogic research or service evaluation) | Partial: E3's evaluation plan and E4. A formal service evaluation would be stronger |
+
+## Advance HE Fellowship: Professional Standards Framework (2023)
+
+If your role includes teaching students, or you have links to a university, the programme can be a first step towards Advance HE Fellowship. Many people in split clinical and education roles hold it. Your university may run an accredited scheme: check eligibility with them, or with [Advance HE](https://www.advance-he.ac.uk/teaching-learning/professional-standards-framework).
+
+**Associate Fellowship** (Descriptor 1) is the nearest fit. The PSF has three dimensions: Areas of Activity (A), Core Knowledge (K) and Professional Values (V).
+
+<!-- VERIFY: Descriptor 1 criteria and the wording of each dimension against the PSF 2023 document before merging. -->
+
+| PSF dimension | What the programme can contribute | How strong |
+|---|---|---|
+| **A1** Design and plan learning activities | E3, your completed canvas; E1 | Good |
+| **A2** Teach and/or support learning | E2 used with real learners; E4 | Good once delivered |
+| **A3** Assess and give feedback for learning | E3's evidence plan | Partial: feedback isn't taught |
+| **A5** Enhance practice through your own continuing professional development | The asks, plus a written reflection on E1–E4 | Good, once written up |
+| **K1, K2** How learners learn; approaches to teaching | The theory behind E1 and E2 | Good |
+| **K3** Critical evaluation as a basis for effective practice | E3 and E4: evidence matched to outcomes, then acted on | Good if you act on it |
+| **K4** Digital technologies and resources for learning | E2 (Menti or Kahoot); E1 | Good |
+| **V1, V2** Respect for learners; engagement and equity of opportunity | E1's accessibility pass; E2 | Partial |
+| **V3** Evidence-informed practice | The theory library, cited in your write-up | Good |
+| **V5** Collaborate with others to enhance practice | Peer feedback in the sessions; your named person | Partial |
 
 ## NMC revalidation
 

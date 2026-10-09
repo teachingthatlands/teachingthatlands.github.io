@@ -43,3 +43,32 @@ These six questions are the design canvas used throughout [the three sessions](/
 <a class="file-download" href="/handouts/design-canvas.pdf">The design canvas (A4)</a>
 
 The ideas behind it: [constructive alignment](/theories/line-it-up), [Miller's pyramid](/theories/knowing-isnt-doing) and [the Kirkpatrick model](/theories/did-the-training-work).
+
+## The bigger picture
+
+**Training is a system, not an event.** The research on workplace training says the same thing again and again: what happens before and after the day matters as much as the day itself (Salas et al. 2012). Education standards in the NHS and in universities say it too, in their own words.
+
+Medical education's standard planning model is Kern's six steps (Thomas, Kern et al. 2022). The six questions above are a plain-English version of it:
+
+| Kern's six steps | The six questions |
+|---|---|
+| 1. Problem identification and general needs assessment | 2. What's the need? |
+| 2. Targeted needs assessment | 1. Who are the learners? |
+| 3. Goals and objectives | 3. What should they be able to do? |
+| 4. Educational strategies | 5. What will learners do? |
+| 5. Implementation | 6. What happens after the day? |
+| 6. Evaluation and feedback | 4. How will you know? |
+
+Kern's steps loop: what you learn from step 6 feeds the next version.
+
+**Where Teaching That Lands fits.** The [three sessions](/sessions) teach people who teach to answer questions 3 to 6 well, for one session of their own. They don't cover an organisation's needs analysis, co-production, formal assessment, preparing educators, or keeping teaching under review. Those belong to an education lead.
+
+**What an education lead brings.** The judgement behind those rows. Knowing when a request isn't a teaching problem. Saying "not like that", with reasons. If you don't have one, the [Teaching Design Check](/facilitator/design-check) shows what's going unanswered.
+
+**Going further.** Advance HE Fellowship, NHS England's Nursing and Midwifery Educator Framework, or a postgraduate certificate in health or clinical education. [Portfolio Mapping](/facilitator/portfolio-mapping) shows how the programme can count towards the first two.
+
+<!-- VERIFY: Kern 4th edition step names, and Salas et al. 2012, against the originals before merging. -->
+
+**Your education lead's version.** The [Teaching Design Check](/facilitator/design-check) turns these six questions into eleven, with what to consider and the red flags for each.
+
+*Sources: Salas, E., Tannenbaum, S. I., Kraiger, K., & Smith-Jentsch, K. A. (2012). The science of training and development in organizations. Psychological Science in the Public Interest, 13(2), 74–101. Thomas, P. A., Kern, D. E., Hughes, M. T., Tackett, S. A., & Chen, B. Y. (2022). Curriculum Development for Medical Education: A Six-Step Approach (4th ed.). Johns Hopkins University Press.*

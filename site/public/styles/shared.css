@@ -1101,6 +1101,13 @@ a.theory-row:hover .theory-row-arrow {
   padding-bottom: 0.55rem;
   border-bottom: 1px solid var(--surface0);
 }
+.fac-section-header:has(+ .fac-section-intro) { margin-bottom: 0.75rem; }
+.fac-section-intro {
+  font-size: 0.95rem;
+  color: var(--subtext0);
+  margin: 0 0 1.25rem;
+  max-width: 60ch;
+}
 
 /* Hub card grid */
 .fac-cards-grid {
@@ -1246,6 +1253,9 @@ a.theory-row:hover .theory-row-arrow {
 .blueprint-prose a { color: var(--sky); }
 .blueprint-prose a:visited { color: var(--teal); }
 .blueprint-prose a:hover { text-decoration: underline; }
+
+/* Linked collapsible sections land below the sticky header */
+.blueprint-prose details[id] { scroll-margin-top: 5.5rem; }
 
 /* Facilitator notes — sky-tinted blockquotes */
 .blueprint-prose blockquote {
