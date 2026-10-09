@@ -24,7 +24,7 @@ Each row also says when to tackle it (**Start**, **Next** or **Then**: see below
 
 ## Lots of gaps? Start here
 
-Most organisations find plenty of gaps. That's normal. Don't try to fix everything at once: pick one session and one row this quarter.
+Most organisations find plenty of gaps. That's normal. Don't try to fix everything at once: pick one session and one row to start. Change in an organisation is slow. Expect it to take years, not weeks.
 
 1. **Start: three questions on every request.** What should people do differently (rows 1 and 4)? How will we know they can (row 4)? Who will ask them about it at 30 days (row 10)? It costs almost nothing, it filters out requests that aren't teaching problems, and it brings managers in.
 2. **Next: better sessions.** Learners, a second pair of eyes, practice and slides (rows 2, 5, 6 and 7). This is what [the three sessions](/sessions) teach, so running a cohort is the next step.
@@ -41,7 +41,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 **What should people do differently, what would show it (ideally something you already measure), and why don't they do it now?**
 
 - Would they do it if their job depended on it? If so, the problem isn't skill: look at kit, staffing, workload, the form or the culture.
-- Would a job aid, a checklist or a change to the process do the job instead?
+- Would a checklist, a pocket card, a poster or a change to the process do the job instead?
 - What will it cost? People × hours, plus travel and backfill. What else could those hours buy?
 - → *Is training the answer?*
 
@@ -93,7 +93,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 
 - Protected time to prepare. Do they know the subject *and* how to teach it?
 - A colleague to observe and give feedback. → [Train the Trainer](/facilitator/train-the-trainer)
-- Their own development, including Fellowship. → [Portfolio Mapping](/facilitator/portfolio-mapping)
+- Their own development as an educator: a teaching qualification, or Advance HE Fellowship (professional recognition for teaching, widely held in UK universities). → [Portfolio Mapping](/facilitator/portfolio-mapping)
 
 **Red flags:** the subject expert is told to "do a session" with no time to prepare. The person who designed it is the only one who checked it.
 
@@ -105,7 +105,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 
 **Is a session the right shape? Will learners practise the outcome, somewhere it's safe to get it wrong?**
 
-- A huddle, simulation, on-the-job teaching, e-learning or a job aid? Short sessions spread out, or one day? → [Spaced Practice](/theories/spread-it-out)
+- A huddle, simulation, teaching on the job, e-learning, or simply a pocket card? Short sessions spread out, or one day? → [Spaced Practice](/theories/spread-it-out)
 - How far up the active scale does the setting allow? → [ICAP](/theories/active-is-a-scale)
 - Realistic practice, with room for mistakes. A briefing before and a debrief after. → [Psychological Safety](/theories/safe-to-speak-up) · [Debriefing](/theories/debriefing-with-curiosity)
 - Messy, complex practice? → [Action Learning](/theories/learning-with-peers). Other professions in the room?
@@ -119,7 +119,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 
 **Does every slide earn its place? Is the clinical content right and up to date?**
 
-- [Cognitive Load](/theories/too-much-at-once) and [Dual Coding](/theories/pictures-and-words). A one-page job aid instead of printed slides?
+- [Cognitive Load](/theories/too-much-at-once) and [Dual Coding](/theories/pictures-and-words). A one-page summary or pocket card instead of printed slides?
 - Checked against current local policy and national guidance by whoever owns that guidance.
 - Permission to use every image.
 

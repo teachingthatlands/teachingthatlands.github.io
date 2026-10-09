@@ -65,7 +65,7 @@ Kern's steps loop: what you learn from step 6 feeds the next version.
 
 **What an education lead brings.** The judgement behind those rows. Knowing when a request isn't a teaching problem. Saying "not like that", with reasons. If you don't have one, the [Teaching Design Check](/facilitator/design-check) shows what's going unanswered.
 
-**Going further.** Advance HE Fellowship, NHS England's Nursing and Midwifery Educator Framework, or a postgraduate certificate in health or clinical education. [Portfolio Mapping](/facilitator/portfolio-mapping) shows how the programme can count towards the first two.
+**Going further.** For the people who teach: a postgraduate certificate in health or clinical education; NHS England's Nursing and Midwifery Educator Framework; or Advance HE Fellowship, professional recognition for teaching that is widely held in UK universities and useful for anyone whose role spans clinical work and education. [Portfolio Mapping](/facilitator/portfolio-mapping) shows how the programme can count towards the last two.
 
 <!-- VERIFY: Kern 4th edition step names, and Salas et al. 2012, against the originals before merging. -->
 
