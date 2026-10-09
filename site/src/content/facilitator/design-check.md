@@ -28,7 +28,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 
 1. **Start: three questions on every request.** What should people do differently (rows 1 and 4)? How will we know they can (row 4)? Who will ask them about it at 30 days (row 10)? It costs almost nothing, it filters out requests that aren't teaching problems, and it brings managers in.
 2. **Next: better sessions.** Learners, a second pair of eyes, practice and slides (rows 2, 5, 6 and 7). This is what [the three sessions](/sessions) teach, so running a cohort is the next step.
-3. **Then: the system.** Co-production, inclusion, assessment and keeping it alive (rows 3, 8, 9 and 11). This needs an education lead. Basic accessibility can't wait, though: captions, and asking about adjustments beforehand, are legal duties now.
+3. **Then: the system.** Co-production, inclusion, assessment and keeping it alive (rows 3, 8, 9 and 11). This needs an education lead. Basic accessibility can't wait, though: reasonable adjustments are expected under the Equality Act, and captions are required for online material.
 
 **Your list of gaps is evidence.** If you don't have an education lead, the gaps are the case for one.
 
@@ -40,7 +40,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 
 **What should people do differently, what would show it (ideally something you already measure), and why don't they do it now?**
 
-- Would they do it if their job depended on it? If so, the problem isn't skill: look at kit, staffing, workload, the form or the culture.
+- Could they do it if their life depended on it? If so, the problem isn't skill: look at kit, staffing, workload, the form or the culture.
 - Would a checklist, a pocket card, a poster or a change to the process do the job instead?
 - What will it cost? People × hours, plus travel and backfill. What else could those hours buy?
 - → *Is training the answer?*
@@ -93,7 +93,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 
 - Protected time to prepare. Do they know the subject *and* how to teach it?
 - A colleague to observe and give feedback. → [Train the Trainer](/facilitator/train-the-trainer)
-- Their own development as an educator: a teaching qualification, or Advance HE Fellowship (professional recognition for teaching, widely held in UK universities). → [Portfolio Mapping](/facilitator/portfolio-mapping)
+- Their own development as an educator: a teaching qualification, or Advance HE Fellowship (professional recognition for university teaching, useful in split clinical and university roles). → [Portfolio Mapping](/facilitator/portfolio-mapping)
 
 **Red flags:** the subject expert is told to "do a session" with no time to prepare. The person who designed it is the only one who checked it.
 
@@ -109,7 +109,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 - How far up the active scale does the setting allow? → [ICAP](/theories/active-is-a-scale)
 - Realistic practice, with room for mistakes. A briefing before and a debrief after. → [Psychological Safety](/theories/safe-to-speak-up) · [Debriefing](/theories/debriefing-with-curiosity)
 - Messy, complex practice? → [Action Learning](/theories/learning-with-peers). Other professions in the room?
-- Games: a quiz works because of retrieval, not because of the points. → *Gamification*
+- Games: a quiz helps mostly through retrieval. Points and competition suit some learners, not all. → *Gamification*
 
 **Red flags:** the agenda is a list of speakers. "E-learning, so it's done." A game nobody can link to an outcome.
 
@@ -131,7 +131,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 
 **Can everyone take part fully, and benefit equally?**
 
-- Adjustments asked about beforehand. Plain language, captions and transcripts, dyslexia-friendly materials. E-learning that meets WCAG 2.1 AA.
+- Adjustments asked about beforehand. Plain language, captions and transcripts, dyslexia-friendly materials. E-learning that meets current accessibility standards (WCAG).
 - Timing for night staff, and the cost of attending.
 - An equality impact assessment, if your organisation uses them.
 - → *Design for everyone* · *Attainment gaps*
@@ -193,7 +193,7 @@ The overall shape follows Kern's six steps (Thomas, Kern et al. 2022) and the vi
 
 | Row | Main sources |
 |---|---|
-| 1 | Mager & Pipe, *Analyzing Performance Problems*; Gilbert (1978), Behavior Engineering Model; Moore, Action Mapping; Kirkpatrick & Kirkpatrick (2016) |
+| 1 | Mager & Pipe (1984), *Analyzing Performance Problems* (2nd ed.); Gilbert (1978), Behavior Engineering Model; Moore, Action Mapping; Kirkpatrick & Kirkpatrick (2016) |
 | 2 | Kern, steps 1–2; Knowles (andragogy); Gegenfurtner et al. (2016) on mandatory training |
 | 3 | NMC (2018, updated 2023), *Standards framework for nursing and midwifery education* 1.12 and 5.5 (written for approved programmes, but the principle travels); Advance HE, *Student Engagement through Partnership*; QAA, *UK Quality Code* (2024), principles 2 and 7; HEE, *Patient and Public Involvement in nurse education* |
 | 4 | Miller (1990); Biggs (constructive alignment); Wiggins & McTighe (backward design) |

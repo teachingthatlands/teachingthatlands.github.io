@@ -46,9 +46,9 @@ The ideas behind it: [constructive alignment](/theories/line-it-up), [Miller's p
 
 ## The bigger picture
 
-**Training is a system, not an event.** The research on workplace training says the same thing again and again: what happens before and after the day matters as much as the day itself (Salas et al. 2012). Education standards in the NHS and in universities say it too, in their own words.
+**Training is a system, not an event.** The research on workplace training says the same thing again and again: what happens before and after the day matters, not just the day itself (Salas et al. 2012). Education standards in the NHS and in universities say it too, in their own words.
 
-Medical education's standard planning model is Kern's six steps (Thomas, Kern et al. 2022). The six questions above are a plain-English version of it:
+A widely used planning model in medical education is Kern's six steps (Thomas, Kern et al. 2022). The six questions above are a plain-English version of it:
 
 | Kern's six steps | The six questions |
 |---|---|
@@ -59,16 +59,14 @@ Medical education's standard planning model is Kern's six steps (Thomas, Kern et
 | 5. Implementation | 6. What happens after the day? |
 | 6. Evaluation and feedback | 4. How will you know? |
 
-Kern's steps loop: what you learn from step 6 feeds the next version.
+Kern's steps work as a cycle: what you learn from step 6 feeds the next version.
 
 **Where Teaching That Lands fits.** The [three sessions](/sessions) teach people who teach to answer questions 3 to 6 well, for one session of their own. They don't cover an organisation's needs analysis, co-production, formal assessment, preparing educators, or keeping teaching under review. Those belong to an education lead.
 
 **What an education lead brings.** The judgement behind those rows. Knowing when a request isn't a teaching problem. Saying "not like that", with reasons. If you don't have one, the [Teaching Design Check](/facilitator/design-check) shows what's going unanswered.
 
-**Going further.** For the people who teach: a postgraduate certificate in health or clinical education; NHS England's Nursing and Midwifery Educator Framework; or Advance HE Fellowship, professional recognition for teaching that is widely held in UK universities and useful for anyone whose role spans clinical work and education. [Portfolio Mapping](/facilitator/portfolio-mapping) shows how the programme can count towards the last two.
-
-<!-- VERIFY: Kern 4th edition step names, and Salas et al. 2012, against the originals before merging. -->
+**Going further.** For the people who teach: a postgraduate certificate in health or clinical education; NHS England's Nursing and Midwifery Educator Framework; or Advance HE Fellowship, professional recognition designed around university teaching, and useful for anyone in a split clinical and university role. [Portfolio Mapping](/facilitator/portfolio-mapping) shows how the programme can count towards the last two.
 
 **Your education lead's version.** The [Teaching Design Check](/facilitator/design-check) turns these six questions into eleven, with what to consider and the red flags for each.
 
-*Sources: Salas, E., Tannenbaum, S. I., Kraiger, K., & Smith-Jentsch, K. A. (2012). The science of training and development in organizations. Psychological Science in the Public Interest, 13(2), 74–101. Thomas, P. A., Kern, D. E., Hughes, M. T., Tackett, S. A., & Chen, B. Y. (2022). Curriculum Development for Medical Education: A Six-Step Approach (4th ed.). Johns Hopkins University Press.*
+*Sources: Salas, E., Tannenbaum, S. I., Kraiger, K., & Smith-Jentsch, K. A. (2012). The science of training and development in organizations. Psychological Science in the Public Interest, 13(2), 74–101. Thomas, P. A., Kern, D. E., Hughes, M. T., Tackett, S. A., & Chen, B. Y. (2022). Curriculum Development for Medical Education: A Six-Step Approach (4th ed.). Johns Hopkins University Press. The step names are as listed in Scala, J. J., et al. (2022). Applying Kern's six steps to the development of a community-engaged, just-in-time, interdisciplinary COVID-19 curriculum. Journal of Medical Education and Curricular Development, 9. https://doi.org/10.1177/23821205221096370*
