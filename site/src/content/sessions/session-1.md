@@ -30,7 +30,7 @@ keyIdeas:
   - idea: "Ask who the slide is for."
     detail: "If it's there so you don't forget, it's a security blanket. Every slide should serve what your learners need to do."
     theory: line-it-up
-canvas: "Activities, part 1: your slides. You redesigned one slide from a session you teach (or would like to teach). It's the first piece of the canvas you'll complete by Session 3."
+canvas: "Sections 1–3: your learners, the need, and your slides. You redesigned one slide from a session you teach (or would like to teach), and started the worksheet you'll finish in Session 3."
 ask: "Before next week I will | identify and redesign | one or two slides | (my own, or an example I find) | and bring them."
 askSteps:
   - "Pick one or two slides: from a session you teach, or one you've sat through (the intranet, a lecture, a training day)."
@@ -41,8 +41,8 @@ askNoComputer: "No computer needed: sketching your redesign on paper counts."
 
 Hands-on from the first minute. We'll look at what makes teaching memorable, test our own memories, then use the science of how memory works to redesign a real slide, twice.
 
-Over the three sessions you'll rebuild one teaching session, step by step, on a one-page design canvas. Here it is if you'd like your own copy. Today: the slides.
+Over the three sessions you'll rebuild one teaching session, step by step, on a two-sided Redesign Worksheet. You fill in a bit at the end of each session. Here it is if you'd like a spare. Today: the slides.
 
-<a class="file-download" href="/handouts/design-canvas.pdf">The design canvas (A4)</a>
+<a class="file-download" href="/handouts/redesign-worksheet.pdf">Redesign Worksheet (two sides of A4)</a>
 
 The redesign is on paper: a kit of pieces to cut, choose and arrange. If you're comfortable with PowerPoint, you can do it on a laptop instead; the [computer task sheet](/facilitator/computer-tasks) has the steps.

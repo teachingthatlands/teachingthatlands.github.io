@@ -6,7 +6,7 @@ tagline: "One 10-minute ward teaching moment, planned box by box on the design c
 fox: "pencil.png"
 ---
 
-This is what a finished canvas looks like for a short piece of teaching. The ward, people and problem are made up. Fill the boxes in this order: the activities come fifth, not first. The canvas as six questions is on [Before You Plan a Teaching Day](/facilitator/before-you-plan).
+This is what a finished canvas looks like for a short piece of teaching. On the [Redesign Worksheet](/handouts/redesign-worksheet.pdf), boxes 3, 4 and 5 become rows in section 5, *Line it up*. The ward, people and problem are made up. Fill the boxes in this order: the activities come fifth, not first. The canvas as six questions is on [Before You Plan a Teaching Day](/facilitator/before-you-plan).
 
 **The session:** a staff nurse on a surgical ward runs a 10-minute teaching moment on fluid balance charts at the nurses' station, during the quiet spell after lunch.
 

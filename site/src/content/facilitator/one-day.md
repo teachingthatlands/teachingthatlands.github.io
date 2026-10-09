@@ -16,9 +16,9 @@ fox: "pointing_right.png"
 |---|---|
 | **Duration** | 09:30–16:00: about 5 hours of teaching, 80 minutes of breaks |
 | **Group** | 4–12. Solo, a full day works up to about 8; beyond that, bring a co-facilitator |
-| **Canvas** | All six boxes, in one sitting: one session each person teaches, or would like to teach |
+| **Worksheet** | The whole Redesign Worksheet, in one sitting: one session each person teaches, or would like to teach |
 | **Shape** | Session 1 as it is in the morning; Session 2's activities before lunch; making things after lunch, when people (and you) are flagging; outcomes, evidence and the reveal to finish |
-| **Commitment** | No ask cards. The completed canvas, a named person who will hold them to it, and **a follow-up email a week later** |
+| **Commitment** | No ask cards. The completed worksheet, a named person who will hold them to it, and **a follow-up email a week later** |
 | **Use it when** | Someone wants a one-off study day. Three sessions a week apart is still the better version (see below) |
 
 ## One day or three weeks?
@@ -45,7 +45,7 @@ By the end of the day, participants will have:
 2. **Identified** which strategy (retrieval, spacing, interleaving, elaboration) was at work in activities they have just experienced. *(Block 2: Blorps, Spot the strategy)*
 3. **Made** ten minutes of their own session active, and run or explained it to the group. *(Block 3: Make it, Run it on us)*
 4. **Rewritten** one to three outcomes with verbs someone could observe, each matched to evidence at the right level. *(Block 4: Rewrite, Does it line up?)*
-5. **Completed** a design canvas for their session, including a 30/60/90-day follow-through plan, a named person, and the support agreed with them. *(Block 4: Follow-through, the reveal)*
+5. **Completed** their Redesign Worksheet, including a 30/60/90-day follow-through plan, a named person, and the support agreed with them. *(Block 4: Follow-through, the reveal)*
 
 ## Before the session
 
@@ -68,7 +68,8 @@ Everything from the three blueprints, printed and cut **the day before**, so lun
 - Slide kits in envelopes, one per person or pair ([Session 1](/facilitator/session-1))
 - Blorps sheets A and B, and **two** retest slips each: before lunch and at the end of the day ([Session 2](/facilitator/session-2))
 - Spot the strategy, one set per table. Card 6 says "These sessions: one week apart". In a day, cross it out and write "This morning's slides, quizzed again before lunch", or read it out that way
-- Evidence sort and Can you see it?, one set per table; design canvases, two each; feedback forms ([Session 3](/facilitator/session-3))
+- Evidence sort and Can you see it?, one set per table; feedback forms ([Session 3](/facilitator/session-3))
+- Redesign Worksheets, double-sided, one each from the start of Block 1, plus spares
 
 ### Build ahead
 
@@ -78,7 +79,7 @@ Everything from the three blueprints, printed and cut **the day before**, so lun
 
 ### Set up before 09:30
 
-Lay each block's kit in a labelled bag or box under the tables: Block 1 envelopes, Block 2 blorps and cards, Block 3–4 sorts and canvases. At each break you hand out a bag, not cut paper.
+Lay each block's kit in a labelled bag or box under the tables: Block 1 envelopes, Block 2 blorps and cards, Block 3–4 sorts and spare worksheets. At each break you hand out a bag, not cut paper.
 
 ### The pre-day message
 
@@ -98,8 +99,8 @@ Kit on tables. Note who arrives confident with tech: you'll pair people later.
 
 ### 09:30–11:00 · Block 1: Slides (Day 1 deck)
 
-- Run [Session 1](/facilitator/session-1) as written, 0–79, with one change: **no ask**. Instead, SAY: "keep your slide on the table. It's the first piece of your canvas, and we'll come back to it."
-- That frees about five minutes: let Show us breathe, or start the break early.
+- Run [Session 1](/facilitator/session-1) as written, 0–79, with one change: **no ask**. Instead, SAY: "keep your slide on the table. We'll come back to it." Then four minutes on worksheet sections 1–3, as Session 1, 84–88.
+- That frees a minute or two: let Show us breathe, or start the break early.
 - WHY: this block is the most tested part of the programme. Don't touch it.
 
 ### 11:00–11:20 · Break
@@ -130,7 +131,7 @@ You eat and sit down. The afternoon kit is already under the tables. If people w
 
 ### 13:15–14:30 · Block 3: Make it, then evidence it
 
-- **13:15 · Finish making (20 min, participant-led).** Paper route: finish the design, ready to run on the group. Laptop route: show deck 2 slide 13 (one Menti slide in two minutes), then build it in Menti or Kahoot. This replaces the Day 2 ask. Pair confident with less confident.
+- **13:15 · Finish making (20 min, participant-led).** Paper route: finish the design, ready to run on the group. Laptop route: show deck 2 slide 13 (one Menti slide in two minutes), then build it in Menti or Kahoot. This replaces the Day 2 ask. Pair confident with less confident. Last three minutes: section 4 of the worksheet.
 - **13:35 · Run it on us (15 min, deck 3 slide 3).** 3–4 people run what they made on the group: on paper, read aloud with fingers up, or live from a phone. The room responds: one thing that works, one question. (Day 2's 60-second pitch, merged in.)
 - **13:50 · How would you know? → Delivered ≠ changed** (deck 3, slides 4–6). As [Session 3](/facilitator/session-3), 10–21. On the ladder: "what you did today", running what you made on us, was *use*: Level 3-type evidence, inside the room.
 - **14:02 · Can you see it? → Miller's pyramid** (slides 7–8). As Session 3, 21–33.
@@ -139,23 +140,23 @@ You eat and sit down. The afternoon kit is already under the tables. If people w
 
 ### 14:30–14:50 · Break
 
-The longest stretch of teaching is behind you. Bag 4: canvases and feedback forms.
+The longest stretch of teaching is behind you. Bag 4: spare worksheets and feedback forms.
 
 ### 14:50–16:00 · Block 4: Did it land? (Day 3 deck)
 
 | Time | What | Session 3 section |
 |---|---|---|
 | 14:50 | Blorps retest: "Same as this morning" (slide 9). Tally next to the before-lunch numbers | 0–2 |
-| 14:52 | Rewrite your outcomes, in pairs, on the canvas (slide 10) | 33–53 |
-| 15:12 | Does it line up? Their slide and their activity, next to the new outcomes (slide 11) | 53–59 |
+| 14:52 | Rewrite your outcomes, in pairs, on the worksheet: section 5 (slide 10) | 33–53 |
+| 15:12 | Does it line up? Fill the middle column from sections 3 and 4, then read across (slide 11) | 53–59 |
 | 15:18 | Follow-through: a two-way negotiation (slide 12) | 59–67 |
-| 15:26 | "You've been on a canvas all day" → the reveal → copy your canvas (slides 14–17) | 67–80 |
+| 15:26 | "You've been on a canvas all day" → the reveal → finish the worksheet (slides 14–17) | 67–80 |
 | 15:39 | One sentence each (slide 18) | 80–86 |
 | 15:45 | Feedback form → close (slide 19) | 86–90 |
 | 15:49 | Buffer, then finish on time | |
 
 - At the retest, SAY: "hours apart, either result is possible. The real test arrives in a week."
-- No new theory in this block: everything is applied to their own canvas.
+- No new theory in this block: everything is applied to their own worksheet.
 - IF SHORT: never cut the rewrite, the follow-through or the reveal. Halve "Does it line up?" first.
 - Close, SAY: "in a week you'll get an email with the same blorps quiz and one question: what did you change?"
 
@@ -181,7 +182,7 @@ Send exactly one week later. It's the spacing the day couldn't give, the real re
 
 - Tally the blorps replies by group (A vs B), next to the same-day numbers. Over a week, self-testing usually holds up better (Roediger & Karpicke 2006). Share the result in one line: it's a lovely reminder email in itself.
 - Question 2 is early Level 3 evidence. Keep it with the feedback forms.
-- Then as [Session 3](/facilitator/session-3): canvases against the rubric (Level 2), and the three questions at 30 and 90 days (Level 3). Details in the [Evaluation Toolkit](/facilitator/evaluation-toolkit).
+- Then as [Session 3](/facilitator/session-3): worksheets against the rubric (Level 2), and the three questions at 30 and 90 days (Level 3). Details in the [Evaluation Toolkit](/facilitator/evaluation-toolkit).
 
 ### Making it shorter
 

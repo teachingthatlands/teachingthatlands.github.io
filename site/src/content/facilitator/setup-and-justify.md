@@ -14,7 +14,7 @@ fox: "architect.png"
 
 A short CPD programme for anyone in health and care who teaches, or would like to. No teaching experience is needed. It starts from one question: *what do we need people to do differently, and how will our teaching make that happen?*
 
-Each participant brings one session they teach, or would like to teach, and rebuilds it over three weeks on a six-box design canvas. The canvas is the same six questions as [Before You Plan a Teaching Day](/facilitator/before-you-plan).
+Each participant brings one session they teach, or would like to teach, and rebuilds it over three weeks on a two-sided Redesign Worksheet, built around a six-box design canvas. The canvas is the same six questions as [Before You Plan a Teaching Day](/facilitator/before-you-plan).
 
 | Session | Participants |
 |---|---|
@@ -22,7 +22,7 @@ Each participant brings one session they teach, or would like to teach, and rebu
 | 2. Active Beats Passive | Make ten minutes of their session active, using retrieval, spacing and interleaving |
 | 3. Did It Land? | Write observable outcomes, decide what evidence would show them, and plan the follow-up |
 
-Each person leaves with a completed canvas and a named colleague (often their manager) who will hold them to it at 30 days, and give the time and support it needs.
+Each person leaves with a completed worksheet and a named colleague (often their manager) who will hold them to it at 30 days, and give the time and support it needs.
 
 ## What participants will be able to do
 

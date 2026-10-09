@@ -16,7 +16,7 @@ Completing the programme doesn't sign you off against any framework. A capabilit
 |---|---|---|
 | **E1** | A slide before and after your redesign, with the reasons for each change | Session 1 and its ask |
 | **E2** | The active learning thing you made, and what happened when you used it | Session 2's ask, Session 3's opener |
-| **E3** | Your completed design canvas: outcomes, the evidence for each, and your follow-through plan | Session 3 |
+| **E3** | Your completed Redesign Worksheet: outcomes lined up with activities and evidence, and your follow-through plan | Sessions 1–3 |
 | **E4** | Notes from your 30-day conversation with your named person, and what you did next | After the programme |
 
 **Time:** 4.5 hours of participatory learning in the sessions, plus your own time on the tasks between them.
@@ -64,7 +64,7 @@ The dimensions below are quoted from the PSF. Those Descriptor 1 requires are ma
 
 | PSF dimension | What the programme can contribute | How strong |
 |---|---|---|
-| **A1** Design and plan learning activities and/or programmes | E3, your completed canvas; E1 | Good |
+| **A1** Design and plan learning activities and/or programmes | E3, your completed worksheet; E1 | Good |
 | **A2** Teach and/or support learning through appropriate approaches and environments | E2 used with real learners; E4 | Good once delivered |
 | **A3** Assess and give feedback for learning | E3's evidence plan | Partial: feedback isn't taught |
 | **A5** Enhance practice through own continuing professional development | The asks, plus a written reflection on E1–E4 | Good, once written up |
@@ -95,6 +95,6 @@ For each piece of evidence, four short lines are enough:
 1. **What I did:** the activity, with the date.
 2. **What changed:** in my teaching, and for my learners.
 3. **What it shows:** the capability or principle, by its number or name.
-4. **Attached:** the slide, the activity, the canvas or my notes.
+4. **Attached:** the slide, the activity, the worksheet or my notes.
 
 Ask your supervisor or appraiser to look at E2 or E4 with you. Their comment turns your own account into corroborated evidence.

@@ -44,7 +44,7 @@ The pattern throughout is **experience → name it → use it**: participants do
 
 **The idea:** outcomes, activities and evidence should all line up with what learners need to be able to do.
 
-**Where it's used:** the design canvas in every session. Session 1, "Who is this slide for?" (72–80 min). Session 3, the verb wall (22–35 min), rewriting outcomes (40–58 min) and "Does it line up?" (58–65 min).
+**Where it's used:** the design canvas and Redesign Worksheet in every session. Session 1, "Who is this slide for?" (72–80 min). Session 3, the verb wall (22–35 min), rewriting outcomes (40–58 min) and "Does it line up?" (58–65 min).
 
 **If someone pushes back:** *"Clinical teaching is too unpredictable to plan outcomes."* Reply: *"Biggs is about planned teaching, which is what we're designing. Even at the bedside, the question works: what do I want this learner to be able to do afterwards?"*
 
