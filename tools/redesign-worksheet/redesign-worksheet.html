@@ -1,0 +1,202 @@
+<!doctype html>
+<!--
+  Source for site/public/handouts/redesign-worksheet.pdf (two sides of A4).
+  Build with `just redesign-worksheet-pdf`. If the PDF is later laid out by
+  hand, that becomes the master: delete this file and the Justfile recipe.
+-->
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<title>Redesign Worksheet</title>
+<style>
+  @page { size: A4; margin: 10mm 14mm 9mm; }
+  :root {
+    --ink: #4c4f69;
+    --soft: #6c6f85;
+    --rule: #bfc0ca;
+    --tint: #f1f1f4;
+    --line: 7.2mm;   /* handwriting line spacing */
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body { margin: 0; color: var(--ink); font: 8.6pt/1.32 Aptos, Inter, "Segoe UI", system-ui, sans-serif; }
+  h1, h3 { font-family: Georgia, Gelasio, serif; font-weight: 700; margin: 0; }
+  /* Inset 1mm so the box strokes sit inside the printable area, not on its clipped edge */
+  .page { height: 277mm; padding: 0 1mm; display: flex; flex-direction: column; break-after: page; position: relative; }
+  .page:last-child { break-after: auto; }
+  .runner { position: absolute; top: 0; right: 1mm; font-size: 6.5pt; color: var(--soft); }
+  h1 { font-size: 17pt; margin-bottom: 1.6mm; }
+  .fields { display: grid; grid-template-columns: 1fr 1.6fr 1fr; gap: 4mm; margin-bottom: 2mm; }
+  .field { border-bottom: 1px solid var(--rule); padding-bottom: 4mm; font-size: 7.4pt; color: var(--soft); }
+  .spine { font-style: italic; color: var(--soft); margin: 0 0 1.6mm; }
+  .map { display: flex; gap: 1.4mm; margin-bottom: 2.4mm; font-size: 6.8pt; color: var(--soft); align-items: center; }
+  .map span.box { border: 1px solid var(--rule); border-radius: 1.4mm; padding: 0.6mm 1.6mm; background: var(--tint); white-space: nowrap; }
+  .map b { color: var(--ink); }
+
+  .sec { border: 2px solid var(--ink); border-radius: 2.8mm; padding: 1.9mm 2.8mm 2mm; margin-bottom: 2.2mm; display: flex; flex-direction: column; break-inside: avoid; }
+  .grow { flex: 1 1 auto; }
+  .head { display: flex; justify-content: space-between; align-items: baseline; gap: 3mm; margin-bottom: 0.6mm; }
+  h3 { font-size: 10.5pt; }
+  h3 .n { margin-right: 1.6mm; }
+  .tag { font-size: 7pt; color: var(--soft); white-space: nowrap; }
+  .tag b { color: var(--ink); }
+  .p { font-weight: 700; margin: 1mm 0 0; }
+  .p i { font-weight: 400; color: var(--soft); }
+  .lines { background: repeating-linear-gradient(to bottom, transparent 0, transparent calc(var(--line) - 1px), var(--rule) calc(var(--line) - 1px), var(--rule) var(--line)); }
+  .l1 { height: var(--line); } .l2 { height: calc(var(--line) * 2); } .l3 { height: calc(var(--line) * 3); }
+  .fill { flex: 1 1 auto; min-height: var(--line); }
+  .note { font-style: italic; color: var(--soft); font-size: 7.6pt; margin: 1.2mm 0 0; }
+  .ticks { margin: 1.2mm 0 0; }
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 2.5mm; }
+  .two .sec { margin-bottom: 0; }
+  .two + .sec, .two { margin-bottom: 2.2mm; }
+  .cb { display: inline-block; width: 2.8mm; height: 2.8mm; border: 1px solid var(--ink); border-radius: 0.5mm; margin: 0 0.9mm 0 2.4mm; vertical-align: -0.4mm; }
+  .ticks .cb:first-of-type { margin-left: 1mm; }
+
+  /* Side 2: the alignment table */
+  table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+  th { text-align: left; font-size: 7.6pt; font-weight: 700; vertical-align: bottom; padding: 0 1.6mm 1mm; border-bottom: 1px solid var(--ink); }
+  th i { font-weight: 400; color: var(--soft); display: block; }
+  td { border-bottom: 1px solid var(--rule); border-left: 1px solid var(--rule); vertical-align: top; padding: 0.8mm 1.6mm; font-size: 7.2pt; color: var(--soft); }
+  td:first-child, th:first-child { border-left: none; padding-left: 0; }
+  .align td { height: 27mm; }
+  .align .num { font-family: Georgia, Gelasio, serif; font-weight: 700; color: var(--ink); font-size: 9pt; }
+  .follow td { height: 11mm; }
+  .follow td:first-child { font-weight: 700; color: var(--ink); font-size: 8pt; width: 15mm; }
+  .checks { display: grid; grid-template-columns: 1fr 1.25fr; gap: 2.5mm; margin-top: 1.8mm; }
+  .panel { border: 1px solid var(--rule); border-radius: 2.5mm; padding: 1.6mm 2.4mm; background: var(--tint); font-size: 7.8pt; }
+  .panel p { margin: 0 0 0.6mm; }
+  .panel ul { margin: 0; padding-left: 3.6mm; }
+  .panel li { margin-bottom: 0.4mm; }
+  .write { display: grid; grid-template-columns: auto 1fr; gap: 0 2mm; align-items: end; margin-top: 1.4mm; }
+  .write b { white-space: nowrap; }
+  .write .lines { height: var(--line); }
+  .foot { margin-top: auto; padding-top: 1.4mm; font-size: 6.8pt; color: var(--soft); display: flex; justify-content: space-between; }
+</style>
+</head>
+<body>
+
+<!-- ───────────── Side 1: built at the end of Sessions 1 and 2 ───────────── -->
+<section class="page">
+  <div class="runner">Teaching That Lands · CC BY 4.0</div>
+  <h1>Redesign Worksheet</h1>
+  <div class="fields">
+    <div class="field">Name</div>
+    <div class="field">The session I'm rebuilding</div>
+    <div class="field">Where, and how long</div>
+  </div>
+  <p class="spine">The question for all three weeks: what do we need people to do differently, and how will my teaching make that happen?</p>
+  <div class="map">
+    <span>The six canvas boxes, and where you fill them:</span>
+    <span class="box">Learners <b>1</b></span><span class="box">Need <b>2</b></span><span class="box">Outcomes <b>5</b></span><span class="box">Evidence <b>5</b></span><span class="box">Activities <b>3 4</b></span><span class="box">Follow-through <b>6</b></span>
+  </div>
+
+  <div class="two">
+    <div class="sec">
+      <div class="head"><h3><span class="n">1</span>Learners and context</h3><span class="tag"><b>Session 1</b></span></div>
+      <p class="p">Who will be there? <i>Roles, roughly how many.</i></p>
+      <div class="lines l1"></div>
+      <p class="p">What can they already do?</p>
+      <div class="lines l1"></div>
+      <p class="p">Where and when? What interrupts it?</p>
+      <div class="lines l1"></div>
+    </div>
+    <div class="sec">
+      <div class="head"><h3><span class="n">2</span>The need</h3><span class="tag"><b>Session 1</b></span></div>
+      <p class="p">What happens now? What should happen instead?</p>
+      <div class="lines l2"></div>
+      <p class="p">Can teaching fix that? If not, or not on its own, who needs to hear about it?</p>
+      <div class="lines l1"></div>
+    </div>
+  </div>
+  <p class="note" style="margin:-1mm 0 2mm">Boxes 1 and 2 are touched on in the sessions, not taught. To go deeper, ask your education lead about the Teaching Design Check.</p>
+
+  <div class="sec grow">
+    <div class="head"><h3><span class="n">3</span>My slides</h3><span class="tag"><b>Session 1</b> · before the ask</span></div>
+    <p class="p">The slide I redesigned: what I cut, and why</p>
+    <div class="lines l2"></div>
+    <p class="p">What's left, and who each piece is for</p>
+    <div class="lines l2"></div>
+    <p class="ticks"><b>Back-row check:</b> <i class="cb"></i>big enough <i class="cb"></i>strong contrast <i class="cb"></i>nothing relies on colour alone</p>
+    <p class="p">The next one or two slides I'll change</p>
+    <div class="lines fill"></div>
+  </div>
+
+  <div class="sec grow">
+    <div class="head"><h3><span class="n">4</span>What learners do</h3><span class="tag"><b>Session 2</b> · before the ask</span></div>
+    <p class="p">Ten minutes of my session where learners <i>do</i> something. <i>One sentence, starting with a verb.</i></p>
+    <div class="lines l2"></div>
+    <p class="ticks"><b>Strategy:</b> <i class="cb"></i>retrieval <i class="cb"></i>spacing <i class="cb"></i>interleaving <i class="cb"></i>elaboration</p>
+    <p class="p">Where it really happens, and what happens if someone is called away</p>
+    <div class="lines l2"></div>
+    <p class="p">What I need <i>(kit, cards, a timer, someone to help)</i></p>
+    <div class="lines fill"></div>
+    <p class="ticks"><b>Tool, if any:</b> <i class="cb"></i>paper <i class="cb"></i>Menti <i class="cb"></i>Kahoot <i class="cb"></i>other ____________</p>
+    <p class="note">Your Menti or Kahoot goes here as what learners do, not as the tool: "answer three quick questions at the start of handover (retrieval), on Kahoot or on paper".</p>
+  </div>
+</section>
+
+<!-- ───────────── Side 2: built in Session 3 ───────────── -->
+<section class="page">
+  <div class="sec">
+    <div class="head"><h3><span class="n">5</span>Line it up</h3><span class="tag"><b>Session 3</b> · rewrite your outcomes, then check across</span></div>
+    <table class="align">
+      <colgroup><col style="width:4mm"><col style="width:31%"><col style="width:15%"><col style="width:25%"><col></colgroup>
+      <tr>
+        <th></th>
+        <th>By the end, learners will be able to… <i>a verb you could watch</i></th>
+        <th>Level <i>knows about · knows how · shows how · does</i></th>
+        <th>What they do to practise it <i>from 3 and 4</i></th>
+        <th>How I'll know, and when</th>
+      </tr>
+      <tr><td class="num">1</td><td></td><td></td><td></td><td></td></tr>
+      <tr><td class="num">2</td><td></td><td></td><td></td><td></td></tr>
+      <tr><td class="num">3</td><td></td><td></td><td></td><td></td></tr>
+    </table>
+    <div class="checks">
+      <div class="panel">
+        <p><b>Read across each row.</b></p>
+        <ul>
+          <li>Could you watch someone do the verb? <i>Understand</i>, <i>be aware of</i>, <i>appreciate</i>: rewrite.</li>
+          <li>Does the activity practise that verb?</li>
+          <li>Is the evidence at the same level? A quiz can't show "does".</li>
+        </ul>
+      </div>
+      <div class="panel">
+        <p><b>Example row</b> (a 10-minute ward teaching moment):</p>
+        <p><b>Total</b> a 24-hour fluid balance chart · <i>shows how</i> · total a mock chart in pairs, then swap and check · checked on the spot; then the ward's documentation audit at 2 and 4 weeks</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="sec grow">
+    <div class="head"><h3><span class="n">6</span>Follow-through</h3><span class="tag"><b>Session 3</b></span></div>
+    <table class="follow">
+      <colgroup><col style="width:15mm"><col style="width:50%"><col></colgroup>
+      <tr><th></th><th>What learners will revisit</th><th>How <i>a quiz, a huddle question, a team message…</i></th></tr>
+      <tr><td>30 days</td><td></td><td></td></tr>
+      <tr><td>60 days</td><td></td><td></td></tr>
+      <tr><td>90 days</td><td></td><td></td></tr>
+    </table>
+    <p class="p">Who will hold me to it? <i>Name or role.</i></p>
+    <div class="lines l1"></div>
+    <p class="p">What I need from them <i>(time, release, a slot at the team meeting…)</i></p>
+    <div class="lines fill"></div>
+    <p class="p">When I'll tell them</p>
+    <div class="lines l1"></div>
+  </div>
+
+  <div class="sec">
+    <div class="head"><h3>My commitment</h3><span class="tag"><b>Session 3</b> · close</span></div>
+    <p class="p">The one thing I'll do differently is…</p>
+    <div class="lines l2"></div>
+  </div>
+
+  <div class="foot">
+    <span>Photograph this sheet, or keep it where you'll see it. It's portfolio evidence too.</span>
+    <span>teachingthatlands.uk · CC BY 4.0</span>
+  </div>
+</section>
+
+</body>
+</html>

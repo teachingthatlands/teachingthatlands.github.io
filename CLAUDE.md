@@ -12,6 +12,8 @@
 
 - **Teaching Design Check PDF** (`site/public/handouts/design-check.pdf`) is printed from `tools/design-check/design-check.html` by `just design-check-pdf`. Its wording is a shortened copy of `site/src/content/facilitator/design-check.md`: change one, change the other, then reprint. If the PDF is ever laid out by hand, that becomes the master: delete the HTML source and the recipe.
 
+- **Redesign Worksheet PDF** (`site/public/handouts/redesign-worksheet.pdf`) is printed from `tools/redesign-worksheet/redesign-worksheet.html` by `just redesign-worksheet-pdf`. Same rule: if it's ever laid out by hand, that becomes the master.
+
 ## House rules
 
 - **The person's hand-edited decks and printables are the masters.** Fold changes into them; never regenerate over them.
