@@ -153,6 +153,17 @@ nav {
 }
 .theme-btn:hover { color: var(--text); }
 
+/* Search icon: in the nav at every width */
+.search-link {
+  display: flex;
+  align-items: center;
+  color: var(--subtext0);
+  padding: 0.25rem;
+  border-radius: 4px;
+  transition: color 0.15s;
+}
+.search-link:hover, .search-link[aria-current="page"] { color: var(--text); }
+
 /* Hamburger — hidden on desktop */
 .hamburger {
   display: none;
