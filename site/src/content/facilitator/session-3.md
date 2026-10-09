@@ -113,7 +113,7 @@ Ask 2–3 people during the week whether they're happy to run their Menti or Kah
 - SAY: forgetting is the default. What will *your learners* revisit at 30, 60 and 90 days, and how (a Kahoot, an email, a team message)?
 - ASK: **who will hold you to it? And what do you need from them?** Write their name, and the support you'll ask for (time, release, a slot at the team meeting), in section 6 of the worksheet.
 - SAY: it's a negotiation, not a check-up. Your named person (often your manager) can hold you to it if they provide what you need.
-- WHY: transfer depends on the work environment as much as the training (Baldwin & Ford 1988; the New World Kirkpatrick "required drivers"). Learners can't create protected time on their own; the named person removes barriers as well as asking. → [spaced practice](/theories/spread-it-out)
+- WHY: transfer depends on the work environment, not just the training ([Baldwin & Ford 1988](/theories/back-at-work); the New World Kirkpatrick "required drivers"). Learners can't create protected time on their own; the named person removes barriers as well as asking. → [spaced practice](/theories/spread-it-out)
 
 ### 67–80 · The reveal → your commitment
 
