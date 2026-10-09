@@ -45,6 +45,14 @@ import Base from '../layouts/Base.astro';
             Searching happens on your device: nothing you type is sent anywhere.
           </p>
         </div>
+        <img
+          id="search-fox"
+          class="library-fox"
+          src="/images/fox/thinking_bubble_right.png"
+          alt=""
+          aria-hidden="true"
+          style="opacity:0;"
+        />
       </div>
 
       <div id="search"></div>
@@ -57,6 +65,13 @@ import Base from '../layouts/Base.astro';
   <Fragment slot="scripts">
     <script is:inline src="/pagefind/pagefind-ui.js"></script>
     <script is:inline>
+      // Fade the fox in, as on the other library pages
+      (function () {
+        var fox = document.getElementById('search-fox');
+        if (!fox) return;
+        if (!window.anime || typeof window.anime !== 'function') { fox.style.opacity = '1'; return; }
+        window.anime({ targets: fox, opacity: [0, 1], translateY: [18, 0], duration: 700, easing: 'easeOutCubic', delay: 200 });
+      })();
       (function () {
         if (typeof PagefindUI === 'undefined') {
           document.getElementById('search-unavailable').hidden = false;
