@@ -195,7 +195,7 @@ The overall shape follows Kern's six steps (Thomas et al. 2022) and the view of 
 | 2 | Thomas et al. (2022), steps 1–2; Knowles (1984) |
 | 3 | NMC (2018, updated 2023), standards 1.12 and 5.5 (written for approved programmes, but the principle travels); Higher Education Academy (2016); QAA (2024), principle 2; NHS England, *Education Quality Framework*, standard 5.5 |
 | 4 | Miller (1990); Biggs (1996); Wiggins & McTighe (2005) |
-| 5 | NHS England, *Education Quality Framework*, domain 4; NMC (2018, republished 2023), *Standards for student supervision and assessment*; Academy of Medical Educators (2021); Advance HE (2023), V5 and A5; QAA (2024), principle 6 |
+| 5 | NHS England, *Education Quality Framework*, standards 4.2 and 4.7; NMC (2018, republished 2023), *Standards for student supervision and assessment*; Academy of Medical Educators (2021); Advance HE (2023), V5 and A5; QAA (2024), principle 6 |
 | 6 | Cervero & Gaines (2015); Chi & Wylie (2014); Keith & Frese (2008); NHS England (2024), *Safe Learning Environment Charter*; INACSL (2021); ASPiH (2023); Tannenbaum & Cerasoli (2013); CAIPE (2017); Sailer & Homner (2020) |
 | 7 | Sweller (1988); Mayer (2009); NHS England, *Education Quality Framework*, standard 5.3 (written for placement providers, but the principle travels) |
 | 8 | CAST (2024); NHS England, *Digital accessibility* (WCAG 2.1 AA); Advance HE (2024), *Inclusive learning and teaching*; Universities UK & NUS (2019); Equality Act 2010 |
