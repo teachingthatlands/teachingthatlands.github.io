@@ -187,19 +187,17 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 
 ## Where this comes from
 
-<!-- VERIFY before merging: Advance HE "Student engagement through partnership" (title and year), and NHS England Education Quality Framework (year, and the wording of standard 5.1). Everything else was checked against the originals. -->
-
 The overall shape follows Kern's six steps (Thomas et al. 2022) and the view of training as a system, before, during and after the event (Salas et al. 2012). See [the bigger picture](/facilitator/before-you-plan#the-bigger-picture).
 
 | Row | Main sources |
 |---|---|
 | 1 | Mager & Pipe (1997); Gilbert (1978); Moore, Action Mapping; Kirkpatrick Partners (2021) |
 | 2 | Thomas et al. (2022), steps 1–2; Knowles (1984) |
-| 3 | NMC (2018, updated 2023), standards 1.12 and 5.5 (written for approved programmes, but the principle travels); Advance HE, *Student engagement through partnership*; QAA (2024), principle 2 |
+| 3 | NMC (2018, updated 2023), standards 1.12 and 5.5 (written for approved programmes, but the principle travels); Higher Education Academy (2016); QAA (2024), principle 2 |
 | 4 | Miller (1990); Biggs (1996); Wiggins & McTighe (2005) |
 | 5 | NHS England, *Education Quality Framework*, domain 4; NMC (2018, republished 2023), *Standards for student supervision and assessment*; Academy of Medical Educators (2021); Advance HE (2023), V5 and A5; QAA (2024), principle 6 |
-| 6 | Cervero & Gaines (2015); Chi & Wylie (2014); Keith & Frese (2008); INACSL (2021); ASPiH (2023); Tannenbaum & Cerasoli (2013); CAIPE (2017); Sailer & Homner (2020) |
-| 7 | Sweller (1988); Mayer (2009); NHS England, *Education Quality Framework*, standard 5.1 |
+| 6 | Cervero & Gaines (2015); Chi & Wylie (2014); Keith & Frese (2008); NHS England (2024), *Safe Learning Environment Charter*; INACSL (2021); ASPiH (2023); Tannenbaum & Cerasoli (2013); CAIPE (2017); Sailer & Homner (2020) |
+| 7 | Sweller (1988); Mayer (2009); NHS England, *Education Quality Framework*, domain 5 |
 | 8 | CAST (2024); NHS England, *Digital accessibility* (WCAG 2.1 AA); Advance HE (2024), *Inclusive learning and teaching*; Universities UK & NUS (2019); Equality Act 2010 |
 | 9 | Black & Wiliam (1998); Advance HE (n.d.), *Enhancing assessment*; Hattie & Timperley (2007) |
 | 10 | Baldwin & Ford (1988); Blume et al. (2010); Grossman & Salas (2011); Kirkpatrick Partners (2021), "required drivers"; Thalheimer (2018); Brinkerhoff (2003) |
@@ -211,7 +209,6 @@ The overall shape follows Kern's six steps (Thomas et al. 2022) and the view of 
 - Advance HE (2023). *Professional Standards Framework for teaching and supporting learning in higher education 2023*.
 - Advance HE (2024). *Essential frameworks for enhancing student success: Inclusive learning and teaching*.
 - Advance HE (n.d.). *Essential frameworks for enhancing student success: Enhancing assessment in higher education*.
-- Advance HE (n.d.). *Essential frameworks for enhancing student success: Student engagement through partnership*.
 - Allen, M. W. (2012). *Leaving ADDIE for SAM*. ASTD Press.
 - ASPiH (2023). *ASPiH Standards 2023: Guiding simulation-based practice in health and care*.
 - Baldwin, T. T., & Ford, J. K. (1988). Transfer of training: A review and directions for future research. *Personnel Psychology*, 41(1), 63–105.
@@ -226,6 +223,7 @@ The overall shape follows Kern's six steps (Thomas et al. 2022) and the view of 
 - Equality Act 2010, section 20 (reasonable adjustments) and section 149 (public sector equality duty).
 - Gilbert, T. F. (1978). *Human Competence: Engineering Worthy Performance*. McGraw-Hill.
 - Grossman, R., & Salas, E. (2011). The transfer of training: What really matters. *International Journal of Training and Development*, 15(2), 103–120.
+- Higher Education Academy (2016). *Framework for student engagement through partnership*. Now published by Advance HE. [advance-he.ac.uk](https://www.advance-he.ac.uk/sites/default/files/2020-05/Student%20Engagement%20Through%20Partnership%20Framework.pdf)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research*, 77(1), 81–112.
 - INACSL Standards Committee (2021). Healthcare Simulation Standards of Best Practice: Simulation design. *Clinical Simulation in Nursing*, 58, 14–21.
 - Keith, N., & Frese, M. (2008). Effectiveness of error management training: A meta-analysis. *Journal of Applied Psychology*, 93(1), 59–69.
@@ -236,7 +234,8 @@ The overall shape follows Kern's six steps (Thomas et al. 2022) and the view of 
 - Miller, G. E. (1990). The assessment of clinical skills/competence/performance. *Academic Medicine*, 65(9 Suppl), S63–S67.
 - Moore, C. Action mapping. [blog.cathy-moore.com](https://blog.cathy-moore.com/)
 - NHS England. *Digital accessibility*. [england.nhs.uk/long-read/digital-accessibility](https://www.england.nhs.uk/long-read/digital-accessibility/)
-- NHS England. *Education Quality Framework*.
+- NHS England. *Education Quality Framework*. First published by Health Education England in 2016, updated 2021, rebranded by NHS England in 2024. [hee.nhs.uk](https://www.hee.nhs.uk/our-work/quality/education-quality-strategy-framework)
+- NHS England (2024). *Safe Learning Environment Charter*. [england.nhs.uk/long-read/safe-learning-environment-charter](https://www.england.nhs.uk/long-read/safe-learning-environment-charter/)
 - Nursing and Midwifery Council (2018, updated 2023). *Standards framework for nursing and midwifery education*.
 - Nursing and Midwifery Council (2018, republished 2023). *Standards for student supervision and assessment*.
 - QAA (2024). *The UK Quality Code for Higher Education*. [qaa.ac.uk](https://www.qaa.ac.uk/docs/qaa/quality-code/uk-quality-code-for-higher-education-2024.pdf)
