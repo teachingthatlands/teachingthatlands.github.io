@@ -51,4 +51,4 @@ A common misreading is "never train". That's not the point. When people really c
 
 ## Where it comes from
 
-Robert Mager and Peter Pipe, American training specialists, published *Analyzing Performance Problems, or You Really Oughta Wanna* in 1970. Its flowchart asks what the gap is, whether it matters, and whether it's a skill problem, before anyone designs training. The third edition came out in 1997. Thomas Gilbert, a psychologist, set out his model of what drives performance at work in *Human Competence* (1978). Cathy Moore, an instructional designer, developed action mapping for workplace training and writes about it on her blog.
+Robert Mager and Peter Pipe, American training specialists, wrote *Analyzing Performance Problems, or You Really Oughta Wanna*. Its flowchart asks what the gap is, whether it matters, and whether it's a skill problem, before anyone designs training. The third edition (1997) is the one cited here. Thomas Gilbert, a psychologist, set out his model of what drives performance at work in *Human Competence* (1978). Cathy Moore, an instructional designer, developed action mapping for workplace training and writes about it on her blog.
