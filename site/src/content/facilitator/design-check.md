@@ -187,22 +187,66 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 
 ## Where this comes from
 
-<!-- VERIFY: these were gathered from search summaries, not the full texts. Check every reference against the original before merging. -->
+<!-- VERIFY before merging: Advance HE "Student engagement through partnership" (title and year), and NHS England Education Quality Framework (year, and the wording of standard 5.1). Everything else was checked against the originals. -->
 
-The overall shape follows Kern's six steps (Thomas, Kern et al. 2022) and the view of training as a system before, during and after the event (Salas et al. 2012). See [the bigger picture](/facilitator/before-you-plan#the-bigger-picture).
+The overall shape follows Kern's six steps (Thomas et al. 2022) and the view of training as a system, before, during and after the event (Salas et al. 2012). See [the bigger picture](/facilitator/before-you-plan#the-bigger-picture).
 
 | Row | Main sources |
 |---|---|
-| 1 | Mager & Pipe (1984), *Analyzing Performance Problems* (2nd ed.); Gilbert (1978), Behavior Engineering Model; Moore, Action Mapping; Kirkpatrick & Kirkpatrick (2016) |
-| 2 | Kern, steps 1–2; Knowles (andragogy); Gegenfurtner et al. (2016) on mandatory training |
-| 3 | NMC (2018, updated 2023), *Standards framework for nursing and midwifery education* 1.12 and 5.5 (written for approved programmes, but the principle travels); Advance HE, *Student Engagement through Partnership*; QAA, *UK Quality Code* (2024), principles 2 and 7; HEE, *Patient and Public Involvement in nurse education* |
-| 4 | Miller (1990); Biggs (constructive alignment); Wiggins & McTighe (backward design) |
-| 5 | NHS England, *Education Quality Framework*, domain 4; NMC, *Standards for student supervision and assessment*; Academy of Medical Educators, *Professional Standards* (2021); Advance HE, *PSF 2023* (V5, A5); QAA (2024), principle 7 |
-| 6 | Cervero & Gaines (2015); Chi & Wylie (2014), ICAP; Keith & Frese (2008); INACSL (2021) and ASPiH (2023) simulation standards; Tannenbaum & Cerasoli (2013); CAIPE; Sailer & Homner (2020) |
-| 7 | Sweller (cognitive load); Mayer (multimedia principles); NHS England, *Education Quality Framework*, standard 5.1 |
-| 8 | CAST, Universal Design for Learning; NHS England, digital accessibility guidance; Advance HE, *Inclusive Learning and Teaching* (2024); UUK/NUS, *#ClosingTheGap* (2019); Equality Act 2010, Public Sector Equality Duty |
-| 9 | Black & Wiliam (1998); Advance HE, *Assessment*; Hattie & Timperley (2007) |
-| 10 | Baldwin & Ford (1988); Blume et al. (2010); Grossman & Salas (2011); Kirkpatrick's "required drivers"; Thalheimer, LTEM; Brinkerhoff, Success Case Method |
-| 11 | Kern, step 6; QAA (2024), principle 5; Salmon, Carpe Diem; Allen (2012), SAM; Advance HE, *PSF 2023* (K3, K5) |
+| 1 | Mager & Pipe (1997); Gilbert (1978); Moore, Action Mapping; Kirkpatrick Partners (2021) |
+| 2 | Thomas et al. (2022), steps 1–2; Knowles (1984) |
+| 3 | NMC (2018, updated 2023), standards 1.12 and 5.5 (written for approved programmes, but the principle travels); Advance HE, *Student engagement through partnership*; QAA (2024), principle 2 |
+| 4 | Miller (1990); Biggs (1996); Wiggins & McTighe (2005) |
+| 5 | NHS England, *Education Quality Framework*, domain 4; NMC (2018, republished 2023), *Standards for student supervision and assessment*; Academy of Medical Educators (2021); Advance HE (2023), V5 and A5; QAA (2024), principle 6 |
+| 6 | Cervero & Gaines (2015); Chi & Wylie (2014); Keith & Frese (2008); INACSL (2021); ASPiH (2023); Tannenbaum & Cerasoli (2013); CAIPE (2017); Sailer & Homner (2020) |
+| 7 | Sweller (1988); Mayer (2009); NHS England, *Education Quality Framework*, standard 5.1 |
+| 8 | CAST (2024); NHS England, *Digital accessibility* (WCAG 2.1 AA); Advance HE (2024), *Inclusive learning and teaching*; Universities UK & NUS (2019); Equality Act 2010 |
+| 9 | Black & Wiliam (1998); Advance HE (n.d.), *Enhancing assessment*; Hattie & Timperley (2007) |
+| 10 | Baldwin & Ford (1988); Blume et al. (2010); Grossman & Salas (2011); Kirkpatrick Partners (2021), "required drivers"; Thalheimer (2018); Brinkerhoff (2003) |
+| 11 | Thomas et al. (2022), step 6; QAA (2024), principle 5; Allen (2012); Advance HE (2023), K3 and K5 |
+
+### Full references
+
+- Academy of Medical Educators (2021). *Professional Standards* (4th ed.). [medicaleducators.org/Professional-Standards](https://medicaleducators.org/Professional-Standards)
+- Advance HE (2023). *Professional Standards Framework for teaching and supporting learning in higher education 2023*.
+- Advance HE (2024). *Essential frameworks for enhancing student success: Inclusive learning and teaching*.
+- Advance HE (n.d.). *Essential frameworks for enhancing student success: Enhancing assessment in higher education*.
+- Advance HE (n.d.). *Essential frameworks for enhancing student success: Student engagement through partnership*.
+- Allen, M. W. (2012). *Leaving ADDIE for SAM*. ASTD Press.
+- ASPiH (2023). *ASPiH Standards 2023: Guiding simulation-based practice in health and care*.
+- Baldwin, T. T., & Ford, J. K. (1988). Transfer of training: A review and directions for future research. *Personnel Psychology*, 41(1), 63–105.
+- Biggs, J. (1996). Enhancing teaching through constructive alignment. *Higher Education*, 32(3), 347–364.
+- Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education*, 5(1), 7–74.
+- Blume, B. D., Ford, J. K., Baldwin, T. T., & Huang, J. L. (2010). Transfer of training: A meta-analytic review. *Journal of Management*, 36(4), 1065–1105.
+- Brinkerhoff, R. O. (2003). *The Success Case Method*. Berrett-Koehler.
+- CAIPE (2017). *Interprofessional Education Guidelines*. Centre for the Advancement of Interprofessional Education.
+- CAST (2024). *Universal Design for Learning Guidelines version 3.0*. [udlguidelines.cast.org](https://udlguidelines.cast.org/)
+- Cervero, R. M., & Gaines, J. K. (2015). The impact of CME on physician performance and patient health outcomes: An updated synthesis of systematic reviews. *Journal of Continuing Education in the Health Professions*, 35(2), 131–138.
+- Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist*, 49(4), 219–243.
+- Equality Act 2010, section 20 (reasonable adjustments) and section 149 (public sector equality duty).
+- Gilbert, T. F. (1978). *Human Competence: Engineering Worthy Performance*. McGraw-Hill.
+- Grossman, R., & Salas, E. (2011). The transfer of training: What really matters. *International Journal of Training and Development*, 15(2), 103–120.
+- Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research*, 77(1), 81–112.
+- INACSL Standards Committee (2021). Healthcare Simulation Standards of Best Practice: Simulation design. *Clinical Simulation in Nursing*, 58, 14–21.
+- Keith, N., & Frese, M. (2008). Effectiveness of error management training: A meta-analysis. *Journal of Applied Psychology*, 93(1), 59–69.
+- Kirkpatrick Partners (2021). *An introduction to the New World Kirkpatrick Model*. [kirkpatrickpartners.com](https://www.kirkpatrickpartners.com/wp-content/uploads/2021/11/Introduction-to-The-New-World-Kirkpatrick%C2%AE-Model.pdf)
+- Knowles, M. S. (1984). *The Adult Learner: A Neglected Species* (3rd ed.). Gulf Publishing.
+- Mager, R. F., & Pipe, P. (1997). *Analyzing Performance Problems* (3rd ed.). Center for Effective Performance.
+- Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press.
+- Miller, G. E. (1990). The assessment of clinical skills/competence/performance. *Academic Medicine*, 65(9 Suppl), S63–S67.
+- Moore, C. Action mapping. [blog.cathy-moore.com](https://blog.cathy-moore.com/)
+- NHS England. *Digital accessibility*. [england.nhs.uk/long-read/digital-accessibility](https://www.england.nhs.uk/long-read/digital-accessibility/)
+- NHS England. *Education Quality Framework*.
+- Nursing and Midwifery Council (2018, updated 2023). *Standards framework for nursing and midwifery education*.
+- Nursing and Midwifery Council (2018, republished 2023). *Standards for student supervision and assessment*.
+- QAA (2024). *The UK Quality Code for Higher Education*. [qaa.ac.uk](https://www.qaa.ac.uk/docs/qaa/quality-code/uk-quality-code-for-higher-education-2024.pdf)
+- Sailer, M., & Homner, L. (2020). The gamification of learning: A meta-analysis. *Educational Psychology Review*, 32, 77–112.
+- Salas, E., Tannenbaum, S. I., Kraiger, K., & Smith-Jentsch, K. A. (2012). The science of training and development in organizations: What matters in practice. *Psychological Science in the Public Interest*, 13(2), 74–101.
+- Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257–285.
+- Tannenbaum, S. I., & Cerasoli, C. P. (2013). Do team and individual debriefs enhance performance? A meta-analysis. *Human Factors*, 55(1), 231–245.
+- Thalheimer, W. (2018). *The learning-transfer evaluation model: Sending messages to enable learning effectiveness*. Work-Learning Research. (LTEM version 11.)
+- Thomas, P. A., Kern, D. E., Hughes, M. T., Tackett, S. A., & Chen, B. Y. (2022). *Curriculum Development for Medical Education: A Six-Step Approach* (4th ed.). Johns Hopkins University Press.
+- Universities UK & National Union of Students (2019). *Black, Asian and minority ethnic student attainment at UK universities: #ClosingTheGap*.
+- Wiggins, G., & McTighe, J. (2005). *Understanding by Design* (2nd ed.). ASCD.
 
 *Part of Teaching That Lands, CC BY 4.0. Adapt it for your organisation.*
