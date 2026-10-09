@@ -12,14 +12,14 @@
 import Base from '../layouts/Base.astro';
 ---
 
-<Base title="Search" bodyClass="session-page search-page" currentNav="search" searchable={false}>
+<Base title="Search" bodyClass="session-page search-page" currentNav="search" brandRole="Search" brandRoleClass="brand-role--teal" searchable={false}>
 
   <Fragment slot="head">
     <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
     <style is:global>
       .search-page .pagefind-ui {
         --pagefind-ui-scale: 0.9;
-        --pagefind-ui-primary: var(--sky);
+        --pagefind-ui-primary: var(--teal);
         --pagefind-ui-text: var(--text);
         --pagefind-ui-background: var(--base);
         --pagefind-ui-border: var(--surface1);
@@ -28,8 +28,15 @@ import Base from '../layouts/Base.astro';
         --pagefind-ui-border-radius: 8px;
         --pagefind-ui-font: 'Inter', system-ui, sans-serif;
       }
-      .search-page .pagefind-ui__result-link { color: var(--sky); }
-      .search-page .pagefind-ui__result-excerpt mark { background: color-mix(in srgb, var(--sky) 22%, transparent); color: inherit; }
+      /* Search spans every section, so it has its own colour: teal */
+      .search-page .library-overline { color: var(--teal); }
+      /* Result titles read the UI's text colour: make that teal for titles only */
+      .search-page .pagefind-ui__result-title { --pagefind-ui-text: var(--teal); }
+      /* Pagefind leaves focus to the browser (Safari draws blue): use ours */
+      .search-page .pagefind-ui .pagefind-ui__search-input:focus { outline: 2px solid var(--teal); outline-offset: 2px; }
+      .search-page .pagefind-ui__result-excerpt mark { background: color-mix(in srgb, var(--teal) 22%, transparent); color: inherit; }
+      /* The thinking fox's picture includes its bubble: draw it larger so the fox matches the others */
+      .search-page .library-fox { width: 150px; }
       .search-page .search-unavailable { color: var(--subtext0); }
     </style>
   </Fragment>

@@ -627,6 +627,7 @@ a.theory-row:hover .theory-row-arrow {
 .brand-role--sky     { color: var(--sky); }
 .brand-role--peach   { color: var(--peach); }
 .brand-role--lavender { color: var(--lavender); }
+.brand-role--teal    { color: var(--teal); }   /* Search: spans every section */
 
 /* ── Library landing section ─────────────────────────────────────── */
 /* Outer section: full-width background (matches session-section).   */
