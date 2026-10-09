@@ -1,0 +1,212 @@
+<!doctype html>
+<!--
+  Source for site/public/handouts/design-check.pdf (two sides of A4).
+  Build with `just design-check-pdf`. The wording follows
+  site/src/content/facilitator/design-check.md, shortened to fit: change both.
+  If the PDF is later laid out by hand, that becomes the master: delete this
+  file and the Justfile recipe rather than regenerating over it.
+-->
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<title>Teaching Design Check</title>
+<style>
+  @page { size: A4; margin: 10mm 14mm 9mm; }
+  :root {
+    --ink: #4c4f69;
+    --soft: #6c6f85;
+    --rule: #bfc0ca;
+    --tint: #f1f1f4;
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body {
+    margin: 0;
+    color: var(--ink);
+    font: 8.6pt/1.32 Aptos, Inter, "Segoe UI", system-ui, sans-serif;
+  }
+  h1, h2, h3 { font-family: Georgia, Gelasio, serif; font-weight: 700; margin: 0; }
+  /* Inset 1mm so the box strokes sit inside the printable area, not on its clipped edge */
+  .page { height: 277mm; padding: 0 1mm; display: flex; flex-direction: column; break-after: page; position: relative; }
+  .page:last-child { break-after: auto; }
+  .runner { position: absolute; top: 0; right: 1mm; font-size: 6.5pt; color: var(--soft); }
+  h1 { font-size: 17pt; margin-bottom: 1mm; }
+  .lede { font-style: italic; color: var(--soft); margin: 0 0 2.2mm; max-width: 165mm; }
+  .how { display: grid; grid-template-columns: 1fr 1fr; gap: 2.5mm; margin-bottom: 2.6mm; }
+  .panel { border: 1px solid var(--rule); border-radius: 2.5mm; padding: 2mm 2.6mm; background: var(--tint); }
+  .panel p { margin: 0 0 1mm; }
+  .panel p:last-child { margin: 0; }
+  .panel ol { margin: 0.6mm 0 0; padding-left: 4mm; }
+  .panel li { margin-bottom: 0.5mm; }
+  h2 {
+    font-size: 10pt; text-transform: uppercase; letter-spacing: 0.12em;
+    border-bottom: 1px solid var(--rule); padding-bottom: 0.6mm; margin: 0.8mm 0 1.8mm;
+  }
+  .row {
+    border: 2px solid var(--ink); border-radius: 2.8mm;
+    padding: 1.9mm 2.8mm 1.7mm; margin-bottom: 2mm;
+    break-inside: avoid; flex: 1 1 auto; display: flex; flex-direction: column;
+  }
+  .row-head { display: flex; justify-content: space-between; align-items: baseline; gap: 3mm; }
+  h3 { font-size: 10.5pt; }
+  h3 .n { margin-right: 1.6mm; }
+  .tag { font-size: 7pt; color: var(--soft); white-space: nowrap; }
+  .tag b { color: var(--ink); }
+  .q { font-weight: 700; margin: 0.5mm 0 0.6mm; }
+  .consider, .flags { margin: 0 0 0.5mm; }
+  .consider { color: var(--ink); }
+  .label { font-weight: 700; color: var(--soft); text-transform: uppercase; font-size: 6.6pt; letter-spacing: 0.08em; margin-right: 1mm; }
+  .flags { font-style: italic; }
+  .mark { margin-top: auto; padding-top: 1mm; display: flex; align-items: flex-end; gap: 3mm; font-size: 8pt; }
+  .boxes { white-space: nowrap; }
+  .evidence { flex: 1; border-bottom: 1px solid var(--rule); padding-bottom: 0.4mm; color: var(--soft); font-size: 7pt; }
+  .signoff { border: 2px solid var(--ink); border-radius: 2.8mm; padding: 2mm 2.8mm; margin-top: 0.6mm; break-inside: avoid; }
+  .signoff h3 { margin-bottom: 1.2mm; }
+  .fields { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 2mm 4mm; margin-bottom: 1.8mm; }
+  .field { border-bottom: 1px solid var(--rule); padding-bottom: 3.2mm; font-size: 7.4pt; color: var(--soft); }
+  .decision { font-size: 8.4pt; }
+  .foot { margin-top: 1.6mm; font-size: 6.8pt; color: var(--soft); display: flex; justify-content: space-between; }
+  .sym { font-family: "Segoe UI Symbol", "Apple Symbols", "DejaVu Sans", sans-serif; font-style: normal; }
+  .cb { display: inline-block; width: 2.6mm; height: 2.6mm; border: 1px solid var(--ink); border-radius: 0.5mm; margin: 0 0.8mm 0 1.6mm; vertical-align: -0.35mm; }
+  .cb:first-child { margin-left: 0; }
+</style>
+</head>
+<body>
+
+<!-- ───────────── Side 1: how to use it, and Before ───────────── -->
+<section class="page">
+  <div class="runner">Teaching That Lands · CC BY 4.0</div>
+  <h1>Teaching Design Check</h1>
+  <p class="lede">Eleven questions your education lead should be able to answer before anyone books a room. Simple to ask. Hard to answer well. You don't have to answer every row yourself, but you need to know someone can. If nobody can, you've found the gap.</p>
+
+  <div class="how">
+    <div class="panel">
+      <p><b>How to use it.</b> Tick a box for each row and write one line on <i>where's the evidence?</i> A tick without a note doesn't count.</p>
+      <p><b>The programme</b> (Teaching That Lands): <span class="sym">●</span> taught · <span class="sym">◐</span> touched on · <span class="sym">○</span> not covered. Where a row is <span class="sym">○</span> and it matters, involve someone who knows that area. Don't skip the row.</p>
+    </div>
+    <div class="panel">
+      <p><b>Lots of gaps? Start here.</b> Pick one session and one row to start. Organisations change slowly: expect years, not weeks.</p>
+      <ol>
+        <li><b>Start:</b> rows 1, 4, 10. Three questions on every request.</li>
+        <li><b>Next:</b> rows 2, 5, 6, 7. Better sessions: what the programme teaches.</li>
+        <li><b>Then:</b> rows 3, 8, 9, 11. The system: needs an education lead. Basic accessibility can't wait.</li>
+      </ol>
+    </div>
+  </div>
+
+  <h2>Before</h2>
+
+  <div class="row">
+    <div class="row-head"><h3><span class="n">1</span>Is teaching the answer?</h3><span class="tag"><b>Start</b> · <span class="sym">◐</span></span></div>
+    <p class="q">What should people do differently, what would show it, and why don't they do it now?</p>
+    <p class="consider"><span class="label">Consider</span>Could they do it if their life depended on it? Then it isn't skill: look at kit, staffing, workload, the form, the culture. Would a checklist, a pocket card or a process change do it instead? Cost: people × hours, plus travel and backfill.</p>
+    <p class="flags"><span class="label">Red flags</span>The request arrives as a format ("a study day on X"). The date is set before the problem is.</p>
+    <div class="mark"><span class="boxes"><i class="cb"></i><span class="sym">✓</span> <i class="cb"></i>~ <i class="cb"></i><span class="sym">✗</span> <i class="cb"></i>N/A</span><span class="evidence">Evidence:</span></div>
+  </div>
+
+  <div class="row">
+    <div class="row-head"><h3><span class="n">2</span>Learners and context</h3><span class="tag"><b>Next</b> · <span class="sym">◐</span></span></div>
+    <p class="q">Who exactly, how many, and what can they already do?</p>
+    <p class="consider"><span class="label">Consider</span>What they've been taught before. Nights, part-time and bank staff; staff educated overseas; English as an additional language; neurodivergent learners. Do they know why it matters? Choosing to come, or sent? Do some groups do less well now?</p>
+    <p class="flags"><span class="label">Red flags</span>"All staff". Nobody has spoken to a learner. Mandatory for everyone, whatever they can already do.</p>
+    <div class="mark"><span class="boxes"><i class="cb"></i><span class="sym">✓</span> <i class="cb"></i>~ <i class="cb"></i><span class="sym">✗</span> <i class="cb"></i>N/A</span><span class="evidence">Evidence:</span></div>
+  </div>
+
+  <div class="row">
+    <div class="row-head"><h3><span class="n">3</span>Co-production</h3><span class="tag"><b>Then</b> · <span class="sym">○</span></span></div>
+    <p class="q">Who shaped this, apart from the person who asked for it?</p>
+    <p class="consider"><span class="label">Consider</span>Two or three learners and their managers. Patients or carers where care is affected (budget for their time and expenses). Whoever will deliver it. Something that already exists.</p>
+    <p class="flags"><span class="label">Red flags</span>Designed in a meeting with no learners in it. A patient story used as decoration, not as a voice.</p>
+    <div class="mark"><span class="boxes"><i class="cb"></i><span class="sym">✓</span> <i class="cb"></i>~ <i class="cb"></i><span class="sym">✗</span> <i class="cb"></i>N/A</span><span class="evidence">Evidence:</span></div>
+  </div>
+
+  <div class="row">
+    <div class="row-head"><h3><span class="n">4</span>Outcomes</h3><span class="tag"><b>Start</b> · <span class="sym">●</span> Session 3</span></div>
+    <p class="q">One to three things people will be able to <i>do</i>, with verbs you could watch?</p>
+    <p class="consider"><span class="label">Consider</span>Which level of Miller's pyramid does each reach? Can a "does" outcome be reached in one session? Some ideas take time to click.</p>
+    <p class="flags"><span class="label">Red flags</span>"Understand", "be aware of", "appreciate". Ten outcomes for an hour.</p>
+    <div class="mark"><span class="boxes"><i class="cb"></i><span class="sym">✓</span> <i class="cb"></i>~ <i class="cb"></i><span class="sym">✗</span> <i class="cb"></i>N/A</span><span class="evidence">Evidence:</span></div>
+  </div>
+
+  <div class="row">
+    <div class="row-head"><h3><span class="n">5</span>Who's teaching it?</h3><span class="tag"><b>Next</b> · <span class="sym">○</span></span></div>
+    <p class="q">Who will deliver it, are they prepared and supported, and who other than the designer has checked it?</p>
+    <p class="consider"><span class="label">Consider</span>Protected time to prepare. Do they know the subject <i>and</i> how to teach it? A colleague to observe and give feedback. Their own development: a teaching qualification, or Advance HE Fellowship (recognition for university teaching).</p>
+    <p class="flags"><span class="label">Red flags</span>The subject expert is told to "do a session" with no time to prepare. The designer is the only one who checked it.</p>
+    <div class="mark"><span class="boxes"><i class="cb"></i><span class="sym">✓</span> <i class="cb"></i>~ <i class="cb"></i><span class="sym">✗</span> <i class="cb"></i>N/A</span><span class="evidence">Evidence:</span></div>
+  </div>
+</section>
+
+<!-- ───────────── Side 2: During, After, sign-off ───────────── -->
+<section class="page">
+  <div class="runner">Teaching That Lands · CC BY 4.0</div>
+  <h2>During</h2>
+
+  <div class="row">
+    <div class="row-head"><h3><span class="n">6</span>Format and activities</h3><span class="tag"><b>Next</b> · <span class="sym">●</span> Session 2 (activities) · <span class="sym">○</span> (format)</span></div>
+    <p class="q">Is a session the right shape? Will learners practise the outcome, somewhere it's safe to get it wrong?</p>
+    <p class="consider"><span class="label">Consider</span>A huddle, simulation, teaching on the job, e-learning, or a pocket card? Short sessions spread out, or one day? Realistic practice with room for mistakes; a briefing before and a debrief after. Other professions in the room? Games: a quiz helps mostly through retrieval; competition suits some, not all.</p>
+    <p class="flags"><span class="label">Red flags</span>The agenda is a list of speakers. "E-learning, so it's done." A game nobody can link to an outcome.</p>
+    <div class="mark"><span class="boxes"><i class="cb"></i><span class="sym">✓</span> <i class="cb"></i>~ <i class="cb"></i><span class="sym">✗</span> <i class="cb"></i>N/A</span><span class="evidence">Evidence:</span></div>
+  </div>
+
+  <div class="row">
+    <div class="row-head"><h3><span class="n">7</span>Slides and materials</h3><span class="tag"><b>Next</b> · <span class="sym">●</span> Session 1</span></div>
+    <p class="q">Does every slide earn its place? Is the clinical content right and up to date?</p>
+    <p class="consider"><span class="label">Consider</span>Cut the clutter; a picture with your voice. A one-page summary or pocket card instead of printed slides? Checked against current policy and guidance by whoever owns it. Permission for every image.</p>
+    <p class="flags"><span class="label">Red flags</span>60 slides for an hour. The slides are the handout. Nobody knows which version of the policy they teach.</p>
+    <div class="mark"><span class="boxes"><i class="cb"></i><span class="sym">✓</span> <i class="cb"></i>~ <i class="cb"></i><span class="sym">✗</span> <i class="cb"></i>N/A</span><span class="evidence">Evidence:</span></div>
+  </div>
+
+  <div class="row">
+    <div class="row-head"><h3><span class="n">8</span>Accessible and inclusive</h3><span class="tag"><b>Then</b> (basics now) · <span class="sym">◐</span> Session 1</span></div>
+    <p class="q">Can everyone take part fully, and benefit equally?</p>
+    <p class="consider"><span class="label">Consider</span>Adjustments asked about beforehand. Plain language, captions, transcripts, dyslexia-friendly materials; e-learning that meets accessibility standards (WCAG). Timing for night staff; the cost of attending. An equality impact assessment, if you use them.</p>
+    <p class="flags"><span class="label">Red flags</span>"Tell us on the day if you need anything." A video with no captions.</p>
+    <div class="mark"><span class="boxes"><i class="cb"></i><span class="sym">✓</span> <i class="cb"></i>~ <i class="cb"></i><span class="sym">✗</span> <i class="cb"></i>N/A</span><span class="evidence">Evidence:</span></div>
+  </div>
+
+  <div class="row">
+    <div class="row-head"><h3><span class="n">9</span>Assessment, if needed</h3><span class="tag"><b>Then</b> · <span class="sym">◐</span> Session 3 (evidence) · <span class="sym">○</span> (formal)</span></div>
+    <p class="q">Does it need assessing? If so, does the check match the outcome, and is it fair?</p>
+    <p class="consider"><span class="label">Consider</span>A check to help people learn, or to sign them off? Who owns the sign-off, and are they prepared to assess? Do some groups do worse on it?</p>
+    <p class="flags"><span class="label">Red flags</span>A quiz used to sign off a "does" outcome. A sign-off with nobody prepared to assess.</p>
+    <div class="mark"><span class="boxes"><i class="cb"></i><span class="sym">✓</span> <i class="cb"></i>~ <i class="cb"></i><span class="sym">✗</span> <i class="cb"></i>N/A</span><span class="evidence">Evidence:</span></div>
+  </div>
+
+  <h2>After</h2>
+
+  <div class="row">
+    <div class="row-head"><h3><span class="n">10</span>Back at work</h3><span class="tag"><b>Start</b> · <span class="sym">●</span> Session 3 (after) · <span class="sym">◐</span> (before)</span></div>
+    <p class="q">Will the workplace let people use it, soon, and keep them to it?</p>
+    <p class="consider"><span class="label">Consider</span><b>Before:</b> managers know what's taught and what they'll support; learners know why they're going. <b>After:</b> a chance to use it within days; revisit at 30, 60 and 90 days; a named person and the support they've agreed.</p>
+    <p class="flags"><span class="label">Red flags</span>Success means attendance and smile sheets. "We'll email the slides." Managers hear about it afterwards, if at all.</p>
+    <div class="mark"><span class="boxes"><i class="cb"></i><span class="sym">✓</span> <i class="cb"></i>~ <i class="cb"></i><span class="sym">✗</span> <i class="cb"></i>N/A</span><span class="evidence">Evidence:</span></div>
+  </div>
+
+  <div class="row">
+    <div class="row-head"><h3><span class="n">11</span>Keep it alive</h3><span class="tag"><b>Then</b> · <span class="sym">○</span></span></div>
+    <p class="q">Who owns it, how will it improve, and when is it next reviewed?</p>
+    <p class="consider"><span class="label">Consider</span>Run it once with a small group first. Evaluate <i>the session</i>, not only the learners, and change it. A named content owner and a review date; who takes over if they leave?</p>
+    <p class="flags"><span class="label">Red flags</span>The same slides for five years. No review date. The only person who knows the plan is moving on.</p>
+    <div class="mark"><span class="boxes"><i class="cb"></i><span class="sym">✓</span> <i class="cb"></i>~ <i class="cb"></i><span class="sym">✗</span> <i class="cb"></i>N/A</span><span class="evidence">Evidence:</span></div>
+  </div>
+
+  <div class="signoff">
+    <h3>Sign-off</h3>
+    <div class="fields">
+      <div class="field">Designed by</div>
+      <div class="field">Checked by (not the designer)</div>
+      <div class="field">Date · review date</div>
+    </div>
+    <p class="decision"><b>Decision:</b> &nbsp;<i class="cb"></i>Go &nbsp;&nbsp;<i class="cb"></i>Go with changes &nbsp;&nbsp;<i class="cb"></i>Not a teaching problem: pass to ______________________</p>
+  </div>
+
+  <div class="foot">
+    <span>What to consider, the library links and the sources for every row: teachingthatlands.uk/facilitator/design-check</span>
+    <span>Teaching That Lands · CC BY 4.0</span>
+  </div>
+</section>
+
+</body>
+</html>

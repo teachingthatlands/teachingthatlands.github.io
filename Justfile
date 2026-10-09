@@ -40,3 +40,7 @@ one-day-decks *args:
 # Fetch GoatCounter numbers into site/public/stats.json (needs GOATCOUNTER_TOKEN)
 stats:
     @uv run -q tools/goatcounter_stats.py
+
+# Print the Teaching Design Check PDF from its HTML source (needs Chrome or Chromium; set CHROME to its path)
+design-check-pdf:
+    @"${CHROME:-/Applications/Google Chrome.app/Contents/MacOS/Google Chrome}" --headless --no-pdf-header-footer --print-to-pdf=site/public/handouts/design-check.pdf "file://$PWD/tools/design-check/design-check.html"

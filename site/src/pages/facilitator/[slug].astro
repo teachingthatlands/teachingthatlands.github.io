@@ -273,6 +273,11 @@ const breadcrumbLabel = (type === 'blueprint' && session)
               if (AUTO_OPEN.some(function(k) { return label.indexOf(k) !== -1; })) {
                 details.open = true;
               }
+              // Keep the heading's anchor, and open the section a link points at
+              if (h2.id) {
+                details.id = h2.id;
+                if (location.hash === '#' + h2.id) { details.open = true; }
+              }
               var summary = document.createElement('summary');
               summary.className = 'blueprint-summary';
               summary.innerHTML = h2.innerHTML;
@@ -293,6 +298,8 @@ const breadcrumbLabel = (type === 'blueprint' && session)
               toRemove.forEach(function(hr) { if (hr.parentNode) hr.parentNode.removeChild(hr); });
               h2.parentNode.replaceChild(details, h2);
             });
+            var target = location.hash && document.getElementById(decodeURIComponent(location.hash.slice(1)));
+            if (target) { target.scrollIntoView(); }
           }
         }
 

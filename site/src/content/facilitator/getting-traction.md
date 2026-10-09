@@ -53,3 +53,4 @@ If you might move on, hand the follow-up and the next cohort to a named colleagu
 
 - [Briefing for Decision-Makers](/facilitator/setup-and-justify): one page for whoever approves the time.
 - [Task and Finish: Programme Setup](/facilitator/task-and-finish): the planning checklist once you have a yes.
+- [Teaching Design Check](/facilitator/design-check): beyond this programme, eleven questions for any teaching your organisation asks for.

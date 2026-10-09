@@ -3,9 +3,9 @@
  * src/pages/facilitator/index.astro
  *
  * Facilitator Hub — sky theme. Lists all facilitator entries:
- * - Session blueprints (type: blueprint)
- * - Reference materials (type: resource)
- * - Stub cards for coming-soon content
+ * - Planning any teaching: general good practice, not tied to this programme
+ * - Then the path to running the programme: start → prepare → deliver → evaluate
+ * Cards are labelled by who they're for, so readers can find their own.
  *
  * URL: /facilitator
  */
@@ -26,17 +26,31 @@ const commsItems = entries
   .filter(e => e.data.type === 'comms')
   .sort((a, b) => a.data.order - b.data.order);
 
-// Hub order follows a new facilitator's path: start → prepare → deliver → evaluate.
+// First, good practice for planning any teaching. Then the hub follows a new
+// facilitator's path: start → prepare → deliver → evaluate.
 const byId = (id: string) => entries.find(e => e.id === id);
-const startIds = ['train-the-trainer'];
-const prepareIds = ['technical-brief', 'computer-tasks', 'theory-guide', 'session-plan-example'];
+const generalIds = ['before-you-plan', 'design-check'];
+const prepareIds = ['train-the-trainer', 'technical-brief', 'computer-tasks', 'theory-guide', 'session-plan-example'];
 const evaluateIds = ['evaluation-toolkit', 'portfolio-mapping'];
-const placed = [...startIds, ...prepareIds, ...evaluateIds];
+const placed = [...prepareIds, ...evaluateIds];
 const pick = (ids: string[]) => ids.map(byId).filter(Boolean) as typeof entries;
+// Who each card is for, so readers can find their own
+const readers: Record<string, string> = {
+  'before-you-plan': 'For commissioners',
+  'design-check': 'For education leads',
+  'setup-and-justify': 'For decision-makers',
+  'getting-traction': 'For champions',
+  'task-and-finish': 'For organisers',
+  'train-the-trainer': 'Facilitator development',
+};
 const sections = [
-  { header: '1 · Start here', eyebrow: (e: any) => e.data.type === 'pre-programme' ? 'Programme setup' : 'Facilitator development',
-    items: [...preItems, ...pick(startIds)] },
-  { header: '2 · Prepare', eyebrow: () => 'Reference',
+  { header: 'Planning any teaching', eyebrow: (e: any) => readers[e.id],
+    intro: 'Good practice for any teaching your organisation asks for, not just this programme.',
+    items: pick(generalIds) },
+  { header: '1 · Start here: setting up a cohort', eyebrow: (e: any) => readers[e.id] ?? 'Programme setup',
+    intro: 'Running Teaching That Lands: getting a yes, then planning the cohort.',
+    items: preItems.filter(e => !generalIds.includes(e.id)) },
+  { header: '2 · Prepare', eyebrow: (e: any) => readers[e.id] ?? 'Reference',
     items: [...pick(prepareIds), ...resources.filter(r => !placed.includes(r.id))] },
   { header: '3 · Deliver', eyebrow: (e: any) => e.data.session ? `Session ${e.data.session}` : 'All three, one day', items: blueprints, blueprint: true },
   { header: 'Messages between sessions', eyebrow: (e: any) => `Before session ${e.data.session}`, items: commsItems },
@@ -61,8 +75,8 @@ const sections = [
           <p class="library-overline">Facilitator Hub</p>
           <h1 class="library-title">Run this programme</h1>
           <p class="library-lede">
-            Everything you need to run Teaching That Lands, in the order
-            you'll need it.
+            Good practice for planning any teaching, then everything you need
+            to run Teaching That Lands, in the order you'll need it.
           </p>
         </div>
         <img
@@ -78,6 +92,7 @@ const sections = [
       {sections.map(sec => (
         <div class="fac-hub-section">
           <p class="fac-section-header">{sec.header}</p>
+          {sec.intro && <p class="fac-section-intro">{sec.intro}</p>}
           <div class="fac-cards-grid" data-animate>
             {sec.items.map(entry => (
               <a href={`/facilitator/${entry.id}`} class="fac-card">

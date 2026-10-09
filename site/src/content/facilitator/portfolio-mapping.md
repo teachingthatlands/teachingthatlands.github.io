@@ -2,7 +2,7 @@
 title: "Portfolio Mapping"
 type: resource
 order: 9
-tagline: "What the programme can help you evidence for advanced practice, the nursing and midwifery educator framework, and NMC revalidation, and what it can't."
+tagline: "What the programme can help you evidence for advanced practice, the nursing and midwifery educator framework, Advance HE Fellowship and NMC revalidation, and what it can't."
 fox: "pencil.png"
 ---
 
@@ -49,6 +49,35 @@ NHS England's [*Nursing and midwifery educator framework*](https://www.england.n
 | **Adaptable and transformative** (adapt teaching "to respect diversity, neurodiversity and other needs of learners") | E1's accessibility pass; E2 designed for its real setting |
 | **Credible** (know "the theories and principles of learning"; "assess and evaluate teaching and learning methods in relation to practice outcomes") | E3: outcomes, matching evidence and alignment, with the theory behind each |
 | **Research informed** (pedagogic research or service evaluation) | Partial: E3's evaluation plan and E4. A formal service evaluation would be stronger |
+
+## Advance HE Fellowship: Professional Standards Framework (2023)
+
+Advance HE Fellowship is professional recognition for teaching and supporting learning in higher education. It's designed around university teaching, and often expected for university lecturing posts. So it fits best if part of your role is with a university: a split clinical and academic post, or a joint appointment. If that's you, the programme can be a first step. Your university may run an accredited scheme: check with them, or with [Advance HE](https://www.advance-he.ac.uk/teaching-learning/professional-standards-framework).
+
+**Associate Fellowship** (Descriptor 1) is the nearest fit. It asks for evidence of:
+
+- Professional Values, including at least **V1** and **V3**
+- Core Knowledge, including at least **K1**, **K2** and **K3**
+- effective and inclusive practice in at least **two** of the five Areas of Activity
+
+The dimensions below are quoted from the PSF. Those Descriptor 1 requires are marked *(D1)*.
+
+| PSF dimension | What the programme can contribute | How strong |
+|---|---|---|
+| **A1** Design and plan learning activities and/or programmes | E3, your completed canvas; E1 | Good |
+| **A2** Teach and/or support learning through appropriate approaches and environments | E2 used with real learners; E4 | Good once delivered |
+| **A3** Assess and give feedback for learning | E3's evidence plan | Partial: feedback isn't taught |
+| **A5** Enhance practice through own continuing professional development | The asks, plus a written reflection on E1–E4 | Good, once written up |
+| **K1** How learners learn, generally and within specific subjects *(D1)* | The theory behind E1 and E2 | Good |
+| **K2** Approaches to teaching and/or supporting learning, appropriate for subjects and level of study *(D1)* | E1 and E2: slides and an activity designed for a real setting | Good |
+| **K3** Critical evaluation as a basis for effective practice *(D1)* | E3 and E4: evidence matched to outcomes, then acted on | Good if you act on it |
+| **K4** Appropriate use of digital and/or other technologies, and resources for learning | E2 (Menti or Kahoot); E1 | Good |
+| **V1** Respect individual learners and diverse groups of learners *(D1)* | E1's accessibility pass; E2 designed for its setting | Partial |
+| **V2** Promote engagement in learning and equity of opportunity for all to reach their potential | E2 | Partial |
+| **V3** Use scholarship, or research, or professional learning, or other evidence-informed approaches as a basis for effective practice *(D1)* | The theory library, cited in your write-up | Good |
+| **V5** Collaborate with others to enhance practice | Peer feedback in the sessions; your named person | Partial |
+
+The programme gives you material for A1, A2, A3 and A5, so two Areas of Activity are within reach once you've delivered your session. Your own teaching for the university does the rest.
 
 ## NMC revalidation
 

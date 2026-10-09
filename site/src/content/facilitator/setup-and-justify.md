@@ -52,7 +52,7 @@ Nothing here is accredited. If credit matters to you, raise it with the institut
 | Software | Free tiers of Mentimeter and Kahoot, each with a low-tech fallback |
 | Licence | None |
 
-Judge it as value for time. The question is whether those hours buy more change than the same hours spent on a typical teaching day.
+Judge it as value for time. The question is whether those hours buy more change than the same hours spent on a typical teaching day. The [Teaching Design Check](/facilitator/design-check) asks the same question of any teaching you commission.
 
 ## What to expect, and what not to
 
