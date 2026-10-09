@@ -14,6 +14,8 @@
 
 - **Redesign Worksheet PDF** (`site/public/handouts/redesign-worksheet.pdf`) is printed from `tools/redesign-worksheet/redesign-worksheet.html` by `just redesign-worksheet-pdf`. Same rule: if it's ever laid out by hand, that becomes the master.
 
+- **Site search** (`/search`) is Pagefind. `npm run build` runs `astro build && pagefind --site dist`, which writes the index to `dist/pagefind/`: nothing to commit. It indexes each page's `.page-content` only; pass `searchable={false}` to `Base` to leave a page out (404, stats, search), and add `data-pagefind-ignore` to leave out a part (breadcrumbs). Search doesn't work under `astro dev`: use `just preview`.
+
 ## House rules
 
 - **The person's hand-edited decks and printables are the masters.** Fold changes into them; never regenerate over them.

@@ -6,20 +6,31 @@
  *   title        — <title> text (required)
  *   bodyClass    — extra class(es) on <body>, e.g. "session-page theory-page"
  *   currentNav   — which nav link gets aria-current="page"
- *                  one of: "sessions" | "theories" | "facilitator" | "about"
+ *                  one of: "sessions" | "theories" | "facilitator" | "about" | "search"
+ *   searchable   — include this page in site search (default true). Pagefind
+ *                  indexes only .page-content, after the build (see /search)
  */
 
 export interface Props {
   title: string;
   bodyClass?: string;
-  currentNav?: 'sessions' | 'theories' | 'facilitator' | 'about';
+  currentNav?: 'sessions' | 'theories' | 'facilitator' | 'about' | 'search';
   /** Optional context label shown below the brand name in the nav */
   brandRole?: string;
   /** Extra CSS class on the brand-role span, e.g. "brand-role--sky" */
   brandRoleClass?: string;
+  /** Include this page in site search (default true) */
+  searchable?: boolean;
 }
 
-const { title, bodyClass = 'session-page', currentNav, brandRole, brandRoleClass } = Astro.props;
+const { title, bodyClass = 'session-page', currentNav, brandRole, brandRoleClass, searchable = true } = Astro.props;
+
+// The search filter: which part of the site a result comes from (home and about have none)
+const SECTIONS: [string, string][] = [
+  ['/sessions', 'Sessions'], ['/theories', 'Theory Library'], ['/papers', 'Research summaries'],
+  ['/facilitator', 'Facilitator Hub'],
+];
+const section = SECTIONS.find(([path]) => Astro.url.pathname.startsWith(path))?.[1];
 
 function current(page: string) {
   return currentNav === page ? 'page' : undefined;
@@ -59,6 +70,9 @@ function current(page: string) {
         <a href="/about" aria-current={current('about')}>About</a>
       </div>
       <div class="nav-controls">
+        <a class="search-link" href="/search" aria-label="Search" aria-current={current('search')}>
+          <svg viewBox="0 0 24 24" width="19" height="19" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m20 20-4.8-4.8"/></svg>
+        </a>
         <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false">
           <span class="ham-line"></span>
           <span class="ham-line"></span>
@@ -73,10 +87,11 @@ function current(page: string) {
     <a href="/theories">Theory Library</a>
     <a class="mobile-fac" href="/facilitator">Facilitator Hub</a>
     <a href="/about">About</a>
+    <a href="/search">Search</a>
   </div>
 
-  <!-- Page content -->
-  <div class="page-content">
+  <!-- Page content: what site search indexes -->
+  <div class="page-content" data-pagefind-body={searchable ? '' : undefined} data-pagefind-filter={searchable && section ? `section:${section}` : undefined}>
     <slot />
   </div>
 

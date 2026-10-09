@@ -1,0 +1,88 @@
+---
+/**
+ * src/pages/search.astro
+ *
+ * Site search, run entirely in the visitor's browser by Pagefind. The index
+ * (dist/pagefind/) is written after `astro build` by `pagefind --site dist`
+ * (see package.json), from each page's .page-content (Base.astro). Nothing is
+ * sent anywhere. It only works on a built site: not under `astro dev`.
+ *
+ * URL: /search, or /search?q=feedback to start with a search
+ */
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="Search" bodyClass="session-page search-page" currentNav="search" searchable={false}>
+
+  <Fragment slot="head">
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+    <style is:global>
+      .search-page .pagefind-ui {
+        --pagefind-ui-scale: 0.9;
+        --pagefind-ui-primary: var(--sky);
+        --pagefind-ui-text: var(--text);
+        --pagefind-ui-background: var(--base);
+        --pagefind-ui-border: var(--surface1);
+        --pagefind-ui-tag: var(--mantle);
+        --pagefind-ui-border-width: 1px;
+        --pagefind-ui-border-radius: 8px;
+        --pagefind-ui-font: 'Inter', system-ui, sans-serif;
+      }
+      .search-page .pagefind-ui__result-link { color: var(--sky); }
+      .search-page .pagefind-ui__result-excerpt mark { background: color-mix(in srgb, var(--sky) 22%, transparent); color: inherit; }
+      .search-page .search-unavailable { color: var(--subtext0); }
+    </style>
+  </Fragment>
+
+  <main class="library-section">
+    <div class="library-inner">
+      <div class="library-hero-inner">
+        <div class="library-hero-text">
+          <p class="library-overline">Search</p>
+          <h1 class="library-title">Search the site</h1>
+          <p class="library-lede">
+            Sessions, the Theory Library, research summaries and the Facilitator Hub.
+            Searching happens on your device: nothing you type is sent anywhere.
+          </p>
+        </div>
+      </div>
+
+      <div id="search"></div>
+      <p class="search-unavailable" id="search-unavailable" hidden>
+        Search isn't available here. It works on the published site, after a full build.
+      </p>
+    </div>
+  </main>
+
+  <Fragment slot="scripts">
+    <script is:inline src="/pagefind/pagefind-ui.js"></script>
+    <script is:inline>
+      (function () {
+        if (typeof PagefindUI === 'undefined') {
+          document.getElementById('search-unavailable').hidden = false;
+          return;
+        }
+        var ui = new PagefindUI({
+          element: '#search',
+          showSubResults: true,
+          showImages: false,
+          showEmptyFilters: false,
+          autofocus: true,
+          translations: { placeholder: 'Try "feedback", "slides" or "follow-through"' },
+        });
+        var q = new URLSearchParams(location.search).get('q');
+        if (q) ui.triggerSearch(q);
+        // On a phone, keep the Section filter closed so results come first
+        // (the UI opens a lone filter group by default)
+        if (matchMedia('(max-width: 40rem)').matches) {
+          var closeOnce = new MutationObserver(function () {
+            var block = document.querySelector('.pagefind-ui__filter-block');
+            if (block) { block.open = false; closeOnce.disconnect(); }
+          });
+          closeOnce.observe(document.getElementById('search'), { childList: true, subtree: true });
+        }
+      })();
+    </script>
+  </Fragment>
+
+</Base>
