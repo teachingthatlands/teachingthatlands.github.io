@@ -10,7 +10,8 @@
  *           file from the live site, so a new deck only previews once deployed.
  *   pdf     the browser's own PDF viewer. Browsers that can't show a PDF in a
  *           page (navigator.pdfViewerEnabled === false) get "Open" instead,
- *           which opens the PDF in a new tab.
+ *           which opens the PDF in a new tab. On touch screens (iPhone, iPad)
+ *           the frame shows page 1 only, so the hint points to New tab.
  *   image   the image itself.
  */
 
@@ -50,6 +51,9 @@ function build(card: HTMLElement) {
 
   const url = previewUrl(kind, src);
   const pages = Number(card.dataset.pages) || 0;
+  // iPhone and iPad show only page 1 of a PDF in a frame, and it won't scroll
+  const touch = matchMedia('(pointer: coarse)').matches;
+  const pdfHint = touch ? `Page 1 of ${pages} here · New tab for all` : `Scroll for all ${pages} pages`;
   const id = `file-preview-${++count}`;
   const panel = document.createElement('div');
   panel.className = 'file-preview';
@@ -62,7 +66,7 @@ function build(card: HTMLElement) {
         </div>
         <div class="file-preview-bar">
           <span class="file-preview-hint" aria-live="polite">${
-            kind === 'office' ? HINT_OFF : kind === 'pdf' && pages > 1 ? `Scroll for all ${pages} pages` : ''
+            kind === 'office' ? HINT_OFF : kind === 'pdf' && pages > 1 ? pdfHint : ''
           }</span>
           <span class="file-preview-actions">
             <a class="btn btn--quiet" href="${esc(url)}" target="_blank" rel="noopener noreferrer">New tab&nbsp;&#x2197;</a>
