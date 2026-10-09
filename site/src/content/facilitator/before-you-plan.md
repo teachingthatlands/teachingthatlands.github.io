@@ -38,7 +38,7 @@ What will people revisit at 30, 60 and 90 days? Who will hold them to it, and wh
 
 **If you can only do one thing:** answer question 3 before you write the agenda. Everything else gets easier once you know what people should be able to *do*.
 
-These six questions are the design canvas used throughout [the three sessions](/sessions). Print it:
+These six questions are the design canvas behind [the three sessions](/sessions), where participants work through them on a Redesign Worksheet. Print the canvas:
 
 <a class="file-download" href="/handouts/design-canvas.pdf">The design canvas (A4)</a>
 

@@ -36,7 +36,7 @@ Clinical credibility with the group helps. Prior teaching experience helps. Neit
 
 ## Route 1: with an experienced facilitator
 
-1. **Take part** in all three sessions as a participant. Do the asks. Fill in a canvas for your own session.
+1. **Take part** in all three sessions as a participant. Do the asks. Fill in a Redesign Worksheet for your own session.
 2. **Read** the blueprints. For each block, be able to say why it happens at that point and what you'd do if it didn't land.
 3. **Co-facilitate** a full cohort. Lead at least one block in each session, including the activity blocks in Sessions 2 and 3.
 4. **Lead** the next cohort, with the experienced facilitator observing at least one of Session 2 or Session 3 using the checklist.
@@ -47,7 +47,7 @@ Clinical credibility with the group helps. Prior teaching experience helps. Neit
 If nobody near you has run it yet, you build the experience yourself.
 
 1. **Find a peer.** Another educator who will co-deliver and observe. Two first adopters together is better than one alone.
-2. **Read and plan.** Work through the blueprints and fill in a canvas for one of your own sessions, as a participant would.
+2. **Read and plan.** Work through the blueprints and fill in a Redesign Worksheet for one of your own sessions, as a participant would.
 3. **Dry-run each session** with two or three colleagues before the cohort. Run it at full speed against a timer. Test every tool and its fallback in the real room.
 4. **Co-deliver the first cohort** with your peer. Split the blocks and swap roles between sessions.
 5. **Record yourself and self-review.** With participants' agreement and within local policy, record your own voice for one session (audio is enough). Watch or listen back with the checklist. Delete the recording when you have reviewed it.
@@ -86,7 +86,7 @@ If nobody near you has run it yet, you build the experience yourself.
 |---|---|---|
 | Session 1 or 2: the ask was given in full, with its canonical wording | | |
 | Session 1 or 2: each participant wrote the ask on a card and photographed it | | |
-| Session 3: each participant named a person who will hold them to their canvas at 30 days, and the support they need from them | | |
+| Session 3: each participant named a person who will hold them to their worksheet plan at 30 days, and the support they need from them | | |
 | Session 3: the reveal (the programme on its own canvas) had its full time | | |
 
 ### Session-specific

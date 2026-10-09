@@ -49,7 +49,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 
 ### 2. Learners and context
 
-*Next · Touched on: it's on the design canvas, but not practised*
+*Next · Touched on: a few prompts on the Redesign Worksheet, but not practised*
 
 **Who exactly, how many, and what can they already do?**
 

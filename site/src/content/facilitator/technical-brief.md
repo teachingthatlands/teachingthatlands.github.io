@@ -62,7 +62,7 @@ Bring every session:
 
 - [ ] Laptop, charger, adapter for the screen, deck on USB and in the cloud
 - [ ] Whiteboard pens (tested) and a cloth
-- [ ] Blank cards for the ask (Sessions 1 and 2) and printed canvases (Session 3)
+- [ ] Blank cards for the ask (Sessions 1 and 2) and Redesign Worksheets (one each, from Session 1)
 - [ ] Printed bad-slide pack (Session 1; keep it handy in Session 2)
 - [ ] A visible timer
 - [ ] Sticky notes and paper for the fallbacks
@@ -89,6 +89,6 @@ If you are running behind:
 
 **What if participants didn't do the ask?** Ask *"what got in the way?"* with curiosity, not blame. Then use the bad-slide pack or the room's examples. Barriers are useful data.
 
-**Can I adapt it for my setting?** Yes. Keep the spine, the asks, the canvas and the one-week spacing. Change examples, clinical contexts and tools freely.
+**Can I adapt it for my setting?** Yes. Keep the spine, the asks, the canvas and worksheet, and the one-week spacing. Change examples, clinical contexts and tools freely.
 
 **The tools are blocked and the screen is tiny. Can I still run it?** Yes. Every block has a fallback above. Say what happened and carry on: teaching under real constraints is part of the point.

@@ -17,7 +17,7 @@ outcomes:
   - "Sorted evidence from a teaching programme by what it actually shows, from delivered to changed."
   - "Rewritten one to three outcomes for your session using verbs someone could observe."
   - "Matched each outcome to evidence at the right level, and checked your slides and activity line up with it."
-  - "Completed your design canvas, with a 30/60/90-day follow-through plan, a named person and the support you need from them."
+  - "Completed your Redesign Worksheet, with a 30/60/90-day follow-through plan, a named person and the support you need from them."
 keyIdeas:
   - idea: "Delivered isn't changed."
     detail: "Attendance lists, smile sheets and photos show a session happened. Only what people do afterwards shows it worked."
@@ -31,15 +31,15 @@ keyIdeas:
   - idea: "Plan the follow-through."
     detail: "Decide what you'll revisit at 30, 60 and 90 days, who will hold you to it, and what you need from them."
     theory: if-then-plans
-canvas: "Outcomes, evidence and follow-through. The whole canvas, complete."
-ask: "Your completed canvas, | plus one named person | who will hold you to it, | and the support you've agreed | you need from them."
+canvas: "Sections 5 and 6: outcomes lined up with activities and evidence, then follow-through. The whole worksheet, complete."
+ask: "Your completed worksheet, | plus one named person | who will hold you to it, | and the support you've agreed | you need from them."
 askLabel: "Your commitment"
 askLinks:
   - intro: "Recording this for revalidation, appraisal or a portfolio?"
     text: "Portfolio mapping"
     href: "/facilitator/portfolio-mapping"
 askSteps:
-  - "Photograph your completed canvas, or keep the paper copy somewhere you'll see it."
+  - "Photograph both sides of your worksheet, or keep it somewhere you'll see it."
   - "Tell your named person what you're changing, and the support you need from them."
   - "At 30 and 90 days, expect three short questions: what did you change, what happened, what got in the way?"
 ---

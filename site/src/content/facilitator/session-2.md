@@ -16,7 +16,7 @@ fox: "pointing_right.png"
 |---|---|
 | **Duration** | 90 minutes. Session 2 of 3, a week after Session 1 |
 | **Group** | 4–12 (above ~12, pitches become a gallery walk). One facilitator can get round about 8; beyond that, a co-facilitator |
-| **Canvas box** | Activities, part 2: what learners do |
+| **Worksheet** | Section 4: what learners do |
 | **Running artefact** | The same session as last week, now made active |
 | **Shape** | Do it, then name it. Paper in the room (nonsense words, a card sort, A3 designs); Kahoot and Menti run by you, so participants only need a phone |
 | **The ask** | "Before next week I will spend 30–40 minutes playing with Menti or Kahoot and make one active learning thing for my session, and bring it." |
@@ -85,6 +85,7 @@ Keep everything free of patient information, and check local information-governa
 - [ ] Computer Task Sheet (for the ask)
 - [ ] Setting cards: ward corridor, handover, sim room, clinic, teaching room
 - [ ] A3 paper and pens for designs
+- [ ] Spare Redesign Worksheets (people bring theirs)
 - [ ] Cards for the ask
 - [ ] Visible timer
 
@@ -145,6 +146,7 @@ Keep everything free of patient information, and check local information-governa
 - PAIR by confidence. Circulate. ASK: what will learners be doing in minute 3? Which strategy is that? How far up the scale does it go: listening, doing, explaining, or working it through together? ([active is a scale](/theories/active-is-a-scale))
 - WHY: situated learning: design for the real constraints, not the ideal room ([Lave & Wenger 1991](/papers/learning-by-taking-part)).
 - FALLBACK: no session yet? Use "a session you'd like to teach".
+- LAST 3 MINUTES: copy the headline onto section 4 of the worksheet: what learners do, the strategy, where, and what they need. SAY: one sentence, what would you see them doing?
 
 ### 70–80 · 60-second pitches
 

@@ -44,3 +44,7 @@ stats:
 # Print the Teaching Design Check PDF from its HTML source (needs Chrome or Chromium; set CHROME to its path)
 design-check-pdf:
     @"${CHROME:-/Applications/Google Chrome.app/Contents/MacOS/Google Chrome}" --headless --no-pdf-header-footer --print-to-pdf=site/public/handouts/design-check.pdf "file://$PWD/tools/design-check/design-check.html"
+
+# Print the Redesign Worksheet PDF from its HTML source (needs Chrome or Chromium; set CHROME to its path)
+redesign-worksheet-pdf:
+    @"${CHROME:-/Applications/Google Chrome.app/Contents/MacOS/Google Chrome}" --headless --no-pdf-header-footer --print-to-pdf=site/public/handouts/redesign-worksheet.pdf "file://$PWD/tools/redesign-worksheet/redesign-worksheet.html"

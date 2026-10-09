@@ -51,7 +51,7 @@ fox: "pencil.png"
 | **Dates** | Three sessions, 90 minutes each, one week apart. Same day and time each week if you can. |
 | **Room** | Screen, whiteboard, chairs that move. Book all three now. |
 | **Facilitator and cover** | Both named. The cover knows where the materials are. |
-| **Kit** | Ask cards, pens, the canvas printed for each person, the bad-slide pack. See the [Technical Brief](/facilitator/technical-brief). |
+| **Kit** | Ask cards, pens, the Redesign Worksheet printed double-sided for each person, the bad-slide pack. See the [Technical Brief](/facilitator/technical-brief). |
 | **Tools** | Free Mentimeter and Kahoot accounts, set up and tested. Check local IG first. |
 | **Comms** | Who sends invitations, reminders and the 30- and 90-day checks? |
 

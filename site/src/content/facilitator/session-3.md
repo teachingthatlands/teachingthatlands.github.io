@@ -16,10 +16,10 @@ fox: "thinking.png"
 |---|---|
 | **Duration** | 90 minutes. Session 3 of 3, a week after Session 2 |
 | **Group** | 4–12. One facilitator can get round about 8; beyond that, a co-facilitator |
-| **Canvas boxes** | Outcomes → Evidence → Follow-through, then the whole canvas |
+| **Worksheet** | Sections 5 and 6: line it up, then follow-through. Then the whole canvas, at the reveal |
 | **Running artefact** | The same session, now with outcomes, evidence and a follow-through plan |
 | **Shape** | The blorps retest, try what you made, two paper sorts (evidence, verbs), rewrite the outcomes, check alignment, negotiate follow-through, then the reveal |
-| **The commitment** | No card. The completed canvas, plus **one named person who will hold them to it, and the support agreed with them** |
+| **The commitment** | No card. The completed worksheet, plus **one named person who will hold them to it, and the support agreed with them** |
 
 ## Learning outcomes
 
@@ -30,7 +30,7 @@ By the end of the session, participants will have:
 1. **Sorted** evidence from a teaching programme by what it actually shows, from *delivered* to *impact*. *(Card sort)*
 2. **Rewritten** one to three outcomes for their own session using verbs someone could observe. *(Verb wall · Rewrite)*
 3. **Matched** each outcome to evidence at the right level of Miller's pyramid, and checked their slides and activity against it. *(Rewrite · Does it line up?)*
-4. **Completed** a design canvas for their session, including a 30/60/90-day follow-through plan, a named person who will hold them to it, and the support they need from that person. *(Follow-through · The reveal)*
+4. **Completed** their Redesign Worksheet, including a 30/60/90-day follow-through plan, a named person who will hold them to it, and the support they need from that person. *(Follow-through · The reveal)*
 
 ## Before the session
 
@@ -47,7 +47,7 @@ Print before the session:
 
 <a class="file-download" href="/handouts/can-you-see-it.pdf">Can you see it?: yes/no mat, Miller's pyramid mat, 16 verb cards, how to play / answers (A5 halves)</a>
 
-<a class="file-download" href="/handouts/design-canvas.pdf">Design canvas (A4): two each, one to work on and a clean one for the commitment</a>
+<a class="file-download" href="/handouts/redesign-worksheet.pdf">Redesign Worksheet (two sides of A4): spares only. People bring the one they started in Session 1</a>
 
 <a class="file-download" href="/handouts/feedback-form.pdf">End-of-programme feedback form (two per A4 sheet)</a>
 
@@ -62,7 +62,7 @@ Ask 2–3 people during the week whether they're happy to run their Menti or Kah
 - [ ] Blorps retest slips (and last week's tally)
 - [ ] Evidence sort: one mat and one shuffled card set per table
 - [ ] Can you see it?: the two mats and one shuffled verb set per table
-- [ ] Design canvases (A4), two each
+- [ ] Spare Redesign Worksheets (people bring theirs)
 - [ ] Participants' Session 1 slides and Session 2 designs (they bring them)
 - [ ] Paper feedback forms
 - [ ] Visible timer
@@ -97,21 +97,21 @@ Ask 2–3 people during the week whether they're happy to run their Menti or Kah
 
 ### 33–53 · Rewrite your outcomes
 
-- SAY: your session (or one you'd like to teach). One to three outcomes, a verb you can see, and the evidence for each. On the canvas: Outcomes and Evidence. Pairs, then 2–3 share.
+- SAY: your session (or one you'd like to teach). One to three outcomes, a verb you can see, and the evidence for each. On the worksheet: section 5, the first two columns and the last. Pairs, then 2–3 share.
 - ASK the pairs: can you see it? Does the evidence sit at the same level as the verb?
 - WHY: [constructive alignment](/theories/line-it-up) in practice; peer rewrites are the worked examples.
 - IF SHORT: never below 15 minutes. This is the core skill.
 
 ### 53–59 · Does it line up?
 
-- Outcome = Activity = Evidence: the same performance. SAY: put your Session 1 slide and Session 2 activity next to the new outcomes. Does each help learners do the verb? Change what doesn't.
+- Outcome = Activity = Evidence: the same performance. SAY: fill the middle column of section 5 from your slide (section 3) and your activity (section 4). Then read across each row. Does the activity help learners do the verb? Is the evidence at the same level? Change what doesn't. An empty cell is a gap.
 - WHY: Biggs again, now at session scale (Session 1 was slide scale).
 - IF SHORT: halve it; never drop it.
 
 ### 59–67 · Follow-through: a two-way negotiation
 
 - SAY: forgetting is the default. What will *your learners* revisit at 30, 60 and 90 days, and how (a Kahoot, an email, a team message)?
-- ASK: **who will hold you to it? And what do you need from them?** Write their name, and the support you'll ask for (time, release, a slot at the team meeting), in the Follow-through box.
+- ASK: **who will hold you to it? And what do you need from them?** Write their name, and the support you'll ask for (time, release, a slot at the team meeting), in section 6 of the worksheet.
 - SAY: it's a negotiation, not a check-up. Your named person (often your manager) can hold you to it if they provide what you need.
 - WHY: transfer depends on the work environment as much as the training (Baldwin & Ford 1988; the New World Kirkpatrick "required drivers"). Learners can't create protected time on their own; the named person removes barriers as well as asking. → [spaced practice](/theories/spread-it-out)
 
@@ -121,7 +121,7 @@ Ask 2–3 people during the week whether they're happy to run their Menti or Kah
 
 - "You've been on a canvas for three weeks." Then this programme's own canvas, one box per click: learners · need · outcomes · evidence · activities · follow-through. Point to where they experienced each.
 - The Session 1 question, answered: what do we need people to do differently, and how will our teaching make that happen?
-- Hand out a clean canvas. SAY: copy yours onto one page, and photograph it. Your named person can hold you to it if they provide the support you need. It's also portfolio evidence ([Portfolio mapping](/facilitator/portfolio-mapping)).
+- SAY: your worksheet *is* your canvas: the map at the top shows where each box was filled in. Finish section 6, and photograph both sides. Your named person can hold you to it if they provide the support you need. It's also portfolio evidence ([Portfolio mapping](/facilitator/portfolio-mapping)).
 - WHY: making the hidden design visible: the programme is the final worked example.
 
 ### 80–86 · One sentence each
@@ -137,7 +137,7 @@ Ask 2–3 people during the week whether they're happy to run their Menti or Kah
 ## After the session
 
 - **Nothing to read back next week.** The read-back is now each participant's named person at 30 days, with the support they agreed.
-- **Level 2:** check completed canvases against the short rubric. Are outcomes observable verbs? Does the evidence match the verb?
+- **Level 2:** check completed worksheets against the short rubric. Are outcomes observable verbs? Does the evidence match the verb?
 - **Level 3:** at 30 and 90 days, send the three questions: *What did you change? What happened? What got in the way?*
 - All forms, the rubric, timings and governance: [Evaluation Toolkit](/facilitator/evaluation-toolkit). Don't restate them here.
 - Psychological safety, debriefing and feedback are parked for a separate simulation-based session.

@@ -31,7 +31,7 @@ keyIdeas:
     theory: active-is-a-scale
   - idea: "Design for the real place."
     detail: "A 6am handover isn't a study day. Build the activity for the corridor, ward or sim room where it will actually happen."
-canvas: "Activities, part 2: what learners do. You made ten minutes of your session active."
+canvas: "Section 4: what learners do. You made ten minutes of your session active."
 ask: "Before next week I will | spend 30–40 minutes | playing with Menti or Kahoot | and make one active learning thing | for my session, | and bring it."
 askSteps:
   - "Put 30–40 minutes in your diary for it."

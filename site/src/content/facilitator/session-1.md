@@ -16,12 +16,12 @@ fox: "whiteboard.png"
 |---|---|
 | **Duration** | 90 minutes. Session 1 of 3, one week apart |
 | **Group** | 4–12 (works up to ~20; above ~12, "Show us" becomes a gallery walk). One facilitator can get round everyone during activities up to about 8 |
-| **Canvas box** | Activities, part 1: the slides |
+| **Worksheet** | Sections 1–3: learners, the need, the slides |
 | **Running artefact** | One session each person teaches, or would like to teach |
 | **Shape** | Experience → name it → use it. Theory in bursts of 10 minutes or less, used straight away |
 | **The ask** | "Before next week I will identify and redesign one or two slides (my own, or an example I find) and bring them." |
 
-The spine question is asked in the first ten minutes and answered on the canvas by the end of Session 3: *What do we need people to do differently, and how will our teaching make that happen?*
+The spine question is asked in the first ten minutes and answered on the Redesign Worksheet by the end of Session 3: *What do we need people to do differently, and how will our teaching make that happen?*
 
 ## Learning outcomes
 
@@ -57,9 +57,13 @@ Paper takes the computer out of the way (no extraneous load from the tool), and 
 
 <a class="file-download" href="/handouts/slide-kit-falls.pdf">The slide kit (PDF, A4)</a>
 
-### The design canvas
+### The Redesign Worksheet
 
-Shown in the first ten minutes (the six boxes) and completed in Session 3. Print one each if you'd like people to keep it in front of them from today; it's also on their Session 1 page.
+One each, double-sided, handed out in the first ten minutes. People keep it for all three sessions and fill it in a section at a time: sections 1–3 today, 4 in Session 2, 5 and 6 in Session 3. The six-box design canvas is the map at the top of it. It's also on their Session 1 page.
+
+<a class="file-download" href="/handouts/redesign-worksheet.pdf">Redesign Worksheet (two sides of A4)</a>
+
+The canvas on its own, if you want it on the wall:
 
 <a class="file-download" href="/handouts/design-canvas.pdf">The design canvas (A4)</a>
 
@@ -80,6 +84,7 @@ If you know someone in the group is colour-blind, ask them privately *beforehand
 
 - [ ] Whiteboard and non-permanent pens
 - [ ] Cards for the ask (one each, plus spares)
+- [ ] Redesign Worksheets, double-sided, one each plus spares
 - [ ] Visible timer
 - [ ] Menti open on your laptop ("What do you remember?" word cloud loaded; QR code big enough for the back of the room)
 - [ ] Bad-slide pack, printed and digital
@@ -95,6 +100,7 @@ If you know someone in the group is colour-blind, ask them privately *beforehand
 - SAY (only once nobody has said it): did anyone say "good slides"? Hold onto that.
 - SAY: the question for all three weeks is *what do we need people to do differently, and how will our teaching make that happen?* Most teaching starts with the content or the agenda. We'll start with the change.
 - SAY: show the six-box canvas (Learners & context · Need · Outcomes · Evidence · Activities · Follow-through). One of *your* sessions, rebuilt over three weeks. Today, the most visible bit: the slides.
+- Hand out the Redesign Worksheet. SAY: the map at the top is this slide. You'll fill it in a bit at a time, at the end of each session. Keep it.
 - ASK (2 minutes, hands up): who's used Menti? Who can save a copy of a file? Select several slides at once? Note who's confident, for pairing later. SAY: this is the canvas's first box, *learners and context*, applied to this room.
 - WHY: adults learn from what they bring ([andragogy](/theories/how-adults-learn)). The canvas is a map they'll see at every move, and it plants [constructive alignment](/theories/line-it-up) before it's named.
 - IF SHORT: three minutes on the opener is enough. Never cut the canvas.
@@ -160,7 +166,7 @@ Three bursts, each three minutes or less.
 - SAY: hold that thought for next week.
 - IF SHORT: never cut. It takes ten seconds.
 
-### 79–86 · The ask
+### 79–84 · The ask
 
 - Show the card wording: **"Before next week I will identify and redesign one or two slides (my own, or an example I find) and bring them."**
 - SAY: write it on the card now. Add *which* slides or *where* you'll look. Photograph it. Next week starts with what you did.
@@ -168,7 +174,13 @@ Three bursts, each three minutes or less.
 - WHY: a specific, written intention with a built-in follow-up. → [implementation intentions](/theories/if-then-plans)
 - IF SHORT: **never cut.** Start it at 79 minutes, even mid-discussion.
 
-### 86–90 · Close (and buffer)
+### 84–88 · Worksheet: sections 1–3
+
+- SAY: four minutes, on your own. Who your learners are, the need, and the slide you redesigned today: what you cut, and who each piece is for.
+- WHY: writing it down straight away is retrieval, and it starts the record they'll build on for three weeks. → [retrieval practice](/theories/testing-beats-re-reading)
+- IF SHORT: they finish it at home. It's the first thing we look at next week.
+
+### 88–90 · Close
 
 - SAY: thank you. Next week starts with your slides. The closing slide has a QR code to the website: the session recap is there.
 - Optional: a one-question pulse (see the [Evaluation Toolkit](/facilitator/evaluation-toolkit)).
