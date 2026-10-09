@@ -19,7 +19,7 @@ audience: "Whoever runs Session 3."
 | **Group** | 4–12. One facilitator can get round about 8; beyond that, a co-facilitator |
 | **Worksheet** | Sections 5 and 6: line it up, then follow-through. Then the whole canvas, at the reveal |
 | **Running artefact** | The same session, now with outcomes, evidence and a follow-through plan |
-| **Shape** | The blorps retest, try what you made, two paper sorts (evidence, verbs), rewrite the outcomes, check alignment, negotiate follow-through, then the reveal |
+| **Shape** | "Who remembers what a blorp is?", try what you made, two paper sorts (evidence, verbs), rewrite the outcomes, check alignment, negotiate follow-through, then the reveal |
 | **The commitment** | No card. The completed worksheet, plus **one named person who will hold them to it, and the support agreed with them** |
 
 ## Learning outcomes
@@ -52,15 +52,12 @@ Print before the session:
 
 <a class="file-download" href="/handouts/feedback-form.pdf">End-of-programme feedback form (two per A4 sheet)</a>
 
-The blorps retest slips are in the [Session 2 printables](/facilitator/session-2).
-
 ### Who goes first
 
 Ask 2–3 people during the week whether they're happy to run their Menti or Kahoot on the group. Check their links work.
 
 ### Room and kit
 
-- [ ] Blorps retest slips (and last week's tally)
 - [ ] Evidence sort: one mat and one shuffled card set per table
 - [ ] Can you see it?: the two mats and one shuffled verb set per table
 - [ ] Spare Redesign Worksheets (people bring theirs)
@@ -70,10 +67,10 @@ Ask 2–3 people during the week whether they're happy to run their Menti or Kah
 
 ## Session flow
 
-### 0–2 · Blorps retest (unannounced)
+### 0–2 · "Who remembers what a blorp is?" (unannounced)
 
-- Hand out the retest slips. Score 1 per meaning roughly right. Tally Group A (re-read) vs Group B (self-test) **next to last week's numbers**.
-- Expected: the self-testers hold up better over a week ([Roediger & Karpicke 2006](/papers/testing-beats-re-reading)). Whatever the result, SAY: that was spaced retrieval. And how would you *know* something stuck? That's today.
+- No slips. ASK out loud: "Who remembers what a blorp is?" Take a few answers, or a show of hands for any of the eight words.
+- The point is made by the room, not a score. SAY: that was spaced retrieval, a week on. And how would you *know* something stuck? That's today.
 
 ### 2–10 · Show us what you made
 
