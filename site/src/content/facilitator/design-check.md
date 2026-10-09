@@ -20,7 +20,7 @@ Asking for a training day is easy. Working out who needs to change what, why the
 
 Mark each row **✓** ready, **~** partly, **✗** not yet or **N/A**, and write one line on *where's the evidence?* A tick without a note doesn't count.
 
-Each row also says when to tackle it (**Start**, **Next** or **Then**: see below) and how much of it Teaching That Lands covers. Topics in *italics* don't have a library page yet.
+Each row also says when to tackle it (**Start**, **Next** or **Then**: see below) and how much of it Teaching That Lands covers. Topics in *italics* are worth looking up, or asking your education lead about.
 
 ## Lots of gaps? Start here
 
@@ -43,7 +43,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 - Could they do it if their life depended on it? If so, the problem isn't skill: look at kit, staffing, workload, the form or the culture.
 - Would a checklist, a pocket card, a poster or a change to the process do the job instead?
 - What will it cost? People × hours, plus travel and backfill. What else could those hours buy?
-- → *Is training the answer?*
+- → [Is training the answer?](/theories/is-training-the-answer)
 
 **Red flags:** the request arrives as a format ("a study day on X"). The date is set before the problem is.
 
@@ -160,7 +160,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 
 - **Before:** managers know what's being taught and what they'll be asked to support. Learners know why they're going.
 - **After:** a chance to use it within days. Something to revisit at 30, 60 and 90 days. A named person, and the support they've agreed.
-- → *Back at work* · [Implementation Intentions](/theories/if-then-plans) · [Kirkpatrick](/theories/did-the-training-work) · [Evaluation Toolkit](/facilitator/evaluation-toolkit)
+- → [What happens back at work](/theories/back-at-work) · [Implementation Intentions](/theories/if-then-plans) · [Kirkpatrick](/theories/did-the-training-work) · [Evaluation Toolkit](/facilitator/evaluation-toolkit)
 
 **Red flags:** success means attendance and smile sheets. "We'll email the slides." Managers hear about it afterwards, if at all.
 

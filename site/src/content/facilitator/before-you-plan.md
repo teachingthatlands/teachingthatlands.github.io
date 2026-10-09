@@ -16,7 +16,7 @@ What can they already do? What gets in their way at work: time, rotas, kit, acce
 
 **2. What's the need?**\
 What happens now, and what should happen instead? Is that gap something teaching can fix, or is it really about staffing, equipment or policy?\
-*Watch for:* a training day as the answer to a system problem.
+*Watch for:* a training day as the answer to a system problem. → [Is training the answer?](/theories/is-training-the-answer)
 
 **3. What should people be able to do afterwards?**\
 Write one to three outcomes with verbs you could observe: *explain*, *demonstrate*, *decide*, *escalate*.\
