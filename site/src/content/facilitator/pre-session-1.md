@@ -5,6 +5,7 @@ session: 1
 order: 1
 tagline: "One short message: when, where, and bring a slide you think is bad"
 fox: waving.png
+audience: "Whoever runs the cohort: send this to participants."
 ---
 
 **Send:** 3–5 working days before Session 1. Optional one-line reminder 48 hours before.

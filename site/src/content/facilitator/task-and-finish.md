@@ -4,9 +4,8 @@ type: pre-programme
 order: 3
 tagline: "The planning checklist for one cohort. Do the thinking before you book the room."
 fox: "pencil.png"
+audience: "Whoever is organising a cohort, once there’s a yes. It takes about an hour, plus a colleague to sense-check it."
 ---
-
-*For whoever is organising a cohort, once a decision-maker has said yes. It takes about an hour, plus a colleague to sense-check it.*
 
 **Rule:** if a row is still blank when you send the first invitation, you haven't finished planning.
 

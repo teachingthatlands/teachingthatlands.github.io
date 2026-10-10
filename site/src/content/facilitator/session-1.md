@@ -8,6 +8,7 @@ duration: "90 minutes"
 order: 1
 tagline: "Feel the overload, name it, then rebuild a slide: working memory, two channels, readability."
 fox: "whiteboard.png"
+audience: "Whoever runs Session 1."
 ---
 
 ## At a glance
@@ -191,4 +192,4 @@ Three bursts, each three minutes or less.
 - **Next session opens by reading the ask back:** "Show us your slides." Bring the bad-slide pack again for anyone who didn't get to it.
 - Send the [pre-Session 2 message](/facilitator/pre-session-2). Keep it to the ask.
 - Note anything that ran long. Activities run long (the second cohort needed the full 15 minutes each); Show us is your buffer.
-- Evaluation sits in one place: the [Evaluation Toolkit](/facilitator/evaluation-toolkit). For the canvas as six questions, share [Before You Plan a Teaching Day](/facilitator/before-you-plan).
+- Evaluation sits in one place: the [Evaluation Toolkit](/facilitator/evaluation-toolkit). For managers and anyone who asks for teaching, share [Before You Plan a Teaching Day](/facilitator/before-you-plan): three questions.

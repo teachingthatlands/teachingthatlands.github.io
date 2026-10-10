@@ -4,6 +4,7 @@ type: resource
 order: 7
 tagline: "The programme's one evaluation design: a short end-of-programme form, evidence from inside the sessions, and a three-question check at 30 and 90 days"
 fox: scientist.png
+audience: "Whoever runs the cohort and reports on it."
 ---
 
 This is the programme's only evaluation design. Other pages link here rather than repeating it. It uses the four levels of the [Kirkpatrick model](/theories/did-the-training-work), and it is deliberately small: a handful of questions you will actually send, and evidence the sessions already produce.

@@ -68,9 +68,24 @@ import Base from '../layouts/Base.astro';
       .hero-ctas {
         display: flex;
         align-items: center;
+        justify-content: center;
         gap: 0.75rem;
         flex-wrap: wrap;
       }
+      /* A way in for whoever asks for teaching, not just people who teach */
+      .hero-plan {
+        margin-top: -1.75rem;
+        font-size: 0.9rem;
+        color: var(--subtext0);
+        text-align: center;
+      }
+      .hero-plan a {
+        color: var(--subtext1);
+        text-decoration: underline;
+        text-decoration-color: color-mix(in srgb, var(--subtext1) 40%, transparent);
+        text-underline-offset: 3px;
+      }
+      .hero-plan a:hover { color: var(--text); text-decoration-color: currentColor; }
       @media (max-width: 860px) {
         .hero-split { grid-template-columns: 1fr; }
         .hero-mascot { order: -1; }
@@ -102,6 +117,7 @@ import Base from '../layouts/Base.astro';
       <a class="btn btn--lg btn--quiet" href="/about">About this project</a>
       <a class="btn btn--lg btn--primary" href="/sessions">Get Started &#x2192;</a>
     </div>
+    <p class="hero-plan">Asked to plan a teaching day? <a href="/facilitator/before-you-plan">Start with three questions&nbsp;&#x2192;</a></p>
   </section>
 
   <fragment slot="scripts">

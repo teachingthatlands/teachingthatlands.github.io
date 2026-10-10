@@ -1114,6 +1114,21 @@ a.theory-row:hover .theory-row-arrow {
   border-bottom: 1px solid var(--surface0);
 }
 .fac-section-header:has(+ .fac-section-intro) { margin-bottom: 0.75rem; }
+/* The hub's two levels: planning any teaching, then running the programme */
+.fac-group-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--text);
+  margin: 0 0 0.35rem;
+}
+.fac-group-intro {
+  font-size: 0.95rem;
+  color: var(--subtext0);
+  margin: 0 0 1.5rem;
+  max-width: 60ch;
+}
+.fac-group-title ~ .fac-cards-grid { margin-top: 0; }
 .fac-section-intro {
   font-size: 0.95rem;
   color: var(--subtext0);
@@ -1265,6 +1280,24 @@ a.theory-row:hover .theory-row-arrow {
 .blueprint-prose a { color: var(--sky); }
 .blueprint-prose a:visited { color: var(--teal); }
 .blueprint-prose a:hover { text-decoration: underline; }
+
+/* "Who this is for": one labelled line under a facilitator page's title */
+.page-audience {
+  margin-top: 1rem;
+  font-size: 0.95rem;
+  line-height: 1.55;
+  color: var(--text);
+  max-width: 62ch;
+}
+.page-audience-label {
+  display: inline-block;
+  margin-right: 0.5rem;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--sky);
+}
 
 /* Linked collapsible sections land below the sticky header */
 .blueprint-prose details[id] { scroll-margin-top: 5.5rem; }

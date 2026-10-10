@@ -4,9 +4,8 @@ type: resource
 order: 7
 tagline: "Step by step, for first-timers: just the computer tasks the three sessions need. Print one per person."
 fox: "pencil.png"
+audience: "Participants new to the computer side. Facilitators: print one each for Session 1, and point to it again for the Session 2 ask."
 ---
-
-For participants. Facilitators: print one each for Session 1, and point to it again for the Session 2 ask.
 
 ## Overview: before you start
 

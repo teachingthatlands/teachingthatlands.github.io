@@ -24,7 +24,7 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 
-const { title, type, session, duration, tagline } = entry.data;
+const { title, type, session, duration, tagline, audience } = entry.data;
 
 // For blueprints cross-reference the participant session entry
 let sessionEntry: Awaited<ReturnType<typeof getEntry>> | null = null;
@@ -70,6 +70,9 @@ const breadcrumbLabel = (type === 'blueprint' && session)
         </div>
         <h1 class="session-title">{displayTitle}</h1>
         {tagline && <p class="session-subtitle">{tagline}</p>}
+        {audience && (
+          <p class="page-audience"><span class="page-audience-label">Who this is for</span> {audience}</p>
+        )}
       </div>
     </div>
 
@@ -298,8 +301,15 @@ const breadcrumbLabel = (type === 'blueprint' && session)
               toRemove.forEach(function(hr) { if (hr.parentNode) hr.parentNode.removeChild(hr); });
               h2.parentNode.replaceChild(details, h2);
             });
-            var target = location.hash && document.getElementById(decodeURIComponent(location.hash.slice(1)));
-            if (target) { target.scrollIntoView(); }
+            // Open the section a link points at: on load, and for links within the page
+            var openHash = function () {
+              var target = location.hash && document.getElementById(decodeURIComponent(location.hash.slice(1)));
+              if (!target) return;
+              if (target.tagName === 'DETAILS') target.open = true;
+              target.scrollIntoView();
+            };
+            openHash();
+            window.addEventListener('hashchange', openHash);
           }
         }
 

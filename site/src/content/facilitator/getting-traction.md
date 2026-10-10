@@ -2,11 +2,10 @@
 title: "Getting Traction"
 type: pre-programme
 order: 2
-tagline: "For the person trying to get the programme started: how to find a first cohort and a reason to say yes"
+tagline: "How to find a first cohort, and a reason to say yes"
 fox: "lightbulb_on.png"
+audience: "Whoever is trying to get the programme started in their organisation. The person who approves the time needs only the Briefing for Decision-Makers."
 ---
-
-*For the person trying to get the programme started in their organisation. The manager or commissioner who decides needs only the [Briefing for Decision-Makers](/facilitator/setup-and-justify).*
 
 Most managers aren't against better teaching. They are short of time and judged on other things. Your job is not to persuade them that education matters. It's to connect this programme to a problem they already own.
 
@@ -22,7 +21,7 @@ Problems that often sit behind that question:
 - commitments made at a development day that nobody followed up
 - attendance lists, photos and feedback forms reported as success, with no one able to say what changed
 
-The last two are the programme's own spine: *start with the change, not the event.* [Before You Plan a Teaching Day](/facilitator/before-you-plan) puts it as six questions you can share.
+The last two are the programme's own spine: *start with the change, not the event.* [Before You Plan a Teaching Day](/facilitator/before-you-plan) puts it as three questions you can share.
 
 ## Say it in their language
 

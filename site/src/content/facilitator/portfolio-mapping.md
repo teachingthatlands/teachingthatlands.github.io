@@ -4,9 +4,8 @@ type: resource
 order: 9
 tagline: "What the programme can help you evidence for advanced practice, the nursing and midwifery educator framework, Advance HE Fellowship and NMC revalidation, and what it can't."
 fox: "pencil.png"
+audience: "Participants recording the programme in a portfolio, appraisal or revalidation. Facilitators: point people here in Session 3."
 ---
-
-For participants recording the programme in a portfolio, appraisal or revalidation. Facilitators: point people here in Session 3.
 
 ## Overview: what you'll have
 

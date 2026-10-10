@@ -2,11 +2,10 @@
 title: "Briefing for Decision-Makers"
 type: pre-programme
 order: 1
-tagline: "One page for the manager or commissioner deciding whether to release staff for this programme"
+tagline: "One page for whoever approves the staff time: what it is, what it costs, and what to expect"
 fox: "architect.png"
+audience: "Whoever approves the staff time for a cohort: a manager, a service lead or an education lead. Setting one up yourself? Hand this on."
 ---
-
-*For the manager, education lead or commissioner deciding whether to support a cohort. If you're the person trying to get the programme started, see [Getting Traction](/facilitator/getting-traction).*
 
 **The ask:** release 8–12 staff for three 90-minute sessions, one week apart, and one facilitator for about 8–10 hours. Agree the time with line managers before invitations go out, and name someone to send the 30- and 90-day checks. The materials are free under CC BY 4.0. The time is not.
 
@@ -14,7 +13,7 @@ fox: "architect.png"
 
 A short CPD programme for anyone in health and care who teaches, or would like to. No teaching experience is needed. It starts from one question: *what do we need people to do differently, and how will our teaching make that happen?*
 
-Each participant brings one session they teach, or would like to teach, and rebuilds it over three weeks on a two-sided Redesign Worksheet, built around a six-box design canvas. The canvas is the same six questions as [Before You Plan a Teaching Day](/facilitator/before-you-plan).
+Each participant brings one session they teach, or would like to teach, and rebuilds it over three weeks on a two-sided Redesign Worksheet, built around a six-box design canvas ([see a worked example](/facilitator/session-plan-example)).
 
 | Session | Participants |
 |---|---|
