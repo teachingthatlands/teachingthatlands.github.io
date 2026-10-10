@@ -5,6 +5,7 @@ session: 2
 order: 2
 tagline: "One short message: read back the Session 1 ask and bring your slides"
 fox: pointing_left.png
+audience: "Whoever runs the cohort: send this to participants."
 ---
 
 **Send:** the day after Session 1, while the ask is fresh. Optional one-line reminder 48 hours before Session 2.

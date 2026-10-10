@@ -116,6 +116,8 @@ const facilitator = defineCollection({
     order: z.number(),
     /** One-liner shown on hub cards */
     tagline: z.string().optional(),
+    /** Who this page is for, shown at the top of the page: one plain sentence */
+    audience: z.string().optional(),
     /** Fox image filename (in /public/images/fox/) */
     fox: z.string().optional(),
   }),

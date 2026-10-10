@@ -8,6 +8,7 @@ duration: "90 minutes"
 order: 2
 tagline: "Experience retrieval before it's named, then make ten minutes of your own session active."
 fox: "pointing_right.png"
+audience: "Whoever runs Session 2."
 ---
 
 ## At a glance

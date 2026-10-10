@@ -5,6 +5,7 @@ session: 3
 order: 3
 tagline: "One short message: read back the Session 2 ask and bring your Menti or Kahoot"
 fox: sitting.png
+audience: "Whoever runs the cohort: send this to participants."
 ---
 
 **Send:** the day after Session 2. Optional one-line reminder 48 hours before Session 3.

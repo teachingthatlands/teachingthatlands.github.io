@@ -49,7 +49,7 @@ A teaching example. A practice educator's fire-safety refresher gets poor feedba
 
 ## How it appears in Teaching That Lands
 
-Not taught directly in the three core sessions. It's useful background for the programme's starting point. Question 2 of the design canvas, also in [Before You Plan a Teaching Day](/facilitator/before-you-plan), asks whether the gap is something teaching can fix at all. That is a double-loop question. The observer's debrief in the [train-the-trainer guide](/facilitator/train-the-trainer) uses the "say what you saw, then ask" move. [Debriefing with good judgement](/theories/debriefing-with-curiosity), which builds on this work, is parked for a future simulation-based session.
+Not taught directly in the three core sessions. It's useful background for the programme's starting point. The Need box of the design canvas, and question 1 of [Before You Plan a Teaching Day](/facilitator/before-you-plan), ask whether the gap is something teaching can fix at all. That is a double-loop question. The observer's debrief in the [train-the-trainer guide](/facilitator/train-the-trainer) uses the "say what you saw, then ask" move. [Debriefing with good judgement](/theories/debriefing-with-curiosity), which builds on this work, is parked for a future simulation-based session.
 
 ## The small print
 

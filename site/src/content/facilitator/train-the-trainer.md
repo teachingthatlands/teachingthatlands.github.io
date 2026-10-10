@@ -4,9 +4,8 @@ type: resource
 order: 8
 tagline: "Two routes to running the programme yourself, defined roles, and an observer checklist for all three sessions"
 fox: academic_right.png
+audience: "Anyone preparing to run the programme, and organisations building a small team of facilitators."
 ---
-
-*For anyone preparing to run the programme, and for organisations building a small team of facilitators.*
 
 The aim is not identical delivery. It is facilitators who understand why each block is there, so they make good decisions when the room doesn't follow the plan.
 

@@ -8,6 +8,7 @@ duration: "One day, 09:30–16:00"
 order: 4
 tagline: "All three sessions in a single day: same decks, same printables, with proper breaks and a follow-up email that does the spacing."
 fox: "pointing_right.png"
+audience: "Whoever runs the programme as a single study day."
 ---
 
 ## At a glance

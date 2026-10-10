@@ -8,6 +8,7 @@ duration: "90 minutes"
 order: 3
 tagline: "Delivered isn't changed: observable outcomes, matching evidence and a follow-through loop, then the whole canvas."
 fox: "thinking.png"
+audience: "Whoever runs Session 3."
 ---
 
 ## At a glance
@@ -132,7 +133,7 @@ Ask 2–3 people during the week whether they're happy to run their Menti or Kah
 ### 86–90 · Feedback → close
 
 - Hand out the paper feedback form ([Evaluation Toolkit](/facilitator/evaluation-toolkit)). SAY: thank you. Your named person will ask; so will we, at 30 and 90 days.
-- Share [Before You Plan a Teaching Day](/facilitator/before-you-plan): the canvas as six questions, for managers and organisers.
+- Share [Before You Plan a Teaching Day](/facilitator/before-you-plan): three questions for managers and anyone who asks for teaching, and the way in to the full [Teaching Design Check](/facilitator/design-check).
 
 ## After the session
 

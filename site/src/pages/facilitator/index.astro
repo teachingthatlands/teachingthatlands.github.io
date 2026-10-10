@@ -2,10 +2,9 @@
 /**
  * src/pages/facilitator/index.astro
  *
- * Facilitator Hub — sky theme. Lists all facilitator entries:
- * - Planning any teaching: general good practice, not tied to this programme
- * - Then the path to running the programme: start → prepare → deliver → evaluate
- * Cards are labelled by who they're for, so readers can find their own.
+ * Facilitator Hub — sky theme. Two levels:
+ * - Planning any teaching: good practice, not tied to this programme
+ * - Running Teaching That Lands: get a yes → plan → prepare → deliver → evaluate
  *
  * URL: /facilitator
  */
@@ -26,35 +25,44 @@ const commsItems = entries
   .filter(e => e.data.type === 'comms')
   .sort((a, b) => a.data.order - b.data.order);
 
-// First, good practice for planning any teaching. Then the hub follows a new
-// facilitator's path: start → prepare → deliver → evaluate.
+// Two levels: planning any teaching (not tied to this programme), then the
+// path to running Teaching That Lands. Each level says once who it's for;
+// cards are labelled by depth or step, and name a reader only where the
+// reader is someone else (the Briefing is handed on; two pages are for participants).
 const byId = (id: string) => entries.find(e => e.id === id);
-const generalIds = ['before-you-plan', 'design-check'];
-const prepareIds = ['train-the-trainer', 'technical-brief', 'computer-tasks', 'theory-guide', 'session-plan-example'];
-const evaluateIds = ['evaluation-toolkit', 'portfolio-mapping'];
-const placed = [...prepareIds, ...evaluateIds];
 const pick = (ids: string[]) => ids.map(byId).filter(Boolean) as typeof entries;
-// Who each card is for, so readers can find their own
-const readers: Record<string, string> = {
-  'before-you-plan': 'For commissioners',
-  'design-check': 'For education leads',
-  'setup-and-justify': 'For decision-makers',
-  'getting-traction': 'For champions',
-  'task-and-finish': 'For organisers',
+const planningIds = ['before-you-plan', 'design-check'];
+const yesIds = ['getting-traction', 'setup-and-justify'];
+const planIds = ['task-and-finish'];
+const prepareIds = ['train-the-trainer', 'technical-brief', 'theory-guide', 'session-plan-example', 'computer-tasks'];
+const evaluateIds = ['evaluation-toolkit', 'portfolio-mapping'];
+const placed = [...planningIds, ...yesIds, ...planIds, ...prepareIds, ...evaluateIds];
+const labels: Record<string, string> = {
+  'before-you-plan': 'Two minutes',
+  'design-check': 'The full check',
+  'getting-traction': 'Start here',
+  'setup-and-justify': 'Hand this on',
+  'task-and-finish': 'Checklist',
   'train-the-trainer': 'Facilitator development',
+  'computer-tasks': 'Handout',
+  'evaluation-toolkit': 'Evaluation',
+  'portfolio-mapping': 'For participants',
 };
+const label = (e: any) => labels[e.id] ?? 'Reference';
 const sections = [
-  { header: 'Planning any teaching', eyebrow: (e: any) => readers[e.id],
-    intro: 'Good practice for any teaching your organisation asks for, not just this programme.',
-    items: pick(generalIds) },
-  { header: '1 · Start here: setting up a cohort', eyebrow: (e: any) => readers[e.id] ?? 'Programme setup',
-    intro: 'Running Teaching That Lands: getting a yes, then planning the cohort.',
-    items: preItems.filter(e => !generalIds.includes(e.id)) },
-  { header: '2 · Prepare', eyebrow: (e: any) => readers[e.id] ?? 'Reference',
+  { group: 'Planning any teaching',
+    groupIntro: 'For anyone who asks for, plans or approves teaching. Not tied to this programme.',
+    header: '', eyebrow: label, items: pick(planningIds) },
+  { group: 'Running Teaching That Lands',
+    groupIntro: 'For whoever sets up and runs a cohort, in the order you\'ll need it.',
+    header: '1 · Get a yes', eyebrow: label,
+    items: [...pick(yesIds), ...preItems.filter(e => !placed.includes(e.id))] },
+  { header: '2 · Plan the cohort', eyebrow: label, items: pick(planIds) },
+  { header: '3 · Prepare', eyebrow: label,
     items: [...pick(prepareIds), ...resources.filter(r => !placed.includes(r.id))] },
-  { header: '3 · Deliver', eyebrow: (e: any) => e.data.session ? `Session ${e.data.session}` : 'All three, one day', items: blueprints, blueprint: true },
+  { header: '4 · Deliver', eyebrow: (e: any) => e.data.session ? `Session ${e.data.session}` : 'All three, one day', items: blueprints, blueprint: true },
   { header: 'Messages between sessions', eyebrow: (e: any) => `Before session ${e.data.session}`, items: commsItems },
-  { header: '4 · Evaluate and record', eyebrow: (e: any) => e.id === 'portfolio-mapping' ? 'For participants' : 'Evaluation', items: pick(evaluateIds) },
+  { header: '5 · Evaluate and record', eyebrow: label, items: pick(evaluateIds) },
 ].filter(sec => sec.items.length > 0);
 ---
 
@@ -73,7 +81,7 @@ const sections = [
       <div class="library-hero-inner">
         <div class="library-hero-text">
           <p class="library-overline">Facilitator Hub</p>
-          <h1 class="library-title">Run this programme</h1>
+          <h1 class="library-title">Plan it, then run it</h1>
           <p class="library-lede">
             Good practice for planning any teaching, then everything you need
             to run Teaching That Lands, in the order you'll need it.
@@ -91,8 +99,9 @@ const sections = [
 
       {sections.map(sec => (
         <div class="fac-hub-section">
-          <p class="fac-section-header">{sec.header}</p>
-          {sec.intro && <p class="fac-section-intro">{sec.intro}</p>}
+          {sec.group && <h2 class="fac-group-title">{sec.group}</h2>}
+          {sec.groupIntro && <p class="fac-group-intro">{sec.groupIntro}</p>}
+          {sec.header && <p class="fac-section-header">{sec.header}</p>}
           <div class="fac-cards-grid" data-animate>
             {sec.items.map(entry => (
               <a href={`/facilitator/${entry.id}`} class="fac-card">

@@ -4,6 +4,7 @@ type: resource
 order: 5
 tagline: "The theories the sessions use, where each one appears, and what to say when someone pushes back"
 fox: "academic_left.png"
+audience: "Whoever runs the sessions."
 ---
 
 *One entry for each theory the sessions actually use, in the order they first appear. Each gives the idea in a line, where it's used, and a reply for when someone challenges it. The full account, with references, is in the [Theory Library](/theories).*

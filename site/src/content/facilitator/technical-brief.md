@@ -4,9 +4,10 @@ type: resource
 order: 4
 tagline: "Tools, room and timing for the three sessions, with a low-tech fallback for everything"
 fox: "architect.png"
+audience: "Whoever runs the sessions. Read it before your first delivery."
 ---
 
-*Read this before your first delivery. It covers the practical side: tools, room, timing and what to do when the technology doesn't cooperate.*
+*It covers the practical side: tools, room, timing and what to do when the technology doesn't cooperate.*
 
 ## Overview
 
