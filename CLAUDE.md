@@ -15,7 +15,7 @@
 - **Redesign Worksheet PDF** (`site/public/handouts/redesign-worksheet.pdf`) is printed from `tools/redesign-worksheet/redesign-worksheet.html` by `just redesign-worksheet-pdf`. Same rule: if it's ever laid out by hand, that becomes the master.
 
 - **The other printable PDFs** in `site/public/handouts/` are exported from PowerPoint masters in `tools/printables/` (same name, `.pptx`) with File → Export → PDF. Change the `.pptx`, then re-export; don't edit a PDF on its own, or the master falls behind.
-  - Exception: `blorps-and-fizzwicks.pptx` is behind its PDFs. The 10 Oct fixes (fold line a third of the way in, "Keep going until time's up.", one retest slip per person, answers split into `blorps-and-fizzwicks-facilitator.pdf`) were made to the PDFs only. Fold them into the `.pptx` before its next export.
+  - `blorps-and-fizzwicks.pptx` makes two PDFs: export it, then split it. Pages 1–3 (word sheets, retest slips) are `blorps-and-fizzwicks.pdf`; page 4 (answers and tally) is `blorps-and-fizzwicks-facilitator.pdf`.
 
 - **Site search** (`/search`) is Pagefind. `npm run build` runs `astro build && pagefind --site dist`, which writes the index to `dist/pagefind/`: nothing to commit. It indexes each page's `.page-content` only; pass `searchable={false}` to `Base` to leave a page out (404, stats, search), and add `data-pagefind-ignore` to leave out a part (breadcrumbs). Search doesn't work under `astro dev`: use `just preview`.
 
