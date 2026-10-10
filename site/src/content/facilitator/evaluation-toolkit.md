@@ -49,8 +49,11 @@ One prompt per Kirkpatrick level, tagged with its level in small grey type, so t
 | 3 | What's the most useful change you could show someone you can do right now? *(free text)* | Readiness and capability, not yet changed behaviour |
 | 4 | When you evaluate your own teaching and see a difference because of this, tell us: *[facilitator email]* | An invitation, not data: impact can only come later |
 | — | Anything else you want to tell us? *(optional)* | |
+| — | ▢ You can quote me (no name or workplace) | Permission to quote, ticked or not. Never quote an unticked form |
 
 Levels 2–4 here are self-report or invitation. Behaviour and impact still come from the 30- and 90-day check (Level 3, below). The Level 4 prompt gives an email address rather than asking for a name, so the form stays anonymous.
+
+**The privacy line** under the title says what happens to the answers: typed up without anything identifying, kept to improve the programme, reported only as group totals, the paper shredded. Do what it says. In a small group, a role or a story can identify someone as surely as a name, so leave those out when you type up.
 
 <a class="file-download" href="/handouts/feedback-form.pdf">End-of-programme feedback form (two per A4 sheet)</a>
 
