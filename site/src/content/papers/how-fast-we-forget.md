@@ -51,7 +51,7 @@ He did this over and over, with thousands of syllables, for years, and published
 
 ## How it appears in Teaching That Lands
 
-Session 2 includes a nod to Ebbinghaus: a sheet of made-up words with silly hospital meanings, which half the room re-reads and half test themselves on. After a surprise retest, the facilitator draws the forgetting curve: most of it goes fast, then levels off, and each time you pull it back out, it fades more slowly. That's one reason the sessions are a week apart, and why the made-up words are tested again at the start of Session 3.
+Session 2 includes a nod to Ebbinghaus: a sheet of made-up words with silly hospital meanings, which half the room re-reads and half test themselves on. After a surprise retest, the facilitator draws the forgetting curve: most of it goes fast, then levels off, and each time you pull it back out, it fades more slowly. That's one reason the sessions are a week apart, and why the made-up words come up again, out loud, at the start of Session 3.
 
 In Session 3, "forgetting is the default" comes back when participants plan what their own learners will revisit at 30, 60 and 90 days. More on the [spaced practice](/theories/spread-it-out) page.
 

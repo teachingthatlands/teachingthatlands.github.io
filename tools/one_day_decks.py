@@ -72,13 +72,12 @@ DECKS = [
             ("Did It Land?", "Day 3 of 3", "In one day · 3 of 3"),
             ("Building your session", "Days 1–2 ✓", "This morning ✓"),
             ("Building your session", "Day 3: ", "This afternoon: "),
-            ("Quick: what's a", "Same as last week. 2 minutes.", "Same as this morning. 2 minutes."),
             ("You've been on a canvas", "for ", ""),
             ("You've been on a canvas", "three weeks", "all day"),
             ("Here's ours", "An ask each week", "A 1-week email"),
         ],
         # The blorps retest opens the last block, after the break.
-        move={"Quick: what's a blorp?": "Your verb decides your evidence"},
+        move={"Who remembers what a blorp is?": "Your verb decides your evidence"},
     ),
 ]
 

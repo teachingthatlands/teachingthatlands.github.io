@@ -30,9 +30,9 @@ One day works. Three weeks apart works better, because spacing is one of the thi
 |---|---|---|
 | Spacing: each session opens by retrieving the last | Gaps of hours, not days | Keep the retrieval openers anyway: a Kahoot on this morning is still spaced, just less |
 | Trying it at work: redesign slides, build a Kahoot, bring it back | Gone | A protected "make" block after lunch, paper first, laptop if they're comfy |
-| The blorps retest a week later | The same day won't show it (re-study often wins over minutes; testing wins over days) | Retest at the end of the day, and **send the real retest a week later** |
+| A week to forget the blorps | The same day won't show it (re-study often wins over minutes; testing wins over days) | Ask "who remembers what a blorp is?" out loud at the start of the last block |
 | Three "show us" openers | Repetitive | One: "run it on us", straight after the make block |
-| Follow-through starts between sessions | Everything ends at 4pm | The 1-week email starts it: retest, then "what did you change?" |
+| Follow-through starts between sessions | Everything ends at 4pm | The 1-week email starts it: "what did you change?" |
 
 Be straight with the group about this. It's the programme's own argument ([Ebbinghaus](/papers/how-fast-we-forget); distributed practice beats massed practice, Cepeda et al. 2006), and it explains why the email matters.
 
@@ -52,7 +52,7 @@ By the end of the day, participants will have:
 
 ### The decks
 
-Three one-day decks: run them in order and switch at the breaks. They're the session decks with the asks and "see you next week" slides hidden, the 60-second pitch hidden (it merges into "Run it on us"), "last week" changed to "this morning", the canvas labelled by time of day, and the blorps retest moved to open the last block. Slide 1's notes say so.
+Three one-day decks: run them in order and switch at the breaks. They're the session decks with the asks and "see you next week" slides hidden, the 60-second pitch hidden (it merges into "Run it on us"), "last week" changed to "this morning", the canvas labelled by time of day, and the blorps question moved to open the last block. Slide 1's notes say so.
 
 <a class="file-download" href="/slides/ttl-one-day-1-death-by-powerpoint.pptx">One-day deck 1: Block 1 (Session 1)</a>
 
@@ -67,8 +67,9 @@ They're built automatically from the session decks, so they always match them. T
 Everything from the three blueprints, printed and cut **the day before**, so lunch is a break:
 
 - Slide kits in envelopes, one per person or pair ([Session 1](/facilitator/session-1))
-- Blorps sheets A and B, and **two** retest slips each: before lunch and at the end of the day ([Session 2](/facilitator/session-2))
+- Blorps sheets A and B, and one retest slip each, for before lunch ([Session 2](/facilitator/session-2))
 - Spot the strategy, one set per table. Card 6 says "These sessions: one week apart". In a day, cross it out and write "This morning's slides, quizzed again before lunch", or read it out that way
+- **Spare pens**: bring a handful, they walk
 - Evidence sort and Can you see it?, one set per table; feedback forms ([Session 3](/facilitator/session-3))
 - Redesign Worksheets, double-sided, one each from the start of Block 1, plus spares
 
@@ -122,7 +123,7 @@ Switch to the Day 2 deck. Bag 2 on the tables.
 | 12:01 | Make 10 minutes active: start on paper (slide 11) | 50–70 |
 | 12:25 | "Leave it on the table. Finish after lunch." | |
 
-- At the retest, SAY (whatever the result): "today's result doesn't settle it. You'll get the same quiz at the end of the day, and again in a week, by email."
+- At the retest, SAY (whatever the result): "today's result doesn't settle it. I'll ask you again this afternoon, out loud."
 - Spot the strategy debrief: spacing today is "the Kahoot on this morning", and the gap before the retest.
 - Starting the make block before lunch is deliberate: people talk about it over lunch and come back with ideas.
 
@@ -147,7 +148,7 @@ The longest stretch of teaching is behind you. Bag 4: spare worksheets and feedb
 
 | Time | What | Session 3 section |
 |---|---|---|
-| 14:50 | Blorps retest: "Same as this morning" (slide 9). Tally next to the before-lunch numbers | 0–2 |
+| 14:50 | "Who remembers what a blorp is?" (slide 9), out loud, no slips | 0–2 |
 | 14:52 | Rewrite your outcomes, in pairs, on the worksheet: section 5 (slide 10) | 33–53 |
 | 15:12 | Does it line up? Fill the middle column from sections 3 and 4, then read across (slide 11) | 53–59 |
 | 15:18 | Follow-through: a two-way negotiation (slide 12) | 59–67 |
@@ -156,33 +157,30 @@ The longest stretch of teaching is behind you. Bag 4: spare worksheets and feedb
 | 15:45 | Feedback form → close (slide 19) | 86–90 |
 | 15:49 | Buffer, then finish on time | |
 
-- At the retest, SAY: "hours apart, either result is possible. The real test arrives in a week."
+- At the blorps question, SAY: "hours apart, either result is possible. Retrieving it again now is what keeps it."
 - No new theory in this block: everything is applied to their own worksheet.
 - IF SHORT: never cut the rewrite, the follow-through or the reveal. Halve "Does it line up?" first.
-- Close, SAY: "in a week you'll get an email with the same blorps quiz and one question: what did you change?"
+- Close, SAY: "in a week you'll get an email with one question: what did you change?"
 
 ## After the session
 
 ### The 1-week email
 
-Send exactly one week later. It's the spacing the day couldn't give, the real retest, and the start of follow-through.
+Send exactly one week later. It's the spacing the day couldn't give, and the start of follow-through.
 
 > **Subject:** Teaching That Lands: one week on (2 minutes)
 >
 > Hi [name / all],
 >
-> Thanks for coming last [day]. Two quick things, no need to look anything up:
+> Thanks for coming last [day]. One quick thing, no need to look anything up:
 >
-> **1. What's a blorp?** Reply with what you remember for each: blorp · fizzwick · gromble · snorkel-day · wuzzle · plonk · krimble · dribbet. Rough is fine.
->
-> **2. What's one thing you've changed in your teaching since?** One line, even if the answer is "not yet, because…"
+> **What's one thing you've changed in your teaching since?** One line, even if the answer is "not yet, because…"
 >
 > Your named person will be asking too. If you need anything you agreed with them, now's a good time to ask.
 >
 > [Your name]
 
-- Tally the blorps replies by group (A vs B), next to the same-day numbers. Over a week, self-testing usually holds up better (Roediger & Karpicke 2006). Share the result in one line: it's a lovely reminder email in itself.
-- Question 2 is early Level 3 evidence. Keep it with the feedback forms.
+- The answer is early Level 3 evidence. Keep it with the feedback forms.
 - Then as [Session 3](/facilitator/session-3): worksheets against the rubric (Level 2), and the three questions at 30 and 90 days (Level 3). Details in the [Evaluation Toolkit](/facilitator/evaluation-toolkit).
 
 ### Making it shorter

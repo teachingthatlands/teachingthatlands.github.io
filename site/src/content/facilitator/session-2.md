@@ -50,7 +50,7 @@ Print before the session:
 
 <a class="file-download" href="/handouts/spot-the-strategy.pdf">Spot the strategy: five mats, 14 cards, answers</a>
 
-- **Blorps:** half the group gets Version A (re-read), half Version B (fold and self-test). Print retest slips for today **and** Session 3.
+- **Blorps:** half the group gets Version A (re-read), half Version B (fold and self-test). Print one retest slip per person, for today only (Session 3 asks the question out loud).
 - **Spot the strategy:** one set per table: the five mats (one per A4 page), and the cards cut out and shuffled.
 
 ### Read back last week's asks
@@ -83,11 +83,11 @@ Keep everything free of patient information, and check local information-governa
 - [ ] Session 1 card photos
 - [ ] Bad-slide pack (again, for anyone who didn't do the ask)
 - [ ] Kahoot and Menti loaded, tested on the venue wi-fi (have a phone hotspot)
-- [ ] Blorps word sheets (A and B) and retest slips (today and Session 3)
+- [ ] Blorps word sheets (A and B) and one retest slip per person (today only)
 - [ ] Spot the strategy: mats and a shuffled card set per table
 - [ ] Computer Task Sheet (for the ask)
 - [ ] Setting cards: ward corridor, handover, sim room, clinic, teaching room
-- [ ] A3 paper and pens for designs
+- [ ] A3 paper, and **spare pens** (people forget them, and they walk off: bring a handful)
 - [ ] Spare Redesign Worksheets (people bring theirs)
 - [ ] Cards for the ask
 - [ ] Visible timer
@@ -115,24 +115,24 @@ Keep everything free of patient information, and check local information-governa
 ### 23–30 · Blorps and Fizzwicks
 
 - Hand out the word sheets: half Version A (re-read), half Version B (fold and self-test), alternate seats. Eight nonsense words with silly hospital meanings.
-- SAY (deadpan): eight important clinical terms you'll need later. Three minutes. Follow the instructions on *your* sheet.
+- SAY (deadpan): eight important clinical terms you'll need later. Three minutes. **Read the top of your sheet and do what it says.** Both groups keep going until time's up: A keeps re-reading, B keeps folding and testing, so nobody sits idle.
 - After 3 minutes: sheets face down and collected. **Don't say there'll be a test.**
 - WHY: a nod to Ebbinghaus's nonsense syllables. A vs B is re-reading vs retrieval practice ([Roediger & Karpicke 2006](/papers/testing-beats-re-reading)).
 
 ### 30–40 · Mentimeter tour
 
 - SAY: four silly questions, four formats. Notice what each one makes you do. After each, ASK in one line: where could this work in your teaching?
-- The four questions (slide 7 notes): multiple choice, 100 points, pin on image, then a ranking: *what helps you learn most?* listening to a talk / taking notes / explaining it to someone / working it through with colleagues / "nothing, just biscuits and tea". Keep the ranking result for Make 10 minutes active; don't explain it yet.
+- The four questions (slide 7 notes): multiple choice, 100 points, pin on image, then a ranking: *what helps you learn most?* listening to a talk / taking notes / explaining it to someone / working it through with colleagues / "nothing, just biscuits and tea". Say once, in passing, that this is what *they* feel helps; the research order comes in Make 10 minutes active, without going back to Menti.
 - WHY: they meet each format as a learner, low stakes: the preview for this week's ask. It's also the gap before the retest (don't mention that). → [experiential learning](/theories/learning-from-experience)
 - FALLBACK: hands up; sticky notes on a flipchart; dot stickers on a printed picture.
 - IF SHORT: three formats.
 
 ### 40–45 · Surprise retest → the forgetting curve
 
-- Hand out the retest slips: "Quick: what's a blorp?" Two minutes. Score 1 per meaning roughly right; tally Group A vs Group B on the whiteboard.
-- **Be ready for either result.** Over ten minutes, re-reading often does as well or better. That's what Roediger & Karpicke found: re-study won at 5 minutes; testing won at 2 days and a week. SAY (A wins): "re-reading *feels* better, and today it works. Watch what happens over a week." SAY (B wins): "already. Now imagine a week."
+- Hand out the retest slips: "Quick: what's a blorp?" Two minutes. Then swap with a neighbour, read the answers out, and they score 1 per meaning roughly right. Tally Group A vs Group B on the whiteboard.
+- **Be ready for either result.** Over ten minutes, re-reading often does as well or better. That's what Roediger & Karpicke found: re-study won at 5 minutes; testing won at 2 days and a week. SAY (A wins): "re-reading *feels* better, and today it works. The research says that fades over days." SAY (B wins): "already. Now imagine a week."
 - Then the drawn forgetting curve (four clicks: no review → Day 2 review → Day 3 review → labels). SAY: most of it goes fast, then levels off; each time you *pull it back out*, it fades more slowly. That's why the sessions are a week apart. → [Ebbinghaus (1885)](/papers/how-fast-we-forget)
-- Collect the slips, names on, and keep them for Session 3. Don't mention the retest.
+- The slips aren't kept: Session 3 just asks "who remembers what a blorp is?" out loud. Don't mention the retest beforehand.
 
 ### 45–50 · Spot the strategy
 
@@ -142,7 +142,7 @@ Keep everything free of patient information, and check local information-governa
 
 ### 50–70 · Make 10 minutes of your session active
 
-- Show the ranking result from the Menti tour. SAY: that's what we *feel* helps. Research puts them in an order: listening, then doing something with it, then explaining it in your own words, then working it through together. The more people do with an idea, the more they tend to learn. It's a scale, not percentages: the "learning pyramid" (5% for lectures, 90% for teaching others) was never measured. WHY: ICAP (Chi & Wylie 2014); like the blorps, what feels like it works today isn't always what lasts. → [active is a scale](/theories/active-is-a-scale)
+- No need to go back to Menti: SAY "earlier you told me what *you* feel helps." Research puts them in an order: listening, then doing something with it, then explaining it in your own words, then working it through together. The more people do with an idea, the more they tend to learn. It's a scale, not percentages: the "learning pyramid" (5% for lectures, 90% for teaching others) was never measured. WHY: ICAP (Chi & Wylie 2014); like the blorps, what feels like it works today isn't always what lasts. → [active is a scale](/theories/active-is-a-scale)
 - SAY: take the session you rebuilt last week. Pick ten minutes. Make learners *do* something, in its real setting: ward corridor, handover, sim room. Use at least one strategy (the mats stay on the table as a menu).
 - On paper: one A3 sheet: what learners do, which strategy, what you need, what happens if you're interrupted. Setting cards for anyone without a real setting.
 - SAY ("Sometimes the best slide is no slide"): the answer might have no screen at all.
@@ -160,7 +160,8 @@ Keep everything free of patient information, and check local information-governa
 
 ### 80–88 · Menti demo → the ask
 
-- DEMO first (2 minutes, live on screen, narrating each click): sign in to Menti, make one word-cloud slide, click Share, copy the link. Point to the [Computer Task Sheet](/facilitator/computer-tasks) for the same steps on paper.
+- DEMO first (2 minutes, live on screen, narrating each click): open [mentimeter.com](https://www.mentimeter.com), sign in, make one word-cloud slide, click Share, copy the link. Point to the [Computer Task Sheet](/facilitator/computer-tasks) for the same steps on paper.
+- IF SHORT: **skip the demo, keep the ask.** Say "the steps are on your task sheet" and go straight to the card.
 - Show the card wording: **"Before next week I will spend 30–40 minutes playing with Menti or Kahoot and make one active learning thing for my session, and bring it."**
 - SAY: write it on the card now. Add *when* you'll do the 30–40 minutes. Photograph it. You don't need a class: just play from the presenter's side. Email yourself the link.
 - WHY: a time-boxed, written intention ([implementation intentions](/theories/if-then-plans)). Building it yourself is the active experimentation step of [Kolb's cycle](/theories/learning-from-experience).

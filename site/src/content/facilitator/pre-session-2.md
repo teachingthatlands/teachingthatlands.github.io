@@ -24,7 +24,7 @@ Thanks for Session 1. Here's the ask you wrote on your card:
 
 > "Before next week I will identify and redesign one or two slides (my own, or an example I find) and bring them."
 
-**Bring:** the slides you redesigned or found, on a laptop, phone or paper. A before-and-after is ideal.
+**Bring:** the slides you redesigned or found, on a laptop, phone or paper. A before-and-after is ideal. And a pen: we write a lot.
 
 **When:** [day, date, time] (90 minutes)\
 **Where:** [room, building]
@@ -37,4 +37,4 @@ Didn't get round to it? Come anyway. We'll start from wherever you are.
 
 ### Reminder (48 hours before)
 
-> Teaching That Lands, [day] [time], [room]. Bring the slides you redesigned or found. Didn't manage it? Come anyway.
+> Teaching That Lands, [day] [time], [room]. Bring the slides you redesigned or found, and a pen. Didn't manage it? Come anyway.

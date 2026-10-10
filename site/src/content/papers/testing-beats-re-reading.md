@@ -53,7 +53,7 @@ They ran two experiments with university students. Each student read short passa
 
 Session 2 opens with people showing what they did with their Session 1 ask. Then comes a quick quiz on Session 1, a week after they learned it, before anyone names why. Only then is it called retrieval practice.
 
-Next, half the room re-reads a sheet of made-up words and half test themselves on it. A surprise retest later in the session often shows little difference, or even a win for re-reading, just as this study found at 5 minutes. Session 3 opens with the same retest, a week on.
+Next, half the room re-reads a sheet of made-up words and half test themselves on it. A surprise retest later in the session often shows little difference, or even a win for re-reading, just as this study found at 5 minutes. Session 3 opens by asking, out loud, who still remembers what a blorp is.
 
 ## The small print
 

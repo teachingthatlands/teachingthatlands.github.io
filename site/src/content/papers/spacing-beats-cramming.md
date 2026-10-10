@@ -53,7 +53,7 @@ They asked two questions. Does spacing help? And how long should the gap be, if 
 
 The sessions are a week apart. By the rough guide, a week's gap suits remembering something for about a month, which fits a three-week course. For a year, the spacing needs to carry on after Session 3.
 
-The retrieval happens in the room: each session opens by recalling the last one, a week later. Session 2 opens with people showing what they did with their Session 1 ask, then a quick quiz on Session 1. Session 3 opens with a surprise retest from Session 2, then participants run their own quizzes on the group. Between sessions, the message people get only reminds them of the ask they wrote down. In Session 3, participants plan what their own learners will revisit at 30, 60 and 90 days.
+The retrieval happens in the room: each session opens by recalling the last one, a week later. Session 2 opens with people showing what they did with their Session 1 ask, then a quick quiz on Session 1. Session 3 opens with a surprise question from Session 2 (who remembers what a blorp is?), then participants run their own quizzes on the group. Between sessions, the message people get only reminds them of the ask they wrote down. In Session 3, participants plan what their own learners will revisit at 30, 60 and 90 days.
 
 ## The small print
 
