@@ -44,7 +44,9 @@ The Day 2 deck: 16 slides plus hidden credits, built on the Day 1 template. Tool
 
 Print before the session:
 
-<a class="file-download" href="/handouts/blorps-and-fizzwicks.pdf">Blorps and Fizzwicks: word sheets (A and B), retest slips, answers</a>
+<a class="file-download" href="/handouts/blorps-and-fizzwicks.pdf">Blorps and Fizzwicks: word sheets (A and B), retest slips</a>
+
+<a class="file-download" href="/handouts/blorps-and-fizzwicks-facilitator.pdf">Blorps and Fizzwicks: facilitator answers and tally (one copy)</a>
 
 <a class="file-download" href="/handouts/spot-the-strategy.pdf">Spot the strategy: five mats, 14 cards, answers</a>
 
