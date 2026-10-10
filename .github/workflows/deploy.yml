@@ -1,8 +1,10 @@
 name: Deploy to GitHub Pages
 
 on:
+  # Every branch is built, so a branch shows a green tick before it's
+  # merged. Only main is deployed.
   push:
-    branches: [main]
+    branches: ['**']
   workflow_dispatch:
   # Refresh the /stats numbers every day (UTC). Make this more frequent once
   # there is traffic worth watching; each run is a full build and deploy.
@@ -11,12 +13,12 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
-  group: pages
-  cancel-in-progress: false
+  # Deploys from main queue up in order; a newer push to a branch replaces
+  # that branch's build.
+  group: ${{ github.ref == 'refs/heads/main' && 'pages' || github.ref }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
 
 jobs:
   build:
@@ -24,15 +26,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       # The one-day decks are built from the session decks. If a session deck
       # changed without a rebuild, stop here: run `just one-day-decks`.
       - name: Setup uv
-        uses: astral-sh/setup-uv@v6
+        uses: astral-sh/setup-uv@v7
 
+      # --locked: exactly the versions in tools/one_day_decks.py.lock
       - name: Check one-day decks are up to date
-        run: uv run -q tools/one_day_decks.py --check
+        run: uv run --locked -q tools/one_day_decks.py --check
 
       # Writes site/public/stats.json for the /stats page. Never fails the build:
       # with no token or an API outage it keeps the last published numbers.
@@ -42,31 +45,39 @@ jobs:
         run: uv run -q tools/goatcounter_stats.py
 
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: 22
           cache: npm
           cache-dependency-path: site/package-lock.json
 
+      # npm ci: exactly the versions in package-lock.json, and never changes
+      # it. site/.npmrc stops dependencies' install scripts from running.
       - name: Install dependencies
-        run: npm install --prefix site
+        run: npm ci --prefix site
 
       - name: Build site
         run: npm run build --prefix site
 
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: site/dist/
 
   deploy:
     name: Deploy
+    if: github.ref == 'refs/heads/main'
     needs: build
     runs-on: ubuntu-latest
+    # Only this job can publish, and it runs none of the site's dependencies.
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
