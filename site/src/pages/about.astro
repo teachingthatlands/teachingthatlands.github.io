@@ -221,7 +221,67 @@ import Base from '../layouts/Base.astro';
       </div>
     </section>
 
-    <!-- 6. Contact -->
+    <!-- 6. How it's made -->
+    <section class="about-section" id="how-its-made">
+      <p class="about-section-kicker">How it&rsquo;s made</p>
+      <h2 class="about-section-heading">Yes, AI helped. Here&rsquo;s how.</h2>
+      <div class="about-prose">
+        <p>
+          I use AI (mostly Claude) to research, draft, build and check this
+          site. None of it came from one prompt. I work with it the way this
+          programme asks you to teach: start with what needs to change, check
+          the evidence, and ask whether it landed. Take the
+          <a href="/facilitator/design-check">Teaching Design Check</a>:
+        </p>
+        <ul class="about-problem-list">
+          <li>
+            <strong>Spot the gap.</strong> From years of teaching in the NHS,
+            I could see something missing and useful: help for anyone planning
+            teaching, not just people running this programme.
+          </li>
+          <li>
+            <strong>Look wide, then narrow.</strong> We looked across the bigger
+            picture and the literature, then cut down to what matters.
+          </li>
+          <li>
+            <strong>Check the sources.</strong> I checked each reference, claim
+            and assumption, and read closed-access papers in full through
+            university access, so the page says what the sources say.
+          </li>
+          <li>
+            <strong>Match the real thing.</strong> I built the page and the
+            printable PDF, then checked they describe what the three sessions
+            actually deliver.
+          </li>
+          <li>
+            <strong>Step back.</strong> The facilitator setup pages then
+            read as &ldquo;who is this for?&rdquo;, so I reworked them for the
+            two people likely to read them.
+          </li>
+        </ul>
+        <p>
+          The AI is quick, and it&rsquo;s good at challenge when asked
+          (&ldquo;what am I missing?&rdquo;). The judgement is mine: what&rsquo;s
+          needed, what&rsquo;s true, and how it will land with a room of busy
+          clinicians. The foxes started as AI images; I traced their edges and
+          took out the white backgrounds by hand.
+        </p>
+        <p>
+          It&rsquo;s all in the open. My standing instructions to the AI are
+          in <a href="https://github.com/teachingthatlands/teachingthatlands.github.io/blob/main/CLAUDE.md" target="_blank" rel="noopener">CLAUDE.md</a>
+          (paper first in the room; never identify a real organisation or person),
+          and every change, with the reasons for it, is on
+          <a href="https://github.com/teachingthatlands/teachingthatlands.github.io" target="_blank" rel="noopener">GitHub</a>.
+        </p>
+        <p>
+          Trying this yourself? Keep anything that identifies a patient,
+          colleague or organisation out of it, use the AI tool your employer
+          has approved for work, and check what comes back.
+        </p>
+      </div>
+    </section>
+
+    <!-- 7. Contact -->
     <section class="about-section" id="contact">
       <p class="about-section-kicker">Contact</p>
       <h2 class="about-section-heading">Get in touch.</h2>
@@ -233,7 +293,7 @@ import Base from '../layouts/Base.astro';
       </div>
     </section>
 
-    <!-- 7. Privacy -->
+    <!-- 8. Privacy -->
     <section class="about-section" id="privacy">
       <p class="about-section-kicker">Privacy</p>
       <h2 class="about-section-heading">What we count, and what we don&rsquo;t.</h2>
@@ -421,6 +481,8 @@ import Base from '../layouts/Base.astro';
         border-left: 3px solid var(--surface0);
       }
       .about-problem-list li strong { color: var(--text); }
+      .about-problem-list + p { margin-top: 1.25rem; }
+      #how-its-made .about-problem-list { max-width: 68ch; margin-bottom: 0; }
 
       /* ── Testimonials ──────────────────────────────────────────────── */
       .about-testimonial-grid {
