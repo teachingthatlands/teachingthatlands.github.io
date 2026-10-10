@@ -235,8 +235,9 @@ import Base from '../layouts/Base.astro';
         </p>
         <ul class="about-problem-list">
           <li>
-            <strong>Spot the gap.</strong> From years of teaching in the NHS,
-            I could see something missing and useful: help for anyone planning
+            <strong>Spot the gap.</strong> Coming back into the NHS after time
+            teaching at university, where the science of learning gets far more
+            attention, I noticed what was missing: help for anyone planning
             teaching, not just people running this programme.
           </li>
           <li>
@@ -244,9 +245,10 @@ import Base from '../layouts/Base.astro';
             picture and the literature, then cut down to what matters.
           </li>
           <li>
-            <strong>Check the sources.</strong> I checked each reference, claim
-            and assumption, and read closed-access papers in full through
-            university access, so the page says what the sources say.
+            <strong>Check the sources.</strong> I checked references against
+            the papers themselves, reading closed-access ones in full through
+            university access, rather than trusting memory (the AI&rsquo;s or
+            mine).
           </li>
           <li>
             <strong>Match the real thing.</strong> I built the page and the
@@ -255,8 +257,9 @@ import Base from '../layouts/Base.astro';
           </li>
           <li>
             <strong>Step back.</strong> The facilitator setup pages then
-            read as &ldquo;who is this for?&rdquo;, so I reworked them for the
-            two people likely to read them.
+            read as &ldquo;who is this for?&rdquo;, so I reworked them for their
+            two kinds of reader: anyone planning teaching, and whoever runs a
+            cohort.
           </li>
         </ul>
         <p>
@@ -380,7 +383,6 @@ import Base from '../layouts/Base.astro';
         font-size: 0.9rem;
         color: var(--subtext0);
         line-height: 1.7;
-        max-width: 52ch;
       }
 
       /* ── Body wrapper ──────────────────────────────────────────────── */
@@ -440,7 +442,6 @@ import Base from '../layouts/Base.astro';
         font-size: 0.9rem;
         color: var(--subtext1);
         line-height: 1.8;
-        max-width: 68ch;
         margin-bottom: 1rem;
       }
       .about-prose p:last-child { margin-bottom: 0; }
@@ -482,7 +483,6 @@ import Base from '../layouts/Base.astro';
       }
       .about-problem-list li strong { color: var(--text); }
       .about-problem-list + p { margin-top: 1.25rem; }
-      #how-its-made .about-problem-list { max-width: 68ch; margin-bottom: 0; }
 
       /* ── Testimonials ──────────────────────────────────────────────── */
       .about-testimonial-grid {
