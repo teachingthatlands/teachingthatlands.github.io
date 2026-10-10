@@ -56,7 +56,7 @@ LICENCE.md                CC BY 4.0
 
 ## Running the site locally
 
-Requires Node 22.12 or later.
+Requires Node 22.12 or later. Use npm 11 or later (`npm -v`; update with `npm install -g npm@11`) so all of `site/.npmrc` applies: it stops dependencies' install scripts from running and holds back any release less than a week old, which is when compromised packages are usually caught.
 
 ```bash
 cd site

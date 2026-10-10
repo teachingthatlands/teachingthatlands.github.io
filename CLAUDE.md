@@ -16,6 +16,12 @@
 
 - **Site search** (`/search`) is Pagefind. `npm run build` runs `astro build && pagefind --site dist`, which writes the index to `dist/pagefind/`: nothing to commit. It indexes each page's `.page-content` only; pass `searchable={false}` to `Base` to leave a page out (404, stats, search), and add `data-pagefind-ignore` to leave out a part (breadcrumbs). Search doesn't work under `astro dev`: use `just preview`.
 
+## Dependencies
+
+- **`site/.npmrc` is supply-chain safety: keep it.** Dependencies' install scripts never run, and npm 11+ won't install a release under 7 days old. Override only for an urgent fix (`--min-release-age=0`), and say why. Anything that must run after `astro build` goes in the `build` script itself (as Pagefind does): `ignore-scripts` also skips `prebuild`/`postbuild` hooks.
+- CI installs with `npm ci` (exactly the lockfile) and runs the deck tool `--locked`. Changed the tool's dependencies? Run `uv lock --script tools/one_day_decks.py`.
+- Two settings in `astro.config.mjs` keep the output as written: `compressHTML: true` (Astro 7's default runs words together around inline tags) and the `unified()` Markdown processor (the download-card plugin needs it). Don't drop either without comparing the built pages.
+
 ## House rules
 
 - **The person's hand-edited decks and printables are the masters.** Fold changes into them; never regenerate over them.
