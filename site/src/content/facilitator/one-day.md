@@ -67,7 +67,7 @@ They're built automatically from the session decks, so they always match them. T
 Everything from the three blueprints, printed and cut **the day before**, so lunch is a break:
 
 - Slide kits in envelopes, one per person or pair ([Session 1](/facilitator/session-1))
-- Blorps sheets A and B, and one retest slip each, for before lunch ([Session 2](/facilitator/session-2))
+- Blorps sheets (Flat and Fold), and one retest slip each, for before lunch ([Session 2](/facilitator/session-2))
 - Spot the strategy, one set per table. Card 6 says "These sessions: one week apart". In a day, cross it out and write "This morning's slides, quizzed again before lunch", or read it out that way
 - **Spare pens**: bring a handful, they walk
 - Evidence sort and Can you see it?, one set per table; feedback forms ([Session 3](/facilitator/session-3))

@@ -44,13 +44,13 @@ The Day 2 deck: 16 slides plus hidden credits, built on the Day 1 template. Tool
 
 Print before the session:
 
-<a class="file-download" href="/handouts/blorps-and-fizzwicks.pdf">Blorps and Fizzwicks: word sheets (A and B), retest slips</a>
+<a class="file-download" href="/handouts/blorps-and-fizzwicks.pdf">Blorps and Fizzwicks: word sheets (Flat and Fold), retest slips</a>
 
 <a class="file-download" href="/handouts/blorps-and-fizzwicks-facilitator.pdf">Blorps and Fizzwicks: facilitator answers and tally (one copy)</a>
 
 <a class="file-download" href="/handouts/spot-the-strategy.pdf">Spot the strategy: five mats, 14 cards, answers</a>
 
-- **Blorps:** half the group gets Version A (re-read), half Version B (fold and self-test). Print one retest slip per person, for today only (Session 3 asks the question out loud).
+- **Blorps:** half the group gets Flat (re-read), half Fold (fold and self-test). Print one retest slip per person, for today only (Session 3 asks the question out loud).
 - **Spot the strategy:** one set per table: the five mats (one per A4 page), and the cards cut out and shuffled.
 
 ### Read back last week's asks
@@ -83,7 +83,7 @@ Keep everything free of patient information, and check local information-governa
 - [ ] Session 1 card photos
 - [ ] Bad-slide pack (again, for anyone who didn't do the ask)
 - [ ] Kahoot and Menti loaded, tested on the venue wi-fi (have a phone hotspot)
-- [ ] Blorps word sheets (A and B) and one retest slip per person (today only)
+- [ ] Blorps word sheets (Flat and Fold) and one retest slip per person (today only)
 - [ ] Spot the strategy: mats and a shuffled card set per table
 - [ ] Computer Task Sheet (for the ask)
 - [ ] Setting cards: ward corridor, handover, sim room, clinic, teaching room
@@ -114,10 +114,10 @@ Keep everything free of patient information, and check local information-governa
 
 ### 23–30 · Blorps and Fizzwicks
 
-- Hand out the word sheets: half Version A (re-read), half Version B (fold and self-test), alternate seats. Eight nonsense words with silly hospital meanings.
-- SAY (deadpan): eight important clinical terms you'll need later. Three minutes. **Read the top of your sheet and do what it says.** Both groups keep going until time's up: A keeps re-reading, B keeps folding and testing, so nobody sits idle.
+- Hand out the word sheets: half Flat (re-read), half Fold (fold and self-test), alternate seats. Eight nonsense words with silly hospital meanings.
+- SAY (deadpan): eight important clinical terms you'll need later. Three minutes. **Read the top of your sheet and do what it says.** Both groups keep going until time's up: Flat keeps re-reading, Fold keeps folding and testing, so nobody sits idle.
 - After 3 minutes: sheets face down and collected. **Don't say there'll be a test.**
-- WHY: a nod to Ebbinghaus's nonsense syllables. A vs B is re-reading vs retrieval practice ([Roediger & Karpicke 2006](/papers/testing-beats-re-reading)).
+- WHY: a nod to Ebbinghaus's nonsense syllables. Flat vs Fold is re-reading vs retrieval practice ([Roediger & Karpicke 2006](/papers/testing-beats-re-reading)).
 
 ### 30–40 · Mentimeter tour
 
@@ -129,8 +129,8 @@ Keep everything free of patient information, and check local information-governa
 
 ### 40–45 · Surprise retest → the forgetting curve
 
-- Hand out the retest slips: "Quick: what's a blorp?" Two minutes. Then swap with a neighbour, read the answers out, and they score 1 per meaning roughly right. Tally Group A vs Group B on the whiteboard.
-- **Be ready for either result.** Over ten minutes, re-reading often does as well or better. That's what Roediger & Karpicke found: re-study won at 5 minutes; testing won at 2 days and a week. SAY (A wins): "re-reading *feels* better, and today it works. The research says that fades over days." SAY (B wins): "already. Now imagine a week."
+- Hand out the retest slips: "Quick: what's a blorp?" Two minutes. Then swap with a neighbour, read the answers out, and they score 1 per meaning roughly right. Tally Flat vs Fold on the whiteboard.
+- **Be ready for either result.** Over ten minutes, re-reading often does as well or better. That's what Roediger & Karpicke found: re-study won at 5 minutes; testing won at 2 days and a week. SAY (Flat wins): "re-reading *feels* better, and today it works. The research says that fades over days." SAY (Fold wins): "already. Now imagine a week."
 - Then the drawn forgetting curve (four clicks: no review → Day 2 review → Day 3 review → labels). SAY: most of it goes fast, then levels off; each time you *pull it back out*, it fades more slowly. That's why the sessions are a week apart. → [Ebbinghaus (1885)](/papers/how-fast-we-forget)
 - The slips aren't kept: Session 3 just asks "who remembers what a blorp is?" out loud. Don't mention the retest beforehand.
 
