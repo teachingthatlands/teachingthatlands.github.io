@@ -11,13 +11,13 @@ fox: "architect.png"
 
 Asking for a training day is easy. Working out who needs to change what, why they don't already, and what will help them keep doing it is hard. Education standards in the NHS, in universities and in workplace learning ask the same questions. That isn't because they like paperwork. It's because the job really is complex.
 
-> **What the programme doesn't do.** Teaching That Lands is three 90-minute sessions for people who teach. It covers slides, active learning, outcomes, evidence and follow-through. It doesn't make anyone an education lead, and it doesn't cover every row here. Where a row isn't covered and it matters for your teaching, involve someone who knows that area. Don't skip the row.
-
 ## Overview: how to use it
 
 Mark each row **✓** ready, **~** partly, **✗** not yet or **N/A**, and write one line on *where's the evidence?* A tick without a note doesn't count.
 
-Each row also says when to tackle it (**Start**, **Next** or **Then**: see [Lots of gaps?](#lots-of-gaps-start-here) below) and how much Teaching That Lands covers. Topics in *italics* are worth looking up, or asking your education lead about.
+Each row also says when to tackle it (**Start**, **Next** or **Then**: see [Lots of gaps?](#lots-of-gaps-start-here) below) and how much Teaching That Lands covers. Where a row isn't covered and it matters for your teaching, involve someone who knows that area. Don't skip the row.
+
+Topics in *italics* are worth looking up, or asking your education lead about.
 
 **New to this?** Read [the bigger picture](#the-bigger-picture), after the eleven rows, first. It takes five minutes.
 
