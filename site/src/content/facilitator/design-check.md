@@ -11,40 +11,17 @@ fox: "architect.png"
 
 Asking for a training day is easy. Working out who needs to change what, why they don't already, and what will help them keep doing it is hard. Education standards in the NHS, in universities and in workplace learning ask the same questions. That isn't because they like paperwork. It's because the job really is complex.
 
-**New to this?** Open [the bigger picture](#the-bigger-picture) below first. It takes five minutes.
-
 > **What the programme doesn't do.** Teaching That Lands is three 90-minute sessions for people who teach. It covers slides, active learning, outcomes, evidence and follow-through. It doesn't make anyone an education lead, and it doesn't cover every row here. Where a row isn't covered and it matters for your teaching, involve someone who knows that area. Don't skip the row.
 
-<a class="file-download" href="/handouts/design-check.pdf">Teaching Design Check (two sides of A4)</a>
-
-## The bigger picture
-
-**Training is a system, not an event.** The research on workplace training says the same thing again and again: what happens before and after the day matters, not just the day itself (Salas et al. 2012). Education standards in the NHS and in universities say it too, in their own words.
-
-A widely used planning model in medical education is Kern's six steps (Thomas, Kern et al. 2022). Teaching That Lands' six-box design canvas is a plain-English version of it, and this check fills in each box:
-
-| Kern's six steps | The canvas box | Rows here |
-|---|---|---|
-| 1. Problem identification and general needs assessment | Need | 1 |
-| 2. Targeted needs assessment | Learners and context | 2, 3 |
-| 3. Goals and objectives | Outcomes | 4 |
-| 4. Educational strategies | Activities | 6, 7, 8 |
-| 5. Implementation | Follow-through | 5, 10 |
-| 6. Evaluation and feedback | Evidence | 9, 11 |
-
-The mapping is ours, not Kern's. His steps work as a cycle: what you learn from step 6 feeds the next version.
-
-**Where Teaching That Lands fits.** The [three sessions](/sessions) teach people who teach to do the middle of this well, for one session of their own: outcomes, activities, evidence and follow-through. They don't cover an organisation's needs analysis, co-production, formal assessment, preparing educators, or keeping teaching under review. Those need someone with education experience: an education lead, if you have one.
-
-**What an education lead brings.** The judgement behind those rows. Knowing when a request isn't a teaching problem. Saying "not like that", with reasons.
-
-**Going further.** For the people who teach: a postgraduate certificate in health or clinical education; NHS England's Nursing and Midwifery Educator Framework; or Advance HE Fellowship, professional recognition designed around university teaching, and useful for anyone in a split clinical and university role. [Portfolio Mapping](/facilitator/portfolio-mapping) shows how the programme can count towards the last two.
-
-## How to use it
+## Overview: how to use it
 
 Mark each row **✓** ready, **~** partly, **✗** not yet or **N/A**, and write one line on *where's the evidence?* A tick without a note doesn't count.
 
-Each row also says when to tackle it (**Start**, **Next** or **Then**: see below) and how much of it Teaching That Lands covers. Topics in *italics* are worth looking up, or asking your education lead about.
+Each row also says when to tackle it (**Start**, **Next** or **Then**: see [Lots of gaps?](#lots-of-gaps-start-here) below) and how much Teaching That Lands covers. Topics in *italics* are worth looking up, or asking your education lead about.
+
+**New to this?** Read [the bigger picture](#the-bigger-picture), after the eleven rows, first. It takes five minutes.
+
+<a class="file-download" href="/handouts/design-check.pdf">Teaching Design Check (two sides of A4)</a>
 
 ## Lots of gaps? Start here
 
@@ -208,6 +185,29 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 | **Checked by** (not the designer) | |
 | **Date** and **review date** | |
 | **Decision** | Go · Go with changes · Not a teaching problem: pass to … |
+
+## The bigger picture
+
+**Training is a system, not an event.** The research on workplace training says the same thing again and again: what happens before and after the day matters, not just the day itself (Salas et al. 2012). Education standards in the NHS and in universities say it too, in their own words.
+
+A widely used planning model in medical education is Kern's six steps (Thomas, Kern et al. 2022). Teaching That Lands' six-box design canvas is a plain-English version of it, and this check fills in each box:
+
+| Kern's six steps | The canvas box | Rows here |
+|---|---|---|
+| 1. Problem identification and general needs assessment | Need | 1 |
+| 2. Targeted needs assessment | Learners and context | 2, 3 |
+| 3. Goals and objectives | Outcomes | 4 |
+| 4. Educational strategies | Activities | 6, 7, 8 |
+| 5. Implementation | Follow-through | 5, 10 |
+| 6. Evaluation and feedback | Evidence | 9, 11 |
+
+The mapping is ours, not Kern's. His steps work as a cycle: what you learn from step 6 feeds the next version.
+
+**Where Teaching That Lands fits.** The [three sessions](/sessions) teach people who teach to do the middle of this well, for one session of their own: outcomes, activities, evidence and follow-through. They don't cover an organisation's needs analysis, co-production, formal assessment, preparing educators, or keeping teaching under review. Those need someone with education experience: an education lead, if you have one.
+
+**What an education lead brings.** The judgement behind those rows. Knowing when a request isn't a teaching problem. Saying "not like that", with reasons.
+
+**Going further.** For the people who teach: a postgraduate certificate in health or clinical education; NHS England's Nursing and Midwifery Educator Framework; or Advance HE Fellowship, professional recognition designed around university teaching, and useful for anyone in a split clinical and university role. [Portfolio Mapping](/facilitator/portfolio-mapping) shows how the programme can count towards the last two.
 
 ## Where this comes from
 
