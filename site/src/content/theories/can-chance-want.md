@@ -16,7 +16,7 @@ evidence:
 
 ## You've seen this already
 
-Think of something you mean to do more of: swimming, say. You can swim (you *can*). But the pool's lane sessions clash with your shifts, and nobody you know goes (no *chance*). And after a long day, the sofa wins (you don't *want to*, at least not then). A swimming lesson would fix none of that. A pool open after late shifts and a friend who goes on Tuesdays might.
+Think of something you mean to do more of: swimming, say. You know how to swim, so you *can*. But the pool's lane sessions clash with your shifts, so you rarely get the *chance*. And after a long day, the sofa wins: you don't *want to*, at least not then. A swimming lesson would fix none of that. What might make a difference is a pool that's open after late shifts (the chance), and a friend who expects you there on Tuesdays (the want to).
 
 Susan Michie and her colleagues put this as a simple model, **COM-B**: **C**apability, **O**pportunity and **M**otivation together produce **B**ehaviour (Michie and colleagues, 2011). Take any one away and the behaviour stops.
 
