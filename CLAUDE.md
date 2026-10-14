@@ -10,7 +10,7 @@
 
 - **Stats** (`/stats`) draws from `site/public/stats.json`, written by `tools/goatcounter_stats.py` from the GoatCounter API (repo secret `GOATCOUNTER_TOKEN`). CI refreshes it before each build, daily on a schedule. The file is gitignored: never commit it. No token or an API outage never fails the build; the page shows the last published numbers or says they're unavailable. Locally: `just stats`.
 
-- **Teaching Design Check PDF** (`site/public/handouts/design-check.pdf`) is printed from `tools/design-check/design-check.html` by `just design-check-pdf`. Its wording is a shortened copy of `site/src/content/facilitator/design-check.md`: change one, change the other, then reprint. If the PDF is ever laid out by hand, that becomes the master: delete the HTML source and the recipe.
+- **Teaching Design Check PDF** (`site/public/handouts/design-check.pdf`) is printed from `tools/design-check/design-check.html` by `just design-check-pdf`. Its wording is a shortened copy of `site/src/content/facilitator/design-check.md`: change one, change the other, then reprint. Its fonts are pinned in `tools/design-check/fonts/` so it prints the same anywhere: don't swap in system fonts. Any Chromium will print it: set `CHROME` to its binary (Playwright's "Google Chrome for Testing" works; Helium prints but doesn't exit). If the PDF is ever laid out by hand, that becomes the master: delete the HTML source and the recipe.
 
 - **Redesign Worksheet PDF** (`site/public/handouts/redesign-worksheet.pdf`) is printed from `tools/redesign-worksheet/redesign-worksheet.html` by `just redesign-worksheet-pdf`. Same rule: if it's ever laid out by hand, that becomes the master.
 
