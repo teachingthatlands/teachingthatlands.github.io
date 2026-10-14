@@ -83,6 +83,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 
 - Which level of Miller's pyramid does each outcome reach? Can a "does" outcome be reached in one session? → [Miller's Pyramid](/theories/knowing-isnt-doing)
 - Some ideas take time to click. → [Threshold Concepts](/theories/ideas-that-change-how-you-see)
+- Do they need to know it by heart, or know where to find it?
 
 **Red flags:** "understand", "be aware of", "appreciate". Ten outcomes for an hour.
 
@@ -108,7 +109,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 
 - A huddle, simulation, teaching on the job, e-learning, or simply a pocket card? Short sessions spread out, or one day? → [Spaced Practice](/theories/spread-it-out)
 - How far up the active scale does the setting allow? → [ICAP](/theories/active-is-a-scale)
-- Realistic practice, with room for mistakes. A briefing before and a debrief after. → [Psychological Safety](/theories/safe-to-speak-up) · [Debriefing](/theories/debriefing-with-curiosity)
+- A good and a poor example to compare. Realistic practice, with room for mistakes. A briefing before and a debrief after. → [Psychological Safety](/theories/safe-to-speak-up) · [Debriefing](/theories/debriefing-with-curiosity)
 - Messy, complex practice? → [Action Learning](/theories/learning-with-peers). Other professions in the room?
 - Games: a quiz helps mostly through retrieval. Points and competition suit some learners, not all. → *Gamification*
 
@@ -133,7 +134,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 **Can everyone take part fully, and benefit equally?**
 
 - Adjustments asked about beforehand. Plain language, captions and transcripts, dyslexia-friendly materials. E-learning that meets current accessibility standards (WCAG).
-- Timing for night staff, and the cost of attending.
+- Timing for night staff, cover so people aren't called away, and the cost of attending.
 - An equality impact assessment, if your organisation uses them.
 - → *Design for everyone* · *Attainment gaps*
 
@@ -159,8 +160,8 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 
 **Will the workplace let people use it, soon, and keep them to it?**
 
-- **Before:** managers know what's being taught and what they'll be asked to support. Learners know why they're going.
-- **After:** a chance to use it within days. Something to revisit at 30, 60 and 90 days. A named person, and the support they've agreed.
+- **Before:** managers and the team know what's being taught and what they'll be asked to support. Learners know why they're going, and that there'll be follow-up.
+- **After:** a chance to use it within days. Something to revisit at 30, 60 and 90 days, and a refresher if it's rarely used. A named person, and the support they've agreed: a debrief on a real case, a huddle, a colleague to coach. A job aid or reminder where the work happens.
 - → [What happens back at work](/theories/back-at-work) · [Implementation Intentions](/theories/if-then-plans) · [Kirkpatrick](/theories/did-the-training-work) · [Evaluation Toolkit](/facilitator/evaluation-toolkit)
 
 **Red flags:** success means attendance and smile sheets. "We'll email the slides." Managers hear about it afterwards, if at all.
@@ -172,7 +173,8 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 **Who owns it, how will it improve, and when is it next reviewed?**
 
 - Run it once with a small group before rolling it out.
-- Evaluate *the session*, not only the learners, and change it.
+- Evaluate *the session*, not only the learners, and change it. Did it shift the measure you chose in row 1?
+- Pass on the problems it uncovers that teaching can't fix.
 - A named content owner and a review date. Who takes it over if they leave?
 
 **Red flags:** the same slides for five years. No review date. The only person who knows the plan is moving on.
@@ -188,7 +190,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 
 ## The bigger picture
 
-**Training is a system, not an event.** The research on workplace training says the same thing again and again: what happens before and after the day matters, not just the day itself (Salas et al. 2012). Education standards in the NHS and in universities say it too, in their own words. So does [COM-B](/theories/can-chance-want), the model many NHS improvement teams use: people need the capability, the opportunity and the motivation, and training mostly builds the first (Michie et al. 2011).
+**Training is a system, not an event.** The research on workplace training says the same thing again and again: what happens before and after the day matters, not just the day itself (Salas et al. 2012). Education standards in the NHS and in universities say it too, in their own words. So does [COM-B](/theories/can-chance-want), the model many NHS improvement teams use: people need the capability, the opportunity and the motivation, and training mostly builds the first (Michie et al. 2011). Checklists for that before-during-after view exist (Hughes et al. 2018). This one also asks whether teaching is the answer at all, and who checks the design.
 
 A widely used planning model in medical education is Kern's six steps (Thomas, Kern et al. 2022). Teaching That Lands' six-box design canvas is a plain-English version of it, and this check fills in each box:
 
@@ -201,7 +203,7 @@ A widely used planning model in medical education is Kern's six steps (Thomas, K
 | 5. Implementation | Follow-through | 5, 10 |
 | 6. Evaluation and feedback | Evidence | 9, 11 |
 
-The mapping is ours, not Kern's. His steps work as a cycle: what you learn from step 6 feeds the next version.
+The mapping is ours, not Kern's. His steps work as a cycle: what you learn from step 6 feeds the next version. A 2026 extension adds a step for keeping a curriculum going, as row 11 does here (Escourrou & Oustric 2026).
 
 **Where Teaching That Lands fits.** The [three sessions](/sessions) teach people who teach to do the middle of this well, for one session of their own: outcomes, activities, evidence and follow-through. They don't cover an organisation's needs analysis, co-production, formal assessment, preparing educators, or keeping teaching under review. Those need someone with education experience: an education lead, if you have one.
 
@@ -215,17 +217,17 @@ The overall shape follows Kern's six steps (Thomas et al. 2022) and the view of 
 
 | Row | Main sources |
 |---|---|
-| 1 | Mager & Pipe (1997); Gilbert (1978); Moore, Action Mapping; Michie et al. (2011); Kirkpatrick Partners (2021) |
+| 1 | Mager & Pipe (1997); Gilbert (1978); Moore, Action Mapping; Michie et al. (2011); Kirkpatrick Partners (2021); NHS England (2022), *Safety action development guide*, p.7 |
 | 2 | Thomas et al. (2022), steps 1–2; Knowles (1984) |
-| 3 | NMC (2018, updated 2023), standards 1.12 and 5.5 (written for approved programmes, but the principle travels); Higher Education Academy (2016); QAA (2024), principle 2; NHS England, *Education Quality Framework*, standard 5.5 |
-| 4 | Miller (1990); Biggs (1996); Wiggins & McTighe (2005) |
-| 5 | NHS England, *Education Quality Framework*, standards 4.2 and 4.7; NMC (2018, republished 2023), *Standards for student supervision and assessment*; Academy of Medical Educators (2021); Advance HE (2023), V5 and A5; QAA (2024), principle 6 |
+| 3 | NMC (2018, updated 2023), standards 1.12 and 5.5 (written for approved programmes, but the principle travels); Higher Education Academy (2016); QAA (2024), principle 2; NHS England, *Education Quality Framework*, standard 5.5; GMC (2015), R2.3 and R5.2 (written for medical students and doctors in training, not CPD, but the principle travels) |
+| 4 | Miller (1990); Biggs (1996); Wiggins & McTighe (2005); Salas et al. (2012) |
+| 5 | NHS England, *Education Quality Framework*, standards 4.2 and 4.7; NMC (2018, republished 2023), *Standards for student supervision and assessment*; Academy of Medical Educators (2021); Advance HE (2023), V5 and A5; QAA (2024), principle 6; GMC (2015), R4.1 to R4.3 |
 | 6 | Cervero & Gaines (2015); Chi & Wylie (2014); Keith & Frese (2008); NHS England (2024), *Safe Learning Environment Charter*; INACSL (2021); ASPiH (2023); Tannenbaum & Cerasoli (2013); CAIPE (2017); Sailer & Homner (2020) |
 | 7 | Sweller (1988); Mayer (2009); NHS England, *Education Quality Framework*, standard 5.3 (written for placement providers, but the principle travels) |
-| 8 | CAST (2024); NHS England, *Digital accessibility* (WCAG 2.1 AA); Advance HE (2024), *Inclusive learning and teaching*; Universities UK & NUS (2019); Equality Act 2010 |
-| 9 | Black & Wiliam (1998); Advance HE (n.d.), *Enhancing assessment*; Hattie & Timperley (2007) |
-| 10 | Baldwin & Ford (1988); Blume et al. (2010); Grossman & Salas (2011); Kirkpatrick Partners (2021), "required drivers"; Thalheimer (2018); Brinkerhoff (2003) |
-| 11 | Thomas et al. (2022), step 6; QAA (2024), principle 5; Allen (2012); Advance HE (2023), K3 and K5 |
+| 8 | CAST (2024); NHS England, *Digital accessibility* (WCAG 2.1 AA); Advance HE (2024), *Inclusive learning and teaching*; Universities UK & NUS (2019); Equality Act 2010; GMC (2015), R1.16, R3.4 and R5.12 |
+| 9 | Black & Wiliam (1998); Advance HE (n.d.), *Enhancing assessment*; Hattie & Timperley (2007); GMC (2015), R5.6 and R5.11 |
+| 10 | Baldwin & Ford (1988); Blume et al. (2010); Grossman & Salas (2011); Kirkpatrick Partners (2021), "required drivers"; Thalheimer (2018); Brinkerhoff (2003); Hughes et al. (2018); Salas et al. (2012) |
+| 11 | Thomas et al. (2022), step 6; QAA (2024), principle 5; Allen (2012); Advance HE (2023), K3 and K5; Escourrou & Oustric (2026), step 8; Hughes et al. (2018); GMC (2015), R1.5 and R2.4 |
 
 ### Full references
 
@@ -245,10 +247,13 @@ The overall shape follows Kern's six steps (Thomas et al. 2022) and the view of 
 - Cervero, R. M., & Gaines, J. K. (2015). The impact of CME on physician performance and patient health outcomes: An updated synthesis of systematic reviews. *Journal of Continuing Education in the Health Professions*, 35(2), 131–138.
 - Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist*, 49(4), 219–243.
 - Equality Act 2010, section 20 (reasonable adjustments) and section 149 (public sector equality duty).
+- Escourrou, É., & Oustric, S. (2026). How to design and implement a structured curriculum in health professions education: A nine-step framework building on Kern's approach. *The Clinical Teacher*, 23(4), e70455. [doi:10.1111/tct.70455](https://doi.org/10.1111/tct.70455)
+- General Medical Council (2015). [*Promoting excellence: standards for medical education and training*](https://www.gmc-uk.org/education/standards-guidance-and-curricula/standards-and-outcomes/promoting-excellence).
 - Gilbert, T. F. (1978). *Human Competence: Engineering Worthy Performance*. McGraw-Hill.
 - Grossman, R., & Salas, E. (2011). The transfer of training: What really matters. *International Journal of Training and Development*, 15(2), 103–120.
 - Higher Education Academy (2016). *Framework for student engagement through partnership*. Now published by Advance HE. [advance-he.ac.uk](https://www.advance-he.ac.uk/sites/default/files/2020-05/Student%20Engagement%20Through%20Partnership%20Framework.pdf)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research*, 77(1), 81–112.
+- Hughes, A. M., Zajac, S., Spencer, J. M., & Salas, E. (2018). A checklist for facilitating training transfer in organizations. *International Journal of Training and Development*, 22(4), 334–345. [doi:10.1111/ijtd.12141](https://doi.org/10.1111/ijtd.12141)
 - INACSL Standards Committee (2021). Healthcare Simulation Standards of Best Practice: Simulation design. *Clinical Simulation in Nursing*, 58, 14–21.
 - Keith, N., & Frese, M. (2008). Effectiveness of error management training: A meta-analysis. *Journal of Applied Psychology*, 93(1), 59–69.
 - Kirkpatrick Partners (2021). *An introduction to the New World Kirkpatrick Model*. [kirkpatrickpartners.com](https://www.kirkpatrickpartners.com/wp-content/uploads/2021/11/Introduction-to-The-New-World-Kirkpatrick%C2%AE-Model.pdf)
@@ -260,6 +265,7 @@ The overall shape follows Kern's six steps (Thomas et al. 2022) and the view of 
 - Moore, C. Action mapping. [blog.cathy-moore.com](https://blog.cathy-moore.com/)
 - NHS England. *Digital accessibility*. [england.nhs.uk/long-read/digital-accessibility](https://www.england.nhs.uk/long-read/digital-accessibility/)
 - NHS England. *Education Quality Framework*. First published by Health Education England in 2016, updated 2021, rebranded by NHS England in 2024. [hee.nhs.uk](https://www.hee.nhs.uk/our-work/quality/education-quality-strategy-framework)
+- NHS England (2022). [*Safety action development guide*](https://www.england.nhs.uk/wp-content/uploads/2022/08/B1465-Safety-action-development-v1.1.pdf).
 - NHS England (2024). *Safe Learning Environment Charter*. [england.nhs.uk/long-read/safe-learning-environment-charter](https://www.england.nhs.uk/long-read/safe-learning-environment-charter/)
 - Nursing and Midwifery Council (2018, updated 2023). *Standards framework for nursing and midwifery education*.
 - Nursing and Midwifery Council (2018, republished 2023). *Standards for student supervision and assessment*.
