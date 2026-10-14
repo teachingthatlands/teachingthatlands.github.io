@@ -8,6 +8,7 @@ evidence:
   - cite: "Gilbert, T. F. (1978). <em>Human Competence: Engineering Worthy Performance</em>. McGraw-Hill."
   - cite: "Moore, C. Action mapping (blog). blog.cathy-moore.com"
   - cite: "Thomas, P. A., Kern, D. E., Hughes, M. T., Tackett, S. A., &amp; Chen, B. Y. (2022). <em>Curriculum Development for Medical Education: A Six-Step Approach</em> (4th ed.). Johns Hopkins University Press."
+  - cite: "Michie, S., van Stralen, M. M., &amp; West, R. (2011). The behaviour change wheel: A new method for characterising and designing behaviour change interventions. <em>Implementation Science</em>, 6, 42."
   - cite: "Salas, E., Tannenbaum, S. I., Kraiger, K., &amp; Smith-Jentsch, K. A. (2012). The science of training and development in organizations: What matters in practice. <em>Psychological Science in the Public Interest</em>, 13(2), 74–101."
 ---
 
@@ -31,7 +32,7 @@ In healthcare, the answer to a problem is often "a study day on it". Sometimes t
 | **Nobody notices whether it's done** | Feedback: someone checks and says so |
 | **They don't see why it matters** | Explain why, briefly. Show what happens to the patient when it's missed |
 
-The same idea runs through other models. Thomas Gilbert argued that most problems at work come from the setting (information, resources and incentives) rather than from what people know (Gilbert, 1978). Cathy Moore's *action mapping* starts training design with a goal the organisation already measures, then asks what people need to do and why they aren't doing it. In medical education, Kern's six steps start the same way: identify the problem and the need before writing a single outcome (Thomas and colleagues, 2022).
+The same idea runs through other models. Thomas Gilbert argued that most problems at work come from the setting (information, resources and incentives) rather than from what people know (Gilbert, 1978). Cathy Moore's *action mapping* starts training design with a goal the organisation already measures, then asks what people need to do and why they aren't doing it. In medical education, Kern's six steps start the same way: identify the problem and the need before writing a single outcome (Thomas and colleagues, 2022). In health, the most widely used version is [COM-B](/theories/can-chance-want): people need the capability, the opportunity and the motivation, and training mostly supplies the first (Michie and colleagues, 2011).
 
 ## Try this
 

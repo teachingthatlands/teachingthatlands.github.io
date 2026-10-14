@@ -44,7 +44,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 - Could they do it if their life depended on it? If so, the problem isn't skill: look at kit, staffing, workload, the form or the culture.
 - Would a checklist, a pocket card, a poster or a change to the process do the job instead?
 - What will it cost? People × hours, plus travel and backfill. What else could those hours buy?
-- → [Is training the answer?](/theories/is-training-the-answer)
+- → [Is training the answer?](/theories/is-training-the-answer) · [COM-B](/theories/can-chance-want)
 
 **Red flags:** the request arrives as a format ("a study day on X"). The date is set before the problem is.
 
@@ -188,7 +188,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 
 ## The bigger picture
 
-**Training is a system, not an event.** The research on workplace training says the same thing again and again: what happens before and after the day matters, not just the day itself (Salas et al. 2012). Education standards in the NHS and in universities say it too, in their own words.
+**Training is a system, not an event.** The research on workplace training says the same thing again and again: what happens before and after the day matters, not just the day itself (Salas et al. 2012). Education standards in the NHS and in universities say it too, in their own words. So does [COM-B](/theories/can-chance-want), the model many NHS improvement teams use: people need the capability, the opportunity and the motivation, and training mostly builds the first (Michie et al. 2011).
 
 A widely used planning model in medical education is Kern's six steps (Thomas, Kern et al. 2022). Teaching That Lands' six-box design canvas is a plain-English version of it, and this check fills in each box:
 
@@ -215,7 +215,7 @@ The overall shape follows Kern's six steps (Thomas et al. 2022) and the view of 
 
 | Row | Main sources |
 |---|---|
-| 1 | Mager & Pipe (1997); Gilbert (1978); Moore, Action Mapping; Kirkpatrick Partners (2021) |
+| 1 | Mager & Pipe (1997); Gilbert (1978); Moore, Action Mapping; Michie et al. (2011); Kirkpatrick Partners (2021) |
 | 2 | Thomas et al. (2022), steps 1–2; Knowles (1984) |
 | 3 | NMC (2018, updated 2023), standards 1.12 and 5.5 (written for approved programmes, but the principle travels); Higher Education Academy (2016); QAA (2024), principle 2; NHS England, *Education Quality Framework*, standard 5.5 |
 | 4 | Miller (1990); Biggs (1996); Wiggins & McTighe (2005) |
@@ -255,6 +255,7 @@ The overall shape follows Kern's six steps (Thomas et al. 2022) and the view of 
 - Knowles, M. S. (1984). *The Adult Learner: A Neglected Species* (3rd ed.). Gulf Publishing.
 - Mager, R. F., & Pipe, P. (1997). *Analyzing Performance Problems* (3rd ed.). Center for Effective Performance.
 - Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press.
+- Michie, S., van Stralen, M. M., & West, R. (2011). The behaviour change wheel: A new method for characterising and designing behaviour change interventions. *Implementation Science*, 6, 42. [doi:10.1186/1748-5908-6-42](https://doi.org/10.1186/1748-5908-6-42)
 - Miller, G. E. (1990). The assessment of clinical skills/competence/performance. *Academic Medicine*, 65(9 Suppl), S63–S67.
 - Moore, C. Action mapping. [blog.cathy-moore.com](https://blog.cathy-moore.com/)
 - NHS England. *Digital accessibility*. [england.nhs.uk/long-read/digital-accessibility](https://www.england.nhs.uk/long-read/digital-accessibility/)

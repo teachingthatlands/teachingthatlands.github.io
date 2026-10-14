@@ -32,7 +32,7 @@ The research on training at work points to three things that decide whether lear
 | **The training** | Did they practise the real thing, in a realistic way? | Practice that looks like the job, with room for mistakes ([Miller's pyramid](/theories/knowing-isnt-doing)) |
 | **The workplace** | Will they get the chance, the time and the support to use it? | A chance to use it soon, a manager or colleague who asks, and the form, kit and rota to match |
 
-As the teacher, you control the middle row, and some of the first. The workplace row is why this programme ends with a named person and the support you've agreed with them, not with a feedback form.
+As the teacher, you control the middle row, and some of the first. The same split runs through [COM-B](/theories/can-chance-want): capability, opportunity and motivation, where training mostly builds capability. The workplace row is why this programme ends with a named person and the support you've agreed with them, not with a feedback form.
 
 ## Try this
 

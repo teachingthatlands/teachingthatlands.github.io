@@ -32,6 +32,8 @@ The last two are the programme's own spine: *start with the change, not the even
 | "The cognitive load is too high" | "The slides are trying to do too much, so people can't take it in" |
 | "The outcomes aren't aligned" | "We can't say what people should be able to do afterwards, so we can't tell if it worked" |
 
+If they already speak COM-B (many improvement and public health teams do), use it: "Training builds capability. The opportunity and the motivation sit with the ward, so we need you for those." → [COM-B](/theories/can-chance-want)
+
 Keep it about the system, not the person. Most clinicians who teach were never taught how to. That's a gap in provision, not a personal failing.
 
 ## Find your first cohort
