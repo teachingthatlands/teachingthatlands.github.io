@@ -13,7 +13,7 @@ Plan it the other way round. **Start with the change, not the event.** Ask these
 
 **1. What should people do differently, and why don't they do it now?**\
 What would show it had changed, ideally something you already measure? Could they do it if their life depended on it? If so, it isn't a skills problem: look at the kit, staffing, workload, the form or the culture.\
-*Watch for:* the request arriving as a format ("a study day on X"), and a date set before anyone has named the problem. → [Is training the answer?](/theories/is-training-the-answer)
+*Watch for:* the request arriving as a format ("a study day on X"), and a date set before anyone has named the problem. → [Is training the answer?](/theories/is-training-the-answer) · [COM-B](/theories/can-chance-want)
 
 **2. What will they be able to do afterwards, and how will you know?**\
 One to three things, with verbs you could watch: *explain*, *demonstrate*, *decide*, *escalate*. Then: what would show they can, on the day and a month later?\
