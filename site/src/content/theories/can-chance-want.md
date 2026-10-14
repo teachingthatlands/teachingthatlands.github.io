@@ -1,6 +1,6 @@
 ---
 title: "COM-B"
-headline: "People do something when they can, get the chance, and want to"
+headline: "Can, chance, want"
 summary: "To change what people do, check three things: capability, opportunity and motivation. Training mostly builds the first"
 sessions: []
 evidence:
