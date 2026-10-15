@@ -11,6 +11,13 @@
 <meta charset="utf-8">
 <title>Teaching Design Check</title>
 <style>
+  /* Pinned fonts (fonts/README.md): the PDF prints the same on any machine */
+  @font-face { font-family: "DC Inter"; font-weight: 400; font-style: normal; src: url("fonts/Inter-Regular.woff2") format("woff2"); }
+  @font-face { font-family: "DC Inter"; font-weight: 400; font-style: italic; src: url("fonts/Inter-Italic.woff2") format("woff2"); }
+  @font-face { font-family: "DC Inter"; font-weight: 700; font-style: normal; src: url("fonts/Inter-Bold.woff2") format("woff2"); }
+  @font-face { font-family: "DC Inter"; font-weight: 700; font-style: italic; src: url("fonts/Inter-BoldItalic.woff2") format("woff2"); }
+  @font-face { font-family: "DC Symbols"; src: url("fonts/DCSymbols-DejaVuSans-subset.woff2") format("woff2"); }
+  @font-face { font-family: "DC Gelasio"; font-weight: 700; font-style: normal; src: url("fonts/Gelasio-Bold.woff2") format("woff2"); }
   @page { size: A4; margin: 10mm 14mm 9mm; }
   :root {
     --ink: #4c4f69;
@@ -23,9 +30,9 @@
   body {
     margin: 0;
     color: var(--ink);
-    font: 8.6pt/1.32 Aptos, Inter, "Segoe UI", system-ui, sans-serif;
+    font: 8.6pt/1.32 "DC Inter", sans-serif;
   }
-  h1, h2, h3 { font-family: Georgia, Gelasio, serif; font-weight: 700; margin: 0; }
+  h1, h2, h3 { font-family: "DC Gelasio", serif; font-weight: 700; margin: 0; }
   /* Inset 1mm so the box strokes sit inside the printable area, not on its clipped edge */
   .page { height: 277mm; padding: 0 1mm; display: flex; flex-direction: column; break-after: page; position: relative; }
   .page:last-child { break-after: auto; }
@@ -68,7 +75,7 @@
   .foot { margin-top: 1.6mm; font-size: 6.8pt; color: var(--soft); display: flex; justify-content: space-between; }
   p, li { text-wrap: pretty; }
   .nw { white-space: nowrap; }
-  .sym { font-family: "Segoe UI Symbol", "Apple Symbols", "DejaVu Sans", sans-serif; font-style: normal; }
+  .sym { font-family: "DC Symbols", sans-serif; font-style: normal; }
   .cb { display: inline-block; width: 2.6mm; height: 2.6mm; border: 1px solid var(--ink); border-radius: 0.5mm; margin: 0 0.8mm 0 1.6mm; vertical-align: -0.35mm; }
   .cb:first-child { margin-left: 0; }
 </style>
@@ -87,10 +94,10 @@
       <p><b>Top right of each row:</b> when to tackle it (<b>Start</b>, <b>Next</b> or <b>Then</b>: see right), and how much Teaching That Lands covers: <span class="sym">●</span>&nbsp;taught, <span class="sym">◐</span>&nbsp;touched on, <span class="sym">○</span>&nbsp;not covered. Where a row is <span class="sym">○</span> and it matters, involve someone who knows that area. Don't skip the row.</p>
     </div>
     <div class="panel">
-      <p><b>Lots of gaps? Start here.</b> Pick one session and one row to start. Organisations change slowly: expect years, not weeks.</p>
+      <p><b>Lots of gaps? Start here.</b> Pick one session and one row to start. Organisations change slowly: expect&nbsp;years, not&nbsp;weeks.</p>
       <ol>
         <li><b>Start:</b> rows 1, 4, 10. Three questions on every request.</li>
-        <li><b>Next:</b> rows 2, 5, 6, 7. Better sessions: what the programme teaches.</li>
+        <li><b>Next:</b> rows 2, 5, 6, 7. Better sessions: what the&nbsp;programme&nbsp;teaches.</li>
         <li><b>Then:</b> rows 3, 8, 9, 11. The system: needs an education lead. Basic accessibility can't wait.</li>
       </ol>
     </div>
