@@ -39,8 +39,9 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 
 *Start · Touched on: [Before You Plan](/facilitator/before-you-plan), question 1*
 
-**What should people do differently, what would show it (ideally something you already measure), and why don't they do it now?**
+**What should people do differently, what would show it, and why don't they do it now?**
 
+- Show it with something you already measure, if you can. Row 11 comes back to it.
 - Could they do it if their life depended on it? If so, the problem isn't skill: look at kit, staffing, workload, the form or the culture.
 - Would a checklist, a pocket card, a poster or a change to the process do the job instead?
 - What will it cost? People × hours, plus travel and backfill. What else could those hours buy?
@@ -58,6 +59,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 - Nights, part-time and bank staff. Staff educated overseas, and English as an additional language. Neurodivergent learners.
 - Do they know why it matters to them? Are they choosing to come, or sent? → [Andragogy](/theories/how-adults-learn) · [Zone of Proximal Development](/theories/just-enough-help)
 - Do some groups do less well under the current approach? → *Attainment gaps*
+- If a quick check shows they can already do it, don't teach it.
 
 **Red flags:** "all staff". Nobody has spoken to a learner. Mandatory for everyone, whatever they can already do.
 
@@ -97,7 +99,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 - A colleague to observe and give feedback. → [Train the Trainer](/facilitator/train-the-trainer)
 - Their own development as an educator: a teaching qualification, or Advance HE Fellowship (professional recognition for university teaching, useful in split clinical and university roles). → [Portfolio Mapping](/facilitator/portfolio-mapping)
 
-**Red flags:** the subject expert is told to "do a session" with no time to prepare. The person who designed it is the only one who checked it.
+**Red flags:** the subject expert is told to "do a session" with no time to prepare. Only the designer has checked it.
 
 ## During
 
@@ -149,6 +151,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 - Is the check there to help people learn, or to sign them off? → *Assessment for learning* · [Feedback](/theories/feedback-people-can-use)
 - Who owns the sign-off, and are they prepared to assess?
 - Do some groups do worse on it? → *Attainment gaps*
+- Assessment checks the learner. Whether the teaching worked is rows 10 and 11: a same-day quiz shows recall, not use at work.
 
 **Red flags:** a quiz used to sign off a "does" outcome. A sign-off with nobody prepared to assess.
 
@@ -162,6 +165,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 
 - **Before:** managers and the team know what's being taught and what they'll be asked to support. Learners know why they're going, and that there'll be follow-up.
 - **After:** a chance to use it within days. Something to revisit at 30, 60 and 90 days, and a refresher if it's rarely used. A named person, and the support they've agreed: a debrief on a real case, a huddle, a colleague to coach. A job aid or reminder where the work happens.
+- Don't judge it by the smile sheets. Better practice can score lower: people in active classes learned more but *felt* they'd learned less (Deslauriers et al. 2019).
 - → [What happens back at work](/theories/back-at-work) · [Implementation Intentions](/theories/if-then-plans) · [Kirkpatrick](/theories/did-the-training-work) · [Evaluation Toolkit](/facilitator/evaluation-toolkit)
 
 **Red flags:** success means attendance and smile sheets. "We'll email the slides." Managers hear about it afterwards, if at all.
@@ -226,7 +230,7 @@ The overall shape follows Kern's six steps (Thomas et al. 2022) and the view of 
 | 7 | Sweller (1988); Mayer (2009); NHS England, *Education Quality Framework*, standard 5.3 (written for placement providers, but the principle travels) |
 | 8 | CAST (2024); NHS England, *Digital accessibility* (WCAG 2.1 AA); Advance HE (2024), *Inclusive learning and teaching*; Universities UK & NUS (2019); Equality Act 2010; GMC (2015), R1.16, R3.4 and R5.12 |
 | 9 | Black & Wiliam (1998); Advance HE (n.d.), *Enhancing assessment*; Hattie & Timperley (2007); GMC (2015), R5.6 and R5.11 |
-| 10 | Baldwin & Ford (1988); Blume et al. (2010); Grossman & Salas (2011); Kirkpatrick Partners (2021), "required drivers"; Thalheimer (2018); Brinkerhoff (2003); Hughes et al. (2018); Salas et al. (2012) |
+| 10 | Baldwin & Ford (1988); Blume et al. (2010); Grossman & Salas (2011); Kirkpatrick Partners (2021), "required drivers"; Thalheimer (2018); Brinkerhoff (2003); Hughes et al. (2018); Salas et al. (2012); Deslauriers et al. (2019) |
 | 11 | Thomas et al. (2022), step 6; QAA (2024), principle 5; Allen (2012); Advance HE (2023), K3 and K5; Escourrou & Oustric (2026), step 8; Hughes et al. (2018); GMC (2015), R1.5 and R2.4 |
 
 ### Full references
@@ -246,6 +250,7 @@ The overall shape follows Kern's six steps (Thomas et al. 2022) and the view of 
 - CAST (2024). *Universal Design for Learning Guidelines version 3.0*. [udlguidelines.cast.org](https://udlguidelines.cast.org/)
 - Cervero, R. M., & Gaines, J. K. (2015). The impact of CME on physician performance and patient health outcomes: An updated synthesis of systematic reviews. *Journal of Continuing Education in the Health Professions*, 35(2), 131–138.
 - Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist*, 49(4), 219–243.
+- Deslauriers, L., McCarty, L. S., Miller, K., Callaghan, K., & Kestin, G. (2019). Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom. *Proceedings of the National Academy of Sciences*, 116(39), 19251–19257. [doi:10.1073/pnas.1821936116](https://doi.org/10.1073/pnas.1821936116)
 - Equality Act 2010, section 20 (reasonable adjustments) and section 149 (public sector equality duty).
 - Escourrou, É., & Oustric, S. (2026). How to design and implement a structured curriculum in health professions education: A nine-step framework building on Kern's approach. *The Clinical Teacher*, 23(4), e70455. [doi:10.1111/tct.70455](https://doi.org/10.1111/tct.70455)
 - General Medical Council (2015). [*Promoting excellence: standards for medical education and training*](https://www.gmc-uk.org/education/standards-guidance-and-curricula/standards-and-outcomes/promoting-excellence).
