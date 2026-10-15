@@ -86,6 +86,7 @@ Most organisations find plenty of gaps. That's normal. Don't try to fix everythi
 - Which level of Miller's pyramid does each outcome reach? Can a "does" outcome be reached in one session? → [Miller's Pyramid](/theories/knowing-isnt-doing)
 - Some ideas take time to click. → [Threshold Concepts](/theories/ideas-that-change-how-you-see)
 - Do they need to know it by heart, or know where to find it?
+- Where would you see each one: in the session, in simulation, or at work? That's where you check it (row 9), and evaluation follows from it.
 
 **Red flags:** "understand", "be aware of", "appreciate". Ten outcomes for an hour.
 
@@ -208,6 +209,14 @@ A widely used planning model in medical education is Kern's six steps (Thomas, K
 | 6. Evaluation and feedback | Evidence | 9, 11 |
 
 The mapping is ours, not Kern's. His steps work as a cycle: what you learn from step 6 feeds the next version. A 2026 extension adds a step for keeping a curriculum going, as row 11 does here (Escourrou & Oustric 2026).
+
+**Evaluation, simply.** You don't need an evaluation lead to know whether teaching worked. Good outcomes do most of the work. Three questions, each tied to a row:
+
+1. **Did they reach the outcome, where the outcome says?** If it says "in simulation", score it in simulation against a simple rubric. That isn't proof of practice on the ward, which is a different outcome. A score taken straight afterwards overstates what sticks, so check again later if it matters (rows 4 and 9).
+2. **Are they using it at work?** At 30 days, ask: "Have you used it? What got in the way?" (row 10).
+3. **Did the thing you were worried about change?** Look again at the measure you named at the start, ideally one you already collect (rows 1 and 11).
+
+Smile sheets answer none of these. Showing that teaching changed patient outcomes is a bigger job: bring in an evaluation lead or a research team. → [Kirkpatrick](/theories/did-the-training-work) · [Evaluation Toolkit](/facilitator/evaluation-toolkit)
 
 **Where Teaching That Lands fits.** The [three sessions](/sessions) teach people who teach to do the middle of this well, for one session of their own: outcomes, activities, evidence and follow-through. They don't cover an organisation's needs analysis, co-production, formal assessment, preparing educators, or keeping teaching under review. Those need someone with education experience: an education lead, if you have one.
 
